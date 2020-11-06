@@ -17,7 +17,7 @@ You are invited to add your favorite language as new column to the .csv file.
 
 Please create your own branch named ``language/english`` (replace english with your language name) and submit a pull request when you are done.
 
-*If you need help, are not familiar with git or do not want to use it send us your translated .csv file to samuel@weglide.org.*
+*If you need help, are not familiar with git or do not want to use it send us your translated .csv file to translation@weglide.org.*
 
 Thank you!
 
