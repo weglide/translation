@@ -292,7 +292,7 @@ Topic,Index,Key,German,English,French
 17,10,hangGlider,"Hang Glider","Drachen",""
 17,11,ulGlider,"UL Glider","UL Gleiter",""
 17,12,waiting,"Waiting","Wartend",""
-17,13,processing,"Processing","Verarbeitend",""
+17,13,processing,"Processing","Wird verarbeitet",""
 17,14,filterPlaceholder,"Pilot, airport, date, aircraft","Pilot, Datum, Flugplatz/zeug",""
 17,15,flights,"Flights","Flüge",""
 17,16,junior,"Junior","Junior",""
