@@ -14,9 +14,9 @@ key: [
 ```
 
 # Contributors
-@Fuchur777 (Dutch)
-@jasminthomas (little bit of french)
-@samuel-git (English, German)
+* @Fuchur777 (Dutch)
+* @jasminthomas (little bit of french)
+* @samuel-git (English, German)
 
 ## Contribute
 **Every help is greatly appreciated.**
