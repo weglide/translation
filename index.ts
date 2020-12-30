@@ -301,7 +301,7 @@ export const translations = {
     ],
     runway: [
         "Runway",
-        "Rollbahn",
+        "Piste",
         "",
         "Baan",
     ],
