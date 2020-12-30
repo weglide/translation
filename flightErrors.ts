@@ -200,7 +200,9 @@ export function i18nFlightErrors(key: keyof typeof translations, params: any[]):
     if (!translations[key]) console.error("Translation not found for", key);
 
     let template = translations[key][i18nStore.current];
+    if (template === "") return translations[key][0]; // english
     for (const param of params) template = template.replace("{}", param);
+
 
     return template;
 }

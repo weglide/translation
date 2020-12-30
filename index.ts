@@ -1354,7 +1354,7 @@ export const translations = {
     currentLanguage: [
         "English",
         "Deutsch",
-        "",
+        "Français",
         "Nederlands",
     ],
     welcome: [
@@ -2039,5 +2039,8 @@ export const translations = {
 
 export function i18n(key: keyof typeof translations): string {
     if (!translations[key]) console.error("Translation not found for", key);
-    return translations[key][i18nStore.current];
+    if (translations[key][i18nStore.current] === "")
+        return translations[key][0]; // english
+    else
+        return translations[key][i18nStore.current];
 }
