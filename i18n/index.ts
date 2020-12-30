@@ -8,7 +8,7 @@ export const translations = {
         "english",
         "german",
         "french",
-        "dutch"
+        "dutch",
     ]
     */
 
