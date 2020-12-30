@@ -40,13 +40,13 @@ export const translations = {
     attention: [
         "Attention",
         "Achtung",
-        "",
+        "Attention",
         "Attentie",
     ],
     success: [
         "Success",
         "Erfolgreich",
-        "",
+        "Avec succès",
         "Geslaagd",
     ],
     errorAuthTitle: [
@@ -82,7 +82,7 @@ export const translations = {
     verified: [
         "Email verification complete, please log in.",
         "E-Mail wurde verifiziert, bitte einloggen.",
-        "",
+        "Votre adresse e-mail a été vérifiée, veuillez vous connecter s'il vous plait.",
         "Verificatie gelukt, log nu in.",
     ],
     notVerified: [
@@ -94,7 +94,7 @@ export const translations = {
     resetComplete: [
         "Password reset complete, please log in.",
         "Passwort wurde zurückgesetzt, bitte einloggen.",
-        "",
+        "Votre mot de passe a été réinitialisé, veuillez vous connecter s'il vous plait.",
         "Wachtwoord hersteld, log nu in.",
     ],
     info: [
@@ -358,19 +358,19 @@ export const translations = {
     logIn: [
         "Log in",
         "Einloggen",
-        "",
+        "Se connecter",
         "Inloggen",
     ],
     signUp: [
         "Sign up",
         "Registrieren",
-        "",
+        "S'inscrire",
         "Registreren",
     ],
     forgotPassword: [
         "Forgot Password?",
         "Passwort vergessen?",
-        "",
+        "Mot de passe oublié?",
         "Wachtwoord vergeten?",
     ],
     verifyEmail: [
@@ -382,7 +382,7 @@ export const translations = {
     changePassword: [
         "Change Password",
         "Passwort ändern",
-        "",
+        "Changer mon mot de passe",
         "Wachtwoord veranderen",
     ],
     resendVerification: [
@@ -394,7 +394,7 @@ export const translations = {
     sendEmailAgain: [
         "Send email again",
         "E-Mail erneut senden",
-        "",
+        "Envoyer l'email à nouveau",
         "Email nogmaals versturen",
     ],
     showStories: [
@@ -424,7 +424,7 @@ export const translations = {
     cancel: [
         "Cancel",
         "Abbrechen",
-        "",
+        "Annuler",
         "Annuleer",
     ],
     save: [
@@ -500,19 +500,19 @@ export const translations = {
     male: [
         "Male",
         "Männlich",
-        "",
+        "Masculin",
         "Man",
     ],
     female: [
         "Female",
         "Weiblich",
-        "",
+        "Féminin",
         "Vrouw",
     ],
     other: [
         "Other",
         "Divers",
-        "",
+        "Sexe neutre",
         "Anders",
     ],
     pilots: [
@@ -602,25 +602,25 @@ export const translations = {
     email: [
         "Email",
         "E-Mail",
-        "",
+        "Adresse e-mail",
         "Email",
     ],
     password: [
         "Password",
         "Passwort",
-        "",
+        "Mot de passe",
         "Wachtwoord",
     ],
     name: [
         "First and last name",
         "Vor- und Nachname",
-        "",
+        "Prénom et Nom",
         "Voor- en Achternaam",
     ],
     birthdate: [
         "Date of birth",
         "Geburtsdatum",
-        "",
+        "Date de naissance",
         "Geboortedatum",
     ],
     dateFormat: [
@@ -632,7 +632,7 @@ export const translations = {
     club: [
         "Club",
         "Verein",
-        "",
+        "Club",
         "Club",
     ],
     textConfirm: [
@@ -656,13 +656,13 @@ export const translations = {
     subscribeNewsletter: [
         "Subscribe to our newsletter",
         "Abonniere unseren Newsletter",
-        "",
+        "Abonne-toi à notre newsletter",
         "Meld je aan voor de nieuwsbrief",
     ],
     newPassword: [
         "New password",
         "Neues Passwort",
-        "",
+        "Nouveau mot de passe",
         "Nieuw wachtwoord",
     ],
     registration: [
@@ -694,31 +694,31 @@ export const translations = {
     joinThanks: [
         "Thank you for joining WeGlide!",
         "Wir freuen uns dich in der Community zu begrüßen!",
-        "",
+        "Merci d'avoir rejoint WeGlide!",
         "Bedankt voor je aanmelding bij WeGlide!",
     ],
     urgeVerify: [
         "Please verify your email by clicking the link in the email you got.",
         "Bitte verifiziere deine E-Mail Adresse über den Link den wir dir zugesendet haben.",
-        "",
+        "Merci de vérifier ton adresse e-mail en cliquant sur le lien que nous t'avons envoyé ",
         "Verifieer je email adres door op de link te klikken die we je net hebben gestuurd.",
     ],
     verifyInstructions: [
         "If not you got no email, please wait a minute and check your spam folder or contact us at",
         "Falls du keine E-Mail bekommen hast, warte eine Minute und prüfe deinen Spam-Ordner oder kontaktiere uns unter",
-        "",
+        "Si tu n'as pas recu de mail, attends une minute et regarde dans tes spams ou contactes nous",
         "Als je geen mail het gehad, wacht een paar minuten, controleer je spam folder of stuur ons een bericht.",
     ],
     joinCommunity: [
         "Join the community!",
         "Werde Teil der Community!",
-        "",
+        " 	Rejoins la communauté!",
         "Neem deel aan WeGlide!",
     ],
     errorPrivacy: [
         "Please accept our privacy statements and terms.",
         "Bitte akzeptiere die Nutzungsbedingungen und Datenschutzerklärung.",
-        "",
+        "Merci d'accepter les conditions d'utilisation et la déclaration de confidentialité.",
         "Accepteer onze voorwaarden en het privacy statement.",
     ],
     errorCaptcha: [
@@ -730,13 +730,13 @@ export const translations = {
     verifying: [
         "Verifying Email",
         "E-Mail wird verifiziert",
-        "",
+        "Nous vérifions ton adresse e-mail",
         "Email wordt geverifieerd",
     ],
     urgeLogIn: [
         "Please log in afterwards",
         "Danach bitte einloggen",
-        "",
+        "Ensuite merci de vous connecter",
         "Daarna inloggen",
     ],
     requestVerification: [
@@ -748,31 +748,31 @@ export const translations = {
     requestRecoverPassword: [
         "Request password recovery",
         "Passwort-Wiederherstellung anfordern",
-        "",
+        "Demander la récupération de mon mot de passe",
         "Wachtwoord herstel aanvragen",
     ],
     instructionsEmailed: [
         "Email send, please follow the mailed instructions.",
         "E-Mail gesendet, bitte folge den dort beschriebenen Anweisungen",
-        "",
+        "Nous vous avons envoyé un mail avec les instructions à suivre pour récupérer votre mot de passe",
         "Email verstuurd",
     ],
     recoverPassword: [
         "Recover password",
         "Passwort Wiederherstellen",
-        "",
+        "récupérer mon mot de passe",
         "Wachtwoord herstellen",
     ],
     choosePassword: [
         "Choose new password",
         "Wähle ein neues Passwort",
-        "",
+        "Choisir un nouveau mot de passe",
         "Stel een nieuw wachtwoord in",
     ],
     resetInvalid: [
         "Password recovery link is no longer valid. Please request a new one.",
         "Link zur Passwort-Wiederherstellung ist abgelaufen. Bitte fordere einen neuen an.",
-        "",
+        "Le lien pour récupérer ton mot de passse est éxpiré. Merci d'en demander un nouveau.",
         "Wachtwoord herstel link is niet meer geldig. Vraag een nieuwe aan.",
     ],
 
