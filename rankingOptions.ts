@@ -42,7 +42,7 @@ export const translations = {
     ],
     junior: [
         "Juniors",
-        "Junioren",
+        "Junior(inn)en",
         "",
         "Junior",
     ],
