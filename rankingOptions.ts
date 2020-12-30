@@ -5,7 +5,7 @@ export const translations = {
     // category
     pilot: [
         "Pilot",
-        "Pilot/in",
+        "Pilot(in)",
         "",
         "Vlieger",
     ],
