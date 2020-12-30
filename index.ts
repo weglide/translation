@@ -33,7 +33,7 @@ export const translations = {
     ],
     processing: [
         "Processing",
-        "Verarbeiten",
+        "wird verarbeitet",
         "",
         "Wordt verwerkt",
     ],
@@ -45,7 +45,7 @@ export const translations = {
     ],
     success: [
         "Success",
-        "Erfolgreich",
+        "Erfolg",
         "Avec succès",
         "Geslaagd",
     ],
