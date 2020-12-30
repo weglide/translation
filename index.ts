@@ -517,7 +517,7 @@ export const translations = {
     ],
     pilots: [
         "Pilots",
-        "Piloten",
+        "Pilot(inn)en",
         "",
         "Vlieger",
     ],
