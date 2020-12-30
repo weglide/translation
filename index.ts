@@ -411,7 +411,7 @@ export const translations = {
     ],
     showLatest: [
         "Show latest",
-        "Zeige Neue",
+        "Zeige Neueste",
         "",
         "Laatste bekijken",
     ],
