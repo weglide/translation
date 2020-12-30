@@ -132,13 +132,13 @@ export const translations = {
     aircraft: [
         "Aircraft",
         "Flugzeug",
-        "",
+        "Avion",
         "",
     ],
     kind: [
         "Kind",
         "Art",
-        "",
+        "Sorte",
         "",
     ],
     glider: [
@@ -180,25 +180,25 @@ export const translations = {
     family: [
         "Family",
         "Familie",
-        "",
+        "Famille",
         "",
     ],
     manufacturer: [
         "Manufacturer",
         "Hersteller",
-        "",
+        "Fabricant",
         "",
     ],
     seats: [
         "Seats",
         "Sitze",
-        "",
+        "Places",
         "",
     ],
     class: [
         "Class",
         "Klasse",
-        "",
+        "Classe",
         "",
     ],
     index: [
@@ -210,15 +210,15 @@ export const translations = {
     igc: [
         "IGC",
         "IGC",
-        "",
+        "IGC",
         "",
     ],
 
     // Airport
     airport: [
         "Airport",
-        "Flughafen/Platz",
-        "",
+        "Flughafen",
+        "Aéroport",
         "",
     ],
     airports: [
@@ -230,31 +230,31 @@ export const translations = {
     radio: [
         "Radio",
         "Funk",
-        "",
+        "Radio",
         "",
     ],
     frequency: [
         "Frequency",
         "Frequenz",
-        "",
+        "Fréquence",
         "",
     ],
     description: [
         "Description",
         "Beschreibung",
-        "",
+        "Description",
         "",
     ],
     type: [
         "Type",
         "Typ",
-        "",
+        "Type",
         "",
     ],
     category: [
         "Category",
         "Kategorie",
-        "",
+        "Catégorie",
         "",
     ],
     location: [
@@ -272,13 +272,13 @@ export const translations = {
     region: [
         "Region",
         "Region",
-        "",
+        "Région",
         "",
     ],
     elevation: [
         "Elevation",
         "Höhe",
-        "",
+        "élévation",
         "",
     ],
     usage: [
@@ -290,7 +290,7 @@ export const translations = {
     coordinates: [
         "Coordinates",
         "Koordinaten",
-        "",
+        "Coordonnées",
         "",
     ],
     latitudeAbbrev: [
@@ -358,7 +358,7 @@ export const translations = {
     reportFalseInformation: [
         "Report false information",
         "Melde falsche Informationen",
-        "",
+        "Signale fausses informations",
         "",
     ],
     logIn: [
@@ -474,7 +474,7 @@ export const translations = {
     allFlights: [
         "All flights",
         "Alle Flüge",
-        "",
+        "Tous les vols",
         "",
     ],
     flightDeleted: [
