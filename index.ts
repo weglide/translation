@@ -1209,7 +1209,7 @@ export const translations = {
     ],
 
     // Upload/Edit
-    upghtloadFlights: [
+    uploadFlights: [
         "Upload flights",
         "Flüge hochladen",
         "",
@@ -1509,13 +1509,13 @@ export const translations = {
     ],
 
     // Home Content
-    magazin: [
-        "Magazin",
+    magazine: [
+        "Magazine",
         "Magazin",
         "",
         "Tijdschrift",
     ],
-    magazinFeatures: [
+    magazineFeatures: [
         "WeGlide provides interactive flight data and maps to every story, video or article.",
         "WeGlide stellt interaktive Flugdaten und Karten zu jeder Geschichte, jedem Video oder Artikel.",
         "",
