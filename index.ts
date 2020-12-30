@@ -493,7 +493,7 @@ export const translations = {
     // User
     junior: [
         "Junior",
-        "Junior",
+        "Junior(in)",
         "",
         "Junior",
     ],
