@@ -1,7 +1,7 @@
 ![WeGlide translation logo](./logo.png)
 
 # WeGlide Translation
-Translation files for WeGlide are located in ``i18n/``.
+Translation files for WeGlide are ``index.ts flightErrors.ts rankingOptions.ts``.
 
 ## Schema
 ```typescript
