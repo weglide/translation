@@ -493,7 +493,7 @@ export const translations = {
     // User
     junior: [
         "Junior",
-        "Junior(in)",
+        "Junior*in",
         "",
         "Junior",
     ],
@@ -517,7 +517,7 @@ export const translations = {
     ],
     pilots: [
         "Pilots",
-        "Pilot(inn)en",
+        "Pilot*innen",
         "",
         "Vlieger",
     ],
@@ -673,7 +673,7 @@ export const translations = {
     ],
     coPilotName: [
         "Co-Pilot name",
-        "Co-Pilot(in) Name",
+        "Co-Pilot*in Name",
         "",
         "Tweede vlieger",
     ],

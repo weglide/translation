@@ -5,7 +5,7 @@ export const translations = {
     // category
     pilot: [
         "Pilot",
-        "Pilot(in)",
+        "Pilot*in",
         "",
         "Vlieger",
     ],
@@ -42,7 +42,7 @@ export const translations = {
     ],
     junior: [
         "Juniors",
-        "Junior(inn)en",
+        "Junior*innen",
         "",
         "Junior",
     ],
