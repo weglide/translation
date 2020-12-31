@@ -32,7 +32,7 @@ export const translations = {
         "All",
         "Alle",
         "",
-        "",
+        "Alle",
     ],
     female: [
         "Women",

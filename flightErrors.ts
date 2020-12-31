@@ -120,7 +120,7 @@ export const translations = {
         "Average GNSS altitude change between fixes in your file is {}, Minimum is {}.",
         "Durchschnittliche Differenz zwischen GNSS-Höhenwerten ist {}, Minimum sind {} Meter.",
         "",
-        "",
+        "De gemiddelde verandering van de GNSS-hoogte fixes in je bestand is {}, minimum is {}.",
     ],
     AVG_PRESS_ALT_CHANGE: [
         "Average pressure altitude change between fixes in your file is {}, Minimum is {}.",
@@ -144,13 +144,13 @@ export const translations = {
         "Hard time constraint ({} seconds) between fixes exceeded  at {}, interval without logging is {} seconds.",
         "Hartes Zeitlimit ({} Sekunden) zwischen GPS-Werten überschritten um {}, Spanne ohne Aufzeichnung sind {} Sekunden.",
         "",
-        "",
+        "Harde tijdsinterval ({} seconden) tussen fixes overschreden om {}, interval zonder log is {} seconden.",
     ],
     RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED: [
         "Hard time constraint ({} seconds) between fixes almost exceeded at {}, interval without logging is {} seconds.",
         "Hartes Zeitlimit ({} Sekunden) zwischen GPS-Werten beinahe überschritten um {}, Spanne ohne Aufzeichnung sind {} Sekunden.",
         "",
-        "",
+        "Harde tijdsinterval ({} seconden) tussen fixes bijna overschreden om {}, interval zonder log is {} seconden.",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING: [
         "Hard time constraint ({} seconds) between fixes exceeded at {}, interval without logging is {} seconds.",
