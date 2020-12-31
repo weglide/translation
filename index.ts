@@ -17,13 +17,13 @@ export const translations = {
         "Prerelease",
         "Testversion",
         "",
-        "",
+        "Test versie",
     ],
     betaText: [
         "Please be aware that we might need to delete data or break some functionality.",
         "Bitte sei dir bewusst, dass wir eventuell Daten löschen müssen oder Fehler auftauchen.",
         "",
-        "",
+        "Ben je ervan bewust dat data verloren kan gaan en sommige functies nog niet goed werken.",
     ],
     waiting: [
         "Waiting",
@@ -89,7 +89,7 @@ export const translations = {
         "Please verify your Email first.",
         "Bitte verifiziere zuerst deine E-Mail.",
         "",
-        "",
+        "Verifieer je e-mailadres",
     ],
     resetComplete: [
         "Password reset complete, please log in.",
@@ -119,7 +119,7 @@ export const translations = {
         "Analyzed",
         "Analyse",
         "",
-        "",
+        "Analyse",
     ],
 
     // Aircraft
@@ -377,7 +377,7 @@ export const translations = {
         "Send verification link again",
         "Sende Verifizierungslink erneut",
         "",
-        "",
+        "Verstuur verificatie e-mail nogmaals",
     ],
     changePassword: [
         "Change Password",
@@ -389,7 +389,7 @@ export const translations = {
         "Send verification link",
         "Verifizierungslink senden",
         "",
-        "",
+        "Verificatie e-mail versturen",
     ],
     sendEmailAgain: [
         "Send email again",
@@ -401,13 +401,13 @@ export const translations = {
         "Show stories",
         "Zeige Geschichten",
         "",
-        "",
+        "Laat verhalen zien",
     ],
     showAllArticles: [
         "Show all articles",
         "Zeige alle Artikel",
         "",
-        "",
+        "Laat alle artikelen zien",
     ],
     showLatest: [
         "Show latest",
@@ -475,19 +475,19 @@ export const translations = {
         "Flight deleted",
         "Flug gelöscht",
         "",
-        "",
+        "Vlucht verwijderd",
     ],
     flightSaved: [
         "Flight saved",
         "Flug gespeichert",
         "",
-        "",
+        "Vlucht opgeslagen",
     ],
     flightDeleteConfirm: [
         "Do you really want to delete this flight?",
         "Möchtest du diesen Flug wirklich löschen?",
         "",
-        "",
+        "Wil je deze vlucht echt verwijderen?",
     ],
 
     // User
@@ -533,13 +533,13 @@ export const translations = {
         "Compare",
         "Vergleichen",
         "",
-        "",
+        "Vergelijken",
     ],
     remove: [
         "Remove",
         "Entfernen",
         "",
-        "",
+        "Verwijderen",
     ],
 
     // Task kind
@@ -547,25 +547,25 @@ export const translations = {
         "Free",
         "Frei",
         "",
-        "",
+        "Vrije",
     ],
     FR4: [
         "Free (DMSt)",
         "Frei (DMSt)",
         "",
-        "",
+        "Vrije (DMSt)",
     ],
     GL: [
         "Goal",
         "Ziel",
         "",
-        "",
+        "Doel",
     ],
     TR: [
         "Triangle",
         "Dreieck",
         "",
-        "",
+        "Driehoek",
     ],
     RT: [
         "Rectangle",
@@ -577,13 +577,13 @@ export const translations = {
         "Out and Return",
         "Zielrück",
         "",
-        "",
+        "Retour",
     ],
     closed: [
         "Closed",
         "Geschlossen",
         "",
-        "",
+        "GEsloten",
     ],
     open: [
         "Open",
@@ -595,7 +595,7 @@ export const translations = {
         "Unnamed",
         "Unbenannt",
         "",
-        "",
+        "Zonder naam",
     ],
 
     // Form fields
@@ -627,7 +627,7 @@ export const translations = {
         "e.g. 1960-01-25 (YYYY-MM-DD)",
         "z.B. 1960-01-25 (JJJJ-MM-DD)",
         "",
-        "",
+        "b.v. 1960-01-25 (JJJJ-MM-DD)",
     ],
     club: [
         "Club",
@@ -639,7 +639,7 @@ export const translations = {
         "I have read and agree to the following documents:",
         "Ich habe die folgenden Dokumente gelesen und stimme zu:",
         "",
-        "",
+        "Ik heb de volgende documenten gelezen en ga akkoord:",
     ],
     privacyPolicy: [
         "Privacy Policy",
@@ -725,7 +725,7 @@ export const translations = {
         "Please solve the captcha to verify you are human.",
         "Bitte löse das Captcha um zu zeigen dass du ein Mensch bist.",
         "",
-        "",
+        "Los de Captcha op om zeker te zijn dat je geen robot bent.",
     ],
     verifying: [
         "Verifying Email",
@@ -743,7 +743,7 @@ export const translations = {
         "Request new verification link",
         "Neuen Verifizierungslink anfordern",
         "",
-        "",
+        "Vraag nieuwe verificatie link aan",
     ],
     requestRecoverPassword: [
         "Request password recovery",
@@ -815,7 +815,7 @@ export const translations = {
         "Search",
         "Suche",
         "",
-        "",
+        "Zoeken",
     ],
 
     // Flight detail
@@ -841,7 +841,7 @@ export const translations = {
         "please reload this page.",
         "bitte lade die Seite neu.",
         "",
-        "",
+        "herlaad deze pagina.",
     ],
     points: [
         "Points",
@@ -853,13 +853,13 @@ export const translations = {
         "Invalid",
         "Ungültig",
         "",
-        "",
+        "Ongeldig",
     ],
     invalidFlight: [
         "Flight claimed too late for this contest",
         "Flugmeldung zu spät für diese Wertung",
         "",
-        "",
+        "Vlucht te laat ingediend voor deze wedstrijd",
     ],
     free: [
         "Free",
@@ -937,7 +937,7 @@ export const translations = {
         "General",
         "Allgemein",
         "",
-        "",
+        "Algemeen",
     ],
     distanceAbbrev: [
         "Dist.",
@@ -1117,43 +1117,43 @@ export const translations = {
         "Logger information",
         "Logger Informationen",
         "",
-        "",
+        "Logger informatie",
     ],
     share: [
         "Share",
         "Teilen",
         "",
-        "",
+        "Delen",
     ],
     embed: [
         "Embed",
         "Einbetten",
         "",
-        "",
+        "Integreren",
     ],
     showBarogram: [
         "Show barogram",
         "Barogram zeigen",
         "",
-        "",
+        "Laat barogram zien",
     ],
     includeBBox: [
         "Current bounding box",
         "Aktueller Ausschnitt",
         "",
-        "",
+        "Actuele uitsnede",
     ],
     displayedFlights: [
         "Displayed flights",
         "Angezeigte Flüge",
         "",
-        "",
+        "Zichtbare vluchten",
     ],
     similarFlights: [
         "Similar flights",
         "Ähnliche Flüge",
         "",
-        "",
+        "Gelijke vluchten",
     ],
 
     // Flight list
@@ -1161,7 +1161,7 @@ export const translations = {
         "Flight list",
         "Flugliste",
         "",
-        "",
+        "Vluchtenlijst",
     ],
     flightOverviewSwitch: [
         "Map",
@@ -1179,7 +1179,7 @@ export const translations = {
         "Pilot",
         "Pilot",
         "",
-        "",
+        "Vlieger",
     ],
     more: [
         "More",
@@ -1213,13 +1213,13 @@ export const translations = {
         "Upload flights",
         "Flüge hochladen",
         "",
-        "",
+        "Vlucht uploaden",
     ],
     editFlight: [
         "Edit flight",
         "Flug bearbeiten",
         "",
-        "",
+        "VLucht aanpassen",
     ],
 
     // Form edit flight
@@ -1227,13 +1227,13 @@ export const translations = {
         "Reset scoring windows",
         "Wertungsfenster zurücksetzen",
         "",
-        "Scoring herstellen",
+        "Scoringsgebied herstellen",
     ],
     scoringAdd: [
         "Add scoring window",
         "Neues Wertungsfenster",
         "",
-        "Scoring window toevoegen",
+        "Scoringsgebied toevoegen",
     ],
     scoringStart: [
         "Scoring start",
@@ -1275,31 +1275,31 @@ export const translations = {
         "Scoring windows",
         "Wertungsfenster",
         "",
-        "Scoring Windows",
+        "Scoringsgebied",
     ],
     scoringTowingNotice: [
         "Please make sure that the scoring windows do not include towing.",
         "Bitte prüfe, dass die Wertungsfenster kein Schleppen beinhalten.",
         "",
-        "Sleeptijd mag geen onderdeel zijn van het scoring window.",
+        "Sleeptijd mag geen onderdeel zijn van het scoringsgebied.",
     ],
     scoringiNotice: [
         "Airplane with electric propulsion selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
         "Flugzeug mit elektrischem Antrieb ausgewählt. Bitte prüfe, dass die Wertungsfenster keinen Motorlauf (gelb) beinhalten.",
         "",
-        "Vliegtuig met electro motor geselecteerd, het scoring window mag geen motorlooptijd bevatten.",
+        "Vliegtuig met electro motor geselecteerd, het scoringsgebied mag geen motorlooptijd bevatten.",
     ],
     scoringEngineNotice: [
         "Airplane with engine selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
         "Flugzeug mit Motor ausgewählt. Bitte prüfe, dass die Wertungsfenster keinen Motorlauf (gelb) beinhalten.",
         "",
-        "Vliegtuig met motor geselecteerd, het scoring window mag geen motorlooptijd bevatten.",
+        "Vliegtuig met motor geselecteerd, het scoringgebied mag geen motorlooptijd bevatten.",
     ],
     errorTerms: [
         "Please agree to the terms.",
         "Bitte stimme den Bedingungen zu.",
         "",
-        "",
+        "Ga eerst akkoord met de voorwaarden.",
     ],
     textConfirmUpload: [
         "I confirm that my scoring windows are chosen according to the rules,\
@@ -1309,7 +1309,9 @@ export const translations = {
          jeder durchflogene aktive Luftraum von ATC freigegeben wurde,\
          und ich die folgenden Dokumente gelesen habe und ihnen zustimme:",
         "",
-        "",
+        "Ik bevestig dat mijn scoringsgebied(en) zijn geslecteerd volgens de regels,\
+        voor elk luchtruimbeperking had ik ATC-klaring\
+        en ik heb de volgende documenten gelezen en ga akkoord:",
     ],
 
     // Form upload igc
@@ -1335,7 +1337,7 @@ export const translations = {
         "log in",
         "melde dich an",
         "",
-        "",
+        "log in",
     ],
     igcDragText: [
         "Drag .igc files here to upload or click to select",
@@ -1431,7 +1433,7 @@ export const translations = {
         "Philosophy",
         "Philosophie",
         "",
-        "",
+        "Filosofie",
     ],
     imprint: [
         "Imprint",
@@ -1461,13 +1463,13 @@ export const translations = {
         "Contest Rules",
         "Wettbewerbsregeln",
         "",
-        "",
+        "Wedstrijdreglement",
     ],
     loggers: [
         "Loggers",
         "Logger",
         "",
-        "",
+        "Loggers",
     ],
     developer: [
         "Developer",
@@ -1479,7 +1481,7 @@ export const translations = {
         "Get Started",
         "Einleitung",
         "",
-        "",
+        "Introductie",
     ],
     faq: [
         "Frequent questions",
@@ -1505,7 +1507,7 @@ export const translations = {
         "Flight Stories",
         "Fluggeschichten",
         "",
-        "",
+        "Vluchtverhalen",
     ],
 
     // Home Content
@@ -1577,7 +1579,7 @@ export const translations = {
         "Coming soon",
         "Kommt bald",
         "",
-        "",
+        "Komt binnenkort",
     ],
     transportation: [
         "Streets",
@@ -1753,7 +1755,7 @@ export const translations = {
         "Flights as list",
         "Flüge als Liste",
         "",
-        "",
+        "Vluchten als lijst",
     ],
 
     // Ranking
@@ -1857,7 +1859,7 @@ export const translations = {
         "until",
         "bis",
         "",
-        "",
+        "tot",
     ],
     addComment: [
         "Add comment",
@@ -1895,25 +1897,25 @@ export const translations = {
         "Tasks",
         "Aufgaben",
         "",
-        "",
+        "Opdrachten",
     ],
     all: [
         "All",
         "Alle",
         "",
-        "",
+        "Alle",
     ],
     my: [
         "My",
         "Meine",
         "",
-        "",
+        "Mijn",
     ],
     starred: [
         "Starred",
         "Favorisiert",
         "",
-        "",
+        "Favourieten",
     ],
     myTasks: [
         "My tasks",
@@ -1955,19 +1957,19 @@ export const translations = {
         "Position",
         "Position",
         "",
-        "",
+        "Positie",
     ],
     startOnLeg: [
         "Start on leg",
         "Start auf Schenkel",
         "",
-        "",
+        "Begin op been",
     ],
     locked: [
         "Task is locked because it was once declared.",
         "Aufgabe ist gesperrt weil sie bereits deklariert wurde.",
         "",
-        "",
+        "Opdracht is vergrendeld omdat deze al is gedeclareerd.",
     ],
     taskplaner: [
         "Taskplaner",
@@ -2003,37 +2005,37 @@ export const translations = {
         "Drag a .cup file here to upload or click to select",
         "Ziehe eine CUP-Datei hierher zum Hochladen oder klicke zum Auswählen",
         "",
-        "",
+        "Sleep een .CUP-bestand hier naar toe om te uploaden of klik om te selecteren",
     ],
     cupDropText: [
         "Drop .cup file to upload",
         "Lasse die CUP-Datei los zum Hochladen",
         "",
-        "",
+        "Sleep een .CUP-bestand om deze te uploaden",
     ],
     taskSaved: [
         "Task saved",
         "Aufgabe gespeichert",
         "",
-        "",
+        "Opdracht bewaard",
     ],
     taskDeleted: [
         "Task deleted",
         "Aufgabe gelöscht",
         "",
-        "",
+        "Opdracht verwijderd",
     ],
     turnpointHelp: [
         "Click on the map to add a turnpoint.",
         "Klicke auf die Karte für einen Wendepunkt.",
         "",
-        "",
+        "Klik op de kaart om een keerpunt toe te voegen.",
     ],
     editHelp: [
         "Double click or drag to edit.",
         "Doppelt klicken oder ziehen zum Bearbeiten.",
         "",
-        "",
+        "Dubbel klik of verslepen om aan te passen.",
     ]
 }
 
