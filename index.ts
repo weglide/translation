@@ -673,7 +673,7 @@ export const translations = {
     ],
     coPilotName: [
         "Co-Pilot name",
-        "Co-Pilot*in Name",
+        "Name Co-Pilot*in",
         "",
         "Tweede vlieger",
     ],
