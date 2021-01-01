@@ -33,7 +33,7 @@ export const translations = {
     ],
     processing: [
         "Processing",
-        "Verarbeiten",
+        "wird verarbeitet",
         "",
         "Wordt verwerkt",
     ],
@@ -45,7 +45,7 @@ export const translations = {
     ],
     success: [
         "Success",
-        "Erfolgreich",
+        "Erfolg",
         "Avec succès",
         "Geslaagd",
     ],
@@ -301,7 +301,7 @@ export const translations = {
     ],
     runway: [
         "Runway",
-        "Rollbahn",
+        "Piste",
         "",
         "Baan",
     ],
@@ -411,7 +411,7 @@ export const translations = {
     ],
     showLatest: [
         "Show latest",
-        "Zeige Neue",
+        "Zeige Neueste",
         "",
         "Laatste bekijken",
     ],
@@ -493,7 +493,7 @@ export const translations = {
     // User
     junior: [
         "Junior",
-        "Junior",
+        "Junior*in",
         "",
         "Junior",
     ],
@@ -517,7 +517,7 @@ export const translations = {
     ],
     pilots: [
         "Pilots",
-        "Piloten",
+        "Pilot*innen",
         "",
         "Vlieger",
     ],
@@ -673,7 +673,7 @@ export const translations = {
     ],
     coPilotName: [
         "Co-Pilot name",
-        "Co-Pilot Name",
+        "Name Co-Pilot*in",
         "",
         "Tweede vlieger",
     ],
