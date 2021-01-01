@@ -8,24 +8,28 @@ export const translations = {
         "Pilot*in",
         "",
         "Vlieger",
+        "",
     ],
     club: [
         "Club",
         "Verein",
         "",
         "Club",
+        "",
     ],
     club_total: [
         "Club Total",
         "Verein Gesamt",
         "",
         "Club Totaal",
+        "",
     ],
     airport_total: [
         "Airport Total",
         "Flugplatz Gesamt",
         "",
         "Vliegveld Totaal",
+        "",
     ],
     // User
     ALL: [
@@ -33,18 +37,21 @@ export const translations = {
         "Alle",
         "",
         "Alle",
+        "",
     ],
     female: [
         "Women",
         "Frauen",
         "",
         "Vrouw",
+        "",
     ],
     junior: [
         "Juniors",
         "Junior*innen",
         "",
         "Junior",
+        "",
     ],
     // SC Class
     OP: [
@@ -52,36 +59,42 @@ export const translations = {
         "Offen",
         "",
         "Open",
+        "",
     ],
     18: [
         "18m",
         "18m",
         "18m",
         "18m",
+        "",
     ],
     15: [
         "15m",
         "15m",
         "15m",
         "15m",
+        "",
     ],
     ST: [
         "Standard",
         "Standard",
         "",
         "Standaard",
+        "",
     ],
     CL: [
         "Club",
         "Club",
         "",
         "Club",
+        "",
     ],
     DO: [
         "Double",
         "Doppelsitzer",
         "",
         "Tweezitter",
+        "",
     ]
 }
 

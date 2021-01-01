@@ -10,12 +10,14 @@ key: [
         "german",
         "french",
         "dutch",
+        "czech",
 ]
 ```
 
 # Contributors
 * @Fuchur777 (Dutch)
-* @jasminthomas (little bit of french)
+* @jasminthomas (French)
+* @CarstenSon (German)
 * @samuel-git (English, German)
 
 ## Contribute
