@@ -8,6 +8,7 @@ export const translations = {
         "",
         "Tijdsprong achteruit van {} naar {}.",
         "",
+        "Il tempo salta indietro da {} a {}.",
     ],
     NON_VALID_FIXES: [
         "The file contains {} non valid fixes.",
@@ -15,6 +16,7 @@ export const translations = {
         "",
         "Het bestand bevat {} ongeldige fixes.",
         "",
+        "Il file contiene {} non validi"
     ],
     MULTIPLE_A_RECORDS: [
         "Multiple A Records provided.",
@@ -22,6 +24,7 @@ export const translations = {
         "",
         "Meerdere A-Records verstrekt.",
         "",
+        "Più record A forniti.",
     ],
     NO_I_RECORD: [
         "NO I Record provided.",
@@ -29,6 +32,7 @@ export const translations = {
         "",
         "Geen I-Records verstrekt.",
         "",
+        "Nessun record I fornito.",
     ],
     MULTIPLE_I_RECORDS: [
         "Multiple I records provided.",
@@ -36,6 +40,7 @@ export const translations = {
         "",
         "Meerdere I-Records verstrekt.",
         "",
+        "Più record I forniti.",
     ],
     INVALID_H_RECORD: [
         "Invalid H record: {}.",
@@ -43,6 +48,7 @@ export const translations = {
         "",
         "Ongeldig H-Record: {}",
         "",
+        "Record H non valido: {}",
     ],
     PRESS_ALT_VIOLATIONS: [
         "Pressure altitude range from {} to {} is exceeded in {} fixes.",
@@ -50,6 +56,7 @@ export const translations = {
         "",
         "Het drukhoogtebereik van {} tot {} wordt overschreden in {} fixes.",
         "",
+        "L'intervallo dell'altitudine di pressione da {} a {} è stato superato in {} correzioni.",
     ],
     GNSS_ALT_VIOLATIONS: [
         "GNSS altitude range from {} to {} is exceeded in {} GNSS fixes.",
@@ -57,6 +64,7 @@ export const translations = {
         "",
         "GPS hoogtebereik van {} tot {} wordt overschreden in {} fixes",
         "",
+        "L'intervallo di altitudine GNSS da {} a {} è stato superato in {} correzioni GNSS.",
     ],
     C_RECORD_TOO_LONG: [
         "C records contains more than 10 lines, not able to parse task.",
@@ -64,6 +72,7 @@ export const translations = {
         "",
         "C-Records bevat meer dan 10 regels, niet mogelijk de opdracht uit te lezen.",
         "",
+        "I record C contengono più di 10 righe, non sono in grado di analizzare l'attività.",
     ],
     NO_LANDING: [
         "Did not detect landing.",
@@ -71,6 +80,7 @@ export const translations = {
         "",
         "Landing niet herkend.",
         "",
+        "Non è stato rilevato un atterraggio.",
     ],
     FUTURE_FLIGHT: [
         "Flight date is from future.",
@@ -78,6 +88,7 @@ export const translations = {
         "",
         "Vluchtdatum ligt in de toekomst.",
         "",
+        "La data del volo è nel futuro.",
     ],
     NO_A_RECORD: [
         "No A Record provided.",
@@ -85,6 +96,7 @@ export const translations = {
         "",
         "Geen A-Record verstrekt.",
         "",
+        "Nessun record A fornito.",
     ],
     INVALID_QNH_VALUE: [
         "Determined QNH of {} hPa (based on altitude provided) is not between limits of {} hPa and {} hPa.",
@@ -92,6 +104,7 @@ export const translations = {
         "",
         "Vastgestelde QNH van {} hPa (Gebaseerd op de verstrekte hoogte) ligt niet tussen de limiten van {} hPa en {} hPa.",
         "",
+        "Il QNH determinato di {} hPa (in base all'altitudine fornita) non è compreso tra i limiti di {} hPa e {} hPa.",
     ],
     PRESS_ALT_NOT_VALID: [
         "Pressure altitude in file is not valid, maximum value is {} meters.",
@@ -99,6 +112,7 @@ export const translations = {
         "",
         "Druk hoogte in het bestand is ongeldig, maximale waarde is {} meter.",
         "",
+        "L'altitudine della pressione nel file non è valida, il valore massimo è {} metri.",
     ],
     A_RECORD_TOO_SHORT: [
         "A Record is too short.",
@@ -106,6 +120,7 @@ export const translations = {
         "",
         "A-Record is the kort.",
         "",
+        "Il record A è troppo corto.",
     ],
     H_RECORD_NO_DATE: [
         "No date in H Record provided.",
@@ -113,6 +128,7 @@ export const translations = {
         "",
         "Geen datum in H-Record verstrekt.",
         "",
+        "Nessuna data in H record fornito",
     ],
     NO_H_RECORD: [
         "No H Record provided.",
@@ -120,6 +136,7 @@ export const translations = {
         "",
         "Geen H-Record verstrekt.",
         "",
+        "Nessun record H fornito.",
     ],
     MAX_GNSS_ALT_REACHED: [
         "Max GNSS sensor altitude is: {}, you reached: {}",
@@ -127,6 +144,7 @@ export const translations = {
         "",
         "Maximale GPS-sensorhoogte van de logger is {}, je hebt {} meter bereikt.",
         "",
+        "L'altitudine massima del sensore GNSS è: {}, hai raggiunto: {}",
     ],
     MAX_PRESS_ALT_REACHED: [
         "Maximum pressure sensor altitude is: {}, your reached: {}",
@@ -134,6 +152,7 @@ export const translations = {
         "",
         "Maximale Druksensorhoogte van de logger is {} meter, je hebt {} meter bereikt.",
         "",
+        "L'altitudine massima del sensore di pressione è: {}, raggiunta: {}",
     ],
     AVG_GNSS_ALT_CHANGE: [
         "Average GNSS altitude change between fixes in your file is {}, Minimum is {}.",
@@ -141,6 +160,7 @@ export const translations = {
         "",
         "De gemiddelde verandering van de GNSS-hoogte fixes in je bestand is {}, minimum is {}.",
         "",
+        "La variazione di altitudine GNSS media tra le correzioni nel file è {}, il minimo è {}.",
     ],
     AVG_PRESS_ALT_CHANGE: [
         "Average pressure altitude change between fixes in your file is {}, Minimum is {}.",
@@ -148,6 +168,7 @@ export const translations = {
         "",
         "De gemiddelde verandering van de drukhoogte tussen fixes in je bestand is {}, minimum is {}.",
         "",
+        "La variazione media dell'altitudine della pressione tra le correzioni nel file è {}, il minimo è {}.",
     ],
     HIGH_CHANGE_GNSS_ALT: [
         "{} high changes in GNSS altitude (more than {} m/s).",
@@ -155,6 +176,7 @@ export const translations = {
         "",
         "{} grote veranderinen in je GPS-hoogte (meer dan {} m/s).",
         "",
+        "{} variazioni elevate dell'altitudine GNSS (più di {} m / s).",
     ],
     HIGH_CHANGE_PRESS_ALT: [
         "{} high changes in pressure altitude (more than {} m/s).",
@@ -162,6 +184,7 @@ export const translations = {
         "",
         "{} grote veranderinen in je drukhoogte (meer dan {} m/s).",
         "",
+        "{} variazioni elevate dell'altitudine-pressione (più di {} m / s).",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED: [
         "Hard time constraint ({} seconds) between fixes exceeded  at {}, interval without logging is {} seconds.",
@@ -169,6 +192,7 @@ export const translations = {
         "",
         "Harde tijdsinterval ({} seconden) tussen fixes overschreden om {}, interval zonder log is {} seconden.",
         "",
+        "Vincolo di tempo rigido ({} secondi) tra le correzioni superato in {}, l'intervallo senza registrazione è di {} secondi.",
     ],
     RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED: [
         "Hard time constraint ({} seconds) between fixes almost exceeded at {}, interval without logging is {} seconds.",
@@ -176,6 +200,7 @@ export const translations = {
         "",
         "Harde tijdsinterval ({} seconden) tussen fixes bijna overschreden om {}, interval zonder log is {} seconden.",
         "",
+        "Vincolo di tempo rigido ({} secondi) tra le correzioni quasi superato in {}, l'intervallo senza registrazione è di {} secondi.",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING: [
         "Hard time constraint ({} seconds) between fixes exceeded at {}, interval without logging is {} seconds.",
@@ -183,6 +208,7 @@ export const translations = {
         "",
         "Harde tijdsinterval ({} seconden) tussen fixes overschreden om {}, interval zonder log is {} seconden.",
         "",
+        "Vincolo di tempo rigido ({} secondi) tra le correzioni superato in {}, l'intervallo senza registrazione è di {} secondi.",
     ],
     RAW_TIME_SOFT_LIMIT_EXCEEDED: [
         "{} intervals exceed soft time limit between fixes ({}s), allowed {} intervals.",
@@ -190,6 +216,7 @@ export const translations = {
         "",
         "{} tijdsinterval overschrijd de zachte tijdslimiet tussen fixes ({}s), {} intervallen toegestaan.",
         "",
+        "Gli intervalli {} superano il limite di tempo flessibile tra le correzioni ({}), gli intervalli {} consentiti.",
     ],
     NO_TAKEOFF: [
         "Did not detect takeoff.",
@@ -197,6 +224,7 @@ export const translations = {
         "",
         "Start niet herkend.",
         "",
+        "Decollo non rilevato.",
     ],
     FIXES_BEFORE_TAKEOFF: [
         "Found {} fixes before takeoff, required are {}.",
@@ -204,6 +232,7 @@ export const translations = {
         "",
         "{} fixes gevonden vóór het opstijgen, {} fixes vereist.",
         "",
+        "Trovate {} correzioni prima del decollo, obbligatorie sono {}.",
     ],
     NO_ENGINE_SENSOR: [
         "No engine sensor found, allowed engine sensors: {}.",
@@ -211,6 +240,7 @@ export const translations = {
         "",
         "Geen motorsensor gevonden, toegestane sensoren zijn: {}.",
         "",
+        "Nessun sensore del motore trovato, sensori del motore consentiti: {}.",
     ],
     NO_FES_SENSOR: [
         "No FES sensor found, allowed FES sensors: {}.",
@@ -218,6 +248,7 @@ export const translations = {
         "",
         "Geen FES-sensor gevonden, toegestane sensoren zijn: {}.",
         "",
+        "Nessun sensore FES trovato, sensori FES consentiti: {}.",
     ],
     NO_SCORING_WINDOWS: [
         "No scoring windows were found.",
@@ -225,6 +256,7 @@ export const translations = {
         "",
         "Geen scoringvenster gevonden.",
         "",
+        "Nessuna finestra di punteggio è stata trovata.",
     ]
 }
 
