@@ -675,7 +675,7 @@ export const translations = {
         "Closed",
         "Geschlossen",
         "",
-        "GEsloten",
+        "Gesloten",
         "Uzavřený",
     ],
     open: [
@@ -727,7 +727,7 @@ export const translations = {
         "z.B. 1960-01-25 (JJJJ-MM-DD)",
         "",
         "b.v. 1960-01-25 (JJJJ-MM-DD)",
-        "např. 1960-01-25(JJJJ-MM-DD) ",
+        "např. 1960-01-25 (JJJJ-MM-DD) ",
     ],
     club: [
         "Club",
@@ -1103,13 +1103,6 @@ export const translations = {
         "Wind",
         "Vítr",
     ],
-    speedAbbrev: [
-        "Speed",
-        "V",
-        "V",
-        "V",
-        "Rychlost",
-    ],
     electric: [
         "Electric",
         "Elektrisch",
@@ -1269,7 +1262,7 @@ export const translations = {
         "Kommentar (optional)",
         "",
         "Opmerkingen (niet verplicht)",
-        "Komentář (opce),
+        "Komentář (opce)",
     ],
     outstart: [
         "Outstart",
@@ -1501,7 +1494,7 @@ export const translations = {
         "Flugzeug mit Motor ausgewählt. Bitte prüfe, dass die Wertungsfenster keinen Motorlauf (gelb) beinhalten.",
         "",
         "Vliegtuig met motor geselecteerd, het scoringgebied mag geen motorlooptijd bevatten.",
-        "Vybrán kluzák s motorem, ujistěte se, že ve vyhodnocení není část letu s během motoru (žlutá)", ,
+        "Vybrán kluzák s motorem, ujistěte se, že ve vyhodnocení není část letu s během motoru (žlutá)",
     ],
     errorTerms: [
         "Please agree to the terms.",
@@ -1511,17 +1504,11 @@ export const translations = {
         "Prosíme o odsouhlasení podmínek",
     ],
     textConfirmUpload: [
-        "I confirm that my scoring windows are chosen according to the rules,\
-         each active airspace crossed was cleared by ATC\
-         and I have read and accepted the following documents:",
-        "Ich bestätige, dass ich die Wertungsfenster nach den Regeln gewählt habe, \
-         jeder durchflogene aktive Luftraum von ATC freigegeben wurde,\
-         und ich die folgenden Dokumente gelesen habe und ihnen zustimme:",
+        "I confirm that my scoring windows are chosen according to the rules, each active airspace crossed was cleared by ATC and I have read and accepted the following documents:",
+        "Ich bestätige, dass ich die Wertungsfenster nach den Regeln gewählt habe, jeder durchflogene aktive Luftraum von ATC freigegeben wurde, und ich die folgenden Dokumente gelesen habe und ihnen zustimme:",
         "",
-        "Ik bevestig dat mijn scoringsgebied(en) zijn geslecteerd volgens de regels,\
-        voor elk luchtruimbeperking had ik ATC-klaring\
-        en ik heb de volgende documenten gelezen en ga akkoord:",
-        "Potvrzuji, že jsem zvolil vyhodnocení podle pravidel,\průlet aktivních prostorů mi byl povolen\četl jsem a akceptuji následující dokumenty:" ",
+        "Ik bevestig dat mijn scoringsgebied(en) zijn geslecteerd volgens de regels, voor elk luchtruimbeperking had ik ATC-klaring en ik heb de volgende documenten gelezen en ga akkoord:",
+        "Potvrzuji, že jsem zvolil vyhodnocení podle pravidel, průlet aktivních prostorů mi byl povolen četl jsem a akceptuji následující dokumenty:",
     ],
 
     // Form upload igc
@@ -1637,19 +1624,12 @@ export const translations = {
     logoLang: [
         "EN",
         "DE",
-        "EN",
-        "EN",
-        "CZ",
+        "EN", // only en and de available
+        "EN", // only en and de available
+        "EN", // only en and de available
     ],
 
     // Footer
-    about: [
-        "About",
-        "Über",
-        "",
-        "Over",
-        "O",
-    ],
     contact: [
         "Contact",
         "Kontakt",
