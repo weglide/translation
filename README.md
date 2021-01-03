@@ -16,6 +16,7 @@ key: [
 
 # Contributors
 * @Fuchur777 (Dutch)
+* @Vratislav (Czech)
 * @jasminthomas (French)
 * @CarstenSon (German)
 * @samuel-git (English, German)

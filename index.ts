@@ -2,7 +2,7 @@ import { i18nStore } from "@/shared/store"
 
 // Main translation
 export const translations = {
-    // Schema
+    /* Schema
     key: [
         "english",
         "german",
@@ -10,6 +10,7 @@ export const translations = {
         "dutch",
         "czech",
     ],
+    */
 
     // Notification
     betaTitle: [
