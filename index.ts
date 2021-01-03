@@ -2,8 +2,7 @@ import { i18nStore } from "@/shared/store"
 
 // Main translation
 export const translations = {
-    // Scheme
-    /*
+    /* Schema
     key: [
         "english",
         "german",
@@ -11,7 +10,7 @@ export const translations = {
         "dutch",
         "czech",
         "italian",
-]
+    ],
     */
 
     // Notification
@@ -20,7 +19,7 @@ export const translations = {
         "Testversion",
         "",
         "Test versie",
-        "",
+        "Testovací verze",
         "Prerelease",
     ],
     betaText: [
@@ -28,7 +27,7 @@ export const translations = {
         "Bitte sei dir bewusst, dass wir eventuell Daten löschen müssen oder Fehler auftauchen.",
         "",
         "Ben je ervan bewust dat data verloren kan gaan en sommige functies nog niet goed werken.",
-        "",
+        "Prosím, buďte připraveni, že případně budeme muset data smazat nebo se může objevit chyba",
         "Tieni presente che potrebbe essere necessario eliminare i dati o interrompere alcune funzionalità",
     ],
     waiting: [
@@ -36,7 +35,7 @@ export const translations = {
         "Warten",
         "",
         "Wachtend",
-        "",
+        "čekej.",
         "In attesa",
     ],
     processing: [
@@ -44,7 +43,7 @@ export const translations = {
         "wird verarbeitet",
         "",
         "Wordt verwerkt",
-        "",
+        "Zpracovává se",
         "In elaborazione",
     ],
     attention: [
@@ -52,7 +51,7 @@ export const translations = {
         "Achtung",
         "Attention",
         "Attentie",
-        "",
+        "Pozor",
         "Attenzione",
     ],
     success: [
@@ -60,7 +59,7 @@ export const translations = {
         "Erfolg",
         "Avec succès",
         "Geslaagd",
-        "",
+        "Úspěch",
         "Completato",
     ],
     errorAuthTitle: [
@@ -68,7 +67,7 @@ export const translations = {
         "Sitzung abgelaufen",
         "",
         "Sessie vervallen",
-        "",
+        "Relace skončila",
         "Sessione scaduta",
     ],
     errorAuth: [
@@ -76,7 +75,7 @@ export const translations = {
         "Bitte logge dich erneut ein",
         "",
         "Log opniew in",
-        "",
+        "Prosím, přihlaš se znovu",
         "Effettua nuovamente l'accesso",
     ],
     errorServerTitle: [
@@ -84,7 +83,7 @@ export const translations = {
         "Dienst nicht erreichbar",
         "",
         "Dienst niet beschikbaar",
-        "",
+        "Služba není k dispozici",
         "Server temporaneamente non disponibile",
     ],
     errorServer: [
@@ -92,7 +91,7 @@ export const translations = {
         "Bitte versuche es später erneut oder kontaktiere uns",
         "",
         "Probeer het later nog eens",
-        "",
+        "Prosím zkus to později znovu nebo nás kontaktuj",
         "Per favore, riprova più tardi o contattaci",
     ],
     errorForm: [
@@ -100,7 +99,7 @@ export const translations = {
         "Bitte prüfe deine Formulareingaben",
         "",
         "Controleer het formulier",
-        "",
+        "Prosím zkontroluj si svá zadání ve formuláři",
         "Si prega di controllare gli input del modulo",
     ],
     verified: [
@@ -108,7 +107,7 @@ export const translations = {
         "E-Mail wurde verifiziert, bitte einloggen.",
         "Votre adresse e-mail a été vérifiée, veuillez vous connecter s'il vous plait.",
         "Verificatie gelukt, log nu in.",
-        "",
+        "E-mailová adresa byla potvrzena, nyní se zkus přihlásit",
         "Verifica dell'email completata, esegui l'accesso",
     ],
     notVerified: [
@@ -116,7 +115,7 @@ export const translations = {
         "Bitte verifiziere zuerst deine E-Mail.",
         "",
         "Verifieer je e-mailadres",
-        "",
+        "Prosím, ověřte nejdříve svoji emailovou adresu",
         "Verifica prima la tua email.",
     ],
     resetComplete: [
@@ -124,7 +123,7 @@ export const translations = {
         "Passwort wurde zurückgesetzt, bitte einloggen.",
         "Votre mot de passe a été réinitialisé, veuillez vous connecter s'il vous plait.",
         "Wachtwoord hersteld, log nu in.",
-        "",
+        "Heslo bylo obnoveno, prosím přihlaš se",
         "Reset della password completata, esegui l'accesso",
     ],
     info: [
@@ -132,7 +131,7 @@ export const translations = {
         "Info",
         "",
         "Informatie",
-        "",
+        "Informace",
         "Informazioni",
     ],
     warning: [
@@ -140,7 +139,7 @@ export const translations = {
         "Warnung",
         "",
         "Waarschuwing",
-        "",
+        "Varování",
         "Attenzione",
     ],
     error: [
@@ -148,7 +147,7 @@ export const translations = {
         "Fehler",
         "",
         "Fout",
-        "",
+        "Chyba",
         "Errore",
     ],
     analyzed: [
@@ -156,7 +155,7 @@ export const translations = {
         "Analyse",
         "",
         "Analyse",
-        "",
+        "Analýza",
         "Analizzato",
     ],
 
@@ -166,7 +165,7 @@ export const translations = {
         "Flugzeug",
         "Avion",
         "Vliegtuig",
-        "",
+        "Letadlo",
         "Aereo",
     ],
     kind: [
@@ -174,7 +173,7 @@ export const translations = {
         "Art",
         "Sorte",
         "Soort",
-        "",
+        "Druh",
         "Tipo",
     ],
     glider: [
@@ -182,7 +181,7 @@ export const translations = {
         "Segelflugzeug",
         "",
         "Zweefvliegtuig",
-        "",
+        "Kluzák",
         "Aliante",
     ],
     fes: [
@@ -190,7 +189,7 @@ export const translations = {
         "FES",
         "FES",
         "FES",
-        "",
+        "FES",
         "FES",
     ],
     engine: [
@@ -198,7 +197,7 @@ export const translations = {
         "Motor",
         "",
         "Motor",
-        "",
+        "Motor",
         "Motore",
     ],
     paraglider: [
@@ -206,7 +205,7 @@ export const translations = {
         "Paragleiter",
         "",
         "Schermvlieger",
-        "",
+        "Paraglider",
         "Parapendio",
     ],
     hangGlider: [
@@ -214,7 +213,7 @@ export const translations = {
         "Drachen",
         "",
         "Deltavlieger",
-        "",
+        "Rogalo",
         "Deltaplano",
     ],
     ulGlider: [
@@ -222,7 +221,7 @@ export const translations = {
         "UL Gleiter",
         "",
         "UL Zweefvliegtuig",
-        "",
+        "UL Kluzák",
         "Aliante UL",
     ],
     family: [
@@ -230,7 +229,7 @@ export const translations = {
         "Familie",
         "Famille",
         "Familie",
-        "",
+        "Rodina",
         "Famiglia",
     ],
     manufacturer: [
@@ -238,7 +237,7 @@ export const translations = {
         "Hersteller",
         "Fabricant",
         "Fabrikant",
-        "",
+        "Výrobce",
         "Produttore",
     ],
     seats: [
@@ -246,7 +245,7 @@ export const translations = {
         "Sitze",
         "Places",
         "Zitplaatsen",
-        "",
+        "Sedadel",
         "Posti a sedere",
     ],
     class: [
@@ -254,7 +253,7 @@ export const translations = {
         "Klasse",
         "Classe",
         "Klasse",
-        "",
+        "Třída",
         "Classe",
     ],
     index: [
@@ -262,7 +261,7 @@ export const translations = {
         "Index",
         "",
         "Index",
-        "",
+        "Index",
         "Index",
     ],
     igc: [
@@ -270,7 +269,7 @@ export const translations = {
         "IGC",
         "IGC",
         "IGC",
-        "",
+        "IGC",
         "IGC",
     ],
 
@@ -280,7 +279,7 @@ export const translations = {
         "Flughafen",
         "Aéroport",
         "Vliegveld",
-        "",
+        "Letiště",
         "Aereoporto",
     ],
     airports: [
@@ -288,7 +287,7 @@ export const translations = {
         "Flughäfen",
         "",
         "Vliegvelds",
-        "",
+        "Letiště",
         "Aereoporti",
     ],
     radio: [
@@ -296,7 +295,7 @@ export const translations = {
         "Funk",
         "Radio",
         "Radio",
-        "",
+        "Rádio",
         "Radio",
     ],
     frequency: [
@@ -304,7 +303,7 @@ export const translations = {
         "Frequenz",
         "Fréquence",
         "Frequentie",
-        "",
+        "Frekvence",
         "Frequenza",
     ],
     description: [
@@ -312,7 +311,7 @@ export const translations = {
         "Beschreibung",
         "Description",
         "Omschrijving",
-        "",
+        "Popis",
         "Descrizione",
     ],
     type: [
@@ -320,7 +319,7 @@ export const translations = {
         "Typ",
         "Type",
         "Type",
-        "",
+        "Typ",
         "Tipo",
     ],
     category: [
@@ -328,7 +327,7 @@ export const translations = {
         "Kategorie",
         "Catégorie",
         "Categorie",
-        "",
+        "Kategorie",
         "Categoria",
     ],
     location: [
@@ -336,7 +335,7 @@ export const translations = {
         "Standort",
         "",
         "Lokatie",
-        "",
+        "Místo",
         "Posizione",
     ],
     timezone: [
@@ -344,7 +343,7 @@ export const translations = {
         "Zeitzone",
         "",
         "Tijdzone",
-        "",
+        "Časové pásmo",
         "Fuso orario",
     ],
     region: [
@@ -352,7 +351,7 @@ export const translations = {
         "Region",
         "Région",
         "Regio",
-        "",
+        "Region",
         "Regione",
     ],
     elevation: [
@@ -360,7 +359,7 @@ export const translations = {
         "Höhe",
         "Élévation",
         "Hoogte",
-        "",
+        "Výška",
         "Elevazione",
     ],
     usage: [
@@ -368,7 +367,7 @@ export const translations = {
         "Nutzung",
         "",
         "Gebruik",
-        "",
+        "Využití",
         "Utilizzo",
     ],
     coordinates: [
@@ -376,7 +375,7 @@ export const translations = {
         "Koordinaten",
         "Coordonnées",
         "Coördinaten",
-        "",
+        "Souřadnice",
         "Coordinate",
     ],
     latitudeAbbrev: [
@@ -384,7 +383,7 @@ export const translations = {
         "Lat.",
         "",
         "Lat.",
-        "",
+        "Lat",
         "Lat.",
     ],
     longitudeAbbrev: [
@@ -392,7 +391,7 @@ export const translations = {
         "Lon.",
         "",
         "Lon.",
-        "",
+        "Lon",
         "Lon.",
     ],
     runway: [
@@ -400,7 +399,7 @@ export const translations = {
         "Piste",
         "",
         "Baan",
-        "",
+        "Dráha",
         "Pista di decollo",
     ],
     length: [
@@ -408,7 +407,7 @@ export const translations = {
         "Länge",
         "",
         "Lengte",
-        "",
+        "Délka",
         "Lunghezza",
     ],
     width: [
@@ -416,7 +415,7 @@ export const translations = {
         "Breite",
         "",
         "Breedte",
-        "",
+        "Šířka",
         "Altezza",
     ],
     surface: [
@@ -424,7 +423,7 @@ export const translations = {
         "Oberfläche",
         "",
         "Soort",
-        "",
+        "Povrch",
         "Superficie",
     ],
     strength: [
@@ -432,7 +431,7 @@ export const translations = {
         "Stärke",
         "",
         "Sterkte",
-        "",
+        "Síla",
         "Potenza",
     ],
     glidingUsage: [
@@ -440,7 +439,7 @@ export const translations = {
         "Segelflugnutzung",
         "",
         "Zweefvliegterrein",
-        "",
+        "Plachtařské využití",
         "Piano di volo",
     ],
     reign: [
@@ -448,7 +447,7 @@ export const translations = {
         "Einflussgebiet",
         "",
         "Invloedgebied",
-        "",
+        "Oblast využití",
         "Area di influenza",
     ],
     launches: [
@@ -456,7 +455,7 @@ export const translations = {
         "Segelflugstarts",
         "",
         "Zweefvliegstarts",
-        "",
+        "Start kluzáku",
         "Decolli di alianti",
     ],
 
@@ -466,7 +465,7 @@ export const translations = {
         "Melde falsche Informationen",
         "Signale fausses informations",
         "Meld verkeerde informatie",
-        "",
+        "Hláška chybné informace",
         "Segnala informazioni false",
     ],
     logIn: [
@@ -474,7 +473,7 @@ export const translations = {
         "Einloggen",
         "Se connecter",
         "Inloggen",
-        "",
+        "Přihlásit se",
         "Accedi",
     ],
     signUp: [
@@ -482,7 +481,7 @@ export const translations = {
         "Registrieren",
         "S'inscrire",
         "Registreren",
-        "",
+        "Registrovat se",
         "Registrati",
     ],
     forgotPassword: [
@@ -490,7 +489,7 @@ export const translations = {
         "Passwort vergessen?",
         "Mot de passe oublié?",
         "Wachtwoord vergeten?",
-        "",
+        "Zapomenuté heslo?",
         "Password dimenticata?",
     ],
     verifyEmail: [
@@ -498,7 +497,7 @@ export const translations = {
         "Sende Verifizierungslink erneut",
         "",
         "Verstuur verificatie e-mail nogmaals",
-        "",
+        "Posílám nový potvrzovací odkaz",
         "Invia di nuovo il link di verifica",
     ],
     changePassword: [
@@ -506,7 +505,7 @@ export const translations = {
         "Passwort ändern",
         "Changer mon mot de passe",
         "Wachtwoord veranderen",
-        "",
+        "Změnit heslo",
         "Cambia password",
     ],
     resendVerification: [
@@ -514,7 +513,7 @@ export const translations = {
         "Verifizierungslink senden",
         "",
         "Verificatie e-mail versturen",
-        "",
+        "Poslat ověřovací odkaz",
         "Invia link di verifica",
     ],
     sendEmailAgain: [
@@ -522,7 +521,7 @@ export const translations = {
         "E-Mail erneut senden",
         "Envoyer l'email à nouveau",
         "Email nogmaals versturen",
-        "",
+        "Poslat znovu e-mail",
         "Invia email di nuovo",
     ],
     showStories: [
@@ -530,7 +529,7 @@ export const translations = {
         "Zeige Geschichten",
         "",
         "Laat verhalen zien",
-        "",
+        "Zobrazit průběh",
         "Mostra storie",
     ],
     showAllArticles: [
@@ -538,7 +537,7 @@ export const translations = {
         "Zeige alle Artikel",
         "",
         "Laat alle artikelen zien",
-        "",
+        "Zobrazit všechny příspěvky",
         "Mostra tutti gli articoli",
     ],
     showLatest: [
@@ -546,7 +545,7 @@ export const translations = {
         "Zeige Neueste",
         "",
         "Laatste bekijken",
-        "",
+        "Zobrazit nejnovější",
         "Mostra le ultime",
     ],
     showDaily: [
@@ -554,7 +553,7 @@ export const translations = {
         "Zeige Tagesbeste",
         "",
         "Beste bekijken",
-        "",
+        "Zobrazit dnes nejlepší",
         "Mostra articoli giornalieri",
     ],
     cancel: [
@@ -562,7 +561,7 @@ export const translations = {
         "Abbrechen",
         "Annuler",
         "Annuleer",
-        "",
+        "Zrušit",
         "Cancella",
     ],
     save: [
@@ -570,7 +569,7 @@ export const translations = {
         "Speichern",
         "",
         "Opslaan",
-        "",
+        "Uložit",
         "Salva",
     ],
     edit: [
@@ -578,7 +577,7 @@ export const translations = {
         "Bearbeiten",
         "",
         "Aanpassen",
-        "",
+        "Upravit",
         "Modifica",
     ],
     delete: [
@@ -586,7 +585,7 @@ export const translations = {
         "Löschen",
         "",
         "Verwijderen",
-        "",
+        "Smazat",
         "Elimina",
     ],
     show: [
@@ -594,7 +593,7 @@ export const translations = {
         "zeigen",
         "",
         "laten zien",
-        "",
+        "Zobrazit",
         "Mostra",
     ],
 
@@ -604,7 +603,7 @@ export const translations = {
         "Flug",
         "",
         "Vlucht",
-        "",
+        "Let",
         "Volo",
     ],
     flights: [
@@ -612,7 +611,7 @@ export const translations = {
         "Flüge",
         "",
         "Vluchten",
-        "",
+        "Lety",
         "Voli",
     ],
     allFlights: [
@@ -620,7 +619,7 @@ export const translations = {
         "Alle Flüge",
         "Tous les vols",
         "Alle vluchten",
-        "",
+        "Všechny lety",
         "Tutti i voli",
     ],
     flightDeleted: [
@@ -628,7 +627,7 @@ export const translations = {
         "Flug gelöscht",
         "",
         "Vlucht verwijderd",
-        "",
+        "Smazat let",
         "Volo Cancellato",
     ],
     flightSaved: [
@@ -636,7 +635,7 @@ export const translations = {
         "Flug gespeichert",
         "",
         "Vlucht opgeslagen",
-        "",
+        "Let uložen",
         "Volo salvato",
     ],
     flightDeleteConfirm: [
@@ -644,7 +643,7 @@ export const translations = {
         "Möchtest du diesen Flug wirklich löschen?",
         "",
         "Wil je deze vlucht echt verwijderen?",
-        "",
+        "Chceš tento let opravdu smazat?",
         "Vuoi veramente cancellare questo volo?",
     ],
 
@@ -654,7 +653,7 @@ export const translations = {
         "Junior*in",
         "",
         "Junior",
-        "",
+        "Junior",
         "Bambini",
     ],
     male: [
@@ -662,7 +661,7 @@ export const translations = {
         "Männlich",
         "Masculin",
         "Man",
-        "",
+        "Muž",
         "Maschi",
     ],
     female: [
@@ -670,7 +669,7 @@ export const translations = {
         "Weiblich",
         "Féminin",
         "Vrouw",
-        "",
+        "Žena",
         "Femmine",
     ],
     other: [
@@ -678,7 +677,7 @@ export const translations = {
         "Divers",
         "Sexe neutre",
         "Anders",
-        "",
+        "Jiné",
         "Altro",
     ],
     pilots: [
@@ -686,7 +685,7 @@ export const translations = {
         "Pilot*innen",
         "",
         "Vlieger",
-        "",
+        "Pilot",
         "Piloti",
     ],
 
@@ -696,7 +695,7 @@ export const translations = {
         "Flug öffnen",
         "",
         "Vlucht openen",
-        "",
+        "Otevřít let",
         "Apri il volo",
     ],
     compare: [
@@ -704,7 +703,7 @@ export const translations = {
         "Vergleichen",
         "",
         "Vergelijken",
-        "",
+        "Porovnat",
         "Confronta",
     ],
     remove: [
@@ -712,7 +711,7 @@ export const translations = {
         "Entfernen",
         "",
         "Verwijderen",
-        "",
+        "Odstranit",
         "Rimuovi",
     ],
 
@@ -722,7 +721,7 @@ export const translations = {
         "Frei",
         "",
         "Vrije",
-        "",
+        "Volný",
         "Senza",
     ],
     FR4: [
@@ -730,7 +729,7 @@ export const translations = {
         "Frei (DMSt)",
         "",
         "Vrije (DMSt)",
-        "",
+        "Volný (DMSt)",
         "Senza (DMSt)"
     ],
     GL: [
@@ -738,7 +737,7 @@ export const translations = {
         "Ziel",
         "",
         "Doel",
-        "",
+        "Cíl",
         "Obiettivo",
     ],
     TR: [
@@ -746,7 +745,7 @@ export const translations = {
         "Dreieck",
         "",
         "Driehoek",
-        "",
+        "Trojúhelník",
         "Triangolo",
     ],
     RT: [
@@ -754,7 +753,7 @@ export const translations = {
         "Viereck",
         "",
         "",
-        "",
+        "Čtyřúhelník",
         "Rettangolo",
     ],
     OR: [
@@ -762,7 +761,7 @@ export const translations = {
         "Zielrück",
         "",
         "Retour",
-        "",
+        "Návrat",
         "Ritorno",
     ],
     closed: [
@@ -770,7 +769,7 @@ export const translations = {
         "Geschlossen",
         "",
         "GEsloten",
-        "",
+        "Uzavřený",
         "Chiuso",
     ],
     open: [
@@ -778,7 +777,7 @@ export const translations = {
         "Offen",
         "",
         "Open",
-        "",
+        "Otevřený",
         "Aperto",
     ],
     unnamed: [
@@ -786,7 +785,7 @@ export const translations = {
         "Unbenannt",
         "",
         "Zonder naam",
-        "",
+        "Nepojmenovaný",
         "Senza nome",
     ],
 
@@ -796,7 +795,7 @@ export const translations = {
         "E-Mail",
         "Adresse e-mail",
         "Email",
-        "",
+        "E-mail",
         "Email",
     ],
     password: [
@@ -804,7 +803,7 @@ export const translations = {
         "Passwort",
         "Mot de passe",
         "Wachtwoord",
-        "",
+        "Heslo",
         "Password",
     ],
     name: [
@@ -812,7 +811,7 @@ export const translations = {
         "Vor- und Nachname",
         "Prénom et Nom",
         "Voor- en Achternaam",
-        "",
+        "Jméno a příjmení",
         "Nome e Cognome",
     ],
     birthdate: [
@@ -820,7 +819,7 @@ export const translations = {
         "Geburtsdatum",
         "Date de naissance",
         "Geboortedatum",
-        "",
+        "Datum narození",
         "Data di nascita",
     ],
     dateFormat: [
@@ -828,7 +827,7 @@ export const translations = {
         "z.B. 1960-01-25 (JJJJ-MM-DD)",
         "",
         "b.v. 1960-01-25 (JJJJ-MM-DD)",
-        "",
+        "např. 1960-01-25(JJJJ-MM-DD) ",
         "es. 1960-01-25 (YYYY-MM-DD)",
     ],
     club: [
@@ -836,7 +835,7 @@ export const translations = {
         "Verein",
         "Club",
         "Club",
-        "",
+        "Klub",
         "Club",
     ],
     textConfirm: [
@@ -844,7 +843,7 @@ export const translations = {
         "Ich habe die folgenden Dokumente gelesen und stimme zu:",
         "",
         "Ik heb de volgende documenten gelezen en ga akkoord:",
-        "",
+        "Přečetl jsem si následující dokumenty a souhlasím s nimi:",
         "Ho letto e accetto i seguenti documenti:",
     ],
     privacyPolicy: [
@@ -852,7 +851,7 @@ export const translations = {
         "Datenschutzerklärung",
         "",
         "Privacy Statement",
-        "",
+        "Prohlášení o ochraně osobních údajů",
         "Politica sulla Privacy",
     ],
     userAgreement: [
@@ -860,7 +859,7 @@ export const translations = {
         "Nutzungsbedingungen",
         "",
         "Voorwaarden",
-        "",
+        "Podmínky využití",
         "Accordo per gli utenti",
     ],
     subscribeNewsletter: [
@@ -868,7 +867,7 @@ export const translations = {
         "Abonniere unseren Newsletter",
         "Abonne-toi à notre newsletter",
         "Meld je aan voor de nieuwsbrief",
-        "",
+        "Chci odebírat zpravodaj",
         "Iscriviti alla nostra Newsletter",
     ],
     newPassword: [
@@ -876,7 +875,7 @@ export const translations = {
         "Neues Passwort",
         "Nouveau mot de passe",
         "Nieuw wachtwoord",
-        "",
+        "Nové heslo",
         "Nuova password",
     ],
     registration: [
@@ -884,7 +883,7 @@ export const translations = {
         "Registrierung (optional)",
         "",
         "Registreren (niet verpflicht)",
-        "",
+        "Registrace (opce)",
         "Registrazione (opzionale)",
     ],
     coPilotName: [
@@ -892,7 +891,7 @@ export const translations = {
         "Name Co-Pilot*in",
         "",
         "Tweede vlieger",
-        "",
+        "Jméno druhého pilota",
         "Nome copilota",
     ],
     coPilotDateOfBirth: [
@@ -900,7 +899,7 @@ export const translations = {
         "Co-Pilot Geburtsdatum",
         "",
         "Geboorte datum tweede vlieger",
-        "",
+        "Datum narození druhého pilota",
         "Data di nascita del copilota",
     ],
     competitionId: [
@@ -908,7 +907,7 @@ export const translations = {
         "Wettbewerbs-ID (optional)",
         "",
         "Wedstrijdnummer (niet verpflicht)",
-        "",
+        "Soutěžní znak (opce)",
         "ID Concorenza (opzionale)",
     ],
 
@@ -918,7 +917,7 @@ export const translations = {
         "Wir freuen uns dich in der Community zu begrüßen!",
         "Merci d'avoir rejoint WeGlide!",
         "Bedankt voor je aanmelding bij WeGlide!",
-        "",
+        "Těší nás, že tě můžeme přivítat v naší komunitě!",
         "Grazie per esserti unito a WeGilde!",
     ],
     urgeVerify: [
@@ -926,7 +925,7 @@ export const translations = {
         "Bitte verifiziere deine E-Mail Adresse über den Link den wir dir zugesendet haben.",
         "Merci de vérifier ton adresse e-mail en cliquant sur le lien que nous t'avons envoyé ",
         "Verifieer je email adres door op de link te klikken die we je net hebben gestuurd.",
-        "",
+        "Prosíme o potvrzení tvé e-mailové adresy přes odkaz, který jsme ti zaslali.",
         "Per favore verifica la tua email cliccando il link che ti è arrivato nella tua email",
     ],
     verifyInstructions: [
@@ -934,7 +933,7 @@ export const translations = {
         "Falls du keine E-Mail bekommen hast, warte eine Minute und prüfe deinen Spam-Ordner oder kontaktiere uns unter",
         "Si tu n'as pas recu de mail, attends une minute et regarde dans tes spams ou contactes nous",
         "Als je geen mail het gehad, wacht een paar minuten, controleer je spam folder of stuur ons een bericht.",
-        "",
+        "Pokud jsi žádný e-mail nedostal, počkej 1 minutu a případně prověř adresář Spam, nebo nás kontaktuj",
         "Se non hai ricevuto nessuna email, per favore aspetta un minuto e controlla la posta indesiderata o contattaci a",
     ],
     joinCommunity: [
@@ -942,7 +941,7 @@ export const translations = {
         "Werde Teil der Community!",
         " 	Rejoins la communauté!",
         "Neem deel aan WeGlide!",
-        "",
+        "Připojuji se ke komunitě!",
         "Unisciti alla community!",
     ],
     errorPrivacy: [
@@ -950,7 +949,7 @@ export const translations = {
         "Bitte akzeptiere die Nutzungsbedingungen und Datenschutzerklärung.",
         "Merci d'accepter les conditions d'utilisation et la déclaration de confidentialité.",
         "Accepteer onze voorwaarden en het privacy statement.",
-        "",
+        "Prosíme o potvrzení uživatelských podmínek a prohlášení o ochraně osobních údajů",
         "Per favore accetta le nostre normative sulla privacy e i termini.",
     ],
     errorCaptcha: [
@@ -958,7 +957,7 @@ export const translations = {
         "Bitte löse das Captcha um zu zeigen dass du ein Mensch bist.",
         "",
         "Los de Captcha op om zeker te zijn dat je geen robot bent.",
-        "",
+        "Potvrď, že nejsi robot",
         "Si prega di risolvere il captcha per verificare che non sei un robot",
     ],
     verifying: [
@@ -966,7 +965,7 @@ export const translations = {
         "E-Mail wird verifiziert",
         "Nous vérifions ton adresse e-mail",
         "Email wordt geverifieerd",
-        "",
+        "Ověřuji E-mail",
         "Verificando l'email",
     ],
     urgeLogIn: [
@@ -974,7 +973,7 @@ export const translations = {
         "Danach bitte einloggen",
         "Ensuite merci de vous connecter",
         "Daarna inloggen",
-        "",
+        "Poté se prosím přihlaš",
         "Puoi effettuare il login",
     ],
     requestVerification: [
@@ -982,7 +981,7 @@ export const translations = {
         "Neuen Verifizierungslink anfordern",
         "",
         "Vraag nieuwe verificatie link aan",
-        "",
+        "Prosím o zaslání nového potvrzovacího odkazu",
         "Richiedi un nuovo link di verifica",
     ],
     requestRecoverPassword: [
@@ -990,7 +989,7 @@ export const translations = {
         "Passwort-Wiederherstellung anfordern",
         "Demander la récupération de mon mot de passe",
         "Wachtwoord herstel aanvragen",
-        "",
+        "Prosím o vytvoření nového hesla",
         "Richiedi password di recupero",
     ],
     instructionsEmailed: [
@@ -998,7 +997,7 @@ export const translations = {
         "E-Mail gesendet, bitte folge den dort beschriebenen Anweisungen",
         "Nous vous avons envoyé un mail avec les instructions à suivre pour récupérer votre mot de passe",
         "Email verstuurd",
-        "",
+        "E-mail byl odeslán, pokračuj dle postupu popsaném v e-mailu",
         "Email inviata, segui le istruzioni al suo interno",
     ],
     recoverPassword: [
@@ -1006,7 +1005,7 @@ export const translations = {
         "Passwort Wiederherstellen",
         "récupérer mon mot de passe",
         "Wachtwoord herstellen",
-        "",
+        "Vytvořit nové heslo",
         "Password di recupero",
     ],
     choosePassword: [
@@ -1014,7 +1013,7 @@ export const translations = {
         "Wähle ein neues Passwort",
         "Choisir un nouveau mot de passe",
         "Stel een nieuw wachtwoord in",
-        "",
+        "Vyberte nové heslo",
         "Scegli una nuova password",
     ],
     resetInvalid: [
@@ -1022,7 +1021,7 @@ export const translations = {
         "Link zur Passwort-Wiederherstellung ist abgelaufen. Bitte fordere einen neuen an.",
         "Le lien pour récupérer ton mot de passse est éxpiré. Merci d'en demander un nouveau.",
         "Wachtwoord herstel link is niet meer geldig. Vraag een nieuwe aan.",
-        "",
+        "Čas odkazu na vytvoření nového hesla vypršel. Prosím vyžádej si nový odkaz ",
         "Il link per il recupero della password non è piu valido. Richiedine uno nuovo",
     ],
 
@@ -1032,7 +1031,7 @@ export const translations = {
         "Luftraum",
         "",
         "Luchtruim",
-        "",
+        "Vzdušný prostor",
         "Spazio aereo",
     ],
     airspaces: [
@@ -1040,7 +1039,7 @@ export const translations = {
         "Lufträume",
         "",
         "Luchtruimen",
-        "",
+        "Vzdušné prostory",
         "Spazi aerei",
     ],
     noAirspaceViolations: [
@@ -1048,7 +1047,7 @@ export const translations = {
         "Keine Lufträume durchflogen.",
         "",
         "Geen luchtruim schendingen.",
-        "",
+        "Nenarušeny žádné vzdušné prostory",
         "Nessuno spazio aereo incrociato",
     ],
 
@@ -1058,7 +1057,7 @@ export const translations = {
         "Ort zum Landen nicht gefunden",
         "",
         "Pagina niet gevonden",
-        "",
+        "Stránka nenalezena",
         "Pagina non trovata",
     ],
     pickMeUp: [
@@ -1066,7 +1065,7 @@ export const translations = {
         "Bring mich zurück",
         "",
         "Breng me terug",
-        "",
+        "Zpět",
         "Torna indietro",
     ],
 
@@ -1076,7 +1075,7 @@ export const translations = {
         "Suche",
         "",
         "Zoeken",
-        "",
+        "Hledat",
         "Cerca",
     ],
 
@@ -1086,7 +1085,7 @@ export const translations = {
         "Flugdetails",
         "",
         "Vluchtdetails",
-        "",
+        "Podrobnosti letu",
         "Dettagli del volo",
     ],
     wingmen: [
@@ -1094,7 +1093,7 @@ export const translations = {
         "Gefährten",
         "",
         "Wingmen",
-        "",
+        "Partner",
         "Amici",
     ],
     scoreProcessing: [
@@ -1102,7 +1101,7 @@ export const translations = {
         "Punkte werden berechnet,",
         "",
         "Bezig met scoren",
-        "",
+        "Probíhá výpočet",
         "Calcondo i punti".
     ],
     pleaseReload: [
@@ -1110,7 +1109,7 @@ export const translations = {
         "bitte lade die Seite neu.",
         "",
         "herlaad deze pagina.",
-        "",
+        "Načti stránku znovu",
         "Per favore ricarica la pagina.",
     ],
     points: [
@@ -1118,7 +1117,7 @@ export const translations = {
         "Punkte",
         "",
         "Punten",
-        "",
+        "Body",
         "Punti",
     ],
     invalid: [
@@ -1126,7 +1125,7 @@ export const translations = {
         "Ungültig",
         "",
         "Ongeldig",
-        "",
+        "Neplatné",
         "Non valido",
     ],
     invalidFlight: [
@@ -1134,7 +1133,7 @@ export const translations = {
         "Flugmeldung zu spät für diese Wertung",
         "",
         "Vlucht te laat ingediend voor deze wedstrijd",
-        "",
+        "Nahlášení letu příliš pozdě na vyhodnocení soutěže",
         "Il volo è stato richiesto troppo tardi per questo concorso",
     ],
     free: [
@@ -1142,7 +1141,7 @@ export const translations = {
         "Frei",
         "",
         "Vrije",
-        "",
+        "Volný",
         "Gratuito",
     ],
     speed: [
@@ -1150,7 +1149,7 @@ export const translations = {
         "Geschwindigkeit",
         "",
         "Snelheid",
-        "",
+        "Rychlost",
         "Velocità",
     ],
     triangle: [
@@ -1158,7 +1157,7 @@ export const translations = {
         "Dreieck",
         "",
         "Driehoek",
-        "",
+        "Trojúhelník",
         "Triangolo",
     ],
     rectangle: [
@@ -1166,7 +1165,7 @@ export const translations = {
         "Viereck",
         "",
         "Vierhoek",
-        "",
+        "Obdelník",
         "Rettangolo",
     ],
     declared: [
@@ -1174,7 +1173,7 @@ export const translations = {
         "Deklariert",
         "",
         "Gedeclareerd",
-        "",
+        "Deklarace",
         "Dichiarato",
     ],
     outReturn: [
@@ -1182,7 +1181,7 @@ export const translations = {
         "Zielrück",
         "",
         "Retour",
-        "",
+        "Návrat",
         "Ritorno",
     ],
     convexHull: [
@@ -1190,7 +1189,7 @@ export const translations = {
         "Konvexe Hülle",
         "",
         "Convex omhulsel",
-        "",
+        "Vypouklé pouzdro",
         "Scafo convesso",
     ],
     teSpeed: [
@@ -1198,7 +1197,7 @@ export const translations = {
         "EK Geschwindigkeit",
         "",
         "TE Snelheid",
-        "",
+        "EC rychlost",
         "Velocità ER",
     ],
     teSpeedDescription: [
@@ -1214,7 +1213,7 @@ export const translations = {
         "Deklarierte Aufgabe",
         "",
         "Gedeclareerde opdracht",
-        "",
+        "Deklarovaná úloha",
         "Incarichi dichiarati",
     ],
     declaredTaskDescription: [
@@ -1222,7 +1221,7 @@ export const translations = {
         "Vom Piloten vor dem Flug deklarierte Aufgabe",
         "",
         "De opdracht die voor de vlucht is gedeclareed",
-        "",
+        "Úloha deklarovaná před vzletem",
         "Incarichi dichiarati dal pilota prima del volo",
     ],
     statistics: [
@@ -1230,7 +1229,7 @@ export const translations = {
         "Statistiken",
         "",
         "Statistieken",
-        "",
+        "Statistika",
         "Statistiche",
     ],
     general: [
@@ -1238,7 +1237,7 @@ export const translations = {
         "Allgemein",
         "",
         "Algemeen",
-        "",
+        "Všeobecné",
         "Generale",
     ],
     distanceAbbrev: [
@@ -1246,7 +1245,7 @@ export const translations = {
         "Dist.",
         "",
         "Afst.",
-        "",
+        "Vzdálenost",
         "Dist.",
     ],
     windAbbrev: [
@@ -1254,7 +1253,7 @@ export const translations = {
         "Wind",
         "",
         "Wind",
-        "",
+        "Vítr",
         "Vento",
     ],
     speedAbbrev: [
@@ -1262,7 +1261,7 @@ export const translations = {
         "V",
         "V",
         "V",
-        "",
+        "Rychlost",
         "V",
     ],
     electric: [
@@ -1270,7 +1269,7 @@ export const translations = {
         "Elektrisch",
         "",
         "Electrisch",
-        "",
+        "Elektrický",
         "Elettricità",
     ],
     energyAbbrev: [
@@ -1278,7 +1277,7 @@ export const translations = {
         "Energie",
         "",
         "Energie",
-        "",
+        "Energie",
         "Energia",
     ],
     total: [
@@ -1286,7 +1285,7 @@ export const translations = {
         "Gesamt",
         "",
         "Totaal",
-        "",
+        "Celkem",
         "Totale",
     ],
     thermaling: [
@@ -1294,7 +1293,7 @@ export const translations = {
         "Thermik",
         "",
         "Thermiek",
-        "",
+        "Kroužení",
         "Termico",
     ],
     countAbbrev: [
@@ -1302,7 +1301,7 @@ export const translations = {
         "Anzahl",
         "",
         "Aantal",
-        "",
+        "Počet",
         "Numero",
     ],
     timeAbbrev: [
@@ -1310,7 +1309,7 @@ export const translations = {
         "Zeit",
         "",
         "Tijd",
-        "",
+        "Čas",
         "Tempo",
     ],
     averageAbbrev: [
@@ -1318,7 +1317,7 @@ export const translations = {
         "Schnitt",
         "",
         "Gem.",
-        "",
+        "Průměr",
         "Media",
     ],
     glide: [
@@ -1326,7 +1325,7 @@ export const translations = {
         "Gleiten",
         "",
         "Glijden",
-        "",
+        "Klouzavost",
         "Planare",
     ],
     ratioAbbrev: [
@@ -1334,7 +1333,7 @@ export const translations = {
         "Ratio",
         "",
         "Ratio",
-        "",
+        "Poměr",
         "Rapporto",
     ],
     detourAbbrev: [
@@ -1342,7 +1341,7 @@ export const translations = {
         "Umweg",
         "",
         "Omweg",
-        "",
+        "Navíc",
         "Deviazione",
     ],
     distance: [
@@ -1350,7 +1349,7 @@ export const translations = {
         "Distanz",
         "",
         "Afstand",
-        "",
+        "Vzdálenost",
         "Distanza",
     ],
     duration: [
@@ -1358,7 +1357,7 @@ export const translations = {
         "Dauer",
         "",
         "Duur",
-        "",
+        "Čas",
         "Durata",
     ],
     takeoff: [
@@ -1366,7 +1365,7 @@ export const translations = {
         "Start",
         "",
         "Start",
-        "",
+        "Start",
         "Partenza",
     ],
     landing: [
@@ -1374,7 +1373,7 @@ export const translations = {
         "Landung",
         "",
         "Landing",
-        "",
+        "Přistání",
         "Atterraggio",
     ],
     status: [
@@ -1382,7 +1381,7 @@ export const translations = {
         "Status",
         "",
         "Status",
-        "",
+        "Status",
         "Stato",
     ],
     flightValid: [
@@ -1390,7 +1389,7 @@ export const translations = {
         "Flug gültig",
         "",
         "Geldige vlucht",
-        "",
+        "Let je platný",
         "Volo valido",
     ],
     flightInvalid: [
@@ -1398,7 +1397,7 @@ export const translations = {
         "Flug ungültig",
         "",
         "Ongeldige vlucht",
-        "",
+        "Let je neplatný",
         "Volo non valido",
     ],
     flightPending: [
@@ -1406,7 +1405,7 @@ export const translations = {
         "Flug ausstehend",
         "",
         "Vlucht in afwachting",
-        "",
+        "Let čeká na zpracování",
         "Volo in attesa",
     ],
     filePending: [
@@ -1414,7 +1413,7 @@ export const translations = {
         "Datei ausstehend",
         "",
         "Bestand in afwachting",
-        "",
+        "Soubor čeká na zpracování",
         "File in attesa",
     ],
     fileHashValid: [
@@ -1422,7 +1421,7 @@ export const translations = {
         "Dateihash gültig",
         "",
         "Datahash geldig",
-        "",
+        "Soubor je platný",
         "Hash del file valido",
     ],
     fileIgcValid: [
@@ -1430,7 +1429,7 @@ export const translations = {
         "Vorläufig IGC valide",
         "",
         "IGC data geldig",
-        "",
+        "IGC data jsou předběžně platná",
         "CIG provvisoria valida",
     ],
     fileInvalid: [
@@ -1438,7 +1437,7 @@ export const translations = {
         "Datei vorläufig ungültig",
         "",
         "Data ongeldig",
-        "",
+        "Soubor je předběžně platný",
         "File non valido",
     ],
     comment: [
@@ -1446,7 +1445,7 @@ export const translations = {
         "Kommentar (optional)",
         "",
         "Opmerkingen (niet verplicht)",
-        "",
+        "Komentář (opce)",
         "Commento (opzionale)",
     ],
     outstart: [
@@ -1454,7 +1453,7 @@ export const translations = {
         "Außenstart",
         "",
         "Buitenstart",
-        "",
+        "Nenalezený start",
         "outstart",
     ],
     outlanding: [
@@ -1462,7 +1461,7 @@ export const translations = {
         "Außenlandung",
         "",
         "Buitenlanding",
-        "",
+        "Přistání do terénu",
         "outlanding",
     ],
     fileValid: [
@@ -1470,7 +1469,7 @@ export const translations = {
         "Keine Anmerkungen zur Analyse des Fluges.",
         "",
         "",
-        "",
+        "Žádné poznámky k analýze letu",
         "Nessuna osservazione analizzando questo volo.",
     ],
     loggerInformation: [
@@ -1478,7 +1477,7 @@ export const translations = {
         "Logger Informationen",
         "",
         "Logger informatie",
-        "",
+        "Informace ze zapisovače letu",
         "Registro informazioni",
     ],
     share: [
@@ -1486,7 +1485,7 @@ export const translations = {
         "Teilen",
         "",
         "Delen",
-        "",
+        "Sdílet",
         "Condividi",
     ],
     embed: [
@@ -1494,7 +1493,7 @@ export const translations = {
         "Einbetten",
         "",
         "Integreren",
-        "",
+        "Vložit",
         "Embed",
     ],
     showBarogram: [
@@ -1502,7 +1501,7 @@ export const translations = {
         "Barogram zeigen",
         "",
         "Laat barogram zien",
-        "",
+        "Zobrazit barozáznam",
         "Mostra barogramma",
     ],
     includeBBox: [
@@ -1510,7 +1509,7 @@ export const translations = {
         "Aktueller Ausschnitt",
         "",
         "Actuele uitsnede",
-        "",
+        "Aktuální výběr",
         "Riquadro di delimitazione",
     ],
     displayedFlights: [
@@ -1518,7 +1517,7 @@ export const translations = {
         "Angezeigte Flüge",
         "",
         "Zichtbare vluchten",
-        "",
+        "Zobrazené lety",
         "Voli visualizzati",
     ],
     similarFlights: [
@@ -1526,7 +1525,7 @@ export const translations = {
         "Ähnliche Flüge",
         "",
         "Gelijke vluchten",
-        "",
+        "Podobné lety",
         "Voli simili",
     ],
 
@@ -1536,7 +1535,7 @@ export const translations = {
         "Flugliste",
         "",
         "Vluchtenlijst",
-        "",
+        "Seznam letů",
         "Elenco dei voli",
     ],
     flightOverviewSwitch: [
@@ -1544,7 +1543,7 @@ export const translations = {
         "Karte",
         "",
         "Kaart",
-        "",
+        "Mapa",
         "Mappa",
     ],
     date: [
@@ -1552,7 +1551,7 @@ export const translations = {
         "Datum",
         "",
         "Datum",
-        "",
+        "Datum",
         "Data",
     ],
     pilot: [
@@ -1560,7 +1559,7 @@ export const translations = {
         "Pilot",
         "",
         "Vlieger",
-        "",
+        "Pilot",
         "Pilota",
     ],
     more: [
@@ -1568,7 +1567,7 @@ export const translations = {
         "Mehr",
         "",
         "Meer",
-        "",
+        "Více",
         "Altro",
     ],
     noFlightsFilter: [
@@ -1576,7 +1575,7 @@ export const translations = {
         "Keine Flüge mit diesen Filtern.",
         "",
         "Geen resultaten met deze filter",
-        "",
+        "Žádné lety dle parametrů vyhledávání",
         "Nessun volo con questi filtri",
     ],
 
@@ -1586,7 +1585,7 @@ export const translations = {
         "Flugübersicht",
         "",
         "Overzicht",
-        "",
+        "Náhled letu",
         "Panoramica volo",
     ],
     flightListSwitch: [
@@ -1594,7 +1593,7 @@ export const translations = {
         "Liste",
         "",
         "Lijst",
-        "",
+        "Seznam",
         "Lista",
     ],
 
@@ -1604,7 +1603,7 @@ export const translations = {
         "Flüge hochladen",
         "",
         "Vlucht uploaden",
-        "",
+        "Nahrát lety",
         "Carica volo",
     ],
     editFlight: [
@@ -1612,7 +1611,7 @@ export const translations = {
         "Flug bearbeiten",
         "",
         "VLucht aanpassen",
-        "",
+        "Upravit let",
         "Modifica volo",
     ],
 
