@@ -11,6 +11,7 @@ key: [
         "french",
         "dutch",
         "czech",
+        "italian",
 ]
 ```
 
@@ -20,6 +21,7 @@ key: [
 * @jasminthomas (French)
 * @CarstenSon (German)
 * @samuel-git (English, German)
+* @ITKewai (Italian)
 
 ## Contribute
 **Every help is greatly appreciated.**
