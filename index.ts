@@ -2347,12 +2347,12 @@ export const translations = {
         "WeGlide Speed Cup",
     ],
     electricDescription: [
-        "WeGlide FES Cup",
-        "WeGlide FES Cup",
+        "WeGlide electric cup",
+        "WeGlide Elektrik Cup",
         "",
-        "WeGlide FES-Cup",
-        "WeGlide FES Cup",
-        "WeGlide FES Cup",
+        "WeGlide electrisch cup",
+        "WeGlide elektrický cup",
+        "WeGlide Electric Cup",
     ],
 
     // Ranking config
