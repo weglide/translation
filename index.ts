@@ -709,6 +709,13 @@ export const translations = {
         "Heslo",
     ],
     name: [
+        "Name",
+        "Name",
+        "Nom",
+        "Naam",
+        "Jméno",
+    ],
+    fullName: [
         "First and last name",
         "Vor- und Nachname",
         "Prénom et Nom",
@@ -1359,7 +1366,7 @@ export const translations = {
     ],
     pilot: [
         "Pilot",
-        "Pilot",
+        "Pilot*in",
         "",
         "Vlieger",
         "Pilot",
@@ -1600,7 +1607,7 @@ export const translations = {
     ],
     fromByPilots: [
         "Built by Pilots for Pilots.",
-        "Entworfen von Piloten für Piloten.",
+        "Entworfen von Piloten für Pilot*innen.",
         "",
         "Gebouwd voor en door vliegers.",
         "Vytvořeno piloty pro piloty",
