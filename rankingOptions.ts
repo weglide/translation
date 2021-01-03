@@ -8,7 +8,7 @@ export const translations = {
         "Pilot*in",
         "",
         "Vlieger",
-        "",
+        "Pilot",
         "Pilota",
     ],
     club: [
@@ -16,7 +16,7 @@ export const translations = {
         "Verein",
         "",
         "Club",
-        "",
+        "Klub",
         "Club",
     ],
     club_total: [
@@ -24,7 +24,7 @@ export const translations = {
         "Verein Gesamt",
         "",
         "Club Totaal",
-        "",
+        "Klub celkem",
         "Club Totali",
     ],
     airport_total: [
@@ -32,7 +32,7 @@ export const translations = {
         "Flugplatz Gesamt",
         "",
         "Vliegveld Totaal",
-        "",
+        "Letiště celkem",
         "Aereoporti totali"
     ],
     // User
@@ -41,7 +41,7 @@ export const translations = {
         "Alle",
         "",
         "Alle",
-        "",
+        "Všichni",
         "Tutti",
     ],
     female: [
@@ -49,7 +49,7 @@ export const translations = {
         "Frauen",
         "",
         "Vrouw",
-        "",
+        "Ženy",
         "Femmine",
     ],
     junior: [
@@ -57,7 +57,7 @@ export const translations = {
         "Junior*innen",
         "",
         "Junior",
-        "",
+        "Junioři",
         "Bambini"
     ],
     // SC Class
@@ -66,7 +66,7 @@ export const translations = {
         "Offen",
         "",
         "Open",
-        "",
+        "Open",
         "Apri",
     ],
     18: [
@@ -74,7 +74,7 @@ export const translations = {
         "18m",
         "18m",
         "18m",
-        "",
+        "18m",
         "18m"
     ],
     15: [
@@ -82,7 +82,7 @@ export const translations = {
         "15m",
         "15m",
         "15m",
-        "",
+        "15m",
         "15m"
     ],
     ST: [
@@ -90,7 +90,7 @@ export const translations = {
         "Standard",
         "",
         "Standaard",
-        "",
+        "Standart",
         "Standard",
     ],
     CL: [
@@ -98,7 +98,7 @@ export const translations = {
         "Club",
         "",
         "Club",
-        "",
+        "Klub",
         "Club",
     ],
     DO: [
@@ -106,7 +106,7 @@ export const translations = {
         "Doppelsitzer",
         "",
         "Tweezitter",
-        "",
+        "Dojmístné",
         "Doppio",
     ]
 }
