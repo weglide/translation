@@ -858,7 +858,7 @@ export const translations = {
         "Privacy Policy",
         "Datenschutzerklärung",
         "Déclaration de confidentialité",
-        "Conditions d'utilisation",
+        "Privacy Statement",	
         "Prohlášení o ochraně osobních údajů",
         "Politica sulla Privacy",
     ],
@@ -1110,7 +1110,7 @@ export const translations = {
         "Calculation des points en cours,",
         "Bezig met scoren",
         "Probíhá výpočet",
-        "Calcondo i punti".
+        "Calcondo i punti",
     ],
     pleaseReload: [
         "please reload this page.",
