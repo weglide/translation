@@ -9,6 +9,7 @@ export const translations = {
         "",
         "Vlieger",
         "Pilot",
+        "Pilota",
     ],
     club: [
         "Club",
@@ -16,6 +17,7 @@ export const translations = {
         "",
         "Club",
         "Klub",
+        "Club",
     ],
     club_total: [
         "Club Total",
@@ -23,6 +25,7 @@ export const translations = {
         "",
         "Club Totaal",
         "Klub celkem",
+        "Club Totali",
     ],
     airport_total: [
         "Airport Total",
@@ -30,6 +33,7 @@ export const translations = {
         "",
         "Vliegveld Totaal",
         "Letiště celkem",
+        "Aereoporti totali"
     ],
     // User
     ALL: [
@@ -38,6 +42,7 @@ export const translations = {
         "",
         "Alle",
         "Všichni",
+        "Tutti",
     ],
     female: [
         "Women",
@@ -45,6 +50,7 @@ export const translations = {
         "",
         "Vrouw",
         "Ženy",
+        "Femmine",
     ],
     junior: [
         "Juniors",
@@ -52,6 +58,7 @@ export const translations = {
         "",
         "Junior",
         "Junioři",
+        "Bambini"
     ],
     // SC Class
     OP: [
@@ -60,6 +67,7 @@ export const translations = {
         "",
         "Open",
         "Open",
+        "Apri",
     ],
     18: [
         "18m",
@@ -67,6 +75,7 @@ export const translations = {
         "18m",
         "18m",
         "18m",
+        "18m"
     ],
     15: [
         "15m",
@@ -74,6 +83,7 @@ export const translations = {
         "15m",
         "15m",
         "15m",
+        "15m"
     ],
     ST: [
         "Standard",
@@ -81,6 +91,7 @@ export const translations = {
         "",
         "Standaard",
         "Standart",
+        "Standard",
     ],
     CL: [
         "Club",
@@ -88,6 +99,7 @@ export const translations = {
         "",
         "Club",
         "Klub",
+        "Club",
     ],
     DO: [
         "Double",
@@ -95,6 +107,7 @@ export const translations = {
         "",
         "Tweezitter",
         "Dojmístné",
+        "Doppio",
     ]
 }
 
