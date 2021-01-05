@@ -1489,7 +1489,7 @@ export const translations = {
         "Sleeptijd mag geen onderdeel zijn van het scoringsgebied.",
         "Ujistětě se, že ve vyhodnocení neobsahuje let v aerovleku",
     ],
-    scoringiNotice: [
+    scoringFesNotice: [
         "Airplane with electric propulsion selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
         "Flugzeug mit elektrischem Antrieb ausgewählt. Bitte prüfe, dass die Wertungsfenster keinen Motorlauf (gelb) beinhalten.",
         "",
