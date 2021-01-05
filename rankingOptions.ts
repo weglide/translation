@@ -6,7 +6,7 @@ export const translations = {
     pilot: [
         "Pilot",
         "Pilot*in",
-        "",
+        "Pilote",
         "Vlieger",
         "Pilot",
         "Pilota",
@@ -14,7 +14,7 @@ export const translations = {
     club: [
         "Club",
         "Verein",
-        "",
+        "Club",
         "Club",
         "Klub",
         "Club",
@@ -22,7 +22,7 @@ export const translations = {
     club_total: [
         "Club Total",
         "Verein Gesamt",
-        "",
+        "Club total",
         "Club Totaal",
         "Klub celkem",
         "Club Totali",
@@ -30,7 +30,7 @@ export const translations = {
     airport_total: [
         "Airport Total",
         "Flugplatz Gesamt",
-        "",
+        "Aérodrome total",
         "Vliegveld Totaal",
         "Letiště celkem",
         "Aereoporti totali"
@@ -39,7 +39,7 @@ export const translations = {
     ALL: [
         "All",
         "Alle",
-        "",
+        "Tous",
         "Alle",
         "Všichni",
         "Tutti",
@@ -47,7 +47,7 @@ export const translations = {
     female: [
         "Women",
         "Frauen",
-        "",
+        "Femmes",
         "Vrouw",
         "Ženy",
         "Femmine",
@@ -55,7 +55,7 @@ export const translations = {
     junior: [
         "Juniors",
         "Junior*innen",
-        "",
+        "Junior",
         "Junior",
         "Junioři",
         "Bambini"
@@ -64,7 +64,7 @@ export const translations = {
     OP: [
         "Open",
         "Offen",
-        "",
+        "Libre",
         "Open",
         "Open",
         "Apri",
@@ -88,7 +88,7 @@ export const translations = {
     ST: [
         "Standard",
         "Standard",
-        "",
+        "Standard",
         "Standaard",
         "Standart",
         "Standard",
@@ -96,7 +96,7 @@ export const translations = {
     CL: [
         "Club",
         "Club",
-        "",
+        "Club",
         "Club",
         "Klub",
         "Club",
@@ -104,7 +104,7 @@ export const translations = {
     DO: [
         "Double",
         "Doppelsitzer",
-        "",
+        "Biplace",
         "Tweezitter",
         "Dojmístné",
         "Doppio",
