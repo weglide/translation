@@ -2330,7 +2330,7 @@ export const translations = {
         "Německý šampionát",
         "Campionato tedesco",
     ],
-    plusDescription: [
+    freeDescription: [
         "WeGlide Distance Cup",
         "WeGlide Distanz Cup",
         "Compétition de distance WeGlide",
