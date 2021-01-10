@@ -10,13 +10,18 @@ key: [
         "german",
         "french",
         "dutch",
+        "czech",
+        "italian",
 ]
 ```
 
 # Contributors
 * @Fuchur777 (Dutch)
-* @jasminthomas (little bit of french)
+* @Vratislav (Czech)
+* @jasminthomas (French)
+* @CarstenSon (German)
 * @samuel-git (English, German)
+* @ITKewai (Italian)
 
 ## Contribute
 **Every help is greatly appreciated.**
