@@ -918,6 +918,30 @@ export const translations = {
         "Soutěžní znak (opce)",
         "ID Concorenza (opzionale)",
     ],
+    year: [
+        "Year",
+        "Jahr",
+        "An",
+        "Jaar",
+        "Rok",
+        "Anno"
+    ],
+    month: [
+        "Month",
+        "Monat",
+        "Mois",
+        "Maand",
+        "Měsíc",
+        "Mese"
+    ],
+    day: [
+        "Day",
+        "Tag",
+        "Journée",
+        "Dag",
+        "Den",
+        "Giorno"
+    ],
 
     // Authentication
     joinThanks: [
