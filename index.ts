@@ -1440,13 +1440,13 @@ export const translations = {
         "Soubor čeká na zpracování",
         "File in attesa",
     ],
-    fileHashValid: [
-        "file hash valid",
-        "Dateihash gültig",
-        "Hash du fichier valide",
-        "Datahash geldig",
-        "Soubor je platný",
-        "Hash del file valido",
+    fileWeGlideValid: [
+        "WeGlide valid",
+        "WeGlide gültig",
+        "WeGlide valide",
+        "WeGlide geldig",
+        "WeGlide platný",
+        "WeGlide valido",
     ],
     fileIgcValid: [
         "interim IGC valid",
