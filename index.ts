@@ -858,7 +858,7 @@ export const translations = {
         "Privacy Policy",
         "Datenschutzerklärung",
         "Déclaration de confidentialité",
-        "Privacy Statement",	
+        "Privacy Statement",
         "Prohlášení o ochraně osobních údajů",
         "Politica sulla Privacy",
     ],
@@ -2135,6 +2135,14 @@ export const translations = {
         "Regenradar",
         "Srážkový radar",
         "Radar pioggia",
+    ],
+    thermalMaps: [
+        "Thermal maps",
+        "Thermikkarten",
+        "Cartes thermiques",
+        "Thermische kaarten",
+        "Termální mapy",
+        "Mappe termiche"
     ],
 
     // Navigation
