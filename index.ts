@@ -2570,6 +2570,14 @@ export const translations = {
         "Dosud žádná úloha, naplánuj!",
         "Nessun obbiettivo, provvedi a selezionarne uno",
     ],
+    noTaskInFile: [
+        "No valid task in file found",
+        "Keine gültige Aufgabe in der Datei gefunden",
+        "Aucune tâche valide trouvée dans le fichier",
+        "Geen geldige taak in bestand gevonden",
+        "V souboru nebyl nalezen žádný platný úkol",
+        "Nessuna attività valida nel file trovata"
+    ],
     position: [
         "Position",
         "Position",
