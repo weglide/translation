@@ -346,6 +346,14 @@ export const translations = {
         "Časové pásmo",
         "Fuso orario",
     ],
+    country: [
+        "Country",
+        "Land",
+        "Pays",
+        "Land",
+        "Země",
+        "Nazione",
+    ],
     region: [
         "Region",
         "Region",
