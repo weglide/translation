@@ -756,6 +756,14 @@ export const translations = {
         "Trojúhelník",
         "Triangolo",
     ],
+    MTR: [
+        "Multi Triangle",
+        "Mehrfachdreieck",
+        "Triangle multiple",
+        "Multi Driehoek",
+        "Multi Trojúhelník",
+        "MultiTriangolo",
+    ],
     RT: [
         "Rectangle",
         "Viereck",
@@ -763,6 +771,14 @@ export const translations = {
         "Firkant",
         "Čtyřúhelník",
         "Rettangolo",
+    ],
+    MRT: [
+        "Multi Rectangle",
+        "Mehrfachviereck",
+        "Quadrilatère multiple",
+        "Multi Firkant",
+        "Multi Čtyřúhelník",
+        "Multi Rettangolo",
     ],
     OR: [
         "Out and Return",
@@ -2553,14 +2569,6 @@ export const translations = {
         "Favorieten",
         "Oblíbené",
         "Preferiti",
-    ],
-    myTasks: [
-        "My tasks",
-        "Meine Aufgaben",
-        "Mes performances",
-        "Mijn opdrachten",
-        "Moje úlohy",
-        "I miei obbiettivi",
     ],
     declare: [
         "Declare",
