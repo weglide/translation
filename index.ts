@@ -276,7 +276,7 @@ export const translations = {
     // Airport
     airport: [
         "Airport",
-        "Flughafen",
+        "Flugplatz",
         "Aéroport",
         "Vliegveld",
         "Letiště",
@@ -284,7 +284,7 @@ export const translations = {
     ],
     airports: [
         "Airports",
-        "Flughäfen",
+        "Flugplätze",
         "Aéroports",
         "Vliegvelden",
         "Letiště",
@@ -941,6 +941,14 @@ export const translations = {
         "Wedstrijdnummer (niet verpflicht)",
         "Soutěžní znak (opce)",
         "ID Concorenza (opzionale)",
+    ],
+    scoreClubClass: [
+        "Score flight in club class",
+        "Werte den Flug in der Clubklasse",
+        "Marquer le vol en classe club",
+        "Scoor de vlucht in clubklasse",
+        "Skóre letu v klubové třídě",
+        "Punteggio del volo in classe club"
     ],
     year: [
         "Year",
@@ -2404,7 +2412,7 @@ export const translations = {
     ],
     electricDescription: [
         "WeGlide electric cup",
-        "WeGlide Elektrik Cup",
+        "WeGlide Electric Cup",
         "Compétition électrique WeGlide",
         "WeGlide electrisch cup",
         "WeGlide elektrický cup",
