@@ -1376,6 +1376,30 @@ export const translations = {
         "Průměr",
         "Media",
     ],
+    radius: [
+        "Radius",
+        "Radius",
+        "Rayon",
+        "Straal",
+        "Poloměr",
+        "Raggio"
+    ],
+    climb: [
+        "Climb",
+        "Steigen",
+        "Monter",
+        "Stijgen",
+        "Šplhat",
+        "Scalata"
+    ],
+    bank: [
+        "Bank",
+        "Neigung",
+        "Banque",
+        "Bank",
+        "Banka",
+        "Banca"
+    ],
     glide: [
         "Glide",
         "Gleiten",
