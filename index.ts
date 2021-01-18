@@ -1219,7 +1219,7 @@ export const translations = {
     triangle: [
         "Triangle",
         "Dreieck",
-        "",
+        "Triangle",
         "Driehoek",
         "Trojúhelník",
         "Triangolo",
@@ -1232,7 +1232,7 @@ export const translations = {
         "Obdelník",
         "Rettangolo",
     ],
-    declared: [
+    declaration: [
         "Declared",
         "Deklariert",
         "Déclaré",
