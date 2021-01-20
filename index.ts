@@ -309,7 +309,7 @@ export const translations = {
     // Airport
     airport: [
         "Airport",
-        "Flughafen",
+        "Flugplatz",
         "Aéroport",
         "Vliegveld",
         "Letiště",
@@ -318,7 +318,7 @@ export const translations = {
     ],
     airports: [
         "Airports",
-        "Flughäfen",
+        "Flugplätze",
         "Aéroports",
         "Vliegvelden",
         "Letiště",
@@ -847,6 +847,14 @@ export const translations = {
         "Triangolo",
         "Trójkąt",
     ],
+    MTR: [
+        "Multi Triangle",
+        "Mehrfachdreieck",
+        "Triangle multiple",
+        "Multi Driehoek",
+        "Multi Trojúhelník",
+        "MultiTriangolo",
+    ],
     RT: [
         "Rectangle",
         "Viereck",
@@ -855,6 +863,14 @@ export const translations = {
         "Čtyřúhelník",
         "Rettangolo",
         "Prostokąt",
+    ],
+    MRT: [
+        "Multi Rectangle",
+        "Mehrfachviereck",
+        "Quadrilatère multiple",
+        "Multi Firkant",
+        "Multi Čtyřúhelník",
+        "Multi Rettangolo",
     ],
     OR: [
         "Out and Return",
@@ -1037,6 +1053,14 @@ export const translations = {
         "Soutěžní znak (opce)",
         "ID Concorenza (opzionale)",
         "ID konkurecncji (opcjonalnie)",
+    ],
+    scoreClubClass: [
+        "Score flight in club class",
+        "Werte den Flug in der Clubklasse",
+        "Marquer le vol en classe club",
+        "Scoor de vlucht in clubklasse",
+        "Skóre letu v klubové třídě",
+        "Punteggio del volo in classe club"
     ],
     year: [
         "Year",
@@ -1336,7 +1360,7 @@ export const translations = {
     triangle: [
         "Triangle",
         "Dreieck",
-        "",
+        "Triangle",
         "Driehoek",
         "Trojúhelník",
         "Triangolo",
@@ -1351,7 +1375,7 @@ export const translations = {
         "Rettangolo",
         "Prostokąt",
     ],
-    declared: [
+    declaration: [
         "Declared",
         "Deklariert",
         "Déclaré",
@@ -1512,6 +1536,30 @@ export const translations = {
         "Průměr",
         "Media",
         "Średnia",
+    ],
+    radius: [
+        "Radius",
+        "Radius",
+        "Rayon",
+        "Straal",
+        "Poloměr",
+        "Raggio"
+    ],
+    climb: [
+        "Climb",
+        "Steigen",
+        "Monter",
+        "Stijgen",
+        "Šplhat",
+        "Scalata"
+    ],
+    bank: [
+        "Bank",
+        "Neigung",
+        "Banque",
+        "Bank",
+        "Banka",
+        "Banca"
     ],
     glide: [
         "Glide",
@@ -2673,7 +2721,7 @@ export const translations = {
     ],
     electricDescription: [
         "WeGlide electric cup",
-        "WeGlide Elektrik Cup",
+        "WeGlide Electric Cup",
         "Compétition électrique WeGlide",
         "WeGlide electrisch cup",
         "WeGlide elektrický cup",
@@ -2858,15 +2906,6 @@ export const translations = {
         "Oblíbené",
         "Preferiti",
         "Ulubione",
-    ],
-    myTasks: [
-        "My tasks",
-        "Meine Aufgaben",
-        "Mes performances",
-        "Mijn opdrachten",
-        "Moje úlohy",
-        "I miei obbiettivi",
-        "Moje zadania",
     ],
     declare: [
         "Declare",
