@@ -12,6 +12,7 @@ key: [
         "dutch",
         "czech",
         "italian",
+        "polish"
 ]
 ```
 
@@ -22,6 +23,7 @@ key: [
 * @CarstenSon (German)
 * @samuel-git (English, German)
 * @ITKewai (Italian)
+* @grzesie (Polish)
 
 ## Contribute
 **Every help is greatly appreciated.**
