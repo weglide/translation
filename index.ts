@@ -1510,6 +1510,15 @@ export const translations = {
         "Termico",
         "Termiczne",
     ],
+    circling: [
+        "Circling",
+        "Kreisen",
+        "Encerclant",
+        "Cirkelen",
+        "Krouží",
+        "Girando",
+        "Krążą",
+    ],
     countAbbrev: [
         "Count",
         "Anzahl",
@@ -2889,8 +2898,17 @@ export const translations = {
         "Tutti",
         "Wszystkie",
     ],
-    my: [
-        "My",
+    explore: [
+        "Explore",
+        "Entdecken",
+        "Explorer",
+        "Verkennen",
+        "Prozkoumat",
+        "Esplorare",
+        "Badać",
+    ],
+    mine: [
+        "Mine",
         "Meine",
         "Mes",
         "Mijn",
