@@ -1,4 +1,4 @@
-import { i18nStore } from "@/shared/store"
+import { i18nStore } from "@/weglide/store"
 
 // API error code translation
 export const translations = {

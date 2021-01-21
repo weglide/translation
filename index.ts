@@ -1,4 +1,4 @@
-import { i18nStore } from "@/shared/store"
+import { i18nStore } from "@/weglide/store"
 
 // Main translation
 export const translations = {
