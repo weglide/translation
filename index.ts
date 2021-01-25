@@ -724,14 +724,14 @@ export const translations = {
         "Volo salvato",
         "Lot zapisany",
     ],
-    flightDeleteConfirm: [
-        "Do you really want to delete this flight?",
-        "Möchtest du diesen Flug wirklich löschen?",
-        "Veux-tu vraiment supprimer ce vol?",
-        "Wil je deze vlucht echt verwijderen?",
-        "Chceš tento let opravdu smazat?",
-        "Vuoi veramente cancellare questo volo?",
-        "Czy na pewno chcesz usunąć ten lot?",
+    deleteConfirm: [
+        "Really delete?",
+        "Wirklich löschen?",
+        "Vraiment supprimer?",
+        "Echt verwijderen?",
+        "Opravdu smazat?",
+        "Eliminare davvero?",
+        "Naprawdę usunąć?",
     ],
 
     // User
