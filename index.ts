@@ -1402,6 +1402,15 @@ export const translations = {
         "Scafo convesso",
         "Powłoka wypukła",
     ],
+    calculation: [
+        "Calculation",
+        "Berechnung",
+        "Calcul",
+        "Berekening",
+        "Výpočet",
+        "Calcolo",
+        "Obliczenie",
+    ],
     teSpeed: [
         "EC Speed",
         "EK Geschwindigkeit",
