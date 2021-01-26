@@ -1384,7 +1384,7 @@ export const translations = {
         "Dichiarato",
         "Zadeklarowany",
     ],
-    outReturn: [
+    out_return: [
         "Out and Return",
         "Zielrück",
         "Aller-retour",
@@ -1393,7 +1393,7 @@ export const translations = {
         "Ritorno",
         "Powrót",
     ],
-    convexHull: [
+    convex_hull: [
         "Convex Hull",
         "Konvexe Hülle",
         "Enveloppe convexe",
