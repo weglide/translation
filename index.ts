@@ -2746,14 +2746,14 @@ export const translations = {
         "WeGlide Ritorn Cup",
         "Puchar powrót WeGlide",
     ],
-    outDescription: [
-        "WeGlide Out Cup",
-        "WeGlide Ziel Cup",
-        "Compétition de aller WeGlide",
-        "WeGlide out cup",
-        "WeGlide Cup - návrat",
-        "WeGlide Out Cup",
-        "Puchar Out WeGlide",
+    exploreDescription: [
+        "WeGlide Explore Cup",
+        "WeGlide Entdeckungs Cup",
+        "Compétition de explorer WeGlide",
+        "WeGlide explore cup",
+        "WeGlide Cup - explore",
+        "WeGlide Explore Cup",
+        "Puchar explore WeGlide",
     ],
     electricDescription: [
         "WeGlide electric cup",
