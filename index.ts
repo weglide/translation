@@ -2225,14 +2225,14 @@ export const translations = {
         "Media",
         "Media",
     ],
-    pressKit: [
-        "Press Kit",
-        "Pressekit",
-        "Kit de presse",
-        "Pers kit",
-        "PR podklady",
-        "Kit di stampa",
-        "Dokumenty prasowe",
+    press: [
+        "Press",
+        "Presse",
+        "Presse",
+        "Pers",
+        "PR",
+        "Stampa",
+        "Prasowe",
     ],
     services: [
         "Services",
@@ -2736,6 +2736,15 @@ export const translations = {
         "WeGlide Cup - rychlost",
         "WeGlide Speed Cup",
         "Puchar prędkości WeGlide",
+    ],
+    outReturnDescription: [
+        "WeGlide Out & Return Cup",
+        "WeGlide Zielrück Cup",
+        "Compétition de aller-retour WeGlide",
+        "WeGlide retourcup",
+        "WeGlide Cup - návrat",
+        "WeGlide Ritorn Cup",
+        "Puchar powrót WeGlide",
     ],
     electricDescription: [
         "WeGlide electric cup",
