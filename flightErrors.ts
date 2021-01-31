@@ -228,8 +228,8 @@ export const translations = {
         "Twarde ograniczenia czasowe ({} sekund) pomiędzy pomiarami prawie przekroczone w {}, interwał bez logowania wynosi {} sekund.",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING: [
-        "Hard time constraint ({} seconds) between fixes exceeded at {}, interval without logging is {} seconds.",
-        "Hartes Zeitlimit ({} Sekunden) zwischen GPS-Werten überschritten um {}, Spanne ohne Aufzeichnung sind {} Sekunden.",
+        "Hard time constraint ({} seconds) between fixes exceeded outside scoring intervals at {}, interval without logging is {} seconds.",
+        "Hartes Zeitlimit ({} Sekunden) zwischen GPS-Werten außerhalb der Wertungsfenster überschritten um {}, Spanne ohne Aufzeichnung sind {} Sekunden.",
         "Limite de temps 'dure' ({} secondes) entre les données de trace GPS dépassée de {}, la période de temps sans enregistrement de trace GPS est de {} secondes.",
         "Harde tijdsinterval ({} seconden) tussen fixes overschreden om {}, interval zonder log is {} seconden.",
         "",
