@@ -2500,12 +2500,40 @@ export const translations = {
         "Cartes thermiques",
         "Thermische kaarten",
         "Termální mapy",
-        "Mappe termiche"
+        "Mappe termiche",
+        "Mapy Termiczne"
+    ],
+    start: [
+        "Start",
+        "Start",
+        "Début",
+        "Begin",
+        "Začátek",
+        "Inizio",
+        "Początek",
+    ],
+    end: [
+        "End",
+        "Ende",
+        "Fin",
+        "Einde",
+        "Konec",
+        "Fine",
+        "Koniec",
+    ],
+    range: [
+        "Range",
+        "Bereich",
+        "Gamme",
+        "Bereik",
+        "Rozsah",
+        "Gamma",
+        "Zasięg",
     ],
 
     // Navigation
-    start: [
-        "Start",
+    home: [
+        "Home",
         "Start",
         "Départ",
         "Start",
