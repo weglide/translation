@@ -2169,7 +2169,7 @@ export const translations = {
         "Partner",
         "Partner",
     ],
-    sponsors: [
+    supporter: [
         "Funded by",
         "Gefördert durch",
         "Soutenu par",
@@ -2178,6 +2178,16 @@ export const translations = {
         "Fondato da",
         "Założono przez",
     ],
+    sponsors: [
+        "Sponsors",
+        "Sponsoren",
+        "Les sponsors",
+        "Sponsors",
+        "Sponzoři",
+        "Sponsor",
+        "Sponsorzy",
+    ],
+
     logoLang: [
         "EN",
         "DE",
