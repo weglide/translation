@@ -3008,6 +3008,15 @@ export const translations = {
         "Non dichiarato",
         "usuń deklarację",
     ],
+    validFor: [
+        "Valid for",
+        "Gültig für",
+        "Valable",
+        "Geldig voor",
+        "Platný pro",
+        "Valido per",
+        "Ważny przez",
+    ],
     newTask: [
         "New task",
         "Neue Aufgabe",
