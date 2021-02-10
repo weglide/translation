@@ -2945,6 +2945,15 @@ export const translations = {
     ],
 
     // Task
+    loadMore: [
+        "Load more",
+        "Mehr laden",
+        "Charger plus",
+        "Meer laden",
+        "Načíst další",
+        "Carica di più",
+        "Załaduj więcej",
+    ],
     tasks: [
         "Tasks",
         "Aufgaben",
