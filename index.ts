@@ -1060,7 +1060,8 @@ export const translations = {
         "Marquer le vol en classe club",
         "Scoor de vlucht in clubklasse",
         "Skóre letu v klubové třídě",
-        "Punteggio del volo in classe club"
+        "Punteggio del volo in classe club",
+        "Doceń lot w klasie klubowej",
     ],
     year: [
         "Year",
@@ -1068,7 +1069,8 @@ export const translations = {
         "An",
         "Jaar",
         "Rok",
-        "Anno"
+        "Anno",
+        "Rok",
     ],
     month: [
         "Month",
@@ -1076,15 +1078,26 @@ export const translations = {
         "Mois",
         "Maand",
         "Měsíc",
-        "Mese"
+        "Mese",
+        "Miesiąc",
     ],
     day: [
         "Day",
         "Tag",
-        "Journée",
+        "Jour",
         "Dag",
         "Den",
-        "Giorno"
+        "Giorno",
+        "Dzień",
+    ],
+    days: [
+        "Days",
+        "Tage",
+        "Jours",
+        "Dagen",
+        "Dnů",
+        "Giorni",
+        "Dni"
     ],
 
     // Authentication
@@ -1428,6 +1441,15 @@ export const translations = {
         "",
         "Velocità compensata dall'energia relativa al compito",
         "",
+    ],
+    declareFor: [
+        "Declare this task for",
+        "Deklariere diese Aufgabe für",
+        "Déclarez cette tâche pendant",
+        "Declareer deze taak voor",
+        "Deklarujte tento úkol po dobu",
+        "Dichiara questa attività per",
+        "Zadeklaruj to zadanie na",
     ],
     declaredTask: [
         "Declared Task",
