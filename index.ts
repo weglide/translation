@@ -2360,15 +2360,6 @@ export const translations = {
         "Notizie",
         "Magazyn",
     ],
-    magazineFeatures: [
-        "WeGlide provides interactive flight data and maps to every story, video or article.",
-        "WeGlide stellt interaktive Flugdaten und Karten zu jeder Geschichte, jedem Video oder Artikel.",
-        "WeGlide propose des données des vols et des cartes interactives pour chaque récit, chaque vidéo et chaque article.",
-        "WeGlide biedt interactieve vluchtgegevens en kaarten voor elk verhaal, video of artikel.",
-        "Weglide poskytuje elektronická letová data, mapy, videa a články",
-        "WeGlide fornisce dati di volo interattivi e mappe per ogni storia, video o articolo.",
-        "WeGlide dostarcza interaktywne dane lotów oraz mapy do każdej relacji, wideo albo artykułu."
-    ],
     competitions: [
         "Competitions",
         "Wettbewerbe",
@@ -2436,14 +2427,14 @@ export const translations = {
     ],
 
     // Map layer
-    mapLayer: [
-        "Map layer",
+    map: [
+        "Map",
         "Karte",
         "Carte",
         "Kaart",
-        "Mapové vrstvy",
+        "Mapa",
         "Carta geografica",
-        "Warstwa mapy",
+        "Mapa",
     ],
     comingSoon: [
         "Coming soon",
@@ -2489,6 +2480,15 @@ export const translations = {
         "Zájmové body",
         "Punti di interesse",
         "Punkty zainteresowań",
+    ],
+    landingFields: [
+        "Landing fields",
+        "Landewiesen",
+        "Champs d'atterrissage",
+        "Landingsvelden",
+        "Přistávací pole",
+        "Campi di atterraggio",
+        "Lądowiska"
     ],
     weather: [
         "Weather",
