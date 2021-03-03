@@ -314,7 +314,7 @@ export const translations = {
         "Consenti l'apertura con SeeYou per i miei voli",
         "Zezwalaj na otwarcie z SeeYou dla moich lotów",
     ],
-    openInSeeyou: [
+    openInSeeYou: [
         "Open in SeeYou",
         "Öffnen mit SeeYou",
         "Ouvrir avec SeeYou",
