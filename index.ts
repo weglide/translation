@@ -305,6 +305,24 @@ export const translations = {
         "IGC",
         "IGC",
     ],
+    enableOpenInSeeYou: [
+        "Allow open in SeeYou for my flights",
+        "Erlaube öffnen mit SeeYou für meine Flüge",
+        "Autoriser l'ouverture avec SeeYou pour mes vols",
+        "Sta open met SeeYou toe voor mijn vluchten",
+        "Povolit otevření s SeeYou pro mé lety",
+        "Consenti l'apertura con SeeYou per i miei voli",
+        "Zezwalaj na otwarcie z SeeYou dla moich lotów",
+    ],
+    openInSeeyou: [
+        "Open in SeeYou",
+        "Öffnen mit SeeYou",
+        "Ouvrir avec SeeYou",
+        "Openen met SeeYou",
+        "Otevřete s SeeYou",
+        "Apri con SeeYou",
+        "Otwórz z SeeYou",
+    ],
 
     // Airport
     airport: [
