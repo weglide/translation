@@ -2041,6 +2041,15 @@ export const translations = {
         "Aereo con motore selezionato, Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio",
         "Wybrany samolot z napędem. Proszę upewnić się, że okresy kiedy silnik jest włączony (żółte) są wykluczone z oceny.",
     ],
+    scoringGliderNotice: [
+        "Airplane without engine selected, switch to aircraft with engine to see potential engine runs.",
+        "Flugzeug ohne Motor ausgewählt, wechsel zu einem Flugzeug mit Motor um potentielle Motorläufe zu sehen.",
+        "Avion sans moteur sélectionné, passez à un avion avec moteur pour voir les moteurs potentiels en marche.",
+        "Vliegtuigen zonder motor geselecteerd, schakel over naar vliegtuig met motor om potentiële motorlooppas te zien.",
+        "Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli potenciální běhy motoru.",
+        "Aereo senza motore selezionato, passare a un aereo con motore per vedere i potenziali motori in funzione.",
+        "Samolot bez wybranego silnika, przełącz się na samolot z silnikiem, aby zobaczyć potencjalną pracę silnika.",
+    ],
     errorTerms: [
         "Please agree to the terms.",
         "Bitte stimme den Bedingungen zu.",
