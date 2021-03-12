@@ -1028,8 +1028,8 @@ export const translations = {
         "Zgoda Użytkownika",
     ],
     subscribeNewsletter: [
-        "Subscribe to our newsletter",
-        "Abonniere unseren Newsletter",
+        "Subscribe to monthly Newsletter",
+        "Abonniere den monatlichen Newsletter",
         "Abonne-toi à notre newsletter",
         "Meld je aan voor de nieuwsbrief",
         "Chci odebírat zpravodaj",
