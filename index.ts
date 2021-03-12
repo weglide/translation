@@ -1909,6 +1909,15 @@ export const translations = {
         "Altro",
         "Więcej",
     ],
+    likes: [
+        "Likes",
+        "Likes",
+        "Aime",
+        "Houdt van",
+        "Rád",
+        "Piace",
+        "Lubi",
+    ],
     noFlightsFilter: [
         "No flights with these filters.",
         "Keine Flüge mit diesen Filtern.",
