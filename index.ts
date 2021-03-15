@@ -1126,6 +1126,15 @@ export const translations = {
         "Giorni",
         "Dni"
     ],
+    dateRangeHelp: [
+        "Select start and end date",
+        "Wähle Start- und Enddatum",
+        "Sélectionnez la date de début et de fin",
+        "Selecteer begin- en einddatum",
+        "Vyberte datum zahájení a ukončení",
+        "Seleziona la data di inizio e di fine",
+        "Wybierz datę rozpoczęcia i zakończenia",
+    ],
 
     // Authentication
     joinThanks: [
