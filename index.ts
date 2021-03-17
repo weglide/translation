@@ -1928,13 +1928,13 @@ export const translations = {
         "Lubi",
     ],
     noFlightsFilter: [
-        "No flights with these filters.",
-        "Keine Flüge mit diesen Filtern.",
-        "Pas de vols avec ce filtre.",
-        "Geen resultaten met deze filter",
-        "Žádné lety dle parametrů vyhledávání",
-        "Nessun volo con questi filtri",
-        "Brak lotów pasujących do wybranych filtrów",
+        "No flights available for this selection yet.",
+        "Noch keine Flüge für diese Auswahl vorhanden.",
+        "Aucun vol disponible pour cette sélection.",
+        "Er zijn nog geen vluchten beschikbaar.",
+        "Pro tento výběr zatím nejsou k dispozici žádné lety.",
+        "Nessun volo disponibile per questa selezione.",
+        "Nie ma jeszcze dostępnych lotów dla tego wyboru.",
     ],
 
     // Flight overview
