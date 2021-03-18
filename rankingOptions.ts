@@ -39,6 +39,15 @@ export const translations = {
         "Aereoporti totali",
         "Lotnisko suma",
     ],
+    pilot_total: [
+        "Pilot Total",
+        "Pilot*in Gesamt",
+        "Pilote total",
+        "Vlieger Totaal",
+        "Pilot celkem",
+        "Pilota totali",
+        "Pilot suma",
+    ],
     // User
     ALL: [
         "All",
