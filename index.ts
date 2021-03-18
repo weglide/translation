@@ -3017,6 +3017,15 @@ export const translations = {
         "Rango",
         "Ranga",
     ],
+    picture: [
+        "Picture",
+        "Bild",
+        "Photo",
+        "Beeld",
+        "Fotografie",
+        "Foto",
+        "Zdjęcie",
+    ],
     totalPoints: [
         "Total",
         "Gesamt",
