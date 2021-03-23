@@ -2234,6 +2234,15 @@ export const translations = {
         "Costruito da piloti per piloti",
         "Zbudowane przez pilotów dla pilotów."
     ],
+    flightOfTheMonth: [
+        "Flight of the month",
+        "Flug des Monats",
+        "Vol du mois",
+        "Vlucht van de maand",
+        "Let měsíce",
+        "Volo del mese",
+        "Lot miesiąca",
+    ],
 
     // Partner
     partner: [
