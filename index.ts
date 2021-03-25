@@ -615,8 +615,8 @@ export const translations = {
         "Wyślij email ponownie",
     ],
     showStories: [
-        "Show stories",
-        "Zeige Geschichten",
+        "Stories",
+        "Geschichten",
         "Voir les récits",
         "Bekijk meer verhalen",
         "Zobrazit průběh",
@@ -624,8 +624,8 @@ export const translations = {
         "Pokaż relacje",
     ],
     showAllArticles: [
-        "Show all articles",
-        "Zeige alle Artikel",
+        "All articles",
+        "Alle Artikel",
         "Voir tous les articles",
         "Laat alle artikelen zien",
         "Zobrazit všechny příspěvky",
@@ -633,8 +633,8 @@ export const translations = {
         "Pokaż wszystkie artykuły",
     ],
     showLatest: [
-        "Show latest",
-        "Zeige Neueste",
+        "Latest",
+        "Neueste",
         "Voir nouveautés",
         "Bekijk meer vluchten",
         "Zobrazit nejnovější",
@@ -642,8 +642,8 @@ export const translations = {
         "Pokaż najnowsze",
     ],
     showDaily: [
-        "Show daily",
-        "Zeige Tagesbeste",
+        "Daily best",
+        "Tageswertung",
         "Voir le meilleur vol du jour",
         "Alle vluchten van de dag",
         "Zobrazit dnes nejlepší",
@@ -2387,7 +2387,7 @@ export const translations = {
     // Teaser
     dailyBest: [
         "Daily best",
-        "Tagesbeste",
+        "Tageswertung",
         "Le meilleur du jour",
         "Dagelijkse score",
         "Dnes nejlepší",
