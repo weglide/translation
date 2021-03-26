@@ -20,6 +20,7 @@ key: [
 * @Fuchur777 (Dutch)
 * @Vratislav (Czech)
 * @jasminthomas (French)
+* * Clement Corbillé (French)
 * @CarstenSon (German)
 * @samuel-git (English, German)
 * @ITKewai (Italian)
