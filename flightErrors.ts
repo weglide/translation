@@ -59,7 +59,7 @@ export const translations = {
     PRESS_ALT_VIOLATIONS: [
         "Pressure altitude range from {} to {} is exceeded in {} fixes.",
         "Gültiger Höhenbereich von {} bis {} wird in {} Aufzeichnungen überschritten.",
-        "L'altitude valide de {} à {} a été dépassée dans {} traces GPS.",
+        "L'intervalle d'altitude barométrique de {} à {} a été dépassé dans {} traces GPS.",
         "Het drukhoogtebereik van {} tot {} wordt overschreden in {} fixes.",
         "",
         "L'intervallo dell'altitudine di pressione da {} a {} è stato superato in {} correzioni.",
@@ -68,7 +68,7 @@ export const translations = {
     GNSS_ALT_VIOLATIONS: [
         "GNSS altitude range from {} to {} is exceeded in {} GNSS fixes.",
         "Gültiger GPS-Höhenbereich von {} bis {} wird in {} Aufzeichnungen überschritten.",
-        "L'altitude GPS valide de {} à {} a été dépassée dans {} traces GPS.",
+        "L' intervalle d'altitude GPS de {} à {} a été dépassée dans {} traces GPS.",
         "GPS hoogtebereik van {} tot {} wordt overschreden in {} fixes",
         "",
         "L'intervallo di altitudine GNSS da {} a {} è stato superato in {} correzioni GNSS.",
@@ -104,7 +104,7 @@ export const translations = {
     NO_A_RECORD: [
         "No A Record provided.",
         "Kein A Records vorhanden.",
-        "Pas de A Records disponible(s).",
+        "Pas de A Records disponible.",
         "Geen A-Record verstrekt.",
         "",
         "Nessun record A fornito.",
@@ -122,7 +122,7 @@ export const translations = {
     PRESS_ALT_NOT_VALID: [
         "Pressure altitude in file is not valid, maximum value is {} meters.",
         "Druckhöhe in der Datei ist ungültig, maximale Höhe beträgt {} Meter.",
-        "L'altitude de densité est invalide, l'altitude maximale est de {} mètres.",
+        "L'altitude barométrique est invalide, l'altitude maximale est de {} mètres.",
         "Druk hoogte in het bestand is ongeldig, maximale waarde is {} meter.",
         "",
         "L'altitudine della pressione nel file non è valida, il valore massimo è {} metri.",
@@ -167,7 +167,7 @@ export const translations = {
     MAX_PRESS_ALT_REACHED: [
         "Maximum pressure sensor altitude is: {}, your reached: {}",
         "Maximale Druck-Sensorhöhe des Loggers sind {} Meter, du hast {} Meter erreicht.",
-        "L'altitude de densité maximale du capteur de l'enregistreur est de {} mètres, tu as atteint {} mètres.",
+        "L'altitude barométrique maximale du capteur de l'enregistreur est de {} mètres, tu as atteint {} mètres.",
         "Maximale Druksensorhoogte van de logger is {} meter, je hebt {} meter bereikt.",
         "",
         "L'altitudine massima del sensore di pressione è: {}, raggiunta: {}",
@@ -185,7 +185,7 @@ export const translations = {
     AVG_PRESS_ALT_CHANGE: [
         "Average pressure altitude change between fixes in your file is {}, Minimum is {}.",
         "Durchschnittliche Differenz zwischen Druck-Höhenwerten ist {}, Minimum sind {} Meter.",
-        "La différence moyenne entre les données d'altitude de densité est {}, le minimum est de {} mètres.",
+        "La différence moyenne entre les données d'altitude barométrique est {}, le minimum est de {} mètres.",
         "De gemiddelde verandering van de drukhoogte tussen fixes in je bestand is {}, minimum is {}.",
         "",
         "La variazione media dell'altitudine della pressione tra le correzioni nel file è {}, il minimo è {}.",
@@ -203,7 +203,7 @@ export const translations = {
     HIGH_CHANGE_PRESS_ALT: [
         "{} high changes in pressure altitude (more than {} m/s).",
         "{} hohe Wechsel der Druck-Höhe (mehr als {} m/s).",
-        "{} grands changements d'altitude de densité (plus de {} m/s).",
+        "{} grands changements d'altitude barométrique (plus de {} m/s).",
         "{} grote veranderinen in je drukhoogte (meer dan {} m/s).",
         "",
         "{} variazioni elevate dell'altitudine-pressione (più di {} m / s).",
@@ -239,7 +239,7 @@ export const translations = {
     RAW_TIME_SOFT_LIMIT_EXCEEDED: [
         "{} intervals exceed soft time limit between fixes ({}s), allowed {} intervals.",
         "{} Zeitintervalle zwischen Aufzeichnungen überschreiten das weiche Limit von {} Sekunden, erlaubt sind {} Intervalle.",
-        "Intervalles de temps entre les enregistrements dépasse la limite de temps 'soft' de {} secondes, des intervalles de {} sont autorisés. ",
+        "Intervalles de temps entre les enregistrements dépassent la limite de temps 'soft' de {} secondes, des intervalles de {} sont autorisés. ",
         "{} tijdsinterval overschrijd de zachte tijdslimiet tussen fixes ({}s), {} intervallen toegestaan.",
         "",
         "Gli intervalli {} superano il limite di tempo flessibile tra le correzioni ({}), gli intervalli {} consentiti.",
@@ -248,7 +248,7 @@ export const translations = {
     NO_TAKEOFF: [
         "Did not detect takeoff.",
         "Start nicht erkannt.",
-        "Le décollage n'a pas été reconnu",
+        "Le décollage n'a pas été détecté",
         "Start niet herkend.",
         "",
         "Decollo non rilevato.",

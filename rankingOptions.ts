@@ -61,7 +61,7 @@ export const translations = {
     junior: [
         "Juniors",
         "Junior*innen",
-        "Junior",
+        "Juniors",
         "Junior",
         "Junioři",
         "Bambini",
