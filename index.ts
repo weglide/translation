@@ -305,6 +305,24 @@ export const translations = {
         "IGC",
         "IGC",
     ],
+    enableOpenInSeeYou: [
+        "Allow open in SeeYou for my flights",
+        "Erlaube öffnen mit SeeYou für meine Flüge",
+        "Autoriser l'ouverture avec SeeYou pour mes vols",
+        "Sta open met SeeYou toe voor mijn vluchten",
+        "Povolit otevření s SeeYou pro mé lety",
+        "Consenti l'apertura con SeeYou per i miei voli",
+        "Zezwalaj na otwarcie z SeeYou dla moich lotów",
+    ],
+    openInSeeYou: [
+        "Open in SeeYou",
+        "Öffnen mit SeeYou",
+        "Ouvrir avec SeeYou",
+        "Openen met SeeYou",
+        "Otevřete s SeeYou",
+        "Apri con SeeYou",
+        "Otwórz z SeeYou",
+    ],
 
     // Airport
     airport: [
@@ -597,8 +615,8 @@ export const translations = {
         "Wyślij email ponownie",
     ],
     showStories: [
-        "Show stories",
-        "Zeige Geschichten",
+        "Stories",
+        "Geschichten",
         "Voir les récits",
         "Bekijk meer verhalen",
         "Zobrazit průběh",
@@ -606,8 +624,8 @@ export const translations = {
         "Pokaż relacje",
     ],
     showAllArticles: [
-        "Show all articles",
-        "Zeige alle Artikel",
+        "All articles",
+        "Alle Artikel",
         "Voir tous les articles",
         "Laat alle artikelen zien",
         "Zobrazit všechny příspěvky",
@@ -615,8 +633,8 @@ export const translations = {
         "Pokaż wszystkie artykuły",
     ],
     showLatest: [
-        "Show latest",
-        "Zeige Neueste",
+        "Latest",
+        "Neueste",
         "Voir les nouveautés",
         "Bekijk meer vluchten",
         "Zobrazit nejnovější",
@@ -624,8 +642,8 @@ export const translations = {
         "Pokaż najnowsze",
     ],
     showDaily: [
-        "Show daily",
-        "Zeige Tagesbeste",
+        "Daily best",
+        "Tageswertung",
         "Voir le meilleur vol du jour",
         "Alle vluchten van de dag",
         "Zobrazit dnes nejlepší",
@@ -738,6 +756,24 @@ export const translations = {
     junior: [
         "Junior",
         "Junior*in",
+        "Junior",
+        "Junior",
+        "Junior",
+        "Bambini",
+        "Junior",
+    ],
+    juniorMale: [
+        "Junior",
+        "Junior",
+        "Junior",
+        "Junior",
+        "Junior",
+        "Bambini",
+        "Junior",
+    ],
+    juniorFemale: [
+        "Junior",
+        "Juniorin",
         "Junior",
         "Junior",
         "Junior",
@@ -955,15 +991,6 @@ export const translations = {
         "Data di nascita",
         "Data urodzenia",
     ],
-    dateFormat: [
-        "e.g. 1960-01-25 (YYYY-MM-DD)",
-        "z.B. 1960-01-25 (JJJJ-MM-DD)",
-        "p.ex. 1960-01-25 (AAAA-MM-JJ)",
-        "b.v. 1960-01-25 (JJJJ-MM-DD)",
-        "např. 1960-01-25 (JJJJ-MM-DD)",
-        "es. 1960-01-25 (YYYY-MM-DD)",
-        "np. 1960-01-25 (YYYY-MM-DD)",
-    ],
     club: [
         "Club",
         "Verein",
@@ -1001,8 +1028,8 @@ export const translations = {
         "Zgoda Użytkownika",
     ],
     subscribeNewsletter: [
-        "Subscribe to our newsletter",
-        "Abonniere unseren Newsletter",
+        "Subscribe to monthly Newsletter",
+        "Abonniere den monatlichen Newsletter",
         "Abonne-toi à notre newsletter",
         "Meld je aan voor de nieuwsbrief",
         "Chci odebírat zpravodaj",
@@ -1098,6 +1125,15 @@ export const translations = {
         "Dnů",
         "Giorni",
         "Dni"
+    ],
+    dateRangeHelp: [
+        "Select start and end date",
+        "Wähle Start- und Enddatum",
+        "Sélectionnez la date de début et de fin",
+        "Selecteer begin- en einddatum",
+        "Vyberte datum zahájení a ukončení",
+        "Seleziona la data di inizio e di fine",
+        "Wybierz datę rozpoczęcia i zakończenia",
     ],
 
     // Authentication
@@ -1882,14 +1918,23 @@ export const translations = {
         "Altro",
         "Więcej",
     ],
+    likes: [
+        "Likes",
+        "Likes",
+        "Aime",
+        "Houdt van",
+        "Rád",
+        "Piace",
+        "Lubi",
+    ],
     noFlightsFilter: [
-        "No flights with these filters.",
-        "Keine Flüge mit diesen Filtern.",
-        "Pas de vol avec ce filtre.",
-        "Geen resultaten met deze filter",
-        "Žádné lety dle parametrů vyhledávání",
-        "Nessun volo con questi filtri",
-        "Brak lotów pasujących do wybranych filtrów",
+        "No flights available for this selection yet.",
+        "Noch keine Flüge für diese Auswahl vorhanden.",
+        "Aucun vol disponible pour cette sélection.",
+        "Er zijn nog geen vluchten beschikbaar.",
+        "Pro tento výběr zatím nejsou k dispozici žádné lety.",
+        "Nessun volo disponibile per questa selezione.",
+        "Nie ma jeszcze dostępnych lotów dla tego wyboru.",
     ],
 
     // Flight overview
@@ -2189,6 +2234,15 @@ export const translations = {
         "Costruito da piloti per piloti",
         "Zbudowane przez pilotów dla pilotów."
     ],
+    flightOfTheMonth: [
+        "Flight of the month",
+        "Flug des Monats",
+        "Vol du mois",
+        "Vlucht van de maand",
+        "Let měsíce",
+        "Volo del mese",
+        "Lot miesiąca",
+    ],
 
     // Partner
     partner: [
@@ -2333,7 +2387,7 @@ export const translations = {
     // Teaser
     dailyBest: [
         "Daily best",
-        "Tagesbeste",
+        "Tageswertung",
         "Le meilleur du jour",
         "Dagelijkse score",
         "Dnes nejlepší",
@@ -2971,6 +3025,15 @@ export const translations = {
         "Pořadí",
         "Rango",
         "Ranga",
+    ],
+    picture: [
+        "Picture",
+        "Bild",
+        "Photo",
+        "Beeld",
+        "Fotografie",
+        "Foto",
+        "Zdjęcie",
     ],
     totalPoints: [
         "Total",
