@@ -2838,6 +2838,15 @@ export const translations = {
     ],
 
     // Profile Settings
+    settingsUpdated: [
+        "Settings updated",
+        "Einstellungen gespeichert",
+        "Paramètres mis à jour",
+        "Instellingen bijgewerkt",
+        "Nastavení aktualizováno",
+        "Impostazioni aggiornate",
+        "Ustawienia zaktualizowane"
+    ],
     profileSettings: [
         "Profile settings",
         "Profileinstellungen",
@@ -2911,6 +2920,15 @@ export const translations = {
         "Nastavení",
         "Impostazioni",
         "Ustawienia",
+    ],
+    integrations: [
+        "Integrations",
+        "Integrationen",
+        "Intégrations",
+        "Integraties",
+        "Integrace",
+        "Integrazioni",
+        "Integracje",
     ],
     flightsAsList: [
         "Flights as list",
