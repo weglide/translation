@@ -1323,6 +1323,15 @@ export const translations = {
         "Cerca",
         "Szukaj",
     ],
+    filterPlaceholderLong: [
+        "Search for region, pilot, club..",
+        "Suche nach Region, Person, Verein..",
+        "Recherche de région, pilote, club..",
+        "Zoek op regio, piloot, club..",
+        "Hledat region, pilot, klub..",
+        "Cerca regione, pilota, club..",
+        "Wyszukaj region, pilota, klub..",
+    ],
 
     // Flight detail
     flightDetail: [
@@ -1337,7 +1346,7 @@ export const translations = {
     wingmen: [
         "Wingmen",
         "Gefährten",
-        "Co-	équipier",
+        "Co-équipier",
         "Ontmoetingen",
         "Partner",
         "Amici",
