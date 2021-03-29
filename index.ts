@@ -2939,6 +2939,15 @@ export const translations = {
         "Voli come elenco",
         "Loty jako lista",
     ],
+    flightsAsMap: [
+        "Flights as map",
+        "Flüge als Karte",
+        "Vols comme carte",
+        "Vluchten als kaart",
+        "Lety jako mapa",
+        "Voli come mappa",
+        "Loty jako mapa",
+    ],
 
     // Ranking
     ranking: [
