@@ -2958,6 +2958,35 @@ export const translations = {
         "Loty jako mapa",
     ],
 
+    // League
+    league: [
+        "League",
+        "Liga",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    round: [
+        "Round",
+        "Runde",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    leaguePoints: [
+        "League points",
+        "Liga Punkte",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+
     // Ranking
     ranking: [
         "Ranking",
