@@ -2910,6 +2910,15 @@ export const translations = {
         "Integra i dati meteorologici SkySight in WeGlide",
         "Zintegruj dane pogodowe SkySight z WeGlide",
     ],
+    integrateCopilot: [
+        "Integrate copilot data into WeGlide",
+        "Integriere Copilot Daten in WeGlide",
+        "",
+        "",
+        "",
+        "",
+        "",
+    ],
     integrateTopmeteo: [
         "Integrate TopMeteo weather data into WeGlide",
         "Integriere TopMeteo Wetter in WeGlide",
