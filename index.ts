@@ -2282,16 +2282,6 @@ export const translations = {
         "Sponsorzy",
     ],
 
-    logoLang: [
-        "EN",
-        "DE",
-        "EN", // only en and de available
-        "EN", // only en and de available
-        "EN", // only en and de available
-        "EN", // only en and de available
-        "EN", // only en and de available
-    ],
-
     // Footer
     contact: [
         "Contact",
