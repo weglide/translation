@@ -1936,14 +1936,14 @@ export const translations = {
         "Piace",
         "Lubi",
     ],
-    noFlightsFilter: [
-        "No flights available for this selection yet.",
-        "Noch keine Flüge für diese Auswahl vorhanden.",
-        "Aucun vol disponible pour cette sélection.",
-        "Er zijn nog geen vluchten beschikbaar.",
-        "Pro tento výběr zatím nejsou k dispozici žádné lety.",
-        "Nessun volo disponibile per questa selezione.",
-        "Nie ma jeszcze dostępnych lotów dla tego wyboru.",
+    noFlightsYet: [
+        "No flights yet.",
+        "Noch keine Flüge.",
+        "Pas encore de vols.",
+        "Nog geen vluchten.",
+        "Zatím žádné lety.",
+        "Ancora nessun volo.",
+        "Nie ma jeszcze lotów.",
     ],
 
     // Flight overview
