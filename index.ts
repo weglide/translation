@@ -2989,29 +2989,29 @@ export const translations = {
     league: [
         "League",
         "Liga",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Ligue",
+        "Liga",
+        "Liga",
+        "Lega",
+        "Liga"
     ],
     round: [
         "Round",
         "Runde",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "Rond",
+        "Ronde",
+        "Kolo",
+        "Il giro",
+        "Okrągły"
     ],
-    leaguePoints: [
-        "League points",
-        "Liga Punkte",
-        "",
-        "",
-        "",
-        "",
-        ""
+    wholeLeague: [
+        "Whole league",
+        "Ganze Liga",
+        "Toute la ligue",
+        "Hele competitie",
+        "Celá liga",
+        "Tutta la lega",
+        "Cała liga"
     ],
 
     // Ranking
