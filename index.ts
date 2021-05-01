@@ -406,6 +406,15 @@ export const translations = {
         "Fuso orario",
         "Strefa czasowa",
     ],
+    continent: [
+        "Continent",
+        "Kontinent",
+        "Continent",
+        "Continent",
+        "Kontinent",
+        "Continente",
+        "Kontynent",
+    ],
     country: [
         "Country",
         "Land",
@@ -413,6 +422,7 @@ export const translations = {
         "Land",
         "Země",
         "Nazione",
+        "Kraj",
     ],
     region: [
         "Region",
