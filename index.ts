@@ -1881,15 +1881,6 @@ export const translations = {
         "Voli visualizzati",
         "Wyświetlone loty",
     ],
-    similarFlights: [
-        "Similar flights",
-        "Ähnliche Flüge",
-        "Vols similaires",
-        "Gelijke vluchten",
-        "Podobné lety",
-        "Voli simili",
-        "Podobne loty",
-    ],
 
     // Flight list
     flightList: [
