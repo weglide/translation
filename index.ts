@@ -2562,6 +2562,15 @@ export const translations = {
         "Punti di interesse",
         "Punkty zainteresowań",
     ],
+    mountains: [
+        "Mountains",
+        "Berge",
+        "Montagnes",
+        "Bergen",
+        "Hory",
+        "Montagne",
+        "Góry",
+    ],
     landingFields: [
         "Landing fields",
         "Landewiesen",
@@ -2570,6 +2579,15 @@ export const translations = {
         "Přistávací pole",
         "Campi di atterraggio",
         "Lądowiska"
+    ],
+    glidingAirspaces: [
+        "Gliding airspaces",
+        "Segelfluglufträume",
+        "Espaces aériens de vol à voile",
+        "Glijdende luchtruimten",
+        "Klouzavý vzdušný prostor",
+        "Spazi aerei plananti",
+        "Szybujące przestrzenie powietrzne",
     ],
     weather: [
         "Weather",
