@@ -2883,15 +2883,6 @@ export const translations = {
         "Impostazioni aggiornate",
         "Ustawienia zaktualizowane"
     ],
-    profileSettings: [
-        "Profile settings",
-        "Profileinstellungen",
-        "Réglages de mon profil",
-        "Profiel instellingen",
-        "Nastavení profilu",
-        "Impostazioni profilo",
-        "Ustawienia profilowe",
-    ],
     metric: [
         "Metric",
         "Metrisch",
@@ -2966,6 +2957,15 @@ export const translations = {
         "Impostazioni",
         "Ustawienia",
     ],
+    customization: [
+        "Customization",
+        "Anpassung",
+        "Personnalisation",
+        "Maatwerk",
+        "Přizpůsobení",
+        "Personalizzazione",
+        "Dostosowywanie",
+    ],
     integrations: [
         "Integrations",
         "Integrationen",
@@ -2974,6 +2974,24 @@ export const translations = {
         "Integrace",
         "Integrazioni",
         "Integracje",
+    ],
+    liveConnect: [
+        "Live connect",
+        "Live verbinden",
+        "Connexion en direct",
+        "Live verbinding",
+        "Živé připojení",
+        "Connessione live",
+        "Połączenie na żywo",
+    ],
+    noTrackingConnected: [
+        "No tracking connected.",
+        "Kein Tracking verbunden.",
+        "Aucun suivi connecté.",
+        "Geen tracking verbonden.",
+        "Není připojeno žádné sledování.",
+        "Nessun tracciamento connesso.",
+        "Brak podłączonego śledzenia.",
     ],
     flightsAsList: [
         "Flights as list",
