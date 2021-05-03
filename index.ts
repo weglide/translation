@@ -3078,6 +3078,15 @@ export const translations = {
         "WeGlide Electric Cup",
         "Puchar elektryczny WeGlide",
     ],
+    leagueDescription: [
+        "Round based national contests",
+        "Rundenbasierte nationale Wettbewerbe",
+        "Concours nationaux en rondes",
+        "Ronde nationale wedstrijden",
+        "Kulaté národní soutěže",
+        "Concorsi nazionali a base rotonda",
+        "Konkursy krajowe oparte na rundzie",
+    ],
 
     // Ranking config
     season: [
