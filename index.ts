@@ -2929,8 +2929,8 @@ export const translations = {
         "Zintegruj dane pogodowe SkySight z WeGlide",
     ],
     integrateCopilot: [
-        "Integrate copilot data into WeGlide",
-        "Integriere Copilot Daten in WeGlide",
+        "Link your COPILOT profile in WeGlide",
+        "Verlinke dein COPILOT Profil in WeGlide",
         "",
         "",
         "",
