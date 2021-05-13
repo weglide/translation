@@ -1145,6 +1145,15 @@ export const translations = {
         "Seleziona la data di inizio e di fine",
         "Wybierz datę rozpoczęcia i zakończenia",
     ],
+    dateMultipleHelp: [
+        "Select to toggle date",
+        "Wähle Datum zum umschalten",
+        "Sélectionnez pour changer la date",
+        "Selecteer om de datum te wisselen",
+        "Výběrem přepnete datum",
+        "Seleziona per alternare la data",
+        "Wybierz, aby przełączyć datę",
+    ],
 
     // Authentication
     joinThanks: [
@@ -2750,6 +2759,15 @@ export const translations = {
         "Rozsah",
         "Gamma",
         "Zasięg",
+    ],
+    multiple: [
+        "Multiple",
+        "Mehrfach",
+        "Plusieurs",
+        "Meerdere",
+        "Násobek",
+        "Molteplici",
+        "Wielokrotność",
     ],
 
     // Navigation
