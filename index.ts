@@ -3264,6 +3264,15 @@ export const translations = {
         "fino",
         "do",
     ],
+    now: [
+        "now",
+        "jetzt",
+        "maintenant",
+        "nu",
+        "nyní",
+        "adesso",
+        "teraz",
+    ],
     addComment: [
         "Add comment",
         "Neuer Kommentar",
