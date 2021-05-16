@@ -1351,6 +1351,15 @@ export const translations = {
         "Cerca regione, pilota, club..",
         "Wyszukaj region, pilota, klub..",
     ],
+    filterPlaceholderLive: [
+        "Search current map sector",
+        "Durchsuche den Kartenausschnitt",
+        "Secteur de la carte de recherche",
+        "Zoek huidige kaartsector",
+        "Prohledat sektor mapy",
+        "Cerca settore cartografico",
+        "Wyszukaj sektor mapy",
+    ],
 
     // Flight detail
     flightDetail: [
