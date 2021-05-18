@@ -2984,6 +2984,15 @@ export const translations = {
         "Impostazioni",
         "Ustawienia",
     ],
+    security: [
+        "Security",
+        "Sicherheit",
+        "Sécurité",
+        "Veiligheid",
+        "Bezpečnostní",
+        "Sicurezza",
+        "Bezpieczeństwo",
+    ],
     customize: [
         "Customize",
         "Anpassen",
