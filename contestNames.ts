@@ -3,6 +3,7 @@
 const translations = {
     free: "Free",
     triangle: "Triangle",
+    out: "Out",
     out_return: "O&R",
     sprint: "Sprint",
     declaration: "Task",
