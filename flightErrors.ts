@@ -1,7 +1,7 @@
 import { i18nStore } from "@/weglide/store"
 
 // API error code translation
-export const translations = {
+const translations = {
     NON_VALID_FIXES: [
         "The file contains {} non valid fixes.",
         "Die Datei enthält {} ungültige Aufzeichnungen.",
