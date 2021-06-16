@@ -1,7 +1,8 @@
 import { i18nStore } from "@/weglide/store"
+import { Translations } from "./translation.types";
 
 // Main translation
-export const translations = {
+export const translations: Translations = {
     /* Schema
     key: [
         "english",
@@ -11,6 +12,7 @@ export const translations = {
         "czech",
         "italian",
         "polish",
+        "spanish",
     ],
     */
 
@@ -23,6 +25,7 @@ export const translations = {
         "Testovací verze",
         "Prerelease",
         "Wersja testowa",
+        "Versión de prueba",
     ],
     betaText: [
         "Please be aware that we might need to delete data or break some functionality.",
@@ -32,6 +35,7 @@ export const translations = {
         "Prosím, buďte připraveni, že případně budeme muset data smazat nebo se může objevit chyba",
         "Tieni presente che potrebbe essere necessario eliminare i dati o interrompere alcune funzionalità",
         "Proszę zwrócić uwagę, że możemy być zmuszeni do usunięcia danych lub część funkcji może nie działać.",
+        "Tenga en cuenta que es posible que necesitemos eliminar datos o interrumpir alguna funcionalidad.",
     ],
     waiting: [
         "Waiting",
@@ -41,6 +45,7 @@ export const translations = {
         "čekej.",
         "In attesa",
         "Czekanie",
+        "Esperando",
     ],
     processing: [
         "Processing",
@@ -50,6 +55,7 @@ export const translations = {
         "Zpracovává se",
         "In elaborazione",
         "Procesowanie",
+        "Procesando",
     ],
     attention: [
         "Attention",
@@ -59,6 +65,7 @@ export const translations = {
         "Pozor",
         "Attenzione",
         "Uwaga",
+        "Atención",
     ],
     success: [
         "Success",
@@ -68,6 +75,7 @@ export const translations = {
         "Úspěch",
         "Completato",
         "Sukces",
+        "Éxito",
     ],
     errorAuthTitle: [
         "Session expired",
@@ -77,15 +85,17 @@ export const translations = {
         "Relace skončila",
         "Sessione scaduta",
         "Sesja wygasła",
+        "Sesión expirada",
     ],
     errorAuth: [
-        "Please log in again",
-        "Bitte logge dich erneut ein",
+        "Please log in first",
+        "Bitte logge dich zuerst ein",
         "Merci de te connecter à nouveau",
-        "Log opniew in",
-        "Prosím, přihlaš se znovu",
-        "Effettua nuovamente l'accesso",
-        "Proszę zaloguje się ponownie",
+        "Log alstublieft eerst in",
+        "Prosím nejdříve se přihlašte",
+        "Per favore fai prima il log in",
+        "Proszę najpierw się zalogować",
+        "Por favor ingresa primero",
     ],
     errorServerTitle: [
         "Service unavailable",
@@ -95,6 +105,7 @@ export const translations = {
         "Služba není k dispozici",
         "Server temporaneamente non disponibile",
         "Usługa niedostępna",
+        "Servicio no disponible",
     ],
     errorServer: [
         "Please try again later or contact us",
@@ -104,6 +115,7 @@ export const translations = {
         "Prosím zkus to později znovu nebo nás kontaktuj",
         "Per favore, riprova più tardi o contattaci",
         "Proszę spróbuj ponownie później albo skontaktuj się z nami",
+        "Vuelve a intentarlo más tarde o contáctanos",
     ],
     errorForm: [
         "Please check your form inputs",
@@ -113,6 +125,7 @@ export const translations = {
         "Prosím zkontroluj si svá zadání ve formuláři",
         "Si prega di controllare gli input del modulo",
         "Proszę sprawdzić dane w formularzu",
+        "Por favor revise las entradas de su formulario",
     ],
     verified: [
         "Email verification complete, please log in.",
@@ -122,15 +135,17 @@ export const translations = {
         "E-mailová adresa byla potvrzena, nyní se zkus přihlásit",
         "Verifica dell'email completata, esegui l'accesso",
         "Weryfikacja e-mail zakończona, proszę zaloguj się.",
+        "Verificación de correo electrónico completa, inicie sesión.",
     ],
     notVerified: [
-        "Please verify your Email first.",
-        "Bitte verifiziere zuerst deine E-Mail.",
-        "Merci de d'abord vérifier ton adresse e-mail.",
+        "Please verify your Email first",
+        "Bitte verifiziere zuerst deine E-Mail",
+        "Merci de d'abord vérifier ton adresse e-mail",
         "Verifieer je e-mailadres",
         "Prosím, ověřte nejdříve svoji emailovou adresu",
-        "Verifica prima la tua email.",
+        "Verifica prima la tua email",
         "Proszę najpierw zweryfikować adres email",
+        "Primero verifique su correo electrónico.",
     ],
     resetComplete: [
         "Password reset complete, please log in.",
@@ -140,6 +155,7 @@ export const translations = {
         "Heslo bylo obnoveno, prosím přihlaš se",
         "Reset della password completata, esegui l'accesso",
         "Hasło zresetowane, proszę się zalogować",
+        "Restablecimiento de contraseña completo, inicie sesión.",
     ],
     info: [
         "Information",
@@ -149,6 +165,7 @@ export const translations = {
         "Informace",
         "Informazioni",
         "Informacja",
+        "Información",
     ],
     warning: [
         "Warning",
@@ -158,6 +175,7 @@ export const translations = {
         "Varování",
         "Attenzione",
         "Ostrzeżenie",
+        "Advertencia",
     ],
     error: [
         "Error",
@@ -167,6 +185,7 @@ export const translations = {
         "Chyba",
         "Errore",
         "Błąd",
+        "Error",
     ],
     analyzed: [
         "Analyzed",
@@ -176,6 +195,7 @@ export const translations = {
         "Analýza",
         "Analizzato",
         "Analiza",
+        "Analizado",
     ],
 
     // Aircraft
@@ -187,6 +207,7 @@ export const translations = {
         "Letadlo",
         "Aereo",
         "Samolot",
+        "Aeronave",
     ],
     kind: [
         "Kind",
@@ -196,6 +217,7 @@ export const translations = {
         "Druh",
         "Tipo",
         "Rodzaj",
+        "Tipo",
     ],
     glider: [
         "Glider",
@@ -205,8 +227,10 @@ export const translations = {
         "Kluzák",
         "Aliante",
         "Szybowiec",
+        "Planeador",
     ],
     fes: [
+        "FES",
         "FES",
         "FES",
         "FES",
@@ -223,6 +247,7 @@ export const translations = {
         "Motor",
         "Motore",
         "Silnik",
+        "Motor",
     ],
     paraglider: [
         "Paraglider",
@@ -232,6 +257,7 @@ export const translations = {
         "Paraglider",
         "Parapendio",
         "Paralotnia",
+        "Parapente",
     ],
     hangGlider: [
         "Hang Glider",
@@ -241,6 +267,7 @@ export const translations = {
         "Rogalo",
         "Deltaplano",
         "Latawiec",
+        "Ala delta",
     ],
     ulGlider: [
         "UL Glider",
@@ -250,6 +277,7 @@ export const translations = {
         "UL Kluzák",
         "Aliante UL",
         "Ultralekki szybowiec",
+        "Ultraligero",
     ],
     family: [
         "Family",
@@ -259,6 +287,7 @@ export const translations = {
         "Rodina",
         "Famiglia",
         "Rodzina",
+        "Familia",
     ],
     manufacturer: [
         "Manufacturer",
@@ -268,6 +297,7 @@ export const translations = {
         "Výrobce",
         "Produttore",
         "Producent",
+        "Fabricante",
     ],
     seats: [
         "Seats",
@@ -277,6 +307,7 @@ export const translations = {
         "Sedadel",
         "Posti a sedere",
         "Siedzenia",
+        "Asientos",
     ],
     class: [
         "Class",
@@ -286,6 +317,7 @@ export const translations = {
         "Třída",
         "Classe",
         "Klasa",
+        "Clase",
     ],
     index: [
         "Index",
@@ -295,8 +327,10 @@ export const translations = {
         "Index",
         "Index",
         "Indeks",
+        "Índice",
     ],
     igc: [
+        "IGC",
         "IGC",
         "IGC",
         "IGC",
@@ -313,6 +347,7 @@ export const translations = {
         "Povolit otevření s SeeYou pro mé lety",
         "Consenti l'apertura con SeeYou per i miei voli",
         "Zezwalaj na otwarcie z SeeYou dla moich lotów",
+        "Permitir abrir en SeeYou para mis vuelos",
     ],
     openInSeeYou: [
         "Open in SeeYou",
@@ -322,6 +357,7 @@ export const translations = {
         "Otevřete s SeeYou",
         "Apri con SeeYou",
         "Otwórz z SeeYou",
+        "Abierto en SeeYou",
     ],
 
     // Airport
@@ -342,6 +378,7 @@ export const translations = {
         "Letiště",
         "Aereoporti",
         "Lotniska",
+        "Aeropuerto",
     ],
     radio: [
         "Radio",
@@ -349,6 +386,7 @@ export const translations = {
         "Radio",
         "Radio",
         "Rádio",
+        "Radio",
         "Radio",
         "Radio",
     ],
@@ -360,6 +398,7 @@ export const translations = {
         "Frekvence",
         "Frequenza",
         "Częstotliwośc",
+        "Frecuencia",
     ],
     description: [
         "Description",
@@ -369,6 +408,7 @@ export const translations = {
         "Popis",
         "Descrizione",
         "Opis",
+        ""
     ],
     type: [
         "Type",

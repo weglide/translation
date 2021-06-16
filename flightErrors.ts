@@ -1,7 +1,8 @@
 import { i18nStore } from "@/weglide/store"
+import { Translations } from "./translation.types";
 
 // API error code translation
-const translations = {
+const translations: Translations = {
     NON_VALID_FIXES: [
         "The file contains {} non valid fixes.",
         "Die Datei enthält {} ungültige Aufzeichnungen.",
@@ -10,6 +11,7 @@ const translations = {
         "",
         "Il file contiene {} non validi",
         "Plik zawiera {} niepoprawnych pomiarów.",
+        "",
     ],
     NON_INCREASING_TIMES: [
         "Time jump backwards from {} to {}.",
@@ -19,6 +21,7 @@ const translations = {
         "",
         "Il tempo salta indietro da {} a {}.",
         "Czas skacze w tył z {} do {}.",
+        "",
     ],
     MULTIPLE_A_RECORDS: [
         "Multiple A Records provided.",
@@ -28,6 +31,7 @@ const translations = {
         "",
         "Più record A forniti.",
         "Podano wiele rekordów A.",
+        "",
     ],
     NO_I_RECORD: [
         "NO I Record provided.",
@@ -37,6 +41,7 @@ const translations = {
         "",
         "Nessun record I fornito.",
         "Nie podano rekordu I.",
+        "",
     ],
     MULTIPLE_I_RECORDS: [
         "Multiple I records provided.",
@@ -46,6 +51,7 @@ const translations = {
         "",
         "Più record I forniti.",
         "Podano wiele rekordów I.",
+        "",
     ],
     INVALID_H_RECORD: [
         "Invalid H record: {}.",
@@ -55,6 +61,7 @@ const translations = {
         "",
         "Record H non valido: {}",
         "Niepoprawny rekord H: {}.",
+        "",
     ],
     C_RECORD_TOO_LONG: [
         "C records contains more than 20 lines, not able to parse task.",
@@ -64,6 +71,7 @@ const translations = {
         "",
         "I record C contengono più di 20 righe, non sono in grado di analizzare l'attività.",
         "Rekordy C zawierają więcej niż 20 lini, nie można przeanalizować zadania.",
+        "",
     ],
     NO_LANDING: [
         "Did not detect landing.",
@@ -73,6 +81,7 @@ const translations = {
         "",
         "Non è stato rilevato un atterraggio.",
         "Nie wykryto lądowania",
+        "",
     ],
     PRESS_ALT_VIOLATIONS: [
         "Pressure altitude range from {} to {} is exceeded in {} fixes.",
@@ -82,6 +91,7 @@ const translations = {
         "",
         "L'intervallo dell'altitudine di pressione da {} a {} è stato superato in {} correzioni.",
         "Zakres wysokości ciśnieniowej od {} do {} został przekroczony w {} pomiarach.",
+        "",
     ],
     GNSS_ALT_VIOLATIONS: [
         "GNSS altitude range from {} to {} is exceeded in {} GNSS fixes.",
@@ -91,6 +101,7 @@ const translations = {
         "",
         "L'intervallo di altitudine GNSS da {} a {} è stato superato in {} correzioni GNSS.",
         "Zakres wysokości GNSS od {} do {} został przekroczony w {} pomiarach.",
+        "",
     ],
     HIGH_CHANGE_GNSS_ALT: [
         "{} high changes in GNSS altitude (more than {} m/s).",
@@ -100,6 +111,7 @@ const translations = {
         "",
         "{} variazioni elevate dell'altitudine GNSS (più di {} m / s).",
         "{} wielkich zmian w wysokości GNSS (więcej niż {} m/s).",
+        "",
     ],
     HIGH_CHANGE_PRESS_ALT: [
         "{} high changes in pressure altitude (more than {} m/s).",
@@ -109,6 +121,7 @@ const translations = {
         "",
         "{} variazioni elevate dell'altitudine-pressione (più di {} m / s).",
         "{} wielkich zmian w wysokości ciśnieniowej (więcej niż {} m/s).",
+        "",
     ],
     MAX_GNSS_ALT_REACHED: [
         "Max GNSS sensor altitude is: {}, you reached: {}",
@@ -118,6 +131,7 @@ const translations = {
         "",
         "L'altitudine massima del sensore GNSS è: {}, hai raggiunto: {}",
         "Maksymalna wysokość czujnika GNSS to: {}, osiągnąłeś: {}",
+        "",
     ],
     MAX_PRESS_ALT_REACHED: [
         "Maximum pressure sensor altitude is: {}, your reached: {}",
@@ -127,6 +141,7 @@ const translations = {
         "",
         "L'altitudine massima del sensore di pressione è: {}, raggiunta: {}",
         "Maksymalna wartość czujnika wysokości ciśnieniowej to: {}, osiągnąłeś: {}",
+        "",
     ],
     RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED: [
         "Hard time constraint ({} seconds) between fixes almost exceeded at {}, interval without logging is {} seconds.",
@@ -136,6 +151,7 @@ const translations = {
         "",
         "Vincolo di tempo rigido ({} secondi) tra le correzioni quasi superato in {}, l'intervallo senza registrazione è di {} secondi.",
         "Twarde ograniczenia czasowe ({} sekund) pomiędzy pomiarami prawie przekroczone w {}, interwał bez logowania wynosi {} sekund.",
+        "",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING: [
         "Hard time constraint ({} seconds) between fixes exceeded outside scoring intervals at {}, interval without logging is {} seconds.",
@@ -145,6 +161,7 @@ const translations = {
         "",
         "Vincolo di tempo rigido ({} secondi) tra le correzioni superato in {}, l'intervallo senza registrazione è di {} secondi.",
         "Twarde ograniczenia czasowe ({} sekund) pomiędzy pomiarami przekroczone w {}, interwał bez logowania wynosi {} sekund.",
+        "",
     ],
     RAW_TIME_SOFT_LIMIT_EXCEEDED: [
         "{} intervals exceed soft time limit between fixes ({}s), allowed {} intervals.",
@@ -154,6 +171,7 @@ const translations = {
         "",
         "Gli intervalli {} superano il limite di tempo flessibile tra le correzioni ({}), gli intervalli {} consentiti.",
         "{} interwały przekraczają miękki limit czasu pomiędzy pomiarami ({}s), dozwolone {} interwały.",
+        "",
     ],
     MAX_GROUND_SPEED_WARNING: [
         "Ground speed of {} km/h at {} exceeds maximum of {} km/h, corresponding fixes are filtered out.",
@@ -163,6 +181,7 @@ const translations = {
         "Pozemní rychlost {} km / h při {} překračuje maximum {} km / h, příslušné opravy GPS jsou odfiltrovány.",
         "La velocità al suolo di {} km / h a {} supera il massimo di {} km / h, i rilevamenti GPS pertinenti vengono filtrati.",
         "Prędkość względem ziemi {} km / h przy {} przekracza maksimum {} km / h, odpowiednie poprawki GPS są odfiltrowywane.",
+        "",
     ],
     NO_AIRCRAFT_SELECTED: [
         "No aircraft has been selected.",
@@ -172,6 +191,7 @@ const translations = {
         "Nebylo vybráno žádné letadlo.",
         "Nessun aereo è stato selezionato.",
         "Nie wybrano żadnego samolotu.",
+        "",
     ],
     FUTURE_FLIGHT: [
         "Flight date is from future.",
@@ -181,6 +201,7 @@ const translations = {
         "",
         "La data del volo è nel futuro.",
         "Data lotu jest z przyszłości",
+        "",
     ],
     NO_A_RECORD: [
         "No A Record provided.",
@@ -190,6 +211,7 @@ const translations = {
         "",
         "Nessun record A fornito.",
         "Nie podano rekordu A.",
+        "",
     ],
     INVALID_QNH_VALUE: [
         "Determined QNH of {} hPa (based on altitude provided) is not between limits of {} hPa and {} hPa.",
@@ -199,6 +221,7 @@ const translations = {
         "",
         "Il QNH determinato di {} hPa (in base all'altitudine fornita) non è compreso tra i limiti di {} hPa e {} hPa.",
         "Ustalone QNH o wartości {} hPA (bazowane na podanej wysokości) nie jest w granicach limitu od {} hPa do {} hPa.",
+        "",
     ],
     PRESS_ALT_NOT_VALID: [
         "Pressure altitude in file is not valid, maximum value is {} meters.",
@@ -208,6 +231,7 @@ const translations = {
         "",
         "L'altitudine della pressione nel file non è valida, il valore massimo è {} metri.",
         "Wysokość ciśnieniowa w pliku nie jest poprawna, maksymalna wartość to {} metrów",
+        "",
     ],
     A_RECORD_TOO_SHORT: [
         "A Record is too short.",
@@ -217,6 +241,7 @@ const translations = {
         "",
         "Il record A è troppo corto.",
         "Rekord A jest za krótki.",
+        "",
     ],
     H_RECORD_NO_DATE: [
         "No date in H Record provided.",
@@ -226,6 +251,7 @@ const translations = {
         "",
         "Nessuna data in H record fornito",
         "Nie podano daty w rekordzie H",
+        "",
     ],
     NO_H_RECORD: [
         "No H Record provided.",
@@ -235,6 +261,7 @@ const translations = {
         "",
         "Nessun record H fornito.",
         "Nie podano rekordu H.",
+        "",
     ],
     AVG_GNSS_ALT_CHANGE: [
         "Average GNSS altitude change between fixes in your file is {}, Minimum is {}.",
@@ -244,6 +271,7 @@ const translations = {
         "",
         "La variazione di altitudine GNSS media tra le correzioni nel file è {}, il minimo è {}.",
         "Średnia zmiana wysokości GNSS pomiędzy pomiarami w Twoim pliku wynosi: {}, Minimum to: {}.",
+        "",
     ],
     AVG_PRESS_ALT_CHANGE: [
         "Average pressure altitude change between fixes in your file is {}, Minimum is {}.",
@@ -253,6 +281,7 @@ const translations = {
         "",
         "La variazione media dell'altitudine della pressione tra le correzioni nel file è {}, il minimo è {}.",
         "Średnia zmiana wysokości ciśnieniowej pomiędzy pomiarami w Twoim pliku wynosi: {}, Minimum to: {}.",
+        "",
     ],
     RAW_TIME_HARD_LIMIT_EXCEEDED: [
         "Hard time constraint ({} seconds) between fixes exceeded  at {}, interval without logging is {} seconds.",
@@ -262,6 +291,7 @@ const translations = {
         "",
         "Vincolo di tempo rigido ({} secondi) tra le correzioni superato in {}, l'intervallo senza registrazione è di {} secondi.",
         "Twarde ograniczenia czasowe ({} sekund) pomiędzy pomiarami przekroczone w {}, interwał bez logowania wynosi {} sekund.",
+        "",
     ],
     NO_TAKEOFF: [
         "Did not detect takeoff.",
@@ -270,7 +300,8 @@ const translations = {
         "Start niet herkend.",
         "",
         "Decollo non rilevato.",
-        "Nie wykryto startu."
+        "Nie wykryto startu.",
+        "",
     ],
     FIXES_BEFORE_TAKEOFF: [
         "Found {} fixes before takeoff, required are {}.",
@@ -280,6 +311,7 @@ const translations = {
         "",
         "Trovate {} correzioni prima del decollo, obbligatorie sono {}.",
         "Znaleziono {} pomiarów przed startem, wymagane są {}.",
+        "",
     ],
     NO_ENGINE_SENSOR: [
         "No engine sensor found, allowed engine sensors: {}.",
@@ -289,6 +321,7 @@ const translations = {
         "",
         "Nessun sensore del motore trovato, sensori del motore consentiti: {}.",
         "Nie wykryto czujnika silnika, dozwolone czujniki silnika: {}.",
+        "",
     ],
     NO_FES_SENSOR: [
         "No FES sensor found, allowed FES sensors: {}.",
@@ -298,6 +331,7 @@ const translations = {
         "",
         "Nessun sensore FES trovato, sensori FES consentiti: {}.",
         "Nie wykryto czujnika FES, dozwolone czujniki FES: {}.",
+        "",
     ],
     NO_SCORING_WINDOWS: [
         "No scoring windows were found.",
@@ -307,6 +341,7 @@ const translations = {
         "",
         "Nessuna finestra di punteggio è stata trovata.",
         "Nie wykryto okna punktacji.",
+        "",
     ]
 }
 

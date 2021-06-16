@@ -1,7 +1,8 @@
 import { i18nStore } from "@/weglide/store"
+import { Translations } from "./translation.types";
 
 // API error code translation
-export const translations = {
+export const translations: Translations = {
     // category
     pilot: [
         "Pilot",
@@ -11,6 +12,7 @@ export const translations = {
         "Pilot",
         "Pilota",
         "Pilot",
+        "Piloto",
     ],
     club: [
         "Club",
@@ -20,15 +22,17 @@ export const translations = {
         "Klub",
         "Club",
         "Klub",
+        "Club",
     ],
     club_total: [
-        "Club Total",
-        "Verein Gesamt",
         "Club total",
-        "Club Totaal",
+        "Verein gesamt",
+        "Club total",
+        "Club totaal",
         "Klub celkem",
-        "Club Totali",
+        "Club totali",
         "Klub suma",
+        "Club total"
     ],
     airport_total: [
         "Airport Total",
@@ -38,6 +42,7 @@ export const translations = {
         "Letiště celkem",
         "Aereoporti totali",
         "Lotnisko suma",
+        "Aeropuerto total",
     ],
     pilot_total: [
         "Pilot Total",
@@ -47,6 +52,7 @@ export const translations = {
         "Pilot celkem",
         "Pilota totali",
         "Pilot suma",
+        "Piloto total",
     ],
     // User
     ALL: [
@@ -57,6 +63,7 @@ export const translations = {
         "Všichni",
         "Tutti",
         "Wszystko",
+        "Todas",
     ],
     female: [
         "Women",
@@ -66,6 +73,7 @@ export const translations = {
         "Ženy",
         "Femmine",
         "Kobiety",
+        "Mujer",
     ],
     junior: [
         "Juniors",
@@ -75,6 +83,7 @@ export const translations = {
         "Junioři",
         "Bambini",
         "Juniorzy",
+        "Juniors"
     ],
     // SC Class
     OP: [
@@ -85,8 +94,10 @@ export const translations = {
         "Open",
         "Apri",
         "Open",
+        "Abierto",
     ],
-    18: [
+    "18": [
+        "18m",
         "18m",
         "18m",
         "18m",
@@ -95,7 +106,8 @@ export const translations = {
         "18m",
         "18m",
     ],
-    15: [
+    "15": [
+        "15m",
         "15m",
         "15m",
         "15m",
@@ -112,6 +124,7 @@ export const translations = {
         "Standart",
         "Standard",
         "Standard",
+        "Estándar",
     ],
     CL: [
         "Club",
@@ -121,6 +134,7 @@ export const translations = {
         "Klub",
         "Club",
         "Klub",
+        "Club",
     ],
     DO: [
         "Double",
@@ -130,6 +144,7 @@ export const translations = {
         "Dojmístné",
         "Doppio",
         "Podwójne",
+        "Doble",
     ]
 }
 
