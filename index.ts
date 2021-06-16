@@ -1993,13 +1993,22 @@ export const translations = {
     ],
 
     // Flight overview
+    overview: [
+        "Overview",
+        "Übersicht",
+        "Aperçu",
+        "Overzicht",
+        "Přehled",
+        "Sintesi",
+        "Przegląd",
+    ],
     flightOverview: [
         "Flight overview",
         "Flugübersicht",
         "Aperçu du vol",
         "Overzicht",
         "Náhled letu",
-        "Panoramica volo",
+        "Panoramica",
         "Przegląd lotów",
     ],
     liveOverview: [
@@ -3221,6 +3230,33 @@ export const translations = {
         "Kulaté národní soutěže",
         "Concorsi nazionali a base rotonda",
         "Konkursy krajowe oparte na rundzie",
+    ],
+    internationalCompDescription: [
+        "International competitions",
+        "Internationale Wettbewerbe",
+        "Compétitions internationales",
+        "Internationale wedstrijden",
+        "Mezinárodní soutěže",
+        "Concorsi internazionali",
+        "Konkursy międzynarodowe",
+    ],
+    youthPromotion: [
+        "Youth promotion",
+        "Juniorenförderung",
+        "Promotion junior",
+        "Jeugdpromotie",
+        "Podpora mládeže",
+        "Promozione giovanile",
+        "Promocja młodzieży",
+    ],
+    youthPromotionDescription: [
+        "Coaching and youth gliders",
+        "Coaching und Förderflugzeuge",
+        "Coaching et planeurs",
+        "Coachen en zweefvliegen",
+        "Koučování a kluzáky",
+        "Coaching e alianti",
+        "Treningi i szybowce",
     ],
 
     // Ranking config
