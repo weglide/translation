@@ -142,8 +142,8 @@ export const translations = {
         "Hasło zresetowane, proszę się zalogować",
     ],
     info: [
-        "Info",
-        "Info",
+        "Information",
+        "Information",
         "Information",
         "Informatie",
         "Informace",
@@ -1844,6 +1844,15 @@ export const translations = {
         "Komentář",
         "Commento",
         "Komentarz",
+    ],
+    translate: [
+        "Translate",
+        "Übersetzen",
+        "Traduire",
+        "Vertalen",
+        "Přeložit ",
+        "Tradurre",
+        "Tłumaczyć",
     ],
     outstart: [
         "Outstart",
