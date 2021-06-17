@@ -2000,6 +2000,15 @@ export const translations = {
         "Ancora nessun volo.",
         "Nie ma jeszcze lotów.",
     ],
+    noFlightsMapYet: [
+        "No flights yet in this map section.",
+        "Noch keine Flüge in diesem Kartenausschnitt.",
+        "Pas encore de vols dans cette section de carte.",
+        "Nog geen vluchten in dit kaartgedeelte.",
+        "V této části mapy zatím nejsou žádné lety.",
+        "Non ci sono ancora voli in questa sezione della mappa.",
+        "W tej sekcji mapy nie ma jeszcze lotów.",
+    ],
 
     // Flight overview
     overview: [
