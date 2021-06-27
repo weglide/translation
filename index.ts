@@ -2038,6 +2038,15 @@ export const translations = {
         "Panoramica volo",
         "Przegląd lotów",
     ],
+    liveTopVisible: [
+        "Top 50 in map sector",
+        "Top 50 im Kartensektor",
+        "Top 50 dans la région",
+        "Top 50 in kaartsector",
+        "Top 50 v mapovém sektoru",
+        "Top 50 nel settore della mappa",
+        "Top 50 w sektorze map",
+    ],
     flightListSwitch: [
         "List",
         "Liste",
