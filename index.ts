@@ -1264,6 +1264,15 @@ export const translations = {
         "modificato",
         "edytowane",
     ],
+    noOneYet: [
+        "No one yet.",
+        "Noch niemand.",
+        "Personne encore.",
+        "Nog niemand.",
+        "Zatím nikdo.",
+        "Nessuno ancora.",
+        "Nikt jeszcze.",
+    ],
 
     // Authentication
     joinThanks: [
