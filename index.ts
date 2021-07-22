@@ -2675,7 +2675,7 @@ export const translations: Translations = {
         "Česky",
         "Italiano",
         "Polski",
-        "",
+        "Español",
     ],
     welcome: [
         "Welcome",
@@ -2685,7 +2685,7 @@ export const translations: Translations = {
         "Vítejte",
         "Benvenuto",
         "Witaj",
-        "",
+        "Bienvenidos",
     ],
     shareAdventures: [
         "Share your latest adventures.",
@@ -2695,7 +2695,7 @@ export const translations: Translations = {
         "Sdílej s námi o tvé nejnovější zážitky",
         "Condividi le tue ultime avventure",
         "Podziel się ostatnimi przygodami.",
-        "",
+        "Comparte tus últimas aventuras.",
     ],
     uploadFlight: [
         "Upload flight",
@@ -2705,7 +2705,7 @@ export const translations: Translations = {
         "Nahrát let",
         "Carica un volo",
         "Prześlij lot",
-        "",
+        "Subir vuelo",
     ],
     myProfile: [
         "My profile",
@@ -2715,7 +2715,7 @@ export const translations: Translations = {
         "Můj profil",
         "Il mio profilo",
         "Mój profil",
-        "",
+        "Mi perfil",
     ],
     encourage: [
         "Let's take off together and join the next-generation gliding platform.",
@@ -2725,7 +2725,7 @@ export const translations: Translations = {
         "Užij si novou platformu pro plachtění",
         "Decolliamo insieme e unisciti alla nuova piattaforma di volo.",
         "Wystartujmy razem i dołącz do platformy o szybownictwie nowej generacji.",
-        "",
+        "Despeguemos juntos y unámonos a la plataforma de deslizamiento de próxima generación.",
     ],
     fromByPilots: [
         "Built by Pilots for Pilots.",
@@ -2735,7 +2735,7 @@ export const translations: Translations = {
         "Vytvořeno piloty pro piloty",
         "Costruito da piloti per piloti",
         "Zbudowane przez pilotów dla pilotów.",
-        "",
+        "Construido por pilotos para pilotos.",
     ],
     flightOfTheMonth: [
         "Flight of the month",
@@ -2745,7 +2745,7 @@ export const translations: Translations = {
         "Let měsíce",
         "Volo del mese",
         "Lot miesiąca",
-        "",
+        "Vuelo del mes",
     ],
 
     // Partner
