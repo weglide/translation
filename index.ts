@@ -369,6 +369,7 @@ export const translations: Translations = {
         "Letiště",
         "Aereoporto",
         "Lotnisko",
+        "Aeropuerto",
     ],
     airports: [
         "Airports",
@@ -378,7 +379,7 @@ export const translations: Translations = {
         "Letiště",
         "Aereoporti",
         "Lotniska",
-        "Aeropuerto",
+        "Aeropuertos",
     ],
     radio: [
         "Radio",
@@ -408,7 +409,7 @@ export const translations: Translations = {
         "Popis",
         "Descrizione",
         "Opis",
-        ""
+        "Descripción",
     ],
     type: [
         "Type",
@@ -418,6 +419,7 @@ export const translations: Translations = {
         "Typ",
         "Tipo",
         "Typ",
+        "Tipo",
     ],
     category: [
         "Category",
@@ -427,6 +429,7 @@ export const translations: Translations = {
         "Kategorie",
         "Categoria",
         "Kategoria",
+        "Categoría",
     ],
     location: [
         "Location",
@@ -436,6 +439,7 @@ export const translations: Translations = {
         "Místo",
         "Posizione",
         "Lokalizacja",
+        "Localización",
     ],
     timezone: [
         "Timezone",
@@ -445,6 +449,7 @@ export const translations: Translations = {
         "Časové pásmo",
         "Fuso orario",
         "Strefa czasowa",
+        "Zona horaria",
     ],
     continent: [
         "Continent",
@@ -454,6 +459,7 @@ export const translations: Translations = {
         "Kontinent",
         "Continente",
         "Kontynent",
+        "Continente",
     ],
     country: [
         "Country",
@@ -463,6 +469,7 @@ export const translations: Translations = {
         "Země",
         "Nazione",
         "Kraj",
+        "País",
     ],
     region: [
         "Region",
@@ -472,6 +479,7 @@ export const translations: Translations = {
         "Region",
         "Regione",
         "Region",
+        "Región",
     ],
     elevation: [
         "Elevation",
@@ -481,6 +489,7 @@ export const translations: Translations = {
         "Výška",
         "Elevazione",
         "Wysokość",
+        "Elevación",
     ],
     usage: [
         "Usage",
