@@ -8,6 +8,7 @@ const translations = {
     sprint: "Sprint",
     declaration: "Task",
     dmst: "DMSt",
+    nsfw: "NSFW",
 }
 
 export function i18nContestNames(key: keyof typeof translations): string {
