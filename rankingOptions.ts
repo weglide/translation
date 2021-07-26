@@ -149,7 +149,10 @@ export const translations: Translations = {
 }
 
 export function i18nRankingOptions(key: keyof typeof translations): string {
-    if (!translations[key]) console.error("Translation not found for", key);
+    if (!translations[key]) {
+        console.error("Translation not found for", key);
+        return "";
+    }
     if (translations[key][i18nStore.current] === "")
         return translations[key][0]; // english
     else

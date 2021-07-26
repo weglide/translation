@@ -12,7 +12,11 @@ const translations = {
 }
 
 export function i18nContestNames(key: keyof typeof translations): string {
-    if (!translations[key]) console.error("Translation not found for", key);
-    return translations[key];
+    if (!translations[key]) {
+        console.error("Translation not found for", key);
+        return "";
+    } else {
+        return translations[key];
+    }
 }
 
