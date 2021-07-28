@@ -1425,6 +1425,16 @@ export const translations: Translations = {
         "edytowane",
         "editado",
     ],
+    findFriends: [
+        "Find friends",
+        "Freunde finden",
+        "Retrouver des amis",
+        "Zoek vrienden",
+        "Najít přátele",
+        "Trova amici",
+        "Znajdź przyjaciół",
+        "Encontrar amigos",
+    ],
     noOneYet: [
         "No one yet.",
         "Noch niemand.",
