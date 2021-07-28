@@ -1435,6 +1435,26 @@ export const translations: Translations = {
         "Nikt jeszcze.",
         "Todavía nadie.",
     ],
+    flightCommented: [
+        "commented your flight.",
+        "hat deinen Flug kommentiert.",
+        "a commenté votre vol.",
+        "heeft gereageerd op je vlucht.",
+        "okomentoval váš let.",
+        "ha commentato il tuo volo.",
+        "skomentował Twój lot.",
+        "comentó tu vuelo.",
+    ],
+    flightsOfMyFriends: [
+        "Flights of my friends",
+        "Flüge meiner Freunde",
+        "Les vols de mes amis",
+        "Vluchten van vrienden",
+        "Lety mých přátel",
+        "Voli dei miei amici",
+        "Loty moich znajomych",
+        "Vuelos de mis amigos",
+    ],
 
     // Authentication
     joinThanks: [
