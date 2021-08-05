@@ -2439,6 +2439,16 @@ export const translations: Translations = {
         "Aktualne konkursy",
         "Competiciones actuales",
     ],
+    noCompetitions: [
+        "No competitions",
+        "Keine Wettbewerbe",
+        "Pas de compétitions",
+        "Geen competities",
+        "Žádné soutěže",
+        "Nessuna competizione",
+        "Brak konkursów",
+        "Sin competiciones",
+    ],
     list: [
         "List",
         "Liste",
