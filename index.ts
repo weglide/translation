@@ -3959,7 +3959,7 @@ export const translations: Translations = {
     ],
     writeComment: [
         "Write comment ...",
-        "Schreib einen Kommentar ...",
+        "Schreibe einen Kommentar ...",
         "Écris un commentaire ...",
         "Plaats een opmerking ...",
         "Napiš komentář ...",
