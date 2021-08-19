@@ -1367,7 +1367,7 @@ export const translations: Translations = {
     ],
     following: [
         "Following",
-        "Folge ich",
+        "Folgt",
         "Abonnements",
         "Volgend",
         "Následující",
@@ -1377,7 +1377,7 @@ export const translations: Translations = {
     ],
     followers: [
         "Followers",
-        "Folgen mir",
+        "Follower",
         "Abonnés",
         "Volgers",
         "Stoupenci",
