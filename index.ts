@@ -1445,7 +1445,7 @@ export const translations: Translations = {
         "Nikt jeszcze.",
         "Todavía nadie.",
     ],
-    flightCommented: [
+    yourFlightCommented: [
         "commented your flight.",
         "hat deinen Flug kommentiert.",
         "a commenté votre vol.",
@@ -1454,6 +1454,26 @@ export const translations: Translations = {
         "ha commentato il tuo volo.",
         "skomentował Twój lot.",
         "comentó tu vuelo.",
+    ],
+    ownFlightCommented: [
+        "answered your comment.",
+        "hat deinen Kommentar beantwortet.",
+        "répondu à votre commentaire.",
+        "uw opmerking beantwoord.",
+        "odpověděl na váš komentář.",
+        "risposto al tuo commento.",
+        "odpowiedział na twój komentarz.",
+        "respondió tu comentario.",
+    ],
+    sameFlightCommented: [
+        "also commented on the flight from",
+        "kommentierte auch den Flug von",
+        "a également commenté le vol de",
+        "gaf ook commentaar op de vlucht van",
+        "také komentoval let od",
+        "ha anche commentato il volo da",
+        "skomentował również lot",
+        "también comentó sobre el vuelo de",
     ],
     flightsOfMyFriends: [
         "Flights of my friends",
