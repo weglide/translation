@@ -3,6 +3,16 @@ import { Translations } from "./translation.types";
 
 // API error code translation
 export const translations: Translations = {
+    ALL: [
+        "All",
+        "Alle",
+        "Tous",
+        "Alle",
+        "Všichni",
+        "Tutti",
+        "Wszystko",
+        "Todas",
+    ],
     // category
     pilot: [
         "Pilot",
@@ -55,16 +65,6 @@ export const translations: Translations = {
         "Piloto total",
     ],
     // User
-    ALL: [
-        "All",
-        "Alle",
-        "Tous",
-        "Alle",
-        "Všichni",
-        "Tutti",
-        "Wszystko",
-        "Todas",
-    ],
     female: [
         "Women",
         "Frauen",
@@ -150,8 +150,7 @@ export const translations: Translations = {
 
 export function i18nRankingOptions(key: keyof typeof translations): string {
     if (!translations[key]) {
-        console.error("Translation not found for", key);
-        return "";
+        return String(key); // pass trough in case of e.g. numbers
     }
     if (translations[key][i18nStore.current] === "")
         return translations[key][0]; // english
