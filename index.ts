@@ -2325,6 +2325,16 @@ export const translations: Translations = {
     'Podziel się',
     'Cuota'
   ],
+  linkCopied: [
+    'Link copied!',
+    'Link kopiert!',
+    'Lien copié!',
+    'Link gekopieerd!',
+    'Odkaz zkopírován!',
+    'Link copiato!',
+    'Skopiowano link!',
+    '¡Enlace copiado!'
+  ],
   embed: [
     'Embed',
     'Einbetten',
