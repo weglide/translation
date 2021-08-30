@@ -1,1 +1,1 @@
-export interface Translations { [key: string]: [string, string, string, string, string, string, string, string] };
+export interface Translations { [key: string]: [string, string, string, string, string, string, string, string] }
