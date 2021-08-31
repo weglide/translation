@@ -3823,7 +3823,7 @@ export const translations: Translations = {
   ],
   nsfwDescription: [
     'Swiss Championships',
-    'Schweitzer Meisterschaften',
+    'Schweizer Meisterschaften',
     'Championnats suisses',
     'Zwitserse Kampioenschappen',
     'Švýcarské mistrovství',
@@ -3832,14 +3832,14 @@ export const translations: Translations = {
     'Campeonatos suizos'
   ],
   auDescription: [
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup',
-    'Ingo Renner Cup'
+    'Australian Championships',
+    'Australische Meisterschaften',
+    "Championnats d'Australie",
+    'Australische Kampioenschappen',
+    'Australské mistrovství',
+    'Campionati australiani',
+    'Mistrzostwa Australii',
+    'Campeonatos australianos'
   ],
   leagueDescription: [
     'Round based national contests',
