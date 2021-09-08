@@ -1,4 +1,4 @@
-import { i18nStore } from '@/weglide/store'
+import { useI18nStore } from '../store/i18n.store'
 import { Translations } from './translation.types'
 
 // API live competition task status translation
@@ -76,12 +76,15 @@ export const translations: Translations = {
 }
 
 export function i18nTaskStatusOptions (key: keyof typeof translations): string {
+  const i18nStore = useI18nStore()
+
   if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''
-  }
-  if (translations[key][i18nStore.current] === '') {
+  } else if (translations[key][i18nStore.current] === '') {
     // english
     return translations[key][0]
-  } else { return translations[key][i18nStore.current] }
+  } else {
+    return translations[key][i18nStore.current]
+  }
 }

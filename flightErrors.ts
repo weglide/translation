@@ -1,4 +1,4 @@
-import { i18nStore } from '@/weglide/store'
+import { useI18nStore } from '../store/i18n.store'
 import { Translations } from './translation.types'
 
 // API error code translation
@@ -346,6 +346,8 @@ const translations: Translations = {
 }
 
 export function i18nFlightErrors (key: keyof typeof translations, params: any[]): string {
+  const i18nStore = useI18nStore()
+
   if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''

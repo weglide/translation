@@ -1,4 +1,4 @@
-import { i18nStore } from '@/weglide/store'
+import { useI18nStore } from '../store/i18n.store'
 import { Translations } from './translation.types'
 
 // API error code translation
@@ -149,11 +149,12 @@ export const translations: Translations = {
 }
 
 export function i18nRankingOptions (key: keyof typeof translations): string {
+  const i18nStore = useI18nStore()
+
   if (!translations[key]) {
     // pass trough in case of e.g. numbers
     return String(key)
-  }
-  if (translations[key][i18nStore.current] === '') {
+  } else if (translations[key][i18nStore.current] === '') {
     // english
     return translations[key][0]
   } else {

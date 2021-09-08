@@ -1,4 +1,4 @@
-import { i18nStore } from '@/weglide/store'
+import { useI18nStore } from '../store/i18n.store'
 import { Translations } from './translation.types'
 
 // Main translation
@@ -4322,11 +4322,14 @@ export const translations: Translations = {
 }
 
 export function i18n (key: keyof typeof translations): string {
+  const i18nStore = useI18nStore()
+
   if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''
   } else if (translations[key][i18nStore.current] === '') {
-    return translations[key][0] // fallback to english
+    // english
+    return translations[key][0]
   } else {
     return translations[key][i18nStore.current]
   }
