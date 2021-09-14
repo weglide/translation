@@ -3075,6 +3075,16 @@ export const translations: Translations = {
     'Entuzjasta świeżego powietrza',
     'Aficionado al aire libre'
   ],
+  carolinDescription: [
+    'Gliding Advocate',
+    'Segelflug Advokatin',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
 
   // Magazine Teaser
   readingTime: [
@@ -3596,7 +3606,7 @@ export const translations: Translations = {
     'Integre los datos meteorológicos de TopMeteo en WeGlide'
   ],
 
-  // Profile
+  // User / Settings
   settings: [
     'Settings',
     'Einstellungen',
@@ -3616,6 +3626,16 @@ export const translations: Translations = {
     'Sicurezza',
     'Bezpieczeństwo',
     'Seguridad'
+  ],
+  payments: [
+    'Payments',
+    'Zahlungen',
+    'Paiements',
+    'Betalingen',
+    'Platby',
+    'Pagamenti',
+    'Płatności',
+    'Pagos'
   ],
   customize: [
     'Customize',
