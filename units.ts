@@ -1,0 +1,85 @@
+import { Units } from './translation.types'
+
+export const units: Units = {
+  // EU
+  metric: {
+    climbRate: {
+      abbreviation: 'm/s',
+      factorToMetric: 1
+    },
+    cruiseSpeed: {
+      abbreviation: 'km/h',
+      factorToMetric: 1
+    },
+    XCSpeed: {
+      abbreviation: 'km/h',
+      factorToMetric: 1
+    },
+    distance: {
+      abbreviation: 'km',
+      factorToMetric: 1
+    },
+    altitude: {
+      abbreviation: 'm',
+      factorToMetric: 1
+    },
+    pressure: {
+      abbreviation: 'mBar',
+      factorToMetric: 1
+    }
+  },
+  // USA, CA?
+  us: {
+    climbRate: {
+      abbreviation: 'ft/m',
+      factorToMetric: 3.28084 * 60
+    },
+    cruiseSpeed: {
+      abbreviation: 'kn',
+      factorToMetric: 0.539957
+    },
+    XCSpeed: {
+      abbreviation: 'mph', // kn?, kph?
+      factorToMetric: 0.621371
+    },
+    distance: {
+      abbreviation: 'nm',
+      factorToMetric: 0.539957
+    },
+    altitude: {
+      abbreviation: 'ft',
+      factorToMetric: 3.28084
+    },
+    pressure: {
+      abbreviation: 'hg', // inch of mercury
+      factorToMetric: 0.02953
+    }
+  },
+  // GB, AUS
+  gb: {
+    climbRate: {
+      abbreviation: 'kn',
+      factorToMetric: 1.9438452
+    },
+    cruiseSpeed: {
+      abbreviation: 'kn',
+      factorToMetric: 0.539957
+    },
+    XCSpeed: {
+      abbreviation: 'kph',
+      factorToMetric: 1
+    },
+    distance: {
+      abbreviation: 'km',
+      factorToMetric: 1
+    },
+    altitude: {
+      abbreviation: 'ft',
+      factorToMetric: 3.28084
+    },
+    pressure: {
+      abbreviation: 'hPa',
+      factorToMetric: 1 // hPa == mBar
+    }
+  }
+}
