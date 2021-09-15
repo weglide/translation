@@ -2,7 +2,7 @@ import { Units } from './translation.types'
 
 export const units: Units = {
   // EU
-  metric: {
+  M: {
     climbRate: {
       abbreviation: 'm/s',
       factorToMetric: 1
@@ -29,7 +29,7 @@ export const units: Units = {
     }
   },
   // USA, CA?
-  us: {
+  U: {
     climbRate: {
       abbreviation: 'ft/m',
       factorToMetric: 3.28084 * 60
@@ -56,7 +56,7 @@ export const units: Units = {
     }
   },
   // GB, AUS
-  gb: {
+  I: {
     climbRate: {
       abbreviation: 'kn',
       factorToMetric: 1.9438452

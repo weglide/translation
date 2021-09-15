@@ -15,7 +15,7 @@ export interface UnitSystem {
 }
 
 export interface Units {
-    metric: UnitSystem
-    us: UnitSystem
-    gb: UnitSystem
+    M: UnitSystem
+    U: UnitSystem
+    I: UnitSystem
 }
