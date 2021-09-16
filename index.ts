@@ -2726,14 +2726,14 @@ export const translations: Translations = {
     'No ha iniciado sesión, proporcione su fecha de nacimiento y nombre completo para cargar si tiene una cuenta o'
   ],
   logInFirst: [
-    'log in',
-    'melde dich an',
-    'inscris-toi',
-    'log in',
-    'Přihlásit',
-    'log in',
-    'Zaloguj się',
-    'iniciar sesión'
+    'Please log in first.',
+    'Bitte melde dich zuerst an.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   igcDragText: [
     'Drag .igc files here to upload or click to select',
@@ -4338,6 +4338,318 @@ export const translations: Translations = {
     'Obbiettivo cancellato',
     'Zadanie usunięte',
     'Tarea eliminada'
+  ],
+
+  // Supporter
+  supporterTeaser: [
+    'Get the WeGlide Supporter package and enjoy unique features.',
+    'Hole dir das WeGlide Supporter Paket für praktische Zusatzfunktionen.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  learnMore: [
+    'learn more',
+    'Mehr erfahren',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  tryNow: [
+    'Try now',
+    'Jetzt ausprobieren',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  subscribeForFee: [
+    'Subscribe for a fee',
+    'Kostenpflichtig abonnieren',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  thanksVeryMuch: [
+    'Thanks very much!',
+    'Vielen Dank!',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  alreadySupporter: [
+    'You are already a supporter.',
+    'Du bist bereits Supporter',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  nextAutomaticRenewal: [
+    'Next automatic renewal:',
+    'Nächste automatische Verlängerung:',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  noAutomaticRenewal: [
+    'No automatic renewal, you can subscribe again after the expiration date.',
+    'Keine automatische Verlängerung, du kannst nach dem Auslaufdatum erneut abonnieren.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  expirationDate: [
+    'Expiration date:',
+    'Auslaufdatum:',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  cancelSubscription: [
+    'Cancel subscription',
+    'Abonemment kündigen',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  becomeSupporter: [
+    'Become Supporter',
+    'Werde Supporter',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  becomeSupporterText: [
+    'WeGlide accompanies you from the planning to the analysis of your flight so that you can concentrate on the essentials. Pleasure flying or the competition with the best, you decide your day.',
+    'WeGlide begleitet dich von der Planung bis zur Analyse deines Fluges, damit du dich auf das Wesentliche konzentrieren kannst. Genussfliegen oder der Wettkampf mit den Besten, Du entscheidest deinen Tag.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  yourImpact: [
+    'Your impact',
+    'Was du bewirkst',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  yourImpactSubline: [
+    'We are a small but highly motivated team',
+    'Wir sind ein kleines aber hoch motiviertes Team',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  yourImpactText: [
+    'With your support, we not only keep this platform running but make it better every day. WeGlide is committed to high ethical, technical and scientific values ​​but the focus will alway be on You.',
+    'Mit deiner Unterstützung halten wir nicht nur diese Platform am laufen, sondern machen sie jeden Tag besser. WeGlide verschreibt sich hohen ethischen, technischen und wissenschaftlichen Werten aber das wichtigste bleibst immer Du.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  liveWeather: [
+    'Live weather',
+    'Live Wetter',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  liveWeatherSubline: [
+    'The best available cloud maps',
+    'Die besten verfügbaren Wolkenkarten',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  liveWeatherText: [
+    'One of your fellow aviators has planned a particularly big flight today while you have to sit in the office? While it was previously time-consuming to find the correct position of an aircraft in the satellite image, this is now possible as a supporter in WeGlide live tracking simply by clicking on the cloud symbol.',
+    'Einer deiner Fliegerkameraden hat sich heute einen besonders großen Flug vorgenommen, während du im Büro sitzen musst? War es bisher aufwändig die korrekte Position eines Flugzeuges im Satellitenbild zu finden, ist dies als Supporter im WeGlide Livetracking nun einfach per Klick auf das Wolkensymbol möglich.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  historyWeather: [
+    'History weather',
+    'Historisches Wetter',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  historyWeatherSubline: [
+    'Easily understand flight decisions',
+    'Flugentscheidungen einfach nachvollziehen',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  historyWeatherText: [
+    'Know why a flight was particularly fast or slow at one point, why a pilot flew a detour that seemed superfluous. How do the best behave with a blue hole or shield? Select the cloud symbol and hover over the barogram to find out.',
+    'Wissen wieso ein Flug an einer Stelle besonders schnell oder langsam war, warum ein Pilot einen überflüssig erscheinenden Umweg geflogen ist. Wie verhalten sich die Profis bei einem blauen Loch oder einer Abschirmung? Wähle das Wolkensymbol und fahre über das Barogramm um es herauszufinden.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  historyWeatherCite: [
+    'The satellite film shows exactly how the conditions were, I was able to experience the flight again.',
+    'Der Satellitenfilm zeigt exakt wie die Bedingungen waren, ich konnte den Flug noch mal erleben.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  hdMaps: [
+    'HD Maps',
+    'HD Karten',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  hdMapsSubline: [
+    'Up close, razor sharp',
+    'Ganz nah, gestochen scharf',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  hdMapsText: [
+    'Fields? No problem. Houses? Of course. Even the runways can be seen with the HD maps from Esri. Click the layers icon and choose HD Satellite. especially fun in combination with the live tracking.',
+    'Felder? Kein Problem. Häuser? Selbstverständlich. Sogar die Landebahnen lassen sich mit den HD Karten von Esri erspähen. Klicke auf das Schichtensymbol und wähle HD Satellit, macht besonders viel Spaß in Kombination mit dem Live Tracking.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  thereForYou: [
+    'We are there for You',
+    'Wir sind für dich da',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  thereForYouSubline: [
+    'Your concern is our concern',
+    'Dein Anliegen ist unser Anliegen',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  thereForYouText: [
+    'Do you have any questions or need support? We like to take our time and help you. So that you can concentrate on what matters. Take off!',
+    'Du hast Fragen oder benötigst Support? Wir nehmen uns gerne Zeit und helfen dir weiter. Damit du dich auf das konzentrieren kannst was zählt. Takeoff!',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  supporterTerms: [
+    'Become Supporter now',
+    'Jetzt Supporter werden',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  supporterTermsSubline: [
+    'Your subscription, your benefits',
+    'Dein Abo, deine Vorteile',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  supporterTermsText: [
+    'The subscription costs 36 € per year, can be canceled at any time and is debited annually. No conversion costs or fees.',
+    'Das Abonnement kostet 36€ pro Jahr, ist jederzeit Kündbar und wird jährlich abgebucht.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ]
 }
 
