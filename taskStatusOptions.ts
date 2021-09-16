@@ -81,10 +81,10 @@ export function i18nTaskStatusOptions (key: keyof typeof translations): string {
   if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''
-  } else if (translations[key][i18nStore.current] === '') {
+  } else if (translations[key][i18nStore.languageIndex] === '') {
     // english
     return translations[key][0]
   } else {
-    return translations[key][i18nStore.current]
+    return translations[key][i18nStore.languageIndex]
   }
 }

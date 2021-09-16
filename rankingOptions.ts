@@ -154,10 +154,10 @@ export function i18nRankingOptions (key: keyof typeof translations): string {
   if (!translations[key]) {
     // pass trough in case of e.g. numbers
     return String(key)
-  } else if (translations[key][i18nStore.current] === '') {
+  } else if (translations[key][i18nStore.languageIndex] === '') {
     // english
     return translations[key][0]
   } else {
-    return translations[key][i18nStore.current]
+    return translations[key][i18nStore.languageIndex]
   }
 }

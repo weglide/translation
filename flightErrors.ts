@@ -353,7 +353,7 @@ export function i18nFlightErrors (key: keyof typeof translations, params: any[])
     return ''
   }
 
-  let template = translations[key][i18nStore.current]
+  let template = translations[key][i18nStore.languageIndex]
   if (template === '') return translations[key][0] // english
   for (const param of params) template = template.replace('{}', param)
 
