@@ -3913,6 +3913,16 @@ export const translations: Translations = {
   ],
 
   // Ranking config
+  timeOfYear: [
+    'Time of year',
+    'Jahreszeit',
+    "Période de l'année",
+    'Tijd van het jaar',
+    'Roční období',
+    "Periodo dell'anno",
+    'Czas roku',
+    'Época del año'
+  ],
   season: [
     'Season',
     'Saison',

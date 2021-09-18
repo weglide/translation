@@ -13,6 +13,26 @@ export const translations: Translations = {
     'Wszystko',
     'Todas'
   ],
+  summer: [
+    'Summer',
+    'Sommer',
+    "L'été",
+    'Zomer',
+    'Léto',
+    'Estate',
+    'Lato',
+    'Verano'
+  ],
+  winter: [
+    'Winter',
+    'Winter',
+    "L'hiver",
+    'Winter',
+    'Zima',
+    'Inverno',
+    'Zima',
+    'Invierno'
+  ],
   // category
   pilot: [
     'Pilot',
