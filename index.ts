@@ -4662,8 +4662,8 @@ export const translations: Translations = {
     ''
   ],
   supporterTermsText: [
-    'The subscription costs 36 € per year, can be canceled at any time and is debited annually. No conversion costs or fees.',
-    'Das Abonnement kostet 36€ pro Jahr, ist jederzeit Kündbar und wird jährlich abgebucht.',
+    'The subscription costs 48 € per year, can be canceled at any time and is debited annually. No conversion costs or fees.',
+    'Das Abonnement kostet 48 € pro Jahr, ist jederzeit Kündbar und wird jährlich abgebucht.',
     '',
     '',
     '',
