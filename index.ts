@@ -783,6 +783,16 @@ export const translations: Translations = {
     'pokaż',
     'show'
   ],
+  download: [
+    'Download',
+    'Lade',
+    'Télécharger',
+    'Downloaden',
+    'Stažení',
+    'Scarica',
+    'Pobierać',
+    'Descargar'
+  ],
 
   // Flight
   flight: [
