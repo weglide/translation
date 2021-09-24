@@ -11,7 +11,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Заплановано',
   ],
   not_planned: [
     'Not planned',
@@ -21,7 +22,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Не заплановано',
   ],
   scoring: [
     'Scoring active',
@@ -31,7 +33,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Оцінювання в процесі',
   ],
   preliminary_result: [
     'Preliminary result',
@@ -41,7 +44,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Попередні результати',
   ],
   inofficial_result: [
     'Inofficial result',
@@ -51,7 +55,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Неофіційні результати',
   ],
   final_result: [
     'Final result',
@@ -61,7 +66,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Остаточні результати',
   ],
   neutralized: [
     'Neutralized',
@@ -71,7 +77,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Нейтралізовано',
   ]
 }
 
