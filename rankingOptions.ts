@@ -12,7 +12,7 @@ export const translations: Translations = {
     'Tutti',
     'Wszystko',
     'Todas',
-    'Всі',
+    'Всі'
   ],
   summer: [
     'Summer',
@@ -23,7 +23,7 @@ export const translations: Translations = {
     'Estate',
     'Lato',
     'Verano',
-    'Літо',
+    'Літо'
   ],
   winter: [
     'Winter',
@@ -34,7 +34,7 @@ export const translations: Translations = {
     'Inverno',
     'Zima',
     'Invierno',
-    'Зима',
+    'Зима'
   ],
   // category
   pilot: [
@@ -46,7 +46,7 @@ export const translations: Translations = {
     'Pilota',
     'Pilot',
     'Piloto',
-    'Пілот',
+    'Пілот'
   ],
   club: [
     'Club',
@@ -57,7 +57,7 @@ export const translations: Translations = {
     'Club',
     'Klub',
     'Club',
-    'Клуб',
+    'Клуб'
   ],
   club_total: [
     'Club total',
@@ -68,7 +68,7 @@ export const translations: Translations = {
     'Club totali',
     'Klub suma',
     'Club total',
-    'Підсумок клубу',
+    'Підсумок клубу'
   ],
   airport_total: [
     'Airport Total',
@@ -79,7 +79,7 @@ export const translations: Translations = {
     'Aereoporti totali',
     'Lotnisko suma',
     'Aeropuerto total',
-    'Підсумок аеропорту',
+    'Підсумок аеропорту'
   ],
   pilot_total: [
     'Pilot Total',
@@ -90,7 +90,7 @@ export const translations: Translations = {
     'Pilota totali',
     'Pilot suma',
     'Piloto total',
-    'Підсумок пілота',
+    'Підсумок пілота'
   ],
   // User
   female: [
@@ -102,7 +102,7 @@ export const translations: Translations = {
     'Femmine',
     'Kobiety',
     'Mujer',
-    'Жінки',
+    'Жінки'
   ],
   junior: [
     'Juniors',
@@ -113,7 +113,7 @@ export const translations: Translations = {
     'Bambini',
     'Juniorzy',
     'Juniors',
-    'Юніори',
+    'Юніори'
   ],
   // SC Class
   OP: [
@@ -125,7 +125,7 @@ export const translations: Translations = {
     'Apri',
     'Open',
     'Abierto',
-    'Відкритий',
+    'Відкритий'
   ],
   18: [
     '18m',
@@ -136,7 +136,7 @@ export const translations: Translations = {
     '18m',
     '18m',
     '18m',
-    '18м',
+    '18м'
   ],
   15: [
     '15m',
@@ -147,7 +147,7 @@ export const translations: Translations = {
     '15m',
     '15m',
     '15m',
-    '15м',
+    '15м'
   ],
   ST: [
     'Standard',
@@ -158,7 +158,7 @@ export const translations: Translations = {
     'Standard',
     'Standard',
     'Estándar',
-    'Стандартний',
+    'Стандартний'
   ],
   CL: [
     'Club',
@@ -169,7 +169,7 @@ export const translations: Translations = {
     'Club',
     'Klub',
     'Club',
-    'Клубний',
+    'Клубний'
   ],
   DO: [
     'Double',
@@ -180,7 +180,7 @@ export const translations: Translations = {
     'Doppio',
     'Podwójne',
     'Doble',
-    'Двомісний',
+    'Двомісний'
   ]
 }
 
