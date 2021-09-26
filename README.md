@@ -1,9 +1,11 @@
 ![WeGlide translation logo](./logo.png)
 
 # WeGlide Translation
-Translation files for WeGlide are ``index.ts flightErrors.ts rankingOptions.ts``.
+
+Translation files for WeGlide are ``index.ts flightErrors.ts rankingOptions.ts taskStatusOptions.ts``.
 
 ## Schema
+
 ```typescript
 key: [
         "english",
@@ -12,11 +14,14 @@ key: [
         "dutch",
         "czech",
         "italian",
-        "polish"
+        "polish",
+        "spanish",
+        "ukrainian",
 ]
 ```
 
 # Contributors
+
 * @Fuchur777 (Dutch)
 * @Vratislav (Czech)
 * @jasminthomas (French)
@@ -25,8 +30,10 @@ key: [
 * @samuel-git (English, German)
 * @ITKewai (Italian)
 * @grzesie (Polish)
+* @muravitskiy (Ukrainian)
 
 ## Contribute
+
 **Every help is greatly appreciated.**
 
 You are invited to add your favorite language as new column to each key.

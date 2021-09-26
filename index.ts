@@ -13,6 +13,7 @@ export const translations: Translations = {
         "italian",
         "polish",
         "spanish",
+        "ukrainian",
     ],
     */
 
@@ -25,7 +26,8 @@ export const translations: Translations = {
     'Testovací verze',
     'Prerelease',
     'Wersja testowa',
-    'Versión de prueba'
+    'Versión de prueba',
+    'Тестова версія',
   ],
   betaText: [
     'Please be aware that we might need to delete data or break some functionality.',
@@ -35,7 +37,8 @@ export const translations: Translations = {
     'Prosím, buďte připraveni, že případně budeme muset data smazat nebo se může objevit chyba',
     'Tieni presente che potrebbe essere necessario eliminare i dati o interrompere alcune funzionalità',
     'Proszę zwrócić uwagę, że możemy być zmuszeni do usunięcia danych lub część funkcji może nie działać.',
-    'Tenga en cuenta que es posible que necesitemos eliminar datos o interrumpir alguna funcionalidad.'
+    'Tenga en cuenta que es posible que necesitemos eliminar datos o interrumpir alguna funcionalidad.',
+    'Просимо звернути увагу, що ми можемо видаляти дані, а деякі функції можуть не працювати.',
   ],
   waiting: [
     'Waiting',
@@ -45,7 +48,8 @@ export const translations: Translations = {
     'čekej.',
     'In attesa',
     'Czekanie',
-    'Esperando'
+    'Esperando',
+    'Очікування',
   ],
   processing: [
     'Processing',
@@ -55,7 +59,8 @@ export const translations: Translations = {
     'Zpracovává se',
     'In elaborazione',
     'Procesowanie',
-    'Procesando'
+    'Procesando',
+    'Обробка',
   ],
   attention: [
     'Attention',
@@ -65,7 +70,8 @@ export const translations: Translations = {
     'Pozor',
     'Attenzione',
     'Uwaga',
-    'Atención'
+    'Atención',
+    'Увага',
   ],
   success: [
     'Success',
@@ -75,7 +81,8 @@ export const translations: Translations = {
     'Úspěch',
     'Completato',
     'Sukces',
-    'Éxito'
+    'Éxito',
+    'Успішно',
   ],
   errorAuthTitle: [
     'Session expired',
@@ -85,7 +92,8 @@ export const translations: Translations = {
     'Relace skončila',
     'Sessione scaduta',
     'Sesja wygasła',
-    'Sesión expirada'
+    'Sesión expirada',
+    'Сесія застаріла',
   ],
   errorAuth: [
     'Please log in first',
@@ -95,7 +103,8 @@ export const translations: Translations = {
     'Prosím nejdříve se přihlašte',
     'Per favore fai prima il log in',
     'Proszę najpierw się zalogować',
-    'Por favor ingresa primero'
+    'Por favor ingresa primero',
+    'Будь ласка, спочатку виконайте вхід',
   ],
   errorServerTitle: [
     'Service unavailable',
@@ -105,7 +114,8 @@ export const translations: Translations = {
     'Služba není k dispozici',
     'Server temporaneamente non disponibile',
     'Usługa niedostępna',
-    'Servicio no disponible'
+    'Servicio no disponible',
+    'Сервіс недоступний',
   ],
   errorServer: [
     'Please try again later or contact us',
@@ -115,7 +125,8 @@ export const translations: Translations = {
     'Prosím zkus to později znovu nebo nás kontaktuj',
     'Per favore, riprova più tardi o contattaci',
     'Proszę spróbuj ponownie później albo skontaktuj się z nami',
-    'Vuelve a intentarlo más tarde o contáctanos'
+    'Vuelve a intentarlo más tarde o contáctanos',
+    "Будь ласка, спробуйте пізніше, або зв'яжіться з нами",
   ],
   errorForm: [
     'Please check your form inputs',
@@ -125,7 +136,8 @@ export const translations: Translations = {
     'Prosím zkontroluj si svá zadání ve formuláři',
     'Si prega di controllare gli input del modulo',
     'Proszę sprawdzić dane w formularzu',
-    'Por favor revise las entradas de su formulario'
+    'Por favor revise las entradas de su formulario',
+    'Будь ласка, перевірте дані в формі',
   ],
   verified: [
     'Email verification complete, please log in.',
@@ -135,7 +147,8 @@ export const translations: Translations = {
     'E-mailová adresa byla potvrzena, nyní se zkus přihlásit',
     "Verifica dell'email completata, esegui l'accesso",
     'Weryfikacja e-mail zakończona, proszę zaloguj się.',
-    'Verificación de correo electrónico completa, inicie sesión.'
+    'Verificación de correo electrónico completa, inicie sesión.',
+    'Верифікація e-mail завершена, будь ласка виконайте вхід.',
   ],
   notVerified: [
     'Please verify your Email first',
@@ -145,7 +158,8 @@ export const translations: Translations = {
     'Prosím, ověřte nejdříve svoji emailovou adresu',
     'Verifica prima la tua email',
     'Proszę najpierw zweryfikować adres email',
-    'Primero verifique su correo electrónico.'
+    'Primero verifique su correo electrónico.',
+    'Будь ласка, спочатку верифікуйте e-mail.',
   ],
   resetComplete: [
     'Password reset complete, please log in.',
@@ -155,7 +169,8 @@ export const translations: Translations = {
     'Heslo bylo obnoveno, prosím přihlaš se',
     "Reset della password completata, esegui l'accesso",
     'Hasło zresetowane, proszę się zalogować',
-    'Restablecimiento de contraseña completo, inicie sesión.'
+    'Restablecimiento de contraseña completo, inicie sesión.',
+    'Скидання пароля завершено, будь ласка виконайте вхід.',
   ],
   info: [
     'Information',
@@ -165,7 +180,8 @@ export const translations: Translations = {
     'Informace',
     'Informazioni',
     'Informacja',
-    'Información'
+    'Información',
+    'Інформація',
   ],
   warning: [
     'Warning',
@@ -175,7 +191,8 @@ export const translations: Translations = {
     'Varování',
     'Attenzione',
     'Ostrzeżenie',
-    'Advertencia'
+    'Advertencia',
+    'Попередження',
   ],
   error: [
     'Error',
@@ -185,7 +202,8 @@ export const translations: Translations = {
     'Chyba',
     'Errore',
     'Błąd',
-    'Error'
+    'Error',
+    'Помилка',
   ],
   analyzed: [
     'Analyzed',
@@ -195,7 +213,8 @@ export const translations: Translations = {
     'Analýza',
     'Analizzato',
     'Analiza',
-    'Analizado'
+    'Analizado',
+    'Проаналізовано',
   ],
 
   // Aircraft
@@ -207,7 +226,8 @@ export const translations: Translations = {
     'Letadlo',
     'Aereo',
     'Samolot',
-    'Aeronave'
+    'Aeronave',
+    'Повітряне судно',
   ],
   kind: [
     'Kind',
@@ -217,7 +237,8 @@ export const translations: Translations = {
     'Druh',
     'Tipo',
     'Rodzaj',
-    'Tipo'
+    'Tipo',
+    'Тип',
   ],
   glider: [
     'Glider',
@@ -227,7 +248,8 @@ export const translations: Translations = {
     'Kluzák',
     'Aliante',
     'Szybowiec',
-    'Planeador'
+    'Planeador',
+    'Планер',
   ],
   fes: [
     'FES',
@@ -237,7 +259,8 @@ export const translations: Translations = {
     'FES',
     'FES',
     'FES',
-    'FES'
+    'FES',
+    'FES',
   ],
   engine: [
     'Engine',
@@ -247,7 +270,8 @@ export const translations: Translations = {
     'Motor',
     'Motore',
     'Silnik',
-    'Motor'
+    'Motor',
+    'Двигун',
   ],
   paraglider: [
     'Paraglider',
@@ -257,7 +281,8 @@ export const translations: Translations = {
     'Paraglider',
     'Parapendio',
     'Paralotnia',
-    'Parapente'
+    'Parapente',
+    'Параплан',
   ],
   hangGlider: [
     'Hang Glider',
@@ -267,7 +292,8 @@ export const translations: Translations = {
     'Rogalo',
     'Deltaplano',
     'Latawiec',
-    'Ala delta'
+    'Ala delta',
+    'Дельтаплан',
   ],
   ulGlider: [
     'UL Glider',
@@ -277,7 +303,8 @@ export const translations: Translations = {
     'UL Kluzák',
     'Aliante UL',
     'Ultralekki szybowiec',
-    'Ultraligero'
+    'Ultraligero',
+    'Надлегкий планер',
   ],
   family: [
     'Family',
@@ -287,7 +314,8 @@ export const translations: Translations = {
     'Rodina',
     'Famiglia',
     'Rodzina',
-    'Familia'
+    'Familia',
+    'Сімейство',
   ],
   manufacturer: [
     'Manufacturer',
@@ -297,7 +325,8 @@ export const translations: Translations = {
     'Výrobce',
     'Produttore',
     'Producent',
-    'Fabricante'
+    'Fabricante',
+    'Виробник',
   ],
   seats: [
     'Seats',
@@ -307,7 +336,8 @@ export const translations: Translations = {
     'Sedadel',
     'Posti a sedere',
     'Siedzenia',
-    'Asientos'
+    'Asientos',
+    'Місця',
   ],
   class: [
     'Class',
@@ -317,7 +347,8 @@ export const translations: Translations = {
     'Třída',
     'Classe',
     'Klasa',
-    'Clase'
+    'Clase',
+    'Клас',
   ],
   index: [
     'Index',
@@ -327,7 +358,8 @@ export const translations: Translations = {
     'Index',
     'Index',
     'Indeks',
-    'Índice'
+    'Índice',
+    'Індекс',
   ],
   igc: [
     'IGC',
@@ -337,7 +369,8 @@ export const translations: Translations = {
     'IGC',
     'IGC',
     'IGC',
-    'IGC'
+    'IGC',
+    'IGC',
   ],
   enableOpenInSeeYou: [
     'Allow open in SeeYou for my flights',
@@ -347,7 +380,8 @@ export const translations: Translations = {
     'Povolit otevření s SeeYou pro mé lety',
     "Consenti l'apertura con SeeYou per i miei voli",
     'Zezwalaj na otwarcie z SeeYou dla moich lotów',
-    'Permitir abrir en SeeYou para mis vuelos'
+    'Permitir abrir en SeeYou para mis vuelos',
+    'Дозволити відкрити в SeeYou для моїх польотів',
   ],
   openInSeeYou: [
     'Open in SeeYou',
@@ -357,7 +391,8 @@ export const translations: Translations = {
     'Otevřete s SeeYou',
     'Apri con SeeYou',
     'Otwórz z SeeYou',
-    'Abierto en SeeYou'
+    'Abierto en SeeYou',
+    'Відкрити в SeeYou',
   ],
 
   // Airport
@@ -369,7 +404,8 @@ export const translations: Translations = {
     'Letiště',
     'Aereoporto',
     'Lotnisko',
-    'Aeropuerto'
+    'Aeropuerto',
+    'Аеропорт',
   ],
   airports: [
     'Airports',
@@ -379,7 +415,8 @@ export const translations: Translations = {
     'Letiště',
     'Aereoporti',
     'Lotniska',
-    'Aeropuertos'
+    'Aeropuertos',
+    'Аеропорти',
   ],
   radio: [
     'Radio',
@@ -389,7 +426,8 @@ export const translations: Translations = {
     'Rádio',
     'Radio',
     'Radio',
-    'Radio'
+    'Radio',
+    'Радіо',
   ],
   frequency: [
     'Frequency',
@@ -399,7 +437,8 @@ export const translations: Translations = {
     'Frekvence',
     'Frequenza',
     'Częstotliwośc',
-    'Frecuencia'
+    'Frecuencia',
+    'Частота',
   ],
   description: [
     'Description',
@@ -409,7 +448,8 @@ export const translations: Translations = {
     'Popis',
     'Descrizione',
     'Opis',
-    'Descripción'
+    'Descripción',
+    'Опис',
   ],
   type: [
     'Type',
@@ -419,7 +459,8 @@ export const translations: Translations = {
     'Typ',
     'Tipo',
     'Typ',
-    'Tipo'
+    'Tipo',
+    'Тип',
   ],
   category: [
     'Category',
@@ -429,7 +470,8 @@ export const translations: Translations = {
     'Kategorie',
     'Categoria',
     'Kategoria',
-    'Categoría'
+    'Categoría',
+    'Категорія',
   ],
   location: [
     'Location',
@@ -439,7 +481,8 @@ export const translations: Translations = {
     'Místo',
     'Posizione',
     'Lokalizacja',
-    'Localización'
+    'Localización',
+    'Локація',
   ],
   timezone: [
     'Timezone',
@@ -449,7 +492,8 @@ export const translations: Translations = {
     'Časové pásmo',
     'Fuso orario',
     'Strefa czasowa',
-    'Zona horaria'
+    'Zona horaria',
+    'Часовий пояс',
   ],
   continent: [
     'Continent',
@@ -459,7 +503,8 @@ export const translations: Translations = {
     'Kontinent',
     'Continente',
     'Kontynent',
-    'Continente'
+    'Continente',
+    'Континент',
   ],
   country: [
     'Country',
@@ -469,7 +514,8 @@ export const translations: Translations = {
     'Země',
     'Nazione',
     'Kraj',
-    'País'
+    'País',
+    'Країна',
   ],
   region: [
     'Region',
@@ -479,7 +525,8 @@ export const translations: Translations = {
     'Region',
     'Regione',
     'Region',
-    'Región'
+    'Región',
+    'Регіон',
   ],
   elevation: [
     'Elevation',
@@ -489,7 +536,8 @@ export const translations: Translations = {
     'Výška',
     'Elevazione',
     'Wysokość',
-    'Elevación'
+    'Elevación',
+    'Висота',
   ],
   usage: [
     'Usage',
@@ -499,7 +547,8 @@ export const translations: Translations = {
     'Využití',
     'Utilizzo',
     'Użycie',
-    'Uso'
+    'Uso',
+    'Використання',
   ],
   coordinates: [
     'Coordinates',
@@ -509,7 +558,8 @@ export const translations: Translations = {
     'Souřadnice',
     'Coordinate',
     'Koordynaty',
-    'Coordenadas'
+    'Coordenadas',
+    'Координати',
   ],
   latitudeAbbrev: [
     'Lat.',
@@ -519,7 +569,8 @@ export const translations: Translations = {
     'Lat',
     'Lat.',
     'Szer.',
-    'Lat.'
+    'Lat.',
+    'Шир.',
   ],
   longitudeAbbrev: [
     'Lon.',
@@ -529,7 +580,8 @@ export const translations: Translations = {
     'Lon',
     'Lon.',
     'Dłg.',
-    'Lon.'
+    'Lon.',
+    'Довг.',
   ],
   runway: [
     'Runway',
@@ -539,7 +591,8 @@ export const translations: Translations = {
     'Dráha',
     'Pista di decollo',
     'Pas startowy',
-    'Pista'
+    'Pista',
+    'Злітна смуга',
   ],
   length: [
     'Length',
@@ -549,7 +602,8 @@ export const translations: Translations = {
     'Délka',
     'Lunghezza',
     'Długość',
-    'Largo'
+    'Largo',
+    'Довжина',
   ],
   width: [
     'Width',
@@ -559,7 +613,8 @@ export const translations: Translations = {
     'Šířka',
     'Altezza',
     'Szerokość',
-    'Ancho'
+    'Ancho',
+    'Ширина',
   ],
   surface: [
     'Surface',
@@ -569,7 +624,8 @@ export const translations: Translations = {
     'Povrch',
     'Superficie',
     'Powierzchnia',
-    'Superficie'
+    'Superficie',
+    'Поверхня',
   ],
   strength: [
     'Strength',
@@ -579,7 +635,8 @@ export const translations: Translations = {
     'Síla',
     'Potenza',
     'Siła',
-    'Fuerza'
+    'Fuerza',
+    'Міцність',
   ],
   glidingUsage: [
     'Gliding Usage',
@@ -589,7 +646,8 @@ export const translations: Translations = {
     'Plachtařské využití',
     'Piano di volo',
     'Użycie szybowców',
-    'Uso de deslizamiento'
+    'Uso de deslizamiento',
+    'Використання планерами',
   ],
   reign: [
     'Reign',
@@ -599,7 +657,8 @@ export const translations: Translations = {
     'Oblast využití',
     'Area di influenza',
     'Obszar wpływów',
-    'Area de influencia'
+    'Area de influencia',
+    'Зона впливу',
   ],
   launches: [
     'Gliding launches',
@@ -609,7 +668,8 @@ export const translations: Translations = {
     'Start kluzáku',
     'Decolli di alianti',
     'Start szybowców',
-    'Lanzamientos deslizantes'
+    'Lanzamientos deslizantes',
+    'Планерні злети',
   ],
 
   // Call to action
@@ -621,7 +681,8 @@ export const translations: Translations = {
     'Hláška chybné informace',
     'Segnala informazioni false',
     'Zgłoś błędną infromację',
-    'Informar información falsa'
+    'Informar información falsa',
+    'Повідомити про хибну інформацію',
   ],
   logIn: [
     'Log in',
@@ -631,7 +692,8 @@ export const translations: Translations = {
     'Přihlásit se',
     'Accedi',
     'Zaloguj',
-    'Acceso'
+    'Acceso',
+    'Увійти',
   ],
   signUp: [
     'Sign up',
@@ -641,7 +703,8 @@ export const translations: Translations = {
     'Registrovat se',
     'Registrati',
     'Zarejestruj',
-    'Regístrate'
+    'Regístrate',
+    'Зареєструватися',
   ],
   forgotPassword: [
     'Forgot Password?',
@@ -651,7 +714,8 @@ export const translations: Translations = {
     'Zapomenuté heslo?',
     'Password dimenticata?',
     'Zapomniałeś hasła?',
-    '¿Has olvidado tu contraseña?'
+    '¿Has olvidado tu contraseña?',
+    'Забули пароль?',
   ],
   verifyEmail: [
     'Send verification link again',
@@ -661,7 +725,8 @@ export const translations: Translations = {
     'Posílám nový potvrzovací odkaz',
     'Invia di nuovo il link di verifica',
     'Wyślij link weryfikujący ponownie',
-    'Enviar enlace de verificación de nuevo'
+    'Enviar enlace de verificación de nuevo',
+    'Відправити посилання на верифікацію знову',
   ],
   changePassword: [
     'Change Password',
@@ -671,7 +736,8 @@ export const translations: Translations = {
     'Změnit heslo',
     'Cambia password',
     'Zmień hasło',
-    'Cambiar la contraseña'
+    'Cambiar la contraseña',
+    'Змінити пароль',
   ],
   resendVerification: [
     'Send verification link',
@@ -681,7 +747,8 @@ export const translations: Translations = {
     'Poslat ověřovací odkaz',
     'Invia link di verifica',
     'Wyślij link weryfikujący',
-    'Enviar enlace de verificación'
+    'Enviar enlace de verificación',
+    'Відправити посилання на верифікацію',
   ],
   sendEmailAgain: [
     'Send email again',
@@ -691,7 +758,8 @@ export const translations: Translations = {
     'Poslat znovu e-mail',
     'Invia email di nuovo',
     'Wyślij email ponownie',
-    'Enviar correo electrónico de nuevo'
+    'Enviar correo electrónico de nuevo',
+    'Відправити email знову',
   ],
   showStories: [
     'Stories',
@@ -701,7 +769,8 @@ export const translations: Translations = {
     'Zobrazit průběh',
     'Mostra storie',
     'Pokaż relacje',
-    'Cuentos'
+    'Cuentos',
+    'Історії',
   ],
   showAllArticles: [
     'All articles',
@@ -711,7 +780,8 @@ export const translations: Translations = {
     'Zobrazit všechny příspěvky',
     'Mostra tutti gli articoli',
     'Pokaż wszystkie artykuły',
-    'Todos los artículos'
+    'Todos los artículos',
+    'Всі статті',
   ],
   showLatest: [
     'Latest',
@@ -721,7 +791,8 @@ export const translations: Translations = {
     'Zobrazit nejnovější',
     'Mostra le ultime',
     'Pokaż najnowsze',
-    'Último'
+    'Último',
+    'Найсвіжіші',
   ],
   showDaily: [
     'Daily best',
@@ -731,7 +802,8 @@ export const translations: Translations = {
     'Zobrazit dnes nejlepší',
     'Mostra articoli giornalieri',
     'Pokaż dziennie',
-    'Bestia diaria'
+    'Bestia diaria',
+    'Кращі за день',
   ],
   cancel: [
     'Cancel',
@@ -741,7 +813,8 @@ export const translations: Translations = {
     'Zrušit',
     'Cancella',
     'Anuluj',
-    'Cancelar'
+    'Cancelar',
+    'Відмінити',
   ],
   save: [
     'Save',
@@ -751,7 +824,8 @@ export const translations: Translations = {
     'Uložit',
     'Salva',
     'Zapisz',
-    'Salvar'
+    'Salvar',
+    'Зберегти',
   ],
   edit: [
     'Edit',
@@ -761,7 +835,8 @@ export const translations: Translations = {
     'Upravit',
     'Modifica',
     'Edytuj',
-    'Editar'
+    'Editar',
+    'Редагувати',
   ],
   delete: [
     'Delete',
@@ -771,7 +846,8 @@ export const translations: Translations = {
     'Smazat',
     'Elimina',
     'Usuń',
-    'Borrar'
+    'Borrar',
+    'Видалити',
   ],
   show: [
     'show',
@@ -781,7 +857,8 @@ export const translations: Translations = {
     'Zobrazit',
     'Mostra',
     'pokaż',
-    'show'
+    'show',
+    'показати',
   ],
   download: [
     'Download',
@@ -791,7 +868,8 @@ export const translations: Translations = {
     'Stažení',
     'Scarica',
     'Pobierać',
-    'Descargar'
+    'Descargar',
+    'Завантажити',
   ],
 
   // Flight
@@ -803,7 +881,8 @@ export const translations: Translations = {
     'Let',
     'Volo',
     'Lot',
-    'Vuelo'
+    'Vuelo',
+    'Політ',
   ],
   flights: [
     'Flights',
@@ -813,7 +892,8 @@ export const translations: Translations = {
     'Lety',
     'Voli',
     'Loty',
-    'Vuelos'
+    'Vuelos',
+    'Польоти',
   ],
   allFlights: [
     'All flights',
@@ -823,7 +903,8 @@ export const translations: Translations = {
     'Všechny lety',
     'Tutti i voli',
     'Wszystkie loty',
-    'Todos los vuelos'
+    'Todos los vuelos',
+    'Всі польоти',
   ],
   flightDeleted: [
     'Flight deleted',
@@ -833,7 +914,8 @@ export const translations: Translations = {
     'Smazat let',
     'Volo Cancellato',
     'Lot usunięty',
-    'Vuelo eliminado'
+    'Vuelo eliminado',
+    'Політ видалено',
   ],
   flightSaved: [
     'Flight saved',
@@ -843,7 +925,8 @@ export const translations: Translations = {
     'Let uložen',
     'Volo salvato',
     'Lot zapisany',
-    'Vuelo guardado'
+    'Vuelo guardado',
+    'Політ збережено',
   ],
   deleteConfirm: [
     'Confirm deletion?',
@@ -853,7 +936,8 @@ export const translations: Translations = {
     'Opravdu smazat?',
     'Eliminare davvero?',
     'Naprawdę usunąć?',
-    '¿Confirmar la eliminación?'
+    '¿Confirmar la eliminación?',
+    'Підтвердити видалення?',
   ],
 
   // User
@@ -865,7 +949,8 @@ export const translations: Translations = {
     'Junior',
     'Bambini',
     'Junior',
-    'Júnior'
+    'Júnior',
+    'Юніор',
   ],
   juniorMale: [
     'Junior',
@@ -875,7 +960,8 @@ export const translations: Translations = {
     'Junior',
     'Bambini',
     'Junior',
-    'Júnior'
+    'Júnior',
+    'Юніор',
   ],
   juniorFemale: [
     'Junior',
@@ -885,7 +971,8 @@ export const translations: Translations = {
     'Junior',
     'Bambini',
     'Junior',
-    'Júnior'
+    'Júnior',
+    'Юніор',
   ],
   male: [
     'Male',
@@ -895,7 +982,8 @@ export const translations: Translations = {
     'Muž',
     'Maschi',
     'Mężczyzna',
-    'Masculino'
+    'Masculino',
+    'Чоловік',
   ],
   female: [
     'Female',
@@ -905,7 +993,8 @@ export const translations: Translations = {
     'Žena',
     'Femmine',
     'Kobieta',
-    'Mujer'
+    'Mujer',
+    'Жінка',
   ],
   other: [
     'Other',
@@ -915,7 +1004,8 @@ export const translations: Translations = {
     'Jiné',
     'Altro',
     'Inna',
-    'Diverso'
+    'Diverso',
+    'Інше',
   ],
   pilots: [
     'Pilots',
@@ -925,7 +1015,8 @@ export const translations: Translations = {
     'Pilot',
     'Piloti',
     'Piloci',
-    'Pilotos'
+    'Pilotos',
+    'Пілоти',
   ],
 
   // Meeting
@@ -937,7 +1028,8 @@ export const translations: Translations = {
     'Otevřít let',
     'Apri il volo',
     'Otwarty lot',
-    'Vuelo abierto'
+    'Vuelo abierto',
+    'Відкритий політ',
   ],
   compare: [
     'Compare',
@@ -947,7 +1039,8 @@ export const translations: Translations = {
     'Porovnat',
     'Confronta',
     'Porównaj',
-    'Comparar'
+    'Comparar',
+    'Порівняти',
   ],
   remove: [
     'Remove',
@@ -957,7 +1050,8 @@ export const translations: Translations = {
     'Odstranit',
     'Rimuovi',
     'Usuń',
-    'Eliminar'
+    'Eliminar',
+    'Видалити',
   ],
 
   // Task kind
@@ -969,7 +1063,8 @@ export const translations: Translations = {
     'Volný',
     'Senza',
     'Wolne',
-    'Libre'
+    'Libre',
+    'Вільний',
   ],
   FR4: [
     '3 TP',
@@ -979,7 +1074,8 @@ export const translations: Translations = {
     '3 OB',
     '3 Svolte',
     '3 PZ',
-    '3 PG'
+    '3 PG',
+    '3 ПП',
   ],
   GL: [
     'Goal',
@@ -989,7 +1085,8 @@ export const translations: Translations = {
     'Cíl',
     'Obiettivo',
     'Cel',
-    'Meta'
+    'Meta',
+    'Ціль',
   ],
   TR: [
     'Triangle',
@@ -999,7 +1096,8 @@ export const translations: Translations = {
     'Trojúhelník',
     'Triangolo',
     'Trójkąt',
-    'Triángulo'
+    'Triángulo',
+    'Трикутник',
   ],
   MTR: [
     'Multi Triangle',
@@ -1009,7 +1107,8 @@ export const translations: Translations = {
     'Multi Trojúhelník',
     'Multi Triangolo',
     'Multi Trójkąt',
-    'Triángulo múltiple'
+    'Triángulo múltiple',
+    'Мульти Трикутник',
   ],
   RT: [
     'Rectangle',
@@ -1019,7 +1118,8 @@ export const translations: Translations = {
     'Čtyřúhelník',
     'Rettangolo',
     'Prostokąt',
-    'Rectángulo'
+    'Rectángulo',
+    'Прямокутник',
   ],
   MRT: [
     'Multi Rectangle',
@@ -1029,7 +1129,8 @@ export const translations: Translations = {
     'Multi Čtyřúhelník',
     'Multi Rettangolo',
     'Multi Prostokąt',
-    'Rectángulo múltiple'
+    'Rectángulo múltiple',
+    'Мульти Прямокутник',
   ],
   OR: [
     'Out and return',
@@ -1039,7 +1140,8 @@ export const translations: Translations = {
     'Návrat',
     'Ritorno',
     'Powrót',
-    'Salida-regreso'
+    'Salida-regreso',
+    'Ціль з поверненням',
   ],
   closed: [
     'Closed',
@@ -1049,7 +1151,8 @@ export const translations: Translations = {
     'Uzavřený',
     'Chiuso',
     'Zamknięte',
-    'Cerrado'
+    'Cerrado',
+    'Закритий',
   ],
   open: [
     'Open',
@@ -1059,7 +1162,8 @@ export const translations: Translations = {
     'Otevřený',
     'Aperto',
     'Otwarte',
-    'Abierto'
+    'Abierto',
+    'Відкритий',
   ],
   unnamed: [
     'Unnamed',
@@ -1069,7 +1173,8 @@ export const translations: Translations = {
     'Nepojmenovaný',
     'Senza nome',
     'Anonimowe',
-    'Sin nombre'
+    'Sin nombre',
+    'Без назви',
   ],
 
   // Form fields
@@ -1081,7 +1186,8 @@ export const translations: Translations = {
     'E-mail',
     'Email',
     'Email',
-    'Correo electrónico'
+    'Correo electrónico',
+    'Email',
   ],
   password: [
     'Password',
@@ -1091,7 +1197,8 @@ export const translations: Translations = {
     'Heslo',
     'Password',
     'Hasło',
-    'Contraseña'
+    'Contraseña',
+    'Пароль',
   ],
   name: [
     'Name',
@@ -1101,7 +1208,8 @@ export const translations: Translations = {
     'Jméno',
     'Nome',
     'Imię',
-    'Nombre'
+    'Nombre',
+    "Ім'я",
   ],
   fullName: [
     'First and last name',
@@ -1111,7 +1219,8 @@ export const translations: Translations = {
     'Jméno a příjmení',
     'Nome e Cognome',
     'Imię i nazwisko',
-    'Nombre y apellido'
+    'Nombre y apellido',
+    "Ім'я та прізвище",
   ],
   birthdate: [
     'Date of birth',
@@ -1121,7 +1230,8 @@ export const translations: Translations = {
     'Datum narození',
     'Data di nascita',
     'Data urodzenia',
-    'Fecha de nacimiento'
+    'Fecha de nacimiento',
+    'Дата народження',
   ],
   club: [
     'Club',
@@ -1131,7 +1241,8 @@ export const translations: Translations = {
     'Klub',
     'Club',
     'Klub',
-    'Club'
+    'Club',
+    'Клуб',
   ],
   textConfirm: [
     'I have read and agree to the following documents:',
@@ -1141,7 +1252,8 @@ export const translations: Translations = {
     'Přečetl jsem si následující dokumenty a souhlasím s nimi:',
     'Ho letto e accetto i seguenti documenti:',
     'Przeczytałem i zgadzam się z następującymi dokumentami:',
-    'He leído y acepto los siguientes documentos: '
+    'He leído y acepto los siguientes documentos: ',
+    'Я прочитав і погоджуюся з наступними документами:',
   ],
   privacyPolicy: [
     'Privacy Policy',
@@ -1151,7 +1263,8 @@ export const translations: Translations = {
     'Prohlášení o ochraně osobních údajů',
     'Politica sulla Privacy',
     'Polityka Prywatności',
-    'Política de privacidad'
+    'Política de privacidad',
+    'Політика Конфіденційності',
   ],
   userAgreement: [
     'User Agreement',
@@ -1161,7 +1274,8 @@ export const translations: Translations = {
     'Podmínky využití',
     'Accordo per gli utenti',
     'Zgoda Użytkownika',
-    'Acuerdo del Usuario'
+    'Acuerdo del Usuario',
+    'Користувацька Угода',
   ],
   subscribeNewsletter: [
     'Subscribe to monthly Newsletter',
@@ -1171,7 +1285,8 @@ export const translations: Translations = {
     'Chci odebírat zpravodaj',
     'Iscriviti alla nostra Newsletter',
     'Zapisz się do naszego newslettera',
-    'Suscríbete al boletín mensual'
+    'Suscríbete al boletín mensual',
+    'Підписатися на місячну розсилку новин',
   ],
   oldPassword: [
     'Old password',
@@ -1181,7 +1296,8 @@ export const translations: Translations = {
     'Nové heslo',
     'Nuova password',
     'Nowe hasło',
-    'Contraseña anterior'
+    'Contraseña anterior',
+    'Старий пароль',
   ],
   newPassword: [
     'New password',
@@ -1191,7 +1307,8 @@ export const translations: Translations = {
     'Staré heslo',
     'Vecchia password',
     'Stare hasło',
-    'Nueva contraseña'
+    'Nueva contraseña',
+    'Новий пароль',
   ],
   registration: [
     'Registration (optional)',
@@ -1201,7 +1318,8 @@ export const translations: Translations = {
     'Registrace (opce)',
     'Registrazione (opzionale)',
     'Rejestracja (opcjonalnie)',
-    'Registro (opcional)'
+    'Registro (opcional)',
+    'Реєстрація (опціонально)',
   ],
   coPilotName: [
     'Co-Pilot name',
@@ -1211,7 +1329,8 @@ export const translations: Translations = {
     'Jméno druhého pilota',
     'Nome copilota',
     'Imię drugiego pilota',
-    'Nombre del copiloto'
+    'Nombre del copiloto',
+    'Другий пілот',
   ],
   coPilotDateOfBirth: [
     'Co-Pilot date of birth',
@@ -1221,7 +1340,8 @@ export const translations: Translations = {
     'Datum narození druhého pilota',
     'Data di nascita del copilota',
     'Data urodzenia drugiego pilota',
-    'Fecha de nacimiento del copiloto'
+    'Fecha de nacimiento del copiloto',
+    'Дата народження другого пілота',
   ],
   competitionId: [
     'Competition ID (optional)',
@@ -1231,7 +1351,8 @@ export const translations: Translations = {
     'Soutěžní znak (opce)',
     'ID Concorenza (opzionale)',
     'ID konkurecncji (opcjonalnie)',
-    'ID de competición (opcional)'
+    'ID de competición (opcional)',
+    'Змагальний ID (опціонально)',
   ],
   scoreClubClass: [
     'Score flight in club class',
@@ -1241,7 +1362,8 @@ export const translations: Translations = {
     'Skóre letu v klubové třídě',
     'Punteggio del volo in classe club',
     'Doceń lot w klasie klubowej',
-    'Anotar vuelo en clase club'
+    'Anotar vuelo en clase club',
+    'Оцінити політ в клубному класі',
   ],
   year: [
     'Year',
@@ -1251,7 +1373,8 @@ export const translations: Translations = {
     'Rok',
     'Anno',
     'Rok',
-    'Año'
+    'Año',
+    'Рік',
   ],
   month: [
     'Month',
@@ -1261,7 +1384,8 @@ export const translations: Translations = {
     'Měsíc',
     'Mese',
     'Miesiąc',
-    'Mes'
+    'Mes',
+    'Місяць',
   ],
   day: [
     'Day',
@@ -1271,7 +1395,8 @@ export const translations: Translations = {
     'Den',
     'Giorno',
     'Dzień',
-    'Día'
+    'Día',
+    'День',
   ],
   days: [
     'Days',
@@ -1281,7 +1406,8 @@ export const translations: Translations = {
     'Dnů',
     'Giorni',
     'Dni',
-    'Dias'
+    'Dias',
+    'Дні',
   ],
   forever: [
     'Forever',
@@ -1291,7 +1417,8 @@ export const translations: Translations = {
     'Navždy',
     'Per sempre',
     'Na zawsze',
-    'Para siempre'
+    'Para siempre',
+    'Назавжди',
   ],
   dateRangeHelp: [
     'Select start and end date',
@@ -1301,7 +1428,8 @@ export const translations: Translations = {
     'Vyberte datum zahájení a ukončení',
     'Seleziona la data di inizio e di fine',
     'Wybierz datę rozpoczęcia i zakończenia',
-    'Seleccione la fecha de inicio y finalización'
+    'Seleccione la fecha de inicio y finalización',
+    'Виберіть початкову та кінцеву дати',
   ],
   dateMultipleHelp: [
     'Select to add date',
@@ -1311,7 +1439,8 @@ export const translations: Translations = {
     'Vyberte pro přidání data',
     'Seleziona per aggiungere la data',
     'Wybierz, aby dodać datę ',
-    'Seleccionar para agregar la fecha'
+    'Seleccionar para agregar la fecha',
+    'Виберіть щоб додати дату',
   ],
 
   // Social
@@ -1323,7 +1452,8 @@ export const translations: Translations = {
     'Umožnit ostatním komentovat mé lety',
     'Consenti ad altri di commentare i miei voli',
     'Pozwól innym komentować moje loty',
-    'Permitir que otros comenten mis vuelos'
+    'Permitir que otros comenten mis vuelos',
+    'Дозволити іншим коментувати мої польоти',
   ],
   notifications: [
     'Notifications',
@@ -1333,7 +1463,8 @@ export const translations: Translations = {
     'Oznámení',
     'Notifiche',
     'Powiadomienia',
-    'Notificaciones'
+    'Notificaciones',
+    'Сповіщення',
   ],
   noNotifications: [
     'No notifications.',
@@ -1343,7 +1474,8 @@ export const translations: Translations = {
     'Žádná oznámení.',
     'Nessuna notifica.',
     'Brak powiadomień.',
-    'No Notificaciones.'
+    'No Notificaciones.',
+    'Немає сповіщень',
   ],
   friends: [
     'Friends',
@@ -1353,7 +1485,8 @@ export const translations: Translations = {
     'Přátelé',
     'Amici',
     'Przyjaciele',
-    'Amigos'
+    'Amigos',
+    'Друзі',
   ],
   follow: [
     'Follow',
@@ -1363,7 +1496,8 @@ export const translations: Translations = {
     'Následovat',
     'Segui',
     'Podążać',
-    'Seguir'
+    'Seguir',
+    'Відстежувати',
   ],
   followed: [
     'Following',
@@ -1373,7 +1507,8 @@ export const translations: Translations = {
     'Následující',
     'Segui',
     'Następny',
-    'Siguiente'
+    'Siguiente',
+    'Відстежується',
   ],
   following: [
     'Following',
@@ -1383,7 +1518,8 @@ export const translations: Translations = {
     'Následující',
     'Seguiti',
     'Następny',
-    'Siguiente'
+    'Siguiente',
+    'Відстежує',
   ],
   followers: [
     'Followers',
@@ -1393,7 +1529,8 @@ export const translations: Translations = {
     'Stoupenci',
     'Follower',
     'Obserwujący',
-    'Seguidores'
+    'Seguidores',
+    'Відстежують',
   ],
   update: [
     'Update',
@@ -1403,7 +1540,8 @@ export const translations: Translations = {
     'Aktualizace',
     'Aggiornare',
     'Aktualizacja',
-    'Actualizar'
+    'Actualizar',
+    'Оновити',
   ],
   publish: [
     'Publish',
@@ -1413,7 +1551,8 @@ export const translations: Translations = {
     'Publikovat',
     'Pubblicare',
     'Publikować',
-    'Publicar'
+    'Publicar',
+    'Опублікувати',
   ],
   showAll: [
     'Show all',
@@ -1423,7 +1562,8 @@ export const translations: Translations = {
     'Ukázat vše',
     'Mostra tutto',
     'Pokaż wszystko',
-    'Mostrar todo'
+    'Mostrar todo',
+    'Показати всі',
   ],
   edited: [
     'edited',
@@ -1433,7 +1573,8 @@ export const translations: Translations = {
     'upraveno',
     'modificato',
     'edytowane',
-    'editado'
+    'editado',
+    'Відредаговано',
   ],
   findFriends: [
     'Find friends',
@@ -1443,7 +1584,8 @@ export const translations: Translations = {
     'Najít přátele',
     'Trova amici',
     'Znajdź przyjaciół',
-    'Encontrar amigos'
+    'Encontrar amigos',
+    'Знайти друзів',
   ],
   noOneYet: [
     'No one yet.',
@@ -1453,7 +1595,8 @@ export const translations: Translations = {
     'Zatím nikdo.',
     'Nessuno ancora.',
     'Nikt jeszcze.',
-    'Todavía nadie.'
+    'Todavía nadie.',
+    'Поки ніхто.',
   ],
   yourFlightCommented: [
     'commented your flight.',
@@ -1463,7 +1606,8 @@ export const translations: Translations = {
     'okomentoval váš let.',
     'ha commentato il tuo volo.',
     'skomentował Twój lot.',
-    'comentó tu vuelo.'
+    'comentó tu vuelo.',
+    'прокоментував ваш політ.',
   ],
   ownFlightCommented: [
     'answered your comment.',
@@ -1473,7 +1617,8 @@ export const translations: Translations = {
     'odpověděl na váš komentář.',
     'risposto al tuo commento.',
     'odpowiedział na twój komentarz.',
-    'respondió tu comentario.'
+    'respondió tu comentario.',
+    'відповів на ваш коментарій.',
   ],
   sameFlightCommented: [
     'also commented on the flight from',
@@ -1483,7 +1628,8 @@ export const translations: Translations = {
     'také komentoval let od',
     'ha anche commentato il volo da',
     'skomentował również lot',
-    'también comentó sobre el vuelo de'
+    'también comentó sobre el vuelo de',
+    'також прокоментував політ від',
   ],
   flightsOfMyFriends: [
     'Flights of my friends',
@@ -1493,7 +1639,8 @@ export const translations: Translations = {
     'Lety mých přátel',
     'Voli dei miei amici',
     'Loty moich znajomych',
-    'Vuelos de mis amigos'
+    'Vuelos de mis amigos',
+    'Польоти моїх друзів',
   ],
 
   // Authentication
@@ -1505,7 +1652,8 @@ export const translations: Translations = {
     'Těší nás, že tě můžeme přivítat v naší komunitě!',
     'Grazie per esserti unito a WeGilde!',
     'Dziękujemy za dołączenie do WeGlide!',
-    '¡Gracias por unirse a WeGlide!'
+    '¡Gracias por unirse a WeGlide!',
+    'Дякуємо, що долучилися до WeGlide!',
   ],
   urgeVerify: [
     'Please verify your email by clicking the link in the email you got.',
@@ -1515,7 +1663,8 @@ export const translations: Translations = {
     'Prosíme o potvrzení tvé e-mailové adresy přes odkaz, který jsme ti zaslali.',
     'Per favore verifica la tua email cliccando il link che ti è arrivato nella tua email',
     'Proszę zweryfikuj Twój email przez kliknięcie w łącze załączone do wiadomości którą dostałeś.',
-    'Verifique su correo electrónico haciendo clic en el enlace del correo electrónico que recibió.'
+    'Verifique su correo electrónico haciendo clic en el enlace del correo electrónico que recibió.',
+    'Будь ласка, підтвердіть свій email натиснувши на посилання в листі, що ви отримали.',
   ],
   verifyInstructions: [
     'If you got no email, please wait a minute and check your spam folder or contact us at',
@@ -1525,7 +1674,8 @@ export const translations: Translations = {
     'Pokud jsi žádný e-mail nedostal, počkej 1 minutu a případně prověř adresář Spam, nebo nás kontaktuj',
     'Se non hai ricevuto nessuna email, per favore aspetta un minuto e controlla la posta indesiderata o contattaci a',
     'Jeśli nie dostałeś żadnego emaila, proszę poczekaj parę minut i sprawdź folder spam albo skontaktuj się z nami',
-    'Si no recibió ningún correo electrónico, espere un minuto y revise su carpeta de correo no deseado o contáctenos en'
+    'Si no recibió ningún correo electrónico, espere un minuto y revise su carpeta de correo no deseado o contáctenos en',
+    'Якщо ви не отримали листа, будь ласка зачекайте хвилину та перевірте папку "спам" або зв\'яжіться з нами',
   ],
   joinCommunity: [
     'Join the community!',
@@ -1535,7 +1685,8 @@ export const translations: Translations = {
     'Připojuji se ke komunitě!',
     'Unisciti alla community!',
     'Dołącz do społeczności!',
-    '¡Unete a la communidad!'
+    '¡Unete a la communidad!',
+    'Приєднатися до спільноти',
   ],
   errorPrivacy: [
     'Please accept our privacy statements and terms.',
@@ -1545,7 +1696,8 @@ export const translations: Translations = {
     'Prosíme o potvrzení uživatelských podmínek a prohlášení o ochraně osobních údajů',
     'Per favore accetta le nostre normative sulla privacy e i termini.',
     'Proszę zaakceptuj nasze oświadczenia oraz warunki dotyczące prywatności.',
-    'Acepte nuestras declaraciones y términos de privacidad.'
+    'Acepte nuestras declaraciones y términos de privacidad.',
+    'Будь ласка, прийміть наші положення та умови конфіденційності.',
   ],
   errorCaptcha: [
     'Please solve the captcha to verify you are human.',
@@ -1555,7 +1707,8 @@ export const translations: Translations = {
     'Potvrď, že nejsi robot',
     'Si prega di risolvere il captcha per verificare che non sei un robot',
     'Proszę rozwiąż Captcha by udowodnić że jesteś człowiekiem.',
-    'Por favor resuelve el captcha para verificar que eres humano.'
+    'Por favor resuelve el captcha para verificar que eres humano.',
+    'Будь ласка, вирішіть капчу для підтвердження, що ви не робот.',
   ],
   verifying: [
     'Verifying Email',
@@ -1565,7 +1718,8 @@ export const translations: Translations = {
     'Ověřuji E-mail',
     "Verificando l'email",
     'Weryfikacja Email',
-    'Verificación de correo electrónico'
+    'Verificación de correo electrónico',
+    'Верифікація Email',
   ],
   urgeLogIn: [
     'Please log in afterwards',
@@ -1575,7 +1729,8 @@ export const translations: Translations = {
     'Poté se prosím přihlaš',
     'Puoi effettuare il login',
     'Następnie zaloguj się proszę',
-    'Inicie sesión después'
+    'Inicie sesión después',
+    'Будь ласка, потім виконайте вхід',
   ],
   requestVerification: [
     'Request new verification link',
@@ -1585,7 +1740,8 @@ export const translations: Translations = {
     'Prosím o zaslání nového potvrzovacího odkazu',
     'Richiedi un nuovo link di verifica',
     'Poproś o nowy link weryfikujący',
-    'Solicitar nuevo enlace de verificación'
+    'Solicitar nuevo enlace de verificación',
+    'Запит нового посилання для верифікації',
   ],
   requestRecoverPassword: [
     'Request password recovery',
@@ -1595,7 +1751,8 @@ export const translations: Translations = {
     'Prosím o vytvoření nového hesla',
     'Richiedi password di recupero',
     'Poproś o stworznie nowego hasła',
-    'Solicitar recuperación de contraseña'
+    'Solicitar recuperación de contraseña',
+    'Запит відновлення пароля',
   ],
   instructionsEmailed: [
     'Email send, please follow the mailed instructions.',
@@ -1605,7 +1762,8 @@ export const translations: Translations = {
     'E-mail byl odeslán, pokračuj dle postupu popsaném v e-mailu',
     'Email inviata, segui le istruzioni al suo interno',
     'Email wysłany, proszę postępuj zgodnie z instrukcjami w nim zawartymi.',
-    'Enviar correo electrónico, siga las instrucciones enviadas por correo.'
+    'Enviar correo electrónico, siga las instrucciones enviadas por correo.',
+    'Email відправлено, будь ласка виконайте надіслані інструкції.',
   ],
   recoverPassword: [
     'Recover password',
@@ -1615,7 +1773,8 @@ export const translations: Translations = {
     'Vytvořit nové heslo',
     'Password di recupero',
     'Odzyskaj hasło',
-    'Recuperar contraseña'
+    'Recuperar contraseña',
+    'Відновити пароль',
   ],
   choosePassword: [
     'Choose new password',
@@ -1625,7 +1784,8 @@ export const translations: Translations = {
     'Vyberte nové heslo',
     'Scegli una nuova password',
     'Wybierz nowe hasło',
-    'Elija una nueva contraseña'
+    'Elija una nueva contraseña',
+    'Виберіть новий пароль',
   ],
   resetInvalid: [
     'Password recovery link is no longer valid. Please request a new one.',
@@ -1635,7 +1795,8 @@ export const translations: Translations = {
     'Čas odkazu na vytvoření nového hesla vypršel. Prosím vyžádej si nový odkaz ',
     'Il link per il recupero della password non è piu valido. Richiedine uno nuovo',
     'Link resetujący hasło nie jest już ważny. Wystąp o nowy.',
-    'El enlace de recuperación de contraseña ya no es válido. Solicite uno nuevo'
+    'El enlace de recuperación de contraseña ya no es válido. Solicite uno nuevo',
+    'Посилання для відновлення пароля не дійсне. Будь ласка, виконайте запит нового.',
   ],
 
   // Airspace
@@ -1647,7 +1808,8 @@ export const translations: Translations = {
     'Vzdušný prostor',
     'Spazio aereo',
     'Przestrzeń powietrzna',
-    'Espacio aéreo'
+    'Espacio aéreo',
+    'Повітряний простір',
   ],
   airspaces: [
     'Airspaces',
@@ -1657,7 +1819,8 @@ export const translations: Translations = {
     'Vzdušné prostory',
     'Spazi aerei',
     'Przestrzenie powietrzne',
-    'Espacios aéreos'
+    'Espacios aéreos',
+    'Повітряні простори',
   ],
   noAirspaceViolations: [
     'No airspaces crossed.',
@@ -1667,7 +1830,8 @@ export const translations: Translations = {
     'Nenarušeny žádné vzdušné prostory',
     'Nessuno spazio aereo incrociato',
     'Żadna przestrzeń powietrzna nie została przekroczona',
-    'No se cruzaron espacios aéreos.'
+    'No se cruzaron espacios aéreos.',
+    'Не перетнуто повітряних просторів.',
   ],
 
   // Page not found
@@ -1679,7 +1843,8 @@ export const translations: Translations = {
     'Stránka nenalezena.',
     'Pagina non trovata.',
     'Strona nieznaleziona.',
-    'No se encontró el sitio de destino.'
+    'No se encontró el sitio de destino.',
+    'Сторінку не знайдено.',
   ],
   pickMeUp: [
     'Pick me up',
@@ -1689,7 +1854,8 @@ export const translations: Translations = {
     'Zpět',
     'Torna indietro',
     'Powrót',
-    'Recógeme'
+    'Recógeme',
+    'Повернутися',
   ],
 
   // Filter
@@ -1701,7 +1867,8 @@ export const translations: Translations = {
     'Hledat',
     'Cerca',
     'Szukaj',
-    'Búsqueda'
+    'Búsqueda',
+    'Пошук',
   ],
   flightFilterPlaceholder: [
     'Region, pilot, club, airfield …',
@@ -1711,7 +1878,8 @@ export const translations: Translations = {
     'Region, pilot, klub, přistávací …',
     'Regione, Pilota, Club, Aeroporto …',
     'Region, pilota, klub, lotnisko …',
-    'Región, Piloto, club, aeródromo …'
+    'Región, Piloto, club, aeródromo …',
+    'Регіон, Пілот, Клуб, Аеродром …',
   ],
   rankingFilterPlaceholder: [
     'Continent, country, state',
@@ -1721,7 +1889,8 @@ export const translations: Translations = {
     'Kontinent, země, stát',
     'Continente, Paese, Stato',
     'Kontynent, kraj, stan',
-    'Continente, país, estado'
+    'Continente, país, estado',
+    'Континент, країна, регіон',
   ],
   liveFilterPlaceholder: [
     'Region, airfield, pilot, aircraft …',
@@ -1731,7 +1900,8 @@ export const translations: Translations = {
     'Region, letiště, pilot, letadlo …',
     'Regione, aeroporto, pilota, aereo …',
     'Region, lotnisko, pilot, samolot …',
-    'Región, aeródromo, piloto, aeronave …'
+    'Región, aeródromo, piloto, aeronave …',
+    'Регіон, аеродром, пілот, повітряне судно …',
   ],
   taskFilterPlaceholder: [
     'Task, distance, pilot, airfield',
@@ -1741,7 +1911,8 @@ export const translations: Translations = {
     'Úkol, vzdálenost, pilot, letiště',
     'Compito, distanza, pilota, aeroporto',
     'Zadanie, odległość, pilot, lotnisko',
-    'Tarea, distancia, piloto, aeródromo'
+    'Tarea, distancia, piloto, aeródromo',
+    'Завдання, дистанція, пілот, аеродром',
   ],
 
   // Flight detail
@@ -1753,7 +1924,8 @@ export const translations: Translations = {
     'Podrobnosti letu',
     'Dettagli del volo',
     'Szczegóły lotu',
-    'Detalles del vuelo'
+    'Detalles del vuelo',
+    'Деталі польоту',
   ],
   liveDetail: [
     'Live detail',
@@ -1763,7 +1935,8 @@ export const translations: Translations = {
     'Živé detaily',
     'Live dettagli',
     'Żywe szczegóły',
-    'Detalle en vivo'
+    'Detalle en vivo',
+    'Деталі наживо',
   ],
   wingmen: [
     'Wingmen',
@@ -1773,7 +1946,8 @@ export const translations: Translations = {
     'Partner',
     'Amici',
     'Towarzysz',
-    'Wingmen'
+    'Wingmen',
+    'Вінгмен',
   ],
   scoreProcessing: [
     'Scoring in process',
@@ -1783,7 +1957,8 @@ export const translations: Translations = {
     'Probíhá výpočet',
     'Calcondo i punti',
     'Trwają obliczenia',
-    'Puntuación en proceso'
+    'Puntuación en proceso',
+    'Оцінювання в процесі',
   ],
   pleaseReload: [
     'please reload this page.',
@@ -1793,7 +1968,8 @@ export const translations: Translations = {
     'Načti stránku znovu',
     'Per favore ricarica la pagina.',
     'Proszę przeładuj stronę.',
-    'vuelva a cargar esta página.'
+    'vuelva a cargar esta página.',
+    'будь ласка, перезавантажте цю сторінку.',
   ],
   points: [
     'Points',
@@ -1803,7 +1979,8 @@ export const translations: Translations = {
     'Body',
     'Punti',
     'Punkty',
-    'Puntos'
+    'Puntos',
+    'Очки',
   ],
   invalid: [
     'Invalid',
@@ -1813,7 +1990,8 @@ export const translations: Translations = {
     'Neplatné',
     'Non valido',
     'Niepoprawny',
-    'Inválido'
+    'Inválido',
+    'Недійсний',
   ],
   invalidFlight: [
     'Flight claimed too late for this contest',
@@ -1823,7 +2001,8 @@ export const translations: Translations = {
     'Nahlášení letu příliš pozdě na vyhodnocení soutěže',
     'Il volo è stato richiesto troppo tardi per questo concorso',
     'Lot zgłoszony za późno do tych zawodów',
-    'Vuelo reclamado demasiado tarde para este concurso'
+    'Vuelo reclamado demasiado tarde para este concurso',
+    'Політ заявлено занадто пізно для даного змагання',
   ],
   free: [
     'Free',
@@ -1833,7 +2012,8 @@ export const translations: Translations = {
     'Volný',
     'Gratuito',
     'Wolny',
-    'Libre'
+    'Libre',
+    'Вільний',
   ],
   speed: [
     'Speed',
@@ -1843,7 +2023,8 @@ export const translations: Translations = {
     'Rychlost',
     'Velocità',
     'Prędkość',
-    'Velocidad'
+    'Velocidad',
+    'Швидкість',
   ],
   triangle: [
     'Triangle',
@@ -1853,7 +2034,8 @@ export const translations: Translations = {
     'Trojúhelník',
     'Triangolo',
     'Trójkąt',
-    'Triángulo'
+    'Triángulo',
+    'Трикутник',
   ],
   rectangle: [
     'Rectangle',
@@ -1863,7 +2045,8 @@ export const translations: Translations = {
     'Obdelník',
     'Rettangolo',
     'Prostokąt',
-    'Rectángulo'
+    'Rectángulo',
+    'Прямокутник',
   ],
   declaration: [
     'Declared',
@@ -1873,7 +2056,8 @@ export const translations: Translations = {
     'Deklarace',
     'Dichiarato',
     'Zadeklarowany',
-    'Declarado'
+    'Declarado',
+    'Заявлено',
   ],
   out_return: [
     'Out and Return',
@@ -1883,7 +2067,8 @@ export const translations: Translations = {
     'Návrat',
     'Ritorno',
     'Powrót',
-    'Salida y regreso'
+    'Salida y regreso',
+    'Ціль з поверненням',
   ],
   convex_hull: [
     'Convex Hull',
@@ -1893,7 +2078,8 @@ export const translations: Translations = {
     'Vypouklé pouzdro',
     'Scafo convesso',
     'Powłoka wypukła',
-    'Casco convexo'
+    'Casco convexo',
+    'Випукла оболонка',
   ],
   calculation: [
     'Calculation',
@@ -1903,7 +2089,8 @@ export const translations: Translations = {
     'Výpočet',
     'Calcolo',
     'Obliczenie',
-    'Cálculo'
+    'Cálculo',
+    'Підрахунок',
   ],
   teSpeed: [
     'EC Speed',
@@ -1913,7 +2100,8 @@ export const translations: Translations = {
     'EC rychlost',
     'Velocità ER',
     '',
-    'Velocidad CE'
+    'Velocidad CE',
+    'EC Швидкість',
   ],
   teSpeedDescription: [
     'Energy Compensated Speed relative to task',
@@ -1923,7 +2111,8 @@ export const translations: Translations = {
     'Energeticky kompenzovaná rychlost vzhledem k úkolu',
     "Velocità compensata dall'energia relativa al compito",
     'Prędkość z kompensacją energii w stosunku do zadania',
-    'Velocidad de energía compensada en relación con la tarea'
+    'Velocidad de energía compensada en relación con la tarea',
+    'Щвидкість з урахуванням компенсації енергії по відношенню до завдання',
   ],
   declareFor: [
     'Declare this task for',
@@ -1933,7 +2122,8 @@ export const translations: Translations = {
     'Deklarujte tento úkol po dobu',
     'Dichiara questa attività per',
     'Zadeklaruj to zadanie na',
-    'Declare esta tarea para'
+    'Declare esta tarea para',
+    'Заявити цей політ на',
   ],
   declaredTask: [
     'Declared Task',
@@ -1943,7 +2133,8 @@ export const translations: Translations = {
     'Deklarovaná úloha',
     'Incarichi dichiarati',
     'Zadeklarowane zadanie',
-    'Tarea declarada'
+    'Tarea declarada',
+    'Заявлений політ',
   ],
   declaredTaskDescription: [
     'Task declared by pilot before flight',
@@ -1953,7 +2144,8 @@ export const translations: Translations = {
     'Úloha deklarovaná před vzletem',
     'Incarichi dichiarati dal pilota prima del volo',
     'Zadanie zadeklarowane przez pilota przed lotem',
-    'Task declared by pilot before flight'
+    'Task declared by pilot before flight',
+    'Завдання заявлено пілотом до польоту',
   ],
   statistics: [
     'Statistics',
@@ -1963,7 +2155,8 @@ export const translations: Translations = {
     'Statistika',
     'Statistiche',
     'Statystyki',
-    'Estadísticas'
+    'Estadísticas',
+    'Статистика',
   ],
   general: [
     'General',
@@ -1973,7 +2166,8 @@ export const translations: Translations = {
     'Všeobecné',
     'Generale',
     'Generalne',
-    'General'
+    'General',
+    'Загальні',
   ],
   distanceAbbrev: [
     'Dist.',
@@ -1983,7 +2177,8 @@ export const translations: Translations = {
     'Vzdál.',
     'Dist.',
     'Dyst.',
-    'Dist.'
+    'Dist.',
+    'Дист.',
   ],
   windAbbrev: [
     'Wind',
@@ -1993,7 +2188,8 @@ export const translations: Translations = {
     'Vítr',
     'Vento',
     'Wiatr',
-    'Viento'
+    'Viento',
+    'Вітер',
   ],
   electric: [
     'Electric',
@@ -2003,7 +2199,8 @@ export const translations: Translations = {
     'Elektrický',
     'Elettricità',
     'Elektryczny',
-    'Eléctrico'
+    'Eléctrico',
+    'Електро',
   ],
   energyAbbrev: [
     'Energy',
@@ -2013,7 +2210,8 @@ export const translations: Translations = {
     'Energie',
     'Energia',
     'Energia',
-    'Energía'
+    'Energía',
+    'Енергія',
   ],
   total: [
     'Total',
@@ -2023,7 +2221,8 @@ export const translations: Translations = {
     'Celkem',
     'Totale',
     'Całkowite',
-    'Total'
+    'Total',
+    'Підсумок',
   ],
   thermaling: [
     'Thermaling',
@@ -2033,7 +2232,8 @@ export const translations: Translations = {
     'Kroužení',
     'Termico',
     'Termiczne',
-    'Térmico'
+    'Térmico',
+    'Термічний'
   ],
   circling: [
     'Circling',
@@ -2043,7 +2243,8 @@ export const translations: Translations = {
     'Krouží',
     'Girando',
     'Krążą',
-    'Circundar'
+    'Circundar',
+    'Спіральний',
   ],
   countAbbrev: [
     'Count',
@@ -2053,7 +2254,8 @@ export const translations: Translations = {
     'Počet',
     'Numero',
     'Numer',
-    'Número'
+    'Número',
+    'К-ть.',
   ],
   timeAbbrev: [
     'Time',
@@ -2063,7 +2265,8 @@ export const translations: Translations = {
     'Čas',
     'Tempo',
     'Czas',
-    'Tiempo'
+    'Tiempo',
+    'Час',
   ],
   averageAbbrev: [
     'Avg.',
@@ -2073,7 +2276,8 @@ export const translations: Translations = {
     'Průměr',
     'Media',
     'Średnia',
-    'Medio'
+    'Medio',
+    'Сер.',
   ],
   radius: [
     'Radius',
@@ -2083,7 +2287,8 @@ export const translations: Translations = {
     'Poloměr',
     'Raggio',
     'Promień',
-    'Radio'
+    'Radio',
+    'Радіус',
   ],
   climb: [
     'Climb',
@@ -2093,7 +2298,8 @@ export const translations: Translations = {
     'Šplhat',
     'Scalata',
     'Podejście',
-    'Ascent'
+    'Ascent',
+    'Підйом',
   ],
   bank: [
     'Bank',
@@ -2103,7 +2309,8 @@ export const translations: Translations = {
     'Banka',
     'Banca',
     'Przechylenie',
-    'Inclinación'
+    'Inclinación',
+    'Крен',
   ],
   glide: [
     'Glide',
@@ -2113,7 +2320,8 @@ export const translations: Translations = {
     'Klouzavost',
     'Planare',
     'Ślizg',
-    'Planeo'
+    'Planeo',
+    'Планування',
   ],
   ratioAbbrev: [
     'Ratio',
@@ -2123,7 +2331,8 @@ export const translations: Translations = {
     'Poměr',
     'Rapporto',
     'Stosunek',
-    'Proporción'
+    'Proporción',
+    'Відношення',
   ],
   detourAbbrev: [
     'Detour',
@@ -2133,7 +2342,8 @@ export const translations: Translations = {
     'Navíc',
     'Deviazione',
     'Objazd',
-    'Desvío'
+    'Desvío',
+    'Обхід',
   ],
   distance: [
     'Distance',
@@ -2143,7 +2353,8 @@ export const translations: Translations = {
     'Vzdálenost',
     'Distanza',
     'Dystans',
-    'Distancia'
+    'Distancia',
+    'Дистанція',
   ],
   duration: [
     'Duration',
@@ -2153,7 +2364,8 @@ export const translations: Translations = {
     'Čas',
     'Durata',
     'Czas trwania',
-    'Duración'
+    'Duración',
+    'Тривалість',
   ],
   takeoff: [
     'Takeoff',
@@ -2163,7 +2375,8 @@ export const translations: Translations = {
     'Start',
     'Partenza',
     'Start',
-    'Despegar'
+    'Despegar',
+    'Зліт',
   ],
   landing: [
     'Landing',
@@ -2173,7 +2386,8 @@ export const translations: Translations = {
     'Přistání',
     'Atterraggio',
     'Lądowanie',
-    'Aterrizaje'
+    'Aterrizaje',
+    'Посадка',
   ],
   status: [
     'Status',
@@ -2183,7 +2397,8 @@ export const translations: Translations = {
     'Status',
     'Stato',
     'Status',
-    'Estado'
+    'Estado',
+    'Статус',
   ],
   flightValid: [
     'Flight valid',
@@ -2193,7 +2408,8 @@ export const translations: Translations = {
     'Let je platný',
     'Volo valido',
     'Lot ważny',
-    'Vuelo válido'
+    'Vuelo válido',
+    'Політ дійсний',
   ],
   flightInvalid: [
     'Flight invalid',
@@ -2203,7 +2419,8 @@ export const translations: Translations = {
     'Let je neplatný',
     'Volo non valido',
     'Lot nieważny',
-    'Vuelo inválido'
+    'Vuelo inválido',
+    'Політ недійсний',
   ],
   flightPending: [
     'Flight pending',
@@ -2213,7 +2430,8 @@ export const translations: Translations = {
     'Let čeká na zpracování',
     'Volo in attesa',
     'Lot oczekujący',
-    'Vuelo pendiente '
+    'Vuelo pendiente ',
+    'Політ очікується',
   ],
   filePending: [
     'File pending',
@@ -2223,7 +2441,8 @@ export const translations: Translations = {
     'Soubor čeká na zpracování',
     'File in attesa',
     'Plik oczekuje na przetworzenie',
-    'archivo pendiente'
+    'archivo pendiente',
+    'Файл очікується',
   ],
   fileWeGlideValid: [
     'WeGlide valid',
@@ -2233,7 +2452,8 @@ export const translations: Translations = {
     'WeGlide platné',
     'WeGlide valido',
     'WeGlide poprawny',
-    'WeGlide válido'
+    'WeGlide válido',
+    'WeGlide дійсний',
   ],
   fileIgcValid: [
     'IGC valid',
@@ -2243,7 +2463,8 @@ export const translations: Translations = {
     'IGC platné',
     'IGC valido',
     'IGC poprawny',
-    'IGC válido'
+    'IGC válido',
+    'IGC дійсний',
   ],
   fileInvalid: [
     'File invalid',
@@ -2253,7 +2474,8 @@ export const translations: Translations = {
     'Soubor platný',
     'File non valido',
     'Dane niepoprawne',
-    'Archivo inválido'
+    'Archivo inválido',
+    'Файл недійсний',
   ],
   comment: [
     'Comment',
@@ -2263,7 +2485,8 @@ export const translations: Translations = {
     'Komentář',
     'Commento',
     'Komentarz',
-    'Comentario'
+    'Comentario',
+    'Коментар',
   ],
   comments: [
     'Comments',
@@ -2273,7 +2496,8 @@ export const translations: Translations = {
     'Komentáře',
     'Commenti',
     'Komentarzie',
-    'Comentarios'
+    'Comentarios',
+    'Коментарі',
   ],
   translate: [
     'Translate',
@@ -2283,7 +2507,8 @@ export const translations: Translations = {
     'Přeložit ',
     'Tradurre',
     'Tłumaczyć',
-    'Traducir'
+    'Traducir',
+    'Переклад',
   ],
   outstart: [
     'Outstart',
@@ -2293,7 +2518,8 @@ export const translations: Translations = {
     'Nenalezený start',
     'outstart',
     'Start niezależny',
-    'Empiece por fuera'
+    'Empiece por fuera',
+    'Аутстарт',
   ],
   outlanding: [
     'Outlanding',
@@ -2303,7 +2529,8 @@ export const translations: Translations = {
     'Přistání do terénu',
     'outlanding',
     'Lądowanie w terenie',
-    'Aterrizando afuera'
+    'Aterrizando afuera',
+    'Посадка поза аеродромом',
   ],
   fileValid: [
     'No remarks analyzing this flight.',
@@ -2313,7 +2540,8 @@ export const translations: Translations = {
     'Žádné poznámky k analýze letu',
     'Nessuna osservazione analizzando questo volo.',
     'Brak komentarzy dotyczących tego lotu.',
-    'Sin comentarios analizando este vuelo.'
+    'Sin comentarios analizando este vuelo.',
+    'Немає зауважень щодо аналізу цього польоту',
   ],
   loggerInformation: [
     'Logger information',
@@ -2323,7 +2551,8 @@ export const translations: Translations = {
     'Informace ze zapisovače letu',
     'Registro informazioni',
     'Dziennik',
-    'Información del registrador'
+    'Información del registrador',
+    'Інформація про логгер',
   ],
   share: [
     'Share',
@@ -2333,7 +2562,8 @@ export const translations: Translations = {
     'Sdílet',
     'Condividi',
     'Podziel się',
-    'Cuota'
+    'Cuota',
+    'Поділитися',
   ],
   linkCopied: [
     'Link copied!',
@@ -2343,7 +2573,8 @@ export const translations: Translations = {
     'Odkaz zkopírován!',
     'Link copiato!',
     'Skopiowano link!',
-    '¡Enlace copiado!'
+    '¡Enlace copiado!',
+    'Посилання скопійовано!',
   ],
   embed: [
     'Embed',
@@ -2353,7 +2584,8 @@ export const translations: Translations = {
     'Vložit',
     'Embed',
     'Zintegruj',
-    'Empotrar'
+    'Empotrar',
+    'Інтегрувати',
   ],
   showBarogram: [
     'Show barogram',
@@ -2363,7 +2595,8 @@ export const translations: Translations = {
     'Zobrazit barozáznam',
     'Mostra barogramma',
     'Pokaż barogram',
-    'Mostrar barograma'
+    'Mostrar barograma',
+    'Показати барограму',
   ],
   includeBBox: [
     'Current bounding box',
@@ -2373,7 +2606,8 @@ export const translations: Translations = {
     'Aktuální výběr',
     'Riquadro di delimitazione',
     'Aktualny wybór',
-    'Cuadro delimitador actual'
+    'Cuadro delimitador actual',
+    'Поточний описуючий прямокутник',
   ],
   displayedFlights: [
     'Displayed flights',
@@ -2383,7 +2617,8 @@ export const translations: Translations = {
     'Zobrazené lety',
     'Voli visualizzati',
     'Wyświetlone loty',
-    'Vuelos mostrados'
+    'Vuelos mostrados',
+    'Відображені польоти',
   ],
 
   // Flight list
@@ -2395,7 +2630,8 @@ export const translations: Translations = {
     'Seznam letů',
     'Elenco dei voli',
     'Lista lotów',
-    'Lista de vuelos'
+    'Lista de vuelos',
+    'Список польотів',
   ],
   date: [
     'Date',
@@ -2405,7 +2641,8 @@ export const translations: Translations = {
     'Datum',
     'Data',
     'Data',
-    'Fecha'
+    'Fecha',
+    'Дата',
   ],
   pilot: [
     'Pilot',
@@ -2415,7 +2652,8 @@ export const translations: Translations = {
     'Pilot',
     'Pilota',
     'Pilot',
-    'Piloto'
+    'Piloto',
+    'Пілот',
   ],
   more: [
     'More',
@@ -2425,7 +2663,8 @@ export const translations: Translations = {
     'Více',
     'Altro',
     'Więcej',
-    'Más'
+    'Más',
+    'Більше',
   ],
   likes: [
     'Likes',
@@ -2435,7 +2674,8 @@ export const translations: Translations = {
     'Rád',
     'Piace',
     'Lubi',
-    'Gustos'
+    'Gustos',
+    'Вподобання',
   ],
   noFlightsYet: [
     'No flights yet.',
@@ -2445,7 +2685,8 @@ export const translations: Translations = {
     'Zatím žádné lety.',
     'Ancora nessun volo.',
     'Nie ma jeszcze lotów.',
-    'Aún no hay vuelos.'
+    'Aún no hay vuelos.',
+    'Поки немає польотів',
   ],
   noFlightsMapYet: [
     'No flights yet in this map section.',
@@ -2455,7 +2696,8 @@ export const translations: Translations = {
     'V této části mapy zatím nejsou žádné lety.',
     'Non ci sono ancora voli in questa sezione della mappa.',
     'W tej sekcji mapy nie ma jeszcze lotów.',
-    'Aún no hay vuelos en esta sección del mapa.'
+    'Aún no hay vuelos en esta sección del mapa.',
+    'Поки немає польотів в цій секції мапи.',
   ],
 
   // Flight overview
@@ -2467,7 +2709,8 @@ export const translations: Translations = {
     'Přehled',
     'Sintesi',
     'Przegląd',
-    'Visión general'
+    'Visión general',
+    'Огляд',
   ],
   flightOverview: [
     'Flight overview',
@@ -2477,7 +2720,8 @@ export const translations: Translations = {
     'Náhled letu',
     'Panoramica',
     'Przegląd lotów',
-    'Resumen de vuelo'
+    'Resumen de vuelo',
+    'Огляд польоту',
   ],
   liveOverview: [
     'Live overview',
@@ -2487,7 +2731,8 @@ export const translations: Translations = {
     'Náhled letu',
     'Panoramica volo',
     'Przegląd lotów',
-    'Resumen en vivo'
+    'Resumen en vivo',
+    'Огляд наживо',
   ],
   liveCompetition: [
     'Live competition',
@@ -2497,7 +2742,8 @@ export const translations: Translations = {
     'Živá soutěž',
     'Competizione dal vivo',
     'Konkurs na żywo',
-    'Competencia en vivo'
+    'Competencia en vivo',
+    'Змагання наживо',
   ],
   currentCompetitions: [
     'Current competitions',
@@ -2507,7 +2753,8 @@ export const translations: Translations = {
     'Aktuální soutěže',
     'Concorsi in corso',
     'Aktualne konkursy',
-    'Competiciones actuales'
+    'Competiciones actuales',
+    'Поточні змагання',
   ],
   noCompetitions: [
     'No competitions',
@@ -2517,7 +2764,8 @@ export const translations: Translations = {
     'Žádné soutěže',
     'Nessuna competizione',
     'Brak konkursów',
-    'Sin competiciones'
+    'Sin competiciones',
+    'Немає змагань',
   ],
   list: [
     'List',
@@ -2527,7 +2775,8 @@ export const translations: Translations = {
     'Seznam',
     'Lista',
     'Lista',
-    'Lista'
+    'Lista',
+    'Список',
   ],
 
   // Upload/Edit
@@ -2539,7 +2788,8 @@ export const translations: Translations = {
     'Nahrát lety',
     'Carica volo',
     'Wyślij loty',
-    'Subir vuelos'
+    'Subir vuelos',
+    'Завантажити польоти',
   ],
   editFlight: [
     'Edit flight',
@@ -2549,7 +2799,8 @@ export const translations: Translations = {
     'Upravit let',
     'Modifica volo',
     'Edytuj lot',
-    'Editar vuelo'
+    'Editar vuelo',
+    'Редагувати політ',
   ],
 
   // Form edit flight
@@ -2561,7 +2812,8 @@ export const translations: Translations = {
     'Obnovit vyhodnocení',
     'Resetta punteggi',
     'Zresetuj ocenę',
-    'Restablecer ventanas de puntuación'
+    'Restablecer ventanas de puntuación',
+    'Скинути вікна оцінювання',
   ],
   scoringAdd: [
     'Add scoring window',
@@ -2571,7 +2823,8 @@ export const translations: Translations = {
     'Přidat vyhodnocení',
     'Aggiungi punteggio',
     'Dodaj ocenę',
-    'Agregar ventana de puntuación'
+    'Agregar ventana de puntuación',
+    'Додати вікно оцінювання',
   ],
   scoringStart: [
     'Scoring start',
@@ -2581,7 +2834,8 @@ export const translations: Translations = {
     'Začátek vyhodnocení',
     'Inizio punteggio',
     'Zcznij ocenianie',
-    'Inicio de puntuación'
+    'Inicio de puntuación',
+    'Початок оцінювання',
   ],
   scoringEnd: [
     'Scoring end',
@@ -2591,7 +2845,8 @@ export const translations: Translations = {
     'Konec vyhodnocení',
     'Fine punteggio',
     'Zakończ ocenę',
-    'Puntaje final '
+    'Puntaje final ',
+    'Кінець оцінювання',
   ],
   registrationFormat: [
     "Only uppercase letters, numbers and '-' are allowed for registration.",
@@ -2601,7 +2856,8 @@ export const translations: Translations = {
     "V registraci jsou povoleny pouze velká písmena, čísla a '-' ",
     "Sono accettati solo lettere maiuscole, numeri e '-' per la registrazione. ",
     "Tylko wielkie litery, cyfry i '-' są dozwolone przy rejestracji.",
-    "Solo se permiten letras mayúsculas, números y '-' para el registro."
+    "Solo se permiten letras mayúsculas, números y '-' para el registro.",
+    "Дозволено лише великі літери, цифри та '-'",
   ],
   isNotRegistered: [
     'is not registered, no further authentication required.',
@@ -2611,7 +2867,8 @@ export const translations: Translations = {
     'Není registrován, není požadována autorizace',
     'non è registrato, non è richiesta alcuna ulteriore autenticazione.',
     'nie jest zarejestrowany, dalsze uwierzytelnienie niewymagane.',
-    'no está registrado, no se requiere autenticación adicional.'
+    'no está registrado, no se requiere autenticación adicional.',
+    'не зареєстровано, подальша аутентифікація не потрібна',
   ],
   isRegistered: [
     'is registered, date of birth required as authentication.',
@@ -2621,7 +2878,8 @@ export const translations: Translations = {
     'Je registrován, pro autorizaci je nutné datum narození',
     'è registrato, la data di nascita è richiesta come autenticazione',
     'jest zarejestrowany, wymagana data urodzenia do uwierzytelnienia.',
-    'está registrado, la fecha de nacimiento se requiere como autenticación.'
+    'está registrado, la fecha de nacimiento se requiere como autenticación.',
+    'зареєстровано, потрібна дата народження для аутентифікації',
   ],
   competitionIdFormat: [
     'Only alphanumeric characters are allowed for competition id.',
@@ -2631,7 +2889,8 @@ export const translations: Translations = {
     'Na soutěžní znak jsou povoleny pouze písmena a čísla',
     "Sono accettati sono caratteri alfanumerici per l' ID Concorenza",
     'Tylko alfanumeryczne znaki są dozwolone w ID zawodów.',
-    'Solo se permiten caracteres alfanuméricos para la identificación de la competencia.'
+    'Solo se permiten caracteres alfanuméricos para la identificación de la competencia.',
+    'Лише буквено-цифрові символи дозволені для ID змагання.',
   ],
   scoringWindows: [
     'Scoring windows',
@@ -2641,7 +2900,8 @@ export const translations: Translations = {
     'Vyhodnoceni',
     'Finestra punteggi',
     'Ocenianie',
-    'Ventanas de puntuación'
+    'Ventanas de puntuación',
+    'Вікна оцінювання',
   ],
   scoringTowingNotice: [
     'Please make sure that the scoring windows do not include towing.',
@@ -2651,7 +2911,8 @@ export const translations: Translations = {
     'Ujistětě se, že ve vyhodnocení neobsahuje let v aerovleku',
     'Assicurati che la valutazione non includa un volo in traino aereo',
     'Proszę upewnić się, że ocenianie nie zawiera holowania.',
-    'Asegúrese de que las ventanas de puntuación no incluyan el remolque.'
+    'Asegúrese de que las ventanas de puntuación no incluyan el remolque.',
+    'Будь ласка, впевніться, що вікна оцінювання не включають буксирування.',
   ],
   scoringFesNotice: [
     'Airplane with electric propulsion selected. Please make sure time spans with running engine (yellow) are excluded from scoring.',
@@ -2661,7 +2922,8 @@ export const translations: Translations = {
     'Vybrán kluzák s elektromotorem, ujistěte se, že ve vyhodnocení není část s během motoru (žlutá)',
     'Aereo con propulsione elettrica selezionato. Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio',
     'Wybrany samolot z elektrycznym napędem. Proszę upewnić się, że okresy kiedy silnik jest włączony (żółte) są wykluczone z oceny.',
-    'Avión con propulsión eléctrica seleccionada. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.'
+    'Avión con propulsión eléctrica seleccionada. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.',
+    'Обрано повітряне судно з електричним двигуном. Будь ласка, переконайтеся, що проміжки часу з працюючим двигуном (жовтий) виключені з оцінки.',
   ],
   scoringEngineNotice: [
     'Airplane with engine selected. Please make sure time spans with running engine (yellow) are excluded from scoring.',
@@ -2671,7 +2933,8 @@ export const translations: Translations = {
     'Vybrán kluzák s motorem, ujistěte se, že ve vyhodnocení není část letu s během motoru (žlutá)',
     'Aereo con motore selezionato, Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio',
     'Wybrany samolot z napędem. Proszę upewnić się, że okresy kiedy silnik jest włączony (żółte) są wykluczone z oceny.',
-    'Avión con motor seleccionado. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.'
+    'Avión con motor seleccionado. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.',
+    'Обрано повітряне судно з двигуном. Будь ласка, переконайтеся, що проміжки часу з працюючим двигуном (жовтий) виключені з оцінки.',
   ],
   scoringGliderNotice: [
     'Airplane without engine selected, switch to aircraft with engine to see potential engine runs.',
@@ -2681,7 +2944,8 @@ export const translations: Translations = {
     'Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli potenciální běhy motoru.',
     'Aereo senza motore selezionato, passare a un aereo con motore per vedere i potenziali motori in funzione.',
     'Samolot bez wybranego silnika, przełącz się na samolot z silnikiem, aby zobaczyć potencjalną pracę silnika.',
-    'Avión sin motor seleccionado, cambie a avión con motor para ver el funcionamiento potencial del motor.'
+    'Avión sin motor seleccionado, cambie a avión con motor para ver el funcionamiento potencial del motor.',
+    'Обрано повітряне судно без двигуна, перейдіть на ПС з двигуном, щоб побачити потенційні запуски двигуна.',
   ],
   errorTerms: [
     'Please agree to the terms.',
@@ -2691,7 +2955,8 @@ export const translations: Translations = {
     'Prosíme o odsouhlasení podmínek',
     'Per favore accetta i termini.',
     'Proszę zgódź się z zasadami.',
-    'Acepta los términos.'
+    'Acepta los términos.',
+    'Будь ласка, прийміть правила.'
   ],
   textConfirmUpload: [
     'I confirm that my scoring windows are chosen according to the rules, each active airspace crossed was cleared by ATC and I have read and accepted the following documents:',
@@ -2701,7 +2966,8 @@ export const translations: Translations = {
     'Potvrzuji, že jsem zvolil vyhodnocení podle pravidel, průlet aktivních prostorů mi byl povolen četl jsem a akceptuji následující dokumenty:',
     "Confermo che le mie finestre di punteggio sono scelte in base alle regole che ogni spazio aereo attivo attraversato è stato cancellato dall'ATC e ho letto e accettato i seguenti documenti:",
     'Potwierdzam że moja ocena jest wybrana prawidłowo zgodnie z zasadami, każda przestrzeń powietrzna została przekroczona zgodnie z ATC oraz przeczytałem i zaakceptowałem poniższe dokumenty:',
-    'Confirmo que mis ventanas de puntuación se eligen de acuerdo con las reglas, cada espacio aéreo activo cruzado fue autorizado por ATC y he leído y aceptado los siguientes documentos:'
+    'Confirmo que mis ventanas de puntuación se eligen de acuerdo con las reglas, cada espacio aéreo activo cruzado fue autorizado por ATC y he leído y aceptado los siguientes documentos:',
+    'Я підтверджую, що мої вікна оцінювання обрано відповідно до правил, кожен перетин активного повітряного простору був дозволений АТС, і я прочитав та прийняв такі документи:',
   ],
 
   // Form upload igc
@@ -2713,7 +2979,8 @@ export const translations: Translations = {
     'Ahoj',
     'Ciao',
     'Cześć',
-    'Hola'
+    'Hola',
+    'Привіт',
   ],
   shareFlights: [
     'share your flights!',
@@ -2723,7 +2990,8 @@ export const translations: Translations = {
     'Sdílej své lety',
     'condividi i tuoi voli!',
     'podziel się lotami!',
-    'comparte tus vuelos!'
+    'comparte tus vuelos!',
+    'поділися своїми польотами!',
   ],
   unauthorizedNotice: [
     'You are not logged in, please provide your date of birth and full name to upload if you have an account or',
@@ -2733,7 +3001,8 @@ export const translations: Translations = {
     'Nejsi přihlášen, k nahrání letů napiš celé jméno a datum narození, pokud jsi již registrován',
     "Non hai effettuato l'accesso, per favore fornisci la tua data di nascita e il tuo nome completo se hai un account o",
     'Nie jesteś zalogowany, proszę wprowadź datę urodzenia oraz pełne imię by przesłać plik jeśli masz konto albo',
-    'No ha iniciado sesión, proporcione su fecha de nacimiento y nombre completo para cargar si tiene una cuenta o'
+    'No ha iniciado sesión, proporcione su fecha de nacimiento y nombre completo para cargar si tiene una cuenta o',
+    "Ви не ввійшли в свій аккаунт, будь ласка, надайте дату свого народження та повне ім'я, якщо у вас є аккаунт, або",
   ],
   logInFirst: [
     'Please log in first.',
@@ -2743,7 +3012,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Спочатку ввійдіть в аккаунт.',
   ],
   igcDragText: [
     'Drag .igc files here to upload or click to select',
@@ -2753,7 +3023,8 @@ export const translations: Translations = {
     'Přetáhni .igc soubor k nahrání nebo ho vyber ze seznamu',
     "Trascina i file .igc qua per effettuare l'upload o clicca per selezionarli",
     'Przeciągnij pliki .igc tutaj by je przesłać albo kliknij by wybrać',
-    'Arrastre los archivos .igc aquí para cargarlos o haga clic para seleccionar'
+    'Arrastre los archivos .igc aquí para cargarlos o haga clic para seleccionar',
+    'Перетягніть .igc файли сюди для завантаження або натисніть щоб обрати',
   ],
   igcDropText: [
     'Drop .igc files to upload',
@@ -2763,7 +3034,8 @@ export const translations: Translations = {
     'Přetáhni .igc soubor k nahrání',
     'Rilascia il file .igc',
     'Przeciągnij pliki .igc by je przesłać',
-    'Suelta los archivos .igc para subir'
+    'Suelta los archivos .igc para subir',
+    'Відпустіть .igc файли для завантаження',
   ],
 
   // Teaser
@@ -2775,7 +3047,8 @@ export const translations: Translations = {
     'Česky',
     'Italiano',
     'Polski',
-    'Español'
+    'Español',
+    'Українська',
   ],
   welcome: [
     'Welcome',
@@ -2785,7 +3058,8 @@ export const translations: Translations = {
     'Vítejte',
     'Benvenuto',
     'Witaj',
-    'Bienvenidos'
+    'Bienvenidos',
+    'Ласкаво просимо',
   ],
   uploadFlight: [
     'Upload flight',
@@ -2795,7 +3069,8 @@ export const translations: Translations = {
     'Nahrát let',
     'Carica un volo',
     'Prześlij lot',
-    'Subir vuelo'
+    'Subir vuelo',
+    'Завантажити політ',
   ],
   myProfile: [
     'My profile',
@@ -2805,7 +3080,8 @@ export const translations: Translations = {
     'Můj profil',
     'Il mio profilo',
     'Mój profil',
-    'Mi perfil'
+    'Mi perfil',
+    'Мій профіль',
   ],
   encourage: [
     "Let's take off together and join the next-generation gliding platform.",
@@ -2815,7 +3091,8 @@ export const translations: Translations = {
     'Užij si novou platformu pro plachtění',
     'Decolliamo insieme e unisciti alla nuova piattaforma di volo.',
     'Wystartujmy razem i dołącz do platformy o szybownictwie nowej generacji.',
-    'Despeguemos juntos y unámonos a la plataforma de deslizamiento de próxima generación.'
+    'Despeguemos juntos y unámonos a la plataforma de deslizamiento de próxima generación.',
+    'Стартуймо разом і приєднуймось до планерної платформи наступного покоління.',
   ],
   flightOfTheMonth: [
     'Flight of the month',
@@ -2825,7 +3102,8 @@ export const translations: Translations = {
     'Let měsíce',
     'Volo del mese',
     'Lot miesiąca',
-    'Vuelo del mes'
+    'Vuelo del mes',
+    'Політ місяця',
   ],
 
   // Partner
@@ -2837,7 +3115,8 @@ export const translations: Translations = {
     'Partner',
     'Partner',
     'Partner',
-    'Pareja'
+    'Pareja',
+    'Партнер',
   ],
   supporter: [
     'Funded by',
@@ -2847,7 +3126,8 @@ export const translations: Translations = {
     'Založeno',
     'Fondato da',
     'Założono przez',
-    'Fundado por'
+    'Fundado por',
+    'Фінансується за рахунок',
   ],
   sponsors: [
     'Sponsors',
@@ -2857,7 +3137,8 @@ export const translations: Translations = {
     'Sponzoři',
     'Sponsor',
     'Sponsorzy',
-    'Patrocinadores'
+    'Patrocinadores',
+    'Спонсори',
   ],
 
   // Footer
@@ -2869,7 +3150,8 @@ export const translations: Translations = {
     'Kontakt',
     'Contatti',
     'Kontakt',
-    'Contacto'
+    'Contacto',
+    'Контакт',
   ],
   philosophy: [
     'Philosophy',
@@ -2879,7 +3161,8 @@ export const translations: Translations = {
     'Filozofie',
     'Filosofia',
     'Filozofia',
-    'Filosofía'
+    'Filosofía',
+    'Філософія',
   ],
   imprint: [
     'Imprint',
@@ -2889,7 +3172,8 @@ export const translations: Translations = {
     'Impresum',
     'Impronta',
     'Odcisk',
-    'Imprimir'
+    'Imprimir',
+    'Відбиток',
   ],
   media: [
     'Media',
@@ -2899,7 +3183,8 @@ export const translations: Translations = {
     'Média',
     'Media',
     'Media',
-    'Comunicación'
+    'Comunicación',
+    'Медіа',
   ],
   press: [
     'Press',
@@ -2909,7 +3194,8 @@ export const translations: Translations = {
     'PR',
     'Stampa',
     'Prasowe',
-    'PR'
+    'PR',
+    'Преса',
   ],
   services: [
     'Services',
@@ -2919,7 +3205,8 @@ export const translations: Translations = {
     'Služby',
     'Servizi',
     'Usługi',
-    'Servicios'
+    'Servicios',
+    'Сервіси',
   ],
   contestRules: [
     'Contest Rules',
@@ -2929,7 +3216,8 @@ export const translations: Translations = {
     'Soutěžní pravidla',
     'Regole del concorso',
     'Zasady zawodów',
-    'Reglas del concurso'
+    'Reglas del concurso',
+    'Правила змагань',
   ],
   loggers: [
     'Loggers',
@@ -2939,7 +3227,8 @@ export const translations: Translations = {
     'Zapisovače letu',
     'Logger',
     'Dzienniki',
-    'Registrador'
+    'Registrador',
+    'Логгери',
   ],
   instructions: [
     'Instructions',
@@ -2949,7 +3238,8 @@ export const translations: Translations = {
     'Instrukce',
     'Istruzioni',
     'Instrukcje',
-    'Instrucciones'
+    'Instrucciones',
+    'Інструкції',
   ],
   supportRequest: [
     'Support request',
@@ -2959,7 +3249,8 @@ export const translations: Translations = {
     'Žádost o podporu',
     'Richiesta di supporto',
     'Żądanie wsparcia',
-    'Solicitud de soporte'
+    'Solicitud de soporte',
+    'Запит в підтримку',
   ],
   developer: [
     'Developer',
@@ -2969,7 +3260,8 @@ export const translations: Translations = {
     'Vývojář',
     'Sviluppatori',
     'Deweloper',
-    'Desarrollador'
+    'Desarrollador',
+    'Розробник',
   ],
   getStarted: [
     'Get Started',
@@ -2979,7 +3271,8 @@ export const translations: Translations = {
     'Uvedení',
     'Lavora con noi',
     'Wprowadzenie',
-    'Empezar'
+    'Empezar',
+    'З чого почати',
   ],
   faq: [
     'FAQ',
@@ -2989,7 +3282,8 @@ export const translations: Translations = {
     'Často kladené otázky',
     'FAQ',
     'Często zadawane pytania',
-    'Preguntas más frecuentes'
+    'Preguntas más frecuentes',
+    'Поширені запитання',
   ],
 
   // Teaser
@@ -3001,7 +3295,8 @@ export const translations: Translations = {
     'Dnes nejlepší',
     'Migliore del giorno',
     'Najlepsze dziennie',
-    'Bestia diaria'
+    'Bestia diaria',
+    'Кращі за день',
   ],
   latestUploads: [
     'Latest uploads',
@@ -3011,7 +3306,8 @@ export const translations: Translations = {
     'Poslední nahrané lety',
     'Ultimo upload',
     'Najnowsze przesłane',
-    'Últimas cargas'
+    'Últimas cargas',
+    'Останні завантаження',
   ],
   flightStories: [
     'Flight Stories',
@@ -3021,7 +3317,8 @@ export const translations: Translations = {
     'Historie letu',
     'Storie di volo',
     'Relacje lotów',
-    'Historias de vuelos'
+    'Historias de vuelos',
+    'Історії польотів',
   ],
 
   // Home Content
@@ -3033,7 +3330,8 @@ export const translations: Translations = {
     'Časopis',
     'Notizie',
     'Magazyn',
-    'Revista'
+    'Revista',
+    'Магазин',
   ],
   competitions: [
     'Competitions',
@@ -3043,7 +3341,8 @@ export const translations: Translations = {
     'Soutěže',
     'Competizioni',
     'Zawody',
-    'Competiciones'
+    'Competiciones',
+    'Змагання',
   ],
   team: [
     'Team',
@@ -3053,7 +3352,8 @@ export const translations: Translations = {
     'Tým',
     'Team',
     'Zespół',
-    'Equipo'
+    'Equipo',
+    'Команда',
   ],
   johannesDescription: [
     'Competition Pilot',
@@ -3063,7 +3363,8 @@ export const translations: Translations = {
     'Soutěžní pilot',
     'Pilota da competizione',
     'Konkurencyjny pilot',
-    'Piloto de competición'
+    'Piloto de competición',
+    'Пілот-спортсмен',
   ],
   moritzDescription: [
     'Cross-Country Explorer',
@@ -3073,7 +3374,8 @@ export const translations: Translations = {
     'Vyhledávač po celém světě',
     'Esploratore di nuovi mondi',
     'Międzynarodowy Ekspolrer',
-    'Explorador de campo traviesa'
+    'Explorador de campo traviesa',
+    'Крос-кантрі дослідник',
   ],
   samuelDescription: [
     'Outdoor Enthusiast',
@@ -3083,7 +3385,8 @@ export const translations: Translations = {
     'Outdorový dobrodruh',
     'Appassionato di attività alla aperto',
     'Entuzjasta świeżego powietrza',
-    'Aficionado al aire libre'
+    'Aficionado al aire libre',
+    'Любитель активного відпочинку',
   ],
   carolinDescription: [
     'Gliding Advocate',
@@ -3093,7 +3396,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    '',
   ],
 
   // Magazine Teaser
@@ -3105,7 +3409,8 @@ export const translations: Translations = {
     'Min. čas čtení',
     'tempo di lettura',
     'min. czytania',
-    'min. leer'
+    'min. leer',
+    'мін. час читання',
   ],
 
   // Map layer
@@ -3117,7 +3422,8 @@ export const translations: Translations = {
     'Mapa',
     'Mappa',
     'Mapa',
-    'Mapa'
+    'Mapa',
+    'Мапа',
   ],
   comingSoon: [
     'Coming soon',
@@ -3127,7 +3433,8 @@ export const translations: Translations = {
     'Přijde brzy',
     'Prossimamente',
     'Wkrótce',
-    'Próximamente, en breve, pronto'
+    'Próximamente, en breve, pronto',
+    'Очікується незабаром',
   ],
   transportation: [
     'Streets',
@@ -3137,7 +3444,8 @@ export const translations: Translations = {
     'Silnice',
     'Strade',
     'Ulice',
-    'Calles'
+    'Calles',
+    'Вулиці',
   ],
   landcover: [
     'Land cover',
@@ -3147,7 +3455,8 @@ export const translations: Translations = {
     'Zakrýt krajinu',
     'Copertura del suolo',
     'Pokrycie terenu',
-    'Cobertura Terrestre'
+    'Cobertura Terrestre',
+    'Покриття землі',
   ],
   administrative: [
     'Cities and Countries',
@@ -3157,7 +3466,8 @@ export const translations: Translations = {
     'Města a státy',
     'Città e Paesi',
     'Miasta i państwa',
-    'Ciudades y países'
+    'Ciudades y países',
+    'Міста і країни',
   ],
   pois: [
     'Points of interest',
@@ -3167,7 +3477,8 @@ export const translations: Translations = {
     'Zájmové body',
     'Punti di interesse',
     'Punkty zainteresowań',
-    'Puntos de interés'
+    'Puntos de interés',
+    'Визначна точка',
   ],
   mountains: [
     'Mountains',
@@ -3177,7 +3488,8 @@ export const translations: Translations = {
     'Hory',
     'Montagne',
     'Góry',
-    'Montañas'
+    'Montañas',
+    'Гори',
   ],
   landingFields: [
     'Landing fields',
@@ -3187,7 +3499,8 @@ export const translations: Translations = {
     'Přistávací pole',
     'Campi di atterraggio',
     'Lądowiska',
-    'Campos de aterrizaje'
+    'Campos de aterrizaje',
+    'Поля для посадки',
   ],
   glidingAirspaces: [
     'Gliding airspaces',
@@ -3197,7 +3510,8 @@ export const translations: Translations = {
     'Klouzavý vzdušný prostor',
     'Spazi aerei plananti',
     'Szybujące przestrzenie powietrzne',
-    'Espacios aéreos deslizantes'
+    'Espacios aéreos deslizantes',
+    'Планерний повітряний простір',
   ],
   weather: [
     'Weather',
@@ -3207,7 +3521,8 @@ export const translations: Translations = {
     'Počasí',
     'Tempo',
     'Pogoda',
-    'Tiempo'
+    'Tiempo',
+    'Погода',
   ],
   connectWeatherProviders: [
     'Connect weather providers',
@@ -3217,7 +3532,8 @@ export const translations: Translations = {
     'Připojte poskytovatele počasí',
     'Collega i servizi meteorologici',
     'Połącz dostawców pogody',
-    'Conectar proveedores meteorológicos'
+    'Conectar proveedores meteorológicos',
+    'Підключити провайдерів прогнозу погоди',
   ],
   thermal: [
     'Thermal',
@@ -3227,7 +3543,8 @@ export const translations: Translations = {
     'Tepelný',
     'Termico',
     'Termiczny',
-    'Térmico'
+    'Térmico',
+    'Термік',
   ],
   clouds: [
     'Clouds',
@@ -3237,7 +3554,8 @@ export const translations: Translations = {
     'Mraky',
     'Nuvole',
     'Chmury',
-    'Nubes'
+    'Nubes',
+    'Хмарність',
   ],
   wind: [
     'Wind',
@@ -3247,7 +3565,8 @@ export const translations: Translations = {
     'Vítr',
     'Il vento',
     'Wiatr',
-    'Viento'
+    'Viento',
+    'Вітер',
   ],
   satImage: [
     'Satellite image',
@@ -3257,7 +3576,8 @@ export const translations: Translations = {
     'Satelitní snímek',
     'Immagini Satellitare',
     'Zdjęcie satelitarne',
-    'Imagen de satélite'
+    'Imagen de satélite',
+    'Супутникове зображення',
   ],
   predictedFlightDistance: [
     'Predicted flight distance',
@@ -3267,7 +3587,8 @@ export const translations: Translations = {
     'Předpovězená délka letu',
     'Distanza di volo prevista',
     'Przewidywany dystans lotu',
-    'Distancia de vuelo prevista'
+    'Distancia de vuelo prevista',
+    'Прогнозована дальність польоту',
   ],
   xcSpeed: [
     'XC Speed',
@@ -3277,7 +3598,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'XC швидкість',
   ],
   thermalHeight: [
     'Thermal height',
@@ -3287,7 +3609,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Висота терміків',
   ],
   cuVerticalExpansion: [
     'CU vertical expansion',
@@ -3297,7 +3620,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'CU Вертикальний розвиток',
   ],
   cuBasis: [
     'CU basis',
@@ -3307,7 +3631,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'CU базис',
   ],
   rainRadar: [
     'Rain radar',
@@ -3317,7 +3642,8 @@ export const translations: Translations = {
     'Srážkový radar',
     'Radar pioggia',
     'Radar deszczowy',
-    'Radar de lluvia '
+    'Radar de lluvia ',
+    'Радар дощу',
   ],
   temperature: [
     'Temperature',
@@ -3327,7 +3653,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    'La temperatura'
+    'La temperatura',
+    'Температура',
   ],
   uphillRidgeWind: [
     'Uphill ridge wind',
@@ -3337,7 +3664,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    '',
   ],
   thermalMaps: [
     'Thermal maps',
@@ -3347,7 +3675,8 @@ export const translations: Translations = {
     'Termální mapy',
     'Mappe termiche',
     'Mapy Termiczne',
-    'Mapas térmicos'
+    'Mapas térmicos',
+    'Термальні карти',
   ],
   start: [
     'Start',
@@ -3357,7 +3686,8 @@ export const translations: Translations = {
     'Začátek',
     'Inizio',
     'Początek',
-    'Comienzo'
+    'Comienzo',
+    'Початок',
   ],
   end: [
     'End',
@@ -3367,7 +3697,8 @@ export const translations: Translations = {
     'Konec',
     'Fine',
     'Koniec',
-    'Fin'
+    'Fin',
+    'Кінець',
   ],
   range: [
     'Range',
@@ -3377,7 +3708,8 @@ export const translations: Translations = {
     'Rozsah',
     'Gamma',
     'Zasięg',
-    'Abarcar'
+    'Abarcar',
+    'Діапазон',
   ],
   multiple: [
     'Multiple',
@@ -3387,7 +3719,8 @@ export const translations: Translations = {
     'Násobek',
     'Molteplici',
     'Wielokrotność',
-    'Múltiple'
+    'Múltiple',
+    'Кілька',
   ],
 
   // Navigation
@@ -3399,7 +3732,8 @@ export const translations: Translations = {
     'Start',
     'Avvia',
     'Start',
-    'Comienzo'
+    'Comienzo',
+    'Домашня',
   ],
   ranks: [
     'Ranks',
@@ -3409,7 +3743,8 @@ export const translations: Translations = {
     'Pořadí',
     'Rangk',
     'Rangi',
-    'Rangos'
+    'Rangos',
+    'Рейтинги',
   ],
   upload: [
     'Upload',
@@ -3419,7 +3754,8 @@ export const translations: Translations = {
     'Nahrát',
     'Upload',
     'Wyślij',
-    'Subir'
+    'Subir',
+    'Завантажити',
   ],
   task: [
     'Task',
@@ -3429,7 +3765,8 @@ export const translations: Translations = {
     'Úloha',
     'Obiettivi',
     'Zadanie',
-    'Tarea'
+    'Tarea',
+    'Завдання',
   ],
   profile: [
     'Profile',
@@ -3439,7 +3776,8 @@ export const translations: Translations = {
     'Profil',
     'Profilo',
     'Profil',
-    'Perfil'
+    'Perfil',
+    'Профіль',
   ],
   logOut: [
     'Log out',
@@ -3449,7 +3787,8 @@ export const translations: Translations = {
     'Odhlásit se',
     'Disconnettiti',
     'Wyloguj się',
-    'Cerrar sesión'
+    'Cerrar sesión',
+    'Вихід',
   ],
 
   // Profile statistics
@@ -3461,7 +3800,8 @@ export const translations: Translations = {
     'Připoj se k WeGlide',
     'Unito a WeGilde',
     'Dołączono do WeGlide',
-    'Se unió a WeGlide'
+    'Se unió a WeGlide',
+    'Приєднався до WeGlide',
   ],
   stories: [
     'Stories',
@@ -3471,7 +3811,8 @@ export const translations: Translations = {
     'Příběhy',
     'Storie',
     'Relacje',
-    'Cuentos'
+    'Cuentos',
+    'Історії',
   ],
   airtime: [
     'Cumulative airtime',
@@ -3481,7 +3822,8 @@ export const translations: Translations = {
     'Celková doba letu',
     'Tempo totale di volo',
     'Całkowity czas lotu',
-    'Tiempo aire acumulado'
+    'Tiempo aire acumulado',
+    'Сумарний час в повітрі',
   ],
   cumulativeDistance: [
     'Cumulative distance',
@@ -3491,7 +3833,8 @@ export const translations: Translations = {
     'Celková vzdálenost',
     'Distanza totale',
     'Całkowity dystans',
-    'Distancia acumulada'
+    'Distancia acumulada',
+    'Сумарна дистанція',
   ],
   avgSpeed: [
     'Average speed',
@@ -3501,7 +3844,8 @@ export const translations: Translations = {
     'Průměrná rychlost',
     'Velocità media',
     'Średnia prędkość',
-    'Velocidad media'
+    'Velocidad media',
+    'Середня швидкість',
   ],
   avgGlideSpeed: [
     'Average glide speed',
@@ -3511,7 +3855,8 @@ export const translations: Translations = {
     'Průměrná rychlost klouzání',
     'Velocità media di planata',
     'Średnia prędkość szybowania',
-    'Velocidad de planeo media'
+    'Velocidad de planeo media',
+    'Середня швидкість планування',
   ],
   avgGlideDetour: [
     'Average glide detour',
@@ -3521,7 +3866,8 @@ export const translations: Translations = {
     'Průměrná vzdálenost mimo trať',
     'Deviazione media per planata',
     'Średni objazd schodzenia',
-    'Desvío de planeo promedio'
+    'Desvío de planeo promedio',
+    'Середній обліт',
   ],
 
   // Profile Settings
@@ -3533,7 +3879,8 @@ export const translations: Translations = {
     'Nastavení aktualizováno',
     'Impostazioni aggiornate',
     'Ustawienia zaktualizowane',
-    'Ajustes actualizan'
+    'Ajustes actualizan',
+    'Налаштування оновлено',
   ],
   metric: [
     'Metric',
@@ -3543,7 +3890,8 @@ export const translations: Translations = {
     'Metrické',
     'Metrico',
     'Metryczne',
-    'Métrico'
+    'Métrico',
+    'Метрична',
   ],
   imperial: [
     'Imperial',
@@ -3553,7 +3901,8 @@ export const translations: Translations = {
     'Britské',
     'Imperiale',
     'Imperialne',
-    'Imperial'
+    'Imperial',
+    'Імперська',
   ],
   profileImageDragText: [
     'Drag your new profile picture here to upload or click to select',
@@ -3563,7 +3912,8 @@ export const translations: Translations = {
     'Přetáhněte sem svůj nový profilový obrázek pro nahrání nebo kliknutím vyberte',
     'Trascina qui la tua nuova immagine del profilo per caricarla o fai clic per selezionarla',
     'Przeciągnij tutaj swoje nowe zdjęcie profilowe, aby je przesłać, lub kliknij, aby wybrać',
-    'Arrastre su nueva foto de perfil aquí para cargarla o haga clic para seleccionar'
+    'Arrastre su nueva foto de perfil aquí para cargarla o haga clic para seleccionar',
+    'Перетягніть сюди нове фото профілю для завантаження або натисніть, щоб обрати',
   ],
   profileImageDropText: [
     'Drop your profile picture to upload',
@@ -3573,7 +3923,8 @@ export const translations: Translations = {
     'Nahrajte svůj profilový obrázek',
     'Rilascia la tua immagine del profilo per caricarla',
     'Upuść swoje zdjęcie profilowe, aby je przesłać',
-    'Suelta tu foto de perfil para subir'
+    'Suelta tu foto de perfil para subir',
+    'Відпустіть ваше фото профілю для завантаження',
   ],
   changeProfileImage: [
     'Change profile picture',
@@ -3583,7 +3934,8 @@ export const translations: Translations = {
     'Změnit profilový obrázek',
     'Cambia immagine del profilo',
     'Zmień zdjęcie profilowe',
-    'Cambiar foto de perfil'
+    'Cambiar foto de perfil',
+    'Змінити фото профілю',
   ],
   integrateSkysight: [
     'Integrate SkySight weather data into WeGlide',
@@ -3593,7 +3945,8 @@ export const translations: Translations = {
     'Propojení SkySight s WeGlide',
     'Integra i dati meteorologici SkySight in WeGlide',
     'Zintegruj dane pogodowe SkySight z WeGlide',
-    'Integre los datos meteorológicos de SkySight en WeGlide'
+    'Integre los datos meteorológicos de SkySight en WeGlide',
+    'Підключити погодні дані SkySight до WeGlide',
   ],
   integrateCopilot: [
     'Link your COPILOT profile in WeGlide',
@@ -3603,7 +3956,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Підключити профіль вашого другого пілота в WeGlide',
   ],
   integrateTopmeteo: [
     'Integrate TopMeteo weather data into WeGlide',
@@ -3613,7 +3967,8 @@ export const translations: Translations = {
     'Propojení  TopMeteo s WeGlide',
     'Integra i dati meteorologici TopMeteo in WeGlide',
     'Zintegruj dane pogodowe TopMeteo z WeGlide',
-    'Integre los datos meteorológicos de TopMeteo en WeGlide'
+    'Integre los datos meteorológicos de TopMeteo en WeGlide',
+    'Підключити погодні дані TopMeteo до WeGlide',
   ],
 
   // User / Settings
@@ -3625,7 +3980,8 @@ export const translations: Translations = {
     'Nastavení',
     'Impostazioni',
     'Ustawienia',
-    'Ajustes'
+    'Ajustes',
+    'Налаштування',
   ],
   security: [
     'Security',
@@ -3635,7 +3991,8 @@ export const translations: Translations = {
     'Bezpečnostní',
     'Sicurezza',
     'Bezpieczeństwo',
-    'Seguridad'
+    'Seguridad',
+    'Безпека',
   ],
   payments: [
     'Payments',
@@ -3645,7 +4002,8 @@ export const translations: Translations = {
     'Platby',
     'Pagamenti',
     'Płatności',
-    'Pagos'
+    'Pagos',
+    'Платежі',
   ],
   customize: [
     'Customize',
@@ -3655,7 +4013,8 @@ export const translations: Translations = {
     'Přizpůsobit',
     'Personalizzare',
     'Dostosuj',
-    'Personalizar'
+    'Personalizar',
+    'Налаштувати',
   ],
   favoriteFilter: [
     'Favorite filter',
@@ -3665,7 +4024,8 @@ export const translations: Translations = {
     'Oblíbený filtr',
     'Filtro preferito',
     'Ulubiony filtr',
-    'Filtro favorito'
+    'Filtro favorito',
+    'Улюблений фільтр',
   ],
   favoriteFilterShortcut: [
     'Select up to four favorite filters as shortcut for the homepage:',
@@ -3675,7 +4035,8 @@ export const translations: Translations = {
     'Vyberte až čtyři oblíbené filtry jako zástupce domovské stránky:',
     'Seleziona fino a quattro filtri preferiti come scorciatoia per la home page:',
     'Wybierz maksymalnie cztery ulubione filtry jako skrót do strony głównej:',
-    'Seleccione hasta cuatro filtros favoritos como acceso directo para la página de inicio:'
+    'Seleccione hasta cuatro filtros favoritos como acceso directo para la página de inicio:',
+    'Виберіть до чотирьох улюблених фільтрів як ярлики для домашньої сторінки',
   ],
   integrations: [
     'Integrations',
@@ -3685,7 +4046,8 @@ export const translations: Translations = {
     'Integrace',
     'Integrazioni',
     'Integracje',
-    'Integraciones'
+    'Integraciones',
+    'Інтеграції',
   ],
   liveConnect: [
     'Live connect',
@@ -3695,7 +4057,8 @@ export const translations: Translations = {
     'Živé připojení',
     'Connessione live',
     'Połączenie na żywo',
-    'Conectar en vivo'
+    'Conectar en vivo',
+    'Підключення наживо',
   ],
   liveConnectHelp: [
     'Connect your glider to show up in live tracking with your profile and declared task.',
@@ -3705,7 +4068,8 @@ export const translations: Translations = {
     'Připojte svůj kluzák, aby se ukázal v živém sledování s vaším profilem a deklarovaným úkolem.',
     "Collega il tuo aliante per presentarti nel monitoraggio dal vivo con il tuo profilo e l'attività dichiarata.",
     'Połącz swój szybowiec, aby wyświetlać się w śledzeniu na żywo ze swoim profilem i zadeklarowanym zadaniem.',
-    'Conecte su planeador para que aparezca en seguimiento en vivo con su perfil y tarea declarada.'
+    'Conecte su planeador para que aparezca en seguimiento en vivo con su perfil y tarea declarada.',
+    'Підключайте свій планер для відображення в живому трекінгу з вашим профілем та задекларованим завданням.',
   ],
   noTrackingConnected: [
     'No tracking connected.',
@@ -3715,7 +4079,8 @@ export const translations: Translations = {
     'Není připojeno žádné sledování.',
     'Nessun tracciamento connesso.',
     'Brak podłączonego śledzenia.',
-    'No hay seguimiento conectado.'
+    'No hay seguimiento conectado.',
+    'Немає підключеного трекінгу.',
   ],
   flightsAsList: [
     'Flights as list',
@@ -3725,7 +4090,8 @@ export const translations: Translations = {
     'Lety ze seznamu',
     'Voli come elenco',
     'Loty jako lista',
-    'Vuelos como lista'
+    'Vuelos como lista',
+    'Польоти списком',
   ],
   flightsAsMap: [
     'Flights as map',
@@ -3735,7 +4101,8 @@ export const translations: Translations = {
     'Lety jako mapa',
     'Voli come mappa',
     'Loty jako mapa',
-    'Vuelos como mapa'
+    'Vuelos como mapa',
+    'Польоти на мапі',
   ],
 
   // League
@@ -3747,7 +4114,8 @@ export const translations: Translations = {
     'Liga',
     'Lega',
     'Liga',
-    'Liga'
+    'Liga',
+    'Ліга',
   ],
   round: [
     'Round',
@@ -3757,7 +4125,8 @@ export const translations: Translations = {
     'Kolo',
     'Il giro',
     'Okrągły',
-    'Redondo'
+    'Redondo',
+    'Раунд',
   ],
   wholeLeague: [
     'Whole league',
@@ -3767,7 +4136,8 @@ export const translations: Translations = {
     'Celá liga',
     'Tutta la lega',
     'Cała liga',
-    'Liga entera'
+    'Liga entera',
+    'Вся ліга',
   ],
 
   // Ranking
@@ -3779,7 +4149,8 @@ export const translations: Translations = {
     'Umístění v žebříčku',
     'Classifica',
     'Klasyfikacja',
-    'Clasificación'
+    'Clasificación',
+    'Рейтинг',
   ],
   contest: [
     'Contest',
@@ -3789,7 +4160,8 @@ export const translations: Translations = {
     'Soutěž',
     'Concorso',
     'Zawody',
-    'Concurso'
+    'Concurso',
+    'Змагання',
   ],
   freeDescription: [
     'WeGlide Distance Cup',
@@ -3799,7 +4171,8 @@ export const translations: Translations = {
     'WeGlide Cup - vzdálenost',
     'WeGlide Distance Cup',
     'Puchar odległości WeGlide',
-    'Copa de distancia WeGlide'
+    'Copa de distancia WeGlide',
+    'Кубок Дистанції WeGlide',
   ],
   sprintDescription: [
     'WeGlide Speed Cup',
@@ -3809,7 +4182,8 @@ export const translations: Translations = {
     'WeGlide Cup - rychlost',
     'WeGlide Speed Cup',
     'Puchar prędkości WeGlide',
-    'Taza de velocidad WeGlide'
+    'Taza de velocidad WeGlide',
+    'Кубок Швидкості WeGlide',
   ],
   outReturnDescription: [
     'WeGlide Out & Return Cup',
@@ -3819,7 +4193,8 @@ export const translations: Translations = {
     'WeGlide Cup - návrat',
     'WeGlide Ritorn Cup',
     'Puchar powrót WeGlide',
-    'Taza WeGlide Out & Return'
+    'Taza WeGlide Out & Return',
+    'Кубок WeGlide Ціль з поверненням',
   ],
   exploreDescription: [
     'WeGlide Explore Cup',
@@ -3829,7 +4204,8 @@ export const translations: Translations = {
     'WeGlide Cup - explore',
     'WeGlide Explore Cup',
     'Puchar explore WeGlide',
-    'Copa WeGlide Explore'
+    'Copa WeGlide Explore',
+    'WeGlide Кубок дослідника',
   ],
   electricDescription: [
     'WeGlide electric cup',
@@ -3839,7 +4215,8 @@ export const translations: Translations = {
     'WeGlide elektrický cup',
     'WeGlide Electric Cup',
     'Puchar elektryczny WeGlide',
-    'Taza eléctrica WeGlide'
+    'Taza eléctrica WeGlide',
+    'WeGlide електро кубок',
   ],
   dmstDescription: [
     'German Championships',
@@ -3849,7 +4226,8 @@ export const translations: Translations = {
     'Německý šampionát',
     'Campionato tedesco',
     'Mistrzostwa Niemiec',
-    'Campeonatos alemanes'
+    'Campeonatos alemanes',
+    'Чемпіонат Німеччини',
   ],
   nsfwDescription: [
     'Swiss Championships',
@@ -3859,7 +4237,8 @@ export const translations: Translations = {
     'Švýcarské mistrovství',
     'Campionati Svizzeri',
     'Mistrzostwa Szwajcarii',
-    'Campeonatos suizos'
+    'Campeonatos suizos',
+    'Чемпіонат Швейцарії',
   ],
   auDescription: [
     'Australian Championships',
@@ -3869,7 +4248,8 @@ export const translations: Translations = {
     'Australské mistrovství',
     'Campionati australiani',
     'Mistrzostwa Australii',
-    'Campeonatos australianos'
+    'Campeonatos australianos',
+    'Чемпіонат Австралії',
   ],
   leagueDescription: [
     'Round based national contests',
@@ -3879,7 +4259,8 @@ export const translations: Translations = {
     'Kulaté národní soutěže',
     'Concorsi nazionali a base rotonda',
     'Konkursy krajowe oparte na rundzie',
-    'Concursos nacionales basados en rondas'
+    'Concursos nacionales basados en rondas',
+    'Раундовий національний чемпіонат',
   ],
   internationalCompetitions: [
     'International competitions',
@@ -3889,7 +4270,8 @@ export const translations: Translations = {
     'Mezinárodní soutěže',
     'Concorsi internazionali',
     'Konkursy międzynarodowe',
-    'Competiciones internacionales'
+    'Competiciones internacionales',
+    'Міжнародні змагання',
   ],
   nationalCompetitions: [
     'National competitions',
@@ -3899,7 +4281,8 @@ export const translations: Translations = {
     'Celostátní soutěže',
     'Concorsi nazionali',
     'Konkursy krajowe',
-    'Competiciones nacionales'
+    'Competiciones nacionales',
+    'Національні змагання',
   ],
   youthPromotion: [
     'Youth promotion',
@@ -3909,7 +4292,8 @@ export const translations: Translations = {
     'Podpora mládeže',
     'Promozione giovanile',
     'Promocja młodzieży',
-    'Promoción juvenil'
+    'Promoción juvenil',
+    'Заохочення молоді',
   ],
   youthPromotionDescription: [
     'Coaching and youth gliders',
@@ -3919,7 +4303,8 @@ export const translations: Translations = {
     'Koučování a kluzáky',
     'Coaching e alianti',
     'Treningi i szybowce',
-    'Coaching y planeadores juveniles'
+    'Coaching y planeadores juveniles',
+    'Тренінги і планери для молоді',
   ],
 
   // Ranking config
@@ -3931,7 +4316,8 @@ export const translations: Translations = {
     'Roční období',
     "Periodo dell'anno",
     'Czas roku',
-    'Época del año'
+    'Época del año',
+    'Пора року',
   ],
   season: [
     'Season',
@@ -3941,7 +4327,8 @@ export const translations: Translations = {
     'Sezóna',
     'Season',
     'Sezon',
-    'Temporada'
+    'Temporada',
+    'Сезон',
   ],
   gliderClass: [
     'Glider class',
@@ -3951,7 +4338,8 @@ export const translations: Translations = {
     'Třída kluzáku',
     'Classe aereo',
     'Klasa szybowca',
-    'Clase de planeador'
+    'Clase de planeador',
+    'Клас планера',
   ],
 
   // Ranking table
@@ -3963,7 +4351,8 @@ export const translations: Translations = {
     'Pořadí',
     'Rango',
     'Ranga',
-    'Rango'
+    'Rango',
+    'Ранг',
   ],
   picture: [
     'Picture',
@@ -3973,7 +4362,8 @@ export const translations: Translations = {
     'Fotografie',
     'Foto',
     'Zdjęcie',
-    'Imagen'
+    'Imagen',
+    'Зображення',
   ],
   totalPoints: [
     'Total',
@@ -3983,7 +4373,8 @@ export const translations: Translations = {
     'Celkem',
     'Totali',
     'Całkowite',
-    'Total'
+    'Total',
+    'Підсумок',
   ],
 
   // Story
@@ -3995,7 +4386,8 @@ export const translations: Translations = {
     'Příběh',
     'Storia',
     'Relacja',
-    'Cuento'
+    'Cuento',
+    'Історія',
   ],
   beforeTakeoff: [
     'Before takeoff',
@@ -4005,7 +4397,8 @@ export const translations: Translations = {
     'Před startem',
     'Prima del decollo',
     'Przed startem',
-    'Antes de despegar'
+    'Antes de despegar',
+    'Перед зльотом',
   ],
   afterLanding: [
     'After landing',
@@ -4015,7 +4408,8 @@ export const translations: Translations = {
     'Po přistání',
     "Dopo l'atterraggio",
     'Po lądowaniu',
-    'Despues de aterrizar'
+    'Despues de aterrizar',
+    'Після посадки',
   ],
   timeless: [
     'Timeless',
@@ -4025,7 +4419,8 @@ export const translations: Translations = {
     'Nadčasový',
     'Senza tempo',
     'Ponadczasowy',
-    'Sin tiempo'
+    'Sin tiempo',
+    'Позачасовий',
   ],
   until: [
     'until',
@@ -4035,7 +4430,8 @@ export const translations: Translations = {
     'do',
     'fino',
     'do',
-    'hasta'
+    'hasta',
+    'до',
   ],
   now: [
     'now',
@@ -4045,7 +4441,8 @@ export const translations: Translations = {
     'nyní',
     'adesso',
     'teraz',
-    'ahora'
+    'ahora',
+    'зараз',
   ],
   addComment: [
     'New comment',
@@ -4055,7 +4452,8 @@ export const translations: Translations = {
     'Přidat komentář',
     'Aggiungi commento',
     'Dodaj komentarz',
-    'Nuevo comentario'
+    'Nuevo comentario',
+    'Додати коментар',
   ],
   addVideo: [
     'Add video',
@@ -4065,7 +4463,8 @@ export const translations: Translations = {
     'Přidat video',
     'Aggiungi video',
     'Dodaj wideo',
-    'Añadir video'
+    'Añadir video',
+    'Додати відео',
   ],
   imageDragText: [
     'Drag images here to upload or click to select',
@@ -4075,7 +4474,8 @@ export const translations: Translations = {
     'Sem přetáhni fotku k nahrání, nebo vyber ze seznamu',
     "Trascina l'immagine qui per caricarla o clicca per selezionarla",
     'Przeciągnij tutaj zdjęcia albo kliknij by wybrać',
-    'Arrastre las imágenes aquí para cargarlas o haga clic para seleccionar'
+    'Arrastre las imágenes aquí para cargarlas o haga clic para seleccionar',
+    'Перетягніть зображення для завантаження, або натисніть щоб обрати',
   ],
   imageDropText: [
     'Drop images to upload',
@@ -4085,7 +4485,8 @@ export const translations: Translations = {
     'Přesuň sem obrázek k nahrání',
     "Rilascia l'immagine per caricarla",
     'Przeciągnij zdjęcia by wysłać',
-    'Suelta imágenes para subir'
+    'Suelta imágenes para subir',
+    'Відпустіть зображення для завантаження',
   ],
   writeComment: [
     'Write comment ...',
@@ -4095,7 +4496,8 @@ export const translations: Translations = {
     'Napiš komentář ...',
     'Scrivi un commento ...',
     'Napisz komentarz ...',
-    'Escribir comentario ...'
+    'Escribir comentario ...',
+    'Написати коментар ...',
   ],
 
   // Task
@@ -4107,7 +4509,8 @@ export const translations: Translations = {
     'Načíst další',
     'Carica di più',
     'Załaduj więcej',
-    'Carga más'
+    'Carga más',
+    'Завантажити більше',
   ],
   tasks: [
     'Tasks',
@@ -4117,7 +4520,8 @@ export const translations: Translations = {
     'Úloha',
     'Obiettivi',
     'Zadania',
-    'Tareas'
+    'Tareas',
+    'Завдання',
   ],
   all: [
     'All',
@@ -4127,7 +4531,8 @@ export const translations: Translations = {
     'Vše',
     'Tutti',
     'Wszystkie',
-    'Todos'
+    'Todos',
+    'Всі',
   ],
   explore: [
     'Explore',
@@ -4137,7 +4542,8 @@ export const translations: Translations = {
     'Prozkoumat',
     'Esplorare',
     'Badać',
-    'Explorar'
+    'Explorar',
+    'Огляд',
   ],
   mine: [
     'Mine',
@@ -4147,7 +4553,8 @@ export const translations: Translations = {
     'Moje',
     'Mio',
     'Moje',
-    'Mío'
+    'Mío',
+    'Мої',
   ],
   starred: [
     'Starred',
@@ -4157,7 +4564,8 @@ export const translations: Translations = {
     'Oblíbené',
     'Preferiti',
     'Ulubione',
-    'Favorito'
+    'Favorito',
+    'Улюблені',
   ],
   declare: [
     'Declare',
@@ -4167,7 +4575,8 @@ export const translations: Translations = {
     'Deklarovat',
     'Dichiara',
     'zgłosić',
-    'Declarar'
+    'Declarar',
+    'Задекларувати',
   ],
   undeclare: [
     'Delete Declaration',
@@ -4177,7 +4586,8 @@ export const translations: Translations = {
     'Oddeklarovat',
     'Non dichiarato',
     'usuń deklarację',
-    'Eliminar declaración'
+    'Eliminar declaración',
+    'Видалити декларацію',
   ],
   validFor: [
     'Valid for',
@@ -4187,7 +4597,8 @@ export const translations: Translations = {
     'Platný pro',
     'Valido per',
     'Ważny przez',
-    'Válido para'
+    'Válido para',
+    'Дійсне для',
   ],
   newTask: [
     'New task',
@@ -4197,7 +4608,8 @@ export const translations: Translations = {
     'Nová úloha',
     'Nuovi obiettivi',
     'nowe zadanie',
-    'Nueva tarea'
+    'Nueva tarea',
+    'Нове завдання',
   ],
   noTaskDeclared: [
     'No declared task.',
@@ -4207,7 +4619,8 @@ export const translations: Translations = {
     'Dosud není deklarována žádná úloha',
     'Ancora nessun obbiettivo dichiarato',
     'Nie zdefiniowano zadań jeszcze.',
-    'Ninguna tarea declarada.'
+    'Ninguna tarea declarada.',
+    'Немає задекларованого завдання',
   ],
   noTasks: [
     'No tasks yet, plan a new one!',
@@ -4217,7 +4630,8 @@ export const translations: Translations = {
     'Dosud žádná úloha, naplánuj!',
     'Nessun obbiettivo, provvedi a selezionarne uno',
     'Brak zadań jeszcze, zaplanuj nowe!',
-    '¡Aún no hay tareas, planifica uno nuevo!'
+    '¡Aún no hay tareas, planifica uno nuevo!',
+    'Завдань поки немає, заплануйте нове!',
   ],
   noTaskInFile: [
     'No valid task in file found',
@@ -4227,7 +4641,8 @@ export const translations: Translations = {
     'V souboru nebyl nalezen žádný platný úkol',
     'Nessuna attività valida nel file trovata',
     'Nie znaleziono prawidłowego zadania w pliku',
-    'No se encontró ninguna tarea válida en el archivo'
+    'No se encontró ninguna tarea válida en el archivo',
+    'У файлі не знайдено дійсного завдання',
   ],
   position: [
     'Position',
@@ -4237,7 +4652,8 @@ export const translations: Translations = {
     'Poloha',
     'Posizione',
     'Pozycja',
-    'Posición'
+    'Posición',
+    'Позиція',
   ],
   startOnLeg: [
     'Start on leg',
@@ -4247,7 +4663,8 @@ export const translations: Translations = {
     'Start na rameni',
     'Avvia',
     'Początek',
-    'Comience en la pierna'
+    'Comience en la pierna',
+    'Початок',
   ],
   taskLockedNotice: [
     "Can't edit task because it was declared.",
@@ -4257,7 +4674,8 @@ export const translations: Translations = {
     'Úloha je uzamčena, protože je již deklarována',
     "L'obbiettivo è bloccata perché è già stata dichiarata.",
     'Zadanie jest zablokowane, ponieważ zostało już zgłoszone.',
-    'No se puede editar la tarea porque se declaró.'
+    'No se puede editar la tarea porque se declaró.',
+    'Немождиво редагувати завдання так як воно задеклароване.',
   ],
   taskplaner: [
     'Taskplaner',
@@ -4267,7 +4685,8 @@ export const translations: Translations = {
     'Plánovač úloh',
     'Pianificatore di attività',
     'Planowanie zadań',
-    'Planificador de tareas'
+    'Planificador de tareas',
+    'Планування завдань',
   ],
   editTask: [
     'Edit task',
@@ -4277,7 +4696,8 @@ export const translations: Translations = {
     'Upravit úlohu',
     'Modifica obbiettivo',
     'Edytuj zadanie',
-    'Editar tarea'
+    'Editar tarea',
+    'Редагувати завдання',
   ],
   taskName: [
     'Task name',
@@ -4287,7 +4707,8 @@ export const translations: Translations = {
     'Název úlohy',
     'Nome obbiettivo',
     'Nazwa zadania',
-    'Nombre de la tarea'
+    'Nombre de la tarea',
+    'Назва завдання',
   ],
   private: [
     'Only visible for me',
@@ -4297,7 +4718,8 @@ export const translations: Translations = {
     'Viditelné jen pro mě',
     'Visibile solo a te',
     'Widoczne tylko dla mnie',
-    'Solo visible para mi'
+    'Solo visible para mi',
+    'Відображається лише для мене',
   ],
   turnpoint: [
     'Turnpoint',
@@ -4307,7 +4729,8 @@ export const translations: Translations = {
     'Otočný body',
     'Punto di svolta',
     'Punkty zwrotne',
-    'Punto de giro'
+    'Punto de giro',
+    'Поворотний пункт',
   ],
   discard: [
     'Discard',
@@ -4317,7 +4740,8 @@ export const translations: Translations = {
     'Vyřadit',
     'Scartare',
     'Odrzucać',
-    'Descarte'
+    'Descarte',
+    'Відмовитись',
   ],
   cupDragText: [
     'Drag a .cup file here to upload or click to select',
@@ -4327,7 +4751,8 @@ export const translations: Translations = {
     'Přetáhni .cup soubor k nahrání, nebo vyber soubor',
     'Trascina un file .cup qui o clicca per selezionarlo',
     'Przeciągnij plik .cup tutaj by wysłać albo kliknij by wybrać',
-    'Arrastre un archivo .cup aquí para cargarlo o haga clic para seleccionar'
+    'Arrastre un archivo .cup aquí para cargarlo o haga clic para seleccionar',
+    'Перетягніть .cup файл сюди для завантаження або натисніть щоб обрати',
   ],
   cupDropText: [
     'Drop .cup file to upload',
@@ -4337,7 +4762,8 @@ export const translations: Translations = {
     'Přetáhni .cup soubor k nahrání',
     'Rilascia il file .cup per caricarlo',
     'Przeciągnij plik .cup by wysłać',
-    'Suelta el archivo .cup para subir'
+    'Suelta el archivo .cup para subir',
+    'Відпустіть .cup файл для завантаження',
   ],
   taskSaved: [
     'Task saved',
@@ -4347,7 +4773,8 @@ export const translations: Translations = {
     'Úloha uložena',
     'Obbiettivo salvato',
     'Zadanie zapisane',
-    'Tarea guardada'
+    'Tarea guardada',
+    'Завдання збережено',
   ],
   taskDeleted: [
     'Task deleted',
@@ -4357,7 +4784,8 @@ export const translations: Translations = {
     'Úloha odstraněna',
     'Obbiettivo cancellato',
     'Zadanie usunięte',
-    'Tarea eliminada'
+    'Tarea eliminada',
+    'Завдання видалено',
   ],
 
   // Supporter
@@ -4369,7 +4797,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Отримай пакунок підтримки WeGlide та насолоджуйся унікальними фічами.',
   ],
   learnMore: [
     'learn more',
@@ -4379,7 +4808,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'дізнатися більше',
   ],
   tryNow: [
     'Try now',
@@ -4389,7 +4819,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Спробувати зараз',
   ],
   subscribeForFee: [
     'Subscribe for a fee',
@@ -4399,7 +4830,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Підписатися з оплатою',
   ],
   thanksVeryMuch: [
     'Thanks very much!',
@@ -4409,7 +4841,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Дуже вдячні!',
   ],
   alreadySupporter: [
     'You are already a supporter.',
@@ -4419,7 +4852,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ви вже підтримуєте.',
   ],
   nextAutomaticRenewal: [
     'Next automatic renewal:',
@@ -4429,7 +4863,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Наступне автоматичне оновлення:',
   ],
   noAutomaticRenewal: [
     'No automatic renewal, you can subscribe again after the expiration date.',
@@ -4439,7 +4874,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Немає автоматичного оновлення, ви можете підписатися знову після дати закінчення.',
   ],
   expirationDate: [
     'Expiration date:',
@@ -4449,7 +4885,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Дата закінчення',
   ],
   cancelSubscription: [
     'Cancel subscription',
@@ -4459,7 +4896,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Скасувати підписку',
   ],
   becomeSupporter: [
     'Become Supporter',
@@ -4469,7 +4907,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Підтримати',
   ],
   becomeSupporterText: [
     'WeGlide accompanies you from the planning to the analysis of your flight so that you can concentrate on the essentials. Pleasure flying or the competition with the best, you decide your day.',
@@ -4479,7 +4918,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'WeGlide супроводжує вас від планування до аналізу польоту, щоб ви могли сконцентруватися на найважливішому. Політ задля задоволення чи змагання з кращими - ви вирішуєте, яким буде ваш день.',
   ],
   yourImpact: [
     'Your impact',
@@ -4489,7 +4929,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ваш вклад',
   ],
   yourImpactSubline: [
     'We are a small but highly motivated team',
@@ -4499,7 +4940,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ми маленька, але дуже мотивована команда',
   ],
   yourImpactText: [
     'With your support, we not only keep this platform running but make it better every day. WeGlide is committed to high ethical, technical and scientific values ​​but the focus will alway be on You.',
@@ -4509,7 +4951,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'З вашою підтримкою платформа не просто продовжує працювати, але й покращується щодня. WeGlide дотримується високих етичних, технічних та наукових стандартів але завжди фокусується на Вас.',
   ],
   liveWeather: [
     'Live weather',
@@ -4519,7 +4962,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Погода наживо',
   ],
   liveWeatherSubline: [
     'The best available cloud maps',
@@ -4529,7 +4973,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Найкращі доступні мапи хмар',
   ],
   liveWeatherText: [
     'One of your fellow aviators has planned a particularly big flight today while you have to sit in the office? While it was previously time-consuming to find the correct position of an aircraft in the satellite image, this is now possible as a supporter in WeGlide live tracking simply by clicking on the cloud symbol.',
@@ -4539,7 +4984,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Один з ваших знайомих пілотів запланував досить великий політ на сьогодні поки ви змушені сидіти в офісі? Хоча раніше виявлення коректної позиції повітряного судна на супутниковому зображенні займало багато часу, зараз це можливо як допоміжна функція в WeGlide живому треккінгу лише натисканням на символ хмари.',
   ],
   historyWeather: [
     'History weather',
@@ -4549,7 +4995,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Історія погоди',
   ],
   historyWeatherSubline: [
     'Easily understand flight decisions',
@@ -4559,7 +5006,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Легко розумійте рішення, прийняті в польоті',
   ],
   historyWeatherText: [
     'Know why a flight was particularly fast or slow at one point, why a pilot flew a detour that seemed superfluous. How do the best behave with a blue hole or shield? Select the cloud symbol and hover over the barogram to find out.',
@@ -4569,7 +5017,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Знайте чому політ був особливо швидким чи повільним в певному місці, чому пілот пішов в обліт який здавався зайвим. Як найкраще поводитись із синьою дірою чи суцільним щитом? Оберіть символ хмари та наведіть курсор на барограму, щоб розібратися.',
   ],
   historyWeatherCite: [
     'The satellite film shows exactly how the conditions were, I was able to experience the flight again.',
@@ -4579,7 +5028,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Супутникова зйомка показує точно які були умови, я зміг пережити політ знову.',
   ],
   hdMaps: [
     'HD Maps',
@@ -4589,7 +5039,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'HD Мапа',
   ],
   hdMapsSubline: [
     'Up close, razor sharp',
@@ -4599,7 +5050,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    '',
   ],
   hdMapsText: [
     'Fields? No problem. Houses? Of course. Even the runways can be seen with the HD maps from Esri. Click the layers icon and choose HD Satellite. especially fun in combination with the live tracking.',
@@ -4609,7 +5061,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Поля? Не проблема. Будинки? Не проблема. Навіть злітні смуги можна побачити на HD Мапі від Esri. Натисніть на іконку шарів мапи на оберіть HD Satellite. Особливо цікаво в комбінації з живим трекінгом.',
   ],
   thereForYou: [
     'We are there for You',
@@ -4619,7 +5072,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ми тут для Вас',
   ],
   thereForYouSubline: [
     'Your concern is our concern',
@@ -4629,7 +5083,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ваші турботи - наші турботи',
   ],
   thereForYouText: [
     'Do you have any questions or need support? We like to take our time and help you. So that you can concentrate on what matters. Take off!',
@@ -4639,7 +5094,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Маєте питання чи потребуєте підтримки? Ми любимо проводити час допомагаючи вам, щоб ви могли сконцентруватися на найважливішому. Зліт!',
   ],
   supporterTerms: [
     'Become Supporter now',
@@ -4649,7 +5105,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Підтримати зараз',
   ],
   supporterTermsSubline: [
     'Your subscription, your benefits',
@@ -4659,7 +5116,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Ваша підписка, ваші переваги',
   ],
   supporterTermsText: [
     'The subscription costs 48 € per year, can be canceled at any time and is debited annually. No conversion costs or fees.',
@@ -4669,7 +5127,8 @@ export const translations: Translations = {
     '',
     '',
     '',
-    ''
+    '',
+    'Підписка коштує 48 € в рік, може бути припинена в будь-який час і оплачується щорічно. Ніяких конвертацій та комісій.'
   ]
 }
 
