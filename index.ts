@@ -3768,6 +3768,28 @@ export const translations: Translations = {
     'Tarea',
     'Завдання'
   ],
+  live: [
+    'Live',
+    'Live',
+    'Direct',
+    'Live',
+    'Živé',
+    'Tempo reale',
+    'Na żywo',
+    'Vivo',
+    'Наживо'
+  ],
+  feed: [
+    'Feed',
+    'Feed',
+    'Flux',
+    'Feed',
+    'Feed',
+    'Feed',
+    'Kanał',
+    'Feed',
+    'стрічка'
+  ],
   profile: [
     'Profile',
     'Profil',
