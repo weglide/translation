@@ -1488,6 +1488,17 @@ export const translations: Translations = {
     'Amigos',
     'Друзі'
   ],
+  findNewFriends: [
+    'Find new friends',
+    'Finde neue Freunde',
+    'Trouver de nouveaux amis',
+    'Vind nieuwe vrienden',
+    'Najděte si nové přátele',
+    'Trova nuovi amici',
+    'Znajdź nowych przyjaciół',
+    'Encontrar nuevos amigos',
+    'Знайдіть нових друзів'
+  ],
   follow: [
     'Follow',
     'Folgen',
