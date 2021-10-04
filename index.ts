@@ -3103,7 +3103,7 @@ export const translations: Translations = {
     'Decolliamo insieme e unisciti alla nuova piattaforma di volo.',
     'Wystartujmy razem i dołącz do platformy o szybownictwie nowej generacji.',
     'Despeguemos juntos y unámonos a la plataforma de deslizamiento de próxima generación.',
-    'Стартуймо разом і приєднуймось до планерної платформи наступного покоління.'
+    'Злітаймо разом і приєднуймось до планерної платформи наступного покоління.'
   ],
   flightOfTheMonth: [
     'Flight of the month',
@@ -3342,7 +3342,7 @@ export const translations: Translations = {
     'Notizie',
     'Magazyn',
     'Revista',
-    'Магазин'
+    'Журнал'
   ],
   competitions: [
     'Competitions',
@@ -3799,7 +3799,7 @@ export const translations: Translations = {
     'Feed',
     'Kanał',
     'Feed',
-    'стрічка'
+    'Стрічка'
   ],
   profile: [
     'Profile',
