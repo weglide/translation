@@ -3436,16 +3436,16 @@ export const translations: Translations = {
     'Mapa',
     'Мапа'
   ],
-  comingSoon: [
-    'Coming soon',
-    'Kommt bald',
-    'Bientôt disponible',
-    'Komt binnenkort',
-    'Přijde brzy',
-    'Prossimamente',
-    'Wkrótce',
-    'Próximamente, en breve, pronto',
-    'Очікується незабаром'
+  mapLayer: [
+    'Map layer',
+    'Kartenebenen',
+    'Couche de carte',
+    'Kaartlaag',
+    'Vrstva mapy',
+    'Livello mappa',
+    'Warstwa mapy',
+    'Capa de mapa',
+    'Шар карти'
   ],
   transportation: [
     'Streets',
@@ -4015,6 +4015,17 @@ export const translations: Translations = {
     'Ustawienia',
     'Ajustes',
     'Налаштування'
+  ],
+  certificates: [
+    'Certificates',
+    'Urkunden',
+    'Certificats',
+    'Certificaten',
+    'Certifikáty',
+    'Certificati',
+    'Certyfikaty',
+    'Certificados',
+    'Сертифікати'
   ],
   security: [
     'Security',
