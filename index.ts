@@ -3448,15 +3448,15 @@ export const translations: Translations = {
     'Шар карти'
   ],
   historySatellite: [
-    'History Satellite',
-    'Historische Satellitenbilder',
-    'Images satellites historiques',
-    'Historische satellietbeelden',
-    'Historické satelitní snímky',
-    'Immagini satellitari storiche',
-    'Historyczne zdjęcia satelitarne',
-    'Imágenes de satélite históricas',
-    'Історичні супутникові знімки'
+    'Satellite images',
+    'Satellitenbilder',
+    'Images satellites',
+    'Satellietbeelden',
+    'Satelitní snímky',
+    'Immagini satellitari',
+    'Zdjęcia satelitarne',
+    'Imágenes de satélite',
+    'Супутникові знімки'
   ],
   historySatelliteDescription: [
     'Select here and move the aircraft',
