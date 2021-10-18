@@ -3449,7 +3449,7 @@ export const translations: Translations = {
   ],
   historySatellite: [
     'History Satellite',
-    'Hitorische Satellitenbilder',
+    'Historische Satellitenbilder',
     'Images satellites historiques',
     'Historische satellietbeelden',
     'Historické satelitní snímky',
