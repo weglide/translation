@@ -3447,6 +3447,28 @@ export const translations: Translations = {
     'Capa de mapa',
     'Шар карти'
   ],
+  historySatellite: [
+    'History Satellite',
+    'Hitorische Satellitenbilder',
+    'Images satellites historiques',
+    'Historische satellietbeelden',
+    'Historické satelitní snímky',
+    'Immagini satellitari storiche',
+    'Historyczne zdjęcia satelitarne',
+    'Imágenes de satélite históricas',
+    'Історичні супутникові знімки'
+  ],
+  historySatelliteDescription: [
+    'Select here and move the aircraft',
+    'Auswählen und Flugzeug verschieben',
+    "Sélectionnez ici et déplacez l'avion",
+    'Selecteer hier en verplaats het vliegtuig',
+    'Vyberte zde a přesuňte letadlo',
+    "Seleziona qui e sposta l'aereo",
+    'Wybierz tutaj i przenieś samolot',
+    'Seleccione aquí y mueva el avión',
+    'Виберіть тут і перемістіть літак'
+  ],
   transportation: [
     'Streets',
     'Straßen',
