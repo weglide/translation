@@ -39,7 +39,7 @@ export const translations: Translations = {
   // category
   pilot: [
     'Pilot',
-    'Pilot*in',
+    'Pilot',
     'Pilote',
     'Vlieger',
     'Pilot',
@@ -61,7 +61,7 @@ export const translations: Translations = {
   ],
   club_total: [
     'Club total',
-    'Verein gesamt',
+    'Vereinssumme',
     'Club total',
     'Club totaal',
     'Klub celkem',
@@ -71,26 +71,26 @@ export const translations: Translations = {
     'Підсумок клубу'
   ],
   airport_total: [
-    'Airport Total',
-    'Flugplatz Gesamt',
-    'Aérodrome total',
-    'Vliegveld Totaal',
-    'Letiště celkem',
-    'Aereoporti totali',
-    'Lotnisko suma',
-    'Aeropuerto total',
-    'Підсумок аеропорту'
+    'Airport',
+    'Flugplatz',
+    'Aérodrome',
+    'Vliegveld',
+    'Letiště',
+    'Aereoporti',
+    'Lotnisko',
+    'Aeropuerto',
+    'Aеропорту'
   ],
   pilot_total: [
-    'Pilot Total',
-    'Pilot*in Gesamt',
-    'Pilote total',
-    'Vlieger Totaal',
-    'Pilot celkem',
-    'Pilota totali',
-    'Pilot suma',
-    'Piloto total',
-    'Підсумок пілота'
+    'Total',
+    'Summe',
+    'Total',
+    'Totaal',
+    'Celkem',
+    'Totali',
+    'Suma',
+    'Total',
+    'Всього'
   ],
   // User
   female: [
@@ -119,68 +119,68 @@ export const translations: Translations = {
   OP: [
     'Open',
     'Offen',
-    'Libre',
-    'Open',
-    'Open',
-    'Apri',
-    'Open',
-    'Abierto',
-    'Відкритий'
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   18: [
-    '18m',
-    '18m',
-    '18m',
-    '18m',
-    '18m',
-    '18m',
-    '18m',
-    '18m',
-    '18м'
+    '18',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   15: [
-    '15m',
-    '15m',
-    '15m',
-    '15m',
-    '15m',
-    '15m',
-    '15m',
-    '15m',
-    '15м'
+    '15',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   ST: [
-    'Standard',
-    'Standard',
-    'Standard',
-    'Standaard',
-    'Standart',
-    'Standard',
-    'Standard',
-    'Estándar',
-    'Стандартний'
+    'Std',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   CL: [
     'Club',
-    'Club',
-    'Club',
-    'Club',
-    'Klub',
-    'Club',
-    'Klub',
-    'Club',
-    'Клубний'
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ],
   DO: [
     'Double',
-    'Doppelsitzer',
-    'Biplace',
-    'Tweezitter',
-    'Dojmístné',
-    'Doppio',
-    'Podwójne',
-    'Doble',
-    'Двомісний'
+    'Doppel',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ]
 }
 

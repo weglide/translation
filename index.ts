@@ -2224,17 +2224,6 @@ export const translations: Translations = {
     'Energía',
     'Енергія'
   ],
-  total: [
-    'Total',
-    'Gesamt',
-    'Total',
-    'Totaal',
-    'Celkem',
-    'Totale',
-    'Całkowite',
-    'Total',
-    'Підсумок'
-  ],
   thermaling: [
     'Thermaling',
     'Thermik',
@@ -4194,6 +4183,17 @@ export const translations: Translations = {
     'Redondo',
     'Раунд'
   ],
+  total: [
+    'Total',
+    'Gesamt',
+    'Total',
+    'Totaal',
+    'Celkem',
+    'Totale',
+    'Całkowite',
+    'Total',
+    'Підсумок'
+  ],
   wholeLeague: [
     'Whole league',
     'Ganze Liga',
@@ -4328,27 +4328,27 @@ export const translations: Translations = {
     'Concursos nacionales basados en rondas',
     'Раундовий національний чемпіонат'
   ],
-  internationalCompetitions: [
-    'International competitions',
-    'Internationale Wettbewerbe',
-    'Compétitions internationales',
-    'Internationale wedstrijden',
-    'Mezinárodní soutěže',
-    'Concorsi internazionali',
-    'Konkursy międzynarodowe',
-    'Competiciones internacionales',
-    'Міжнародні змагання'
+  worldwide: [
+    'Global',
+    'Weltweit',
+    'Mondial',
+    'Wereldwijd',
+    'Celosvětově',
+    'Mondiale',
+    'Światowy',
+    'Mundial',
+    'Світової'
   ],
-  nationalCompetitions: [
-    'National competitions',
-    'Nationale Wettbewerbe',
-    'Compétitions nationales',
-    'Nationale wedstrijden',
-    'Celostátní soutěže',
-    'Concorsi nazionali',
-    'Konkursy krajowe',
-    'Competiciones nacionales',
-    'Національні змагання'
+  national: [
+    'National',
+    'National',
+    'Nationale',
+    'Nationaal',
+    'Národní',
+    'Nazionale',
+    'Krajowy',
+    'Nacional',
+    'Національний'
   ],
   youthPromotion: [
     'Youth promotion',
