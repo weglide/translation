@@ -19,3 +19,14 @@ export interface Units {
     U: UnitSystem
     I: UnitSystem
 }
+
+export interface LocationTranslations {
+    [key: string]: {
+        name: [string, string, string, string, string, string, string, string, string]
+        regions?: {
+            [key: string]: {
+                name: [string, string, string, string, string, string, string, string, string]
+            }
+        }
+    }
+}
