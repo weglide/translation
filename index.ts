@@ -1893,15 +1893,15 @@ export const translations: Translations = {
     'Регіон, Пілот, Клуб, Аеродром …'
   ],
   rankingFilterPlaceholder: [
-    'Continent, country, state',
-    'Kontinent, Land, Bundesland',
-    'Continent, Pays, État',
-    'Continent, land, staat',
-    'Kontinent, země, stát',
-    'Continente, Paese, Stato',
-    'Kontynent, kraj, stan',
-    'Continente, país, estado',
-    'Континент, країна, регіон'
+    'Region, Club, Airport',
+    'Land, Verein, Flugplatz',
+    'Région, Club, Aéroport',
+    'Regio, club, vliegveld',
+    'Region, klub, přistávací',
+    'Regione, Club, Aeroporto',
+    'Region, klub, lotnisko',
+    'Región, club, aeródromo',
+    'Регіон, Клуб, Аеродром'
   ],
   liveFilterPlaceholder: [
     'Region, airfield, pilot, aircraft …',
@@ -4316,6 +4316,17 @@ export const translations: Translations = {
     'Mistrzostwa Australii',
     'Campeonatos australianos',
     'Чемпіонат Австралії'
+  ],
+  zaDescription: [
+    'South African Championships',
+    'Südafrikanische Meisterschaften',
+    "Championnats d'Afrique du Sud",
+    'Zuid-Afrikaanse kampioenschappen',
+    'Mistrovství Jižní Afriky',
+    'Campionati sudafricani',
+    'Mistrzostwa RPA',
+    'Campeonatos de Sudáfrica',
+    'Чемпіонат Південної Африки'
   ],
   leagueDescription: [
     'Round based national contests',

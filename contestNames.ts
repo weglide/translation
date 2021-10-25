@@ -9,7 +9,8 @@ const translations = {
   declaration: 'Task',
   dmst: 'DMSt',
   nsfw: 'NSFW',
-  au: 'IRC'
+  au: 'IRC',
+  za: 'BC'
 }
 
 export function i18nContestNames (key: keyof typeof translations): string {
