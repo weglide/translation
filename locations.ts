@@ -563,7 +563,178 @@ const locations: LocationTranslations = {
       'Francja',
       '',
       ''
-    ]
+    ],
+    regions: {
+      'FR-ARA': {
+        name: [
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          'Auvergne-Rhône-Alpes',
+          '',
+          ''
+        ]
+      },
+      'FR-BFC': {
+        name: [
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          'Bourgogne-Franche-Comté',
+          '',
+          ''
+        ]
+      },
+      'FR-BRE': {
+        name: [
+          'Brittany',
+          'Bretagne',
+          'Bretagne',
+          'Bretagne',
+          'Bretaň',
+          'Bretagna',
+          'Bretania',
+          '',
+          ''
+        ]
+      },
+      'FR-CVL': {
+        name: [
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          'Centre-Val de Loire',
+          '',
+          ''
+        ]
+      },
+      'FR-20R': {
+        name: [
+          'Corsica',
+          'Korsika',
+          'Corse',
+          'Corsica',
+          'Korsika',
+          'Corsica',
+          'Korsyka',
+          '',
+          ''
+        ]
+      },
+      'FR-GES': {
+        name: [
+          'Grand-Est',
+          'Grand-Est',
+          'Grand-Est',
+          'Grand-Est',
+          'Grand-Est',
+          'Grand-Est',
+          'Grand-Est',
+          '',
+          ''
+        ]
+      },
+      'FR-HDF': {
+        name: [
+          'Hauts-de-France',
+          'Hauts-de-France',
+          'Hauts-de-France',
+          'Hauts-de-France',
+          'Hauts-de-France',
+          'Hauts-de-France',
+          'Hauts-de-France',
+          '',
+          ''
+        ]
+      },
+      'FR-IDF': {
+        name: [
+          'Île-de-France',
+          'Île-de-France',
+          'Île-de-France',
+          'Île-de-France',
+          'Île-de-France',
+          'Île-de-France',
+          'Île-de-France',
+          '',
+          ''
+        ]
+      },
+      'FR-NOR': {
+        name: [
+          'Normandy',
+          'Normandie',
+          'Normandie',
+          'Normandië',
+          'Normandie',
+          'Normandia',
+          'Normandia',
+          '',
+          ''
+        ]
+      },
+      'FR-NAQ': {
+        name: [
+          'New Aquitaine',
+          'Neu-Aquitanien',
+          'Nouvelle-Aquitaine',
+          'Nieuw Aquitanië',
+          'Nová Akvitánie',
+          'Nuova Aquitania',
+          'Nowa Akwitania',
+          '',
+          ''
+        ]
+      },
+      'FR-OCC': {
+        name: [
+          'Occitania',
+          'Okzitanien',
+          'Occitanie',
+          'Occitanië',
+          'Okcitánie',
+          'Occitania',
+          'Oksytania',
+          '',
+          ''
+        ]
+      },
+      'FR-PDL': {
+        name: [
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          'Pays-de-la-Loire',
+          '',
+          ''
+        ]
+      },
+      'FR-PAC': {
+        name: [
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          'Provence-Alpes-Côte-d’Azur',
+          '',
+          ''
+        ]
+      }
+    }
   },
   GB: {
     name: [
