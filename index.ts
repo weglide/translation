@@ -5228,6 +5228,28 @@ export const translations: Translations = {
     '',
     '',
     ''
+  ],
+  earliest: [
+    'Earliest',
+    'Frühester',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
+  latest: [
+    'Latest',
+    'Spätester',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
   ]
 }
 
