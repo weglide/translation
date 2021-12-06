@@ -3834,6 +3834,28 @@ export const translations: Translations = {
     'Cerrar sesión',
     'Вихід'
   ],
+  navigation: [
+    'Navigation',
+    'Navigation',
+    'Naviguer',
+    'Navigeren',
+    'Navigovat',
+    'Navigare',
+    'Nawigować',
+    'Navegar',
+    'Навігація'
+  ],
+  routingHint: [
+    'Select arrival airport on map',
+    'Wähle einen Ankunftsflugplatz auf der Karte',
+    "Sélectionnez l'aéroport d'arrivée sur la carte",
+    'Selecteer aankomstluchthaven op kaart',
+    'Vyberte příletové letiště na mapě',
+    "Seleziona l'aeroporto di arrivo sulla mappa",
+    'Wybierz lotnisko przylotu na mapie',
+    'Seleccione el aeropuerto de llegada en el mapa',
+    'Виберіть аеропорт прибуття на карті'
+  ],
 
   // Profile statistics
   joined: [
