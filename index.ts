@@ -5272,6 +5272,72 @@ export const translations: Translations = {
     '',
     '',
     ''
+  ],
+  segments: [
+    'Segments',
+    'Segmente',
+    'Segments',
+    'Segmenten',
+    'Segmenty',
+    'Segmenti',
+    'Segmenty',
+    'Segmentos',
+    'Сегменти'
+  ],
+  attempts: [
+    'Attempts',
+    'Versuche',
+    'Tentatives',
+    'Pogingen',
+    'Pokusy',
+    'Tentative',
+    'Próbowanie',
+    'Intentos',
+    'Спроби'
+  ],
+  noSegments: [
+    'No segments in this area',
+    'Keine Segmente in diesem Kartenausschnitt',
+    'Aucun segment dans cette zone',
+    'Geen segmenten in dit gebied',
+    'V této oblasti nejsou žádné segmenty',
+    "Nessun segmento in quest'area",
+    'Brak segmentów w tym obszarze',
+    'No hay segmentos en esta área ',
+    'У цій області немає сегментів'
+  ],
+  prize: [
+    'Prize',
+    'Preis',
+    'Prix',
+    'Prijs',
+    'Cena',
+    'Premio',
+    'Nagroda',
+    'Premio',
+    'премія'
+  ],
+  segmentRanking: [
+    'Segment Ranking',
+    'Segment Rangliste',
+    'Classement de segment',
+    'Segmentrangschikking',
+    'Hodnocení segmentů',
+    'Classifica del segmento',
+    'Ranking segmentów',
+    'Ranking de segmento',
+    'Рейтинг сегментів'
+  ],
+  bothDirections: [
+    'Both directions',
+    'Beide Richtungen',
+    'Deux directions',
+    'Beide richtingen',
+    'Oba směry',
+    'Entrambe le direzioni',
+    'Oba kierunki',
+    'Ambas direcciones',
+    'Обидва напрямки'
   ]
 }
 
