@@ -4350,6 +4350,17 @@ export const translations: Translations = {
     'Campeonatos de Sudáfrica',
     'Чемпіонат Південної Африки'
   ],
+  biDescription: [
+    'Polish Championships',
+    'Polnische Meisterschaften',
+    "Championnats d'Pologne",
+    'Poolse Kampioenschappen',
+    'Polska mistrovství',
+    'Campionati polacchi',
+    'Mistrzostwa Polski',
+    'Campeonatos polacos',
+    'Чемпіонат Польщі'
+  ],
   leagueDescription: [
     'Round based national contests',
     'Rundenbasierte nationale Wettbewerbe',

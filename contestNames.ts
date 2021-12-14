@@ -11,13 +11,14 @@ const translations = {
   dmst: 'DMSt',
   nsfw: 'NSFW',
   au: 'IRC',
-  za: 'BC'
+  za: 'BC',
+  bi: 'Bitner'
 }
 
-export function i18nContestNames (key: keyof typeof translations | typeof bitnerContestName[number]): string {
-  if (bitnerContestName.includes(key as any)) return 'Bitner'
 
-  if (!translations[key as keyof typeof translations]) {
+export function i18nContestNames(key: keyof typeof translations): string {
+  if (key.startsWith('bi')) { key = 'bi' }
+  if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''
   } else {
