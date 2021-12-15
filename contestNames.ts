@@ -16,7 +16,9 @@ const translations = {
 }
 
 export function i18nContestNames (key: keyof typeof translations): string {
-  if (key.startsWith('bi')) { key = 'bi' }
+  // normalize different bitner contest names to "bi"
+  if (bitnerContestName.includes(key)) key = 'bi'
+
   if (!translations[key]) {
     console.error('Translation not found for', key)
     return ''
