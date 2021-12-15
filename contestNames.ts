@@ -15,8 +15,7 @@ const translations = {
   bi: 'Bitner'
 }
 
-
-export function i18nContestNames(key: keyof typeof translations): string {
+export function i18nContestNames (key: keyof typeof translations): string {
   if (key.startsWith('bi')) { key = 'bi' }
   if (!translations[key]) {
     console.error('Translation not found for', key)
