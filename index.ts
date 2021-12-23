@@ -1642,6 +1642,39 @@ export const translations: Translations = {
     'también comentó sobre el vuelo de',
     'також прокоментував політ від'
   ],
+  segmentAchievement1: [
+    'achieved a trophy by scoring',
+    'hat mit',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring',
+    'achieved a trophy by scoring'
+  ],
+  segmentAchievement2: [
+    'points on segment',
+    'Punkten einen Pokal auf dem Segment',
+    'points on segment',
+    'points on segment',
+    'points on segment',
+    'points on segment',
+    'points on segment',
+    'points on segment',
+    'points on segment'
+  ],
+  segmentAchievement3: [
+    '',
+    ' erflogen',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    ''
+  ],
   flightsOfMyFriends: [
     'Flights of my friends',
     'Flüge meiner Freunde',
