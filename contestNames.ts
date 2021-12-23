@@ -1,4 +1,3 @@
-import { bitnerContestName } from '@/flightdetail/types/flightDetail.types'
 
 // Contest name translation
 const translations = {
@@ -15,10 +14,7 @@ const translations = {
   bi: 'Bitner'
 }
 
-export function i18nContestNames (key: keyof typeof translations | typeof bitnerContestName[number]): string {
-  // normalize different bitner contest names to "bi"
-  if (bitnerContestName.includes(key)) key = 'bi'
-
+export function i18nContestNames (key: keyof typeof translations): string {
   if (!translations[key as keyof typeof translations]) {
     console.error('Translation not found for', key)
     return ''
