@@ -4372,6 +4372,17 @@ export const translations: Translations = {
     'Campeonatos australianos',
     'Чемпіонат Австралії'
   ],
+  frDescription: [
+    'French Championships',
+    'Französische Meisterschaften',
+    'Championnats de France',
+    'Franse Kampioenschappen',
+    'Francouzské mistrovství',
+    'Campionati francesi',
+    'Mistrzostwa Francji',
+    'Campeonatos de francia',
+    'Чемпіонати Франції'
+  ],
   zaDescription: [
     'South African Championships',
     'Südafrikanische Meisterschaften',
