@@ -3358,7 +3358,7 @@ export const translations: Translations = {
   magazine: [
     'Magazine',
     'Magazin',
-    'Magasine',
+    'Magazine',
     'Artikelen',
     'Časopis',
     'Notizie',
