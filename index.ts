@@ -172,6 +172,17 @@ export const translations: Translations = {
     'Restablecimiento de contraseña completo, inicie sesión.',
     'Скидання пароля завершено, будь ласка виконайте вхід.'
   ],
+  help: [
+    'Help',
+    'Hilfe',
+    'Aider',
+    'Helpen',
+    'Pomoc',
+    'Aiuto',
+    'Pomoc',
+    'Ayudar',
+    'Допоможіть'
+  ],
   info: [
     'Information',
     'Information',
