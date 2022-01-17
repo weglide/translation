@@ -3002,6 +3002,17 @@ export const translations: Translations = {
     'Acepta los términos.',
     'Будь ласка, прийміть правила.'
   ],
+  storyMovedNotice: [
+    'Please upload your story after saving on the flight detail page.',
+    'Bitte füge deine Geschichte nach dem Speichern auf der Flugansicht hinzu.',
+    "Veuillez télécharger votre histoire après l'avoir enregistrée sur la page des détails du vol.",
+    'Upload uw verhaal na het opslaan op de vluchtdetailpagina.',
+    'Po uložení na stránce s podrobnostmi o letu nahrajte svůj příběh.',
+    'Carica la tua storia dopo averla salvata nella pagina dei dettagli del volo.',
+    'Prześlij swoją historię po zapisaniu na stronie szczegółów lotu.',
+    'Cargue su historia después de guardarla en la página de detalles del vuelo.',
+    'Будь ласка, завантажте свою історію після збереження на сторінці інформації про рейс.'
+  ],
   textConfirmUpload: [
     'I confirm that my scoring windows are chosen according to the rules, each active airspace crossed was cleared by ATC and I have read and accepted the following documents:',
     'Ich bestätige, dass ich die Wertungsfenster nach den Regeln gewählt habe, jeder durchflogene aktive Luftraum von ATC freigegeben wurde, und ich die folgenden Dokumente gelesen habe und ihnen zustimme:',
