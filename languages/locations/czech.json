@@ -1,0 +1,269 @@
+{
+    "BE": {
+        "name": "Belgie"
+    }, 
+    "FR": {
+        "regions": {
+            "FR-CVL": "Centre-Val de Loire", 
+            "FR-ARA": "Auvergne-Rhône-Alpes", 
+            "FR-NOR": "Normandie", 
+            "FR-PDL": "Pays-de-la-Loire", 
+            "FR-IDF": "Île-de-France", 
+            "FR-20R": "Korsika", 
+            "FR-OCC": "Okcitánie", 
+            "FR-PAC": "Provence-Alpes-Côte-d’Azur", 
+            "FR-BRE": "Bretaň", 
+            "FR-GES": "Grand-Est", 
+            "FR-HDF": "Hauts-de-France", 
+            "FR-NAQ": "Nová Akvitánie", 
+            "FR-BFC": "Bourgogne-Franche-Comté"
+        }, 
+        "name": "Francie"
+    }, 
+    "BG": {
+        "name": "Bulharsko"
+    }, 
+    "DK": {
+        "name": "Dánsko"
+    }, 
+    "HR": {
+        "name": "Chorvatsko"
+    }, 
+    "DE": {
+        "regions": {
+            "DE-BE": "Berlín", 
+            "DE-ST": "Sasko-Anhaltsko", 
+            "DE-RP": "Porýní-Falc", 
+            "DE-BB": "Brandenburg", 
+            "DE-NI": "Dolní Sasko", 
+            "DE-HE": "Hesse", 
+            "DE-TH": "Durynsko", 
+            "DE-BW": "Bádensko-Württembersko", 
+            "DE-HH": "Hamburg", 
+            "DE-MV": "Meklenbursko-Přední Pomořansko", 
+            "DE-NW": "Severní Porýní-Vestfálsko", 
+            "DE-SN": "Sasko", 
+            "DE-HB": "Brémy", 
+            "DE-SL": "Sársko", 
+            "DE-BY": "Bavorsko", 
+            "DE-SH": "Schleswig-Holstein"
+        }, 
+        "name": "Německo"
+    }, 
+    "JP": {
+        "name": "Japonsko"
+    }, 
+    "HU": {
+        "name": "Maďarsko"
+    }, 
+    "MK": {
+        "name": "Severní Makedonie"
+    }, 
+    "BR": {
+        "name": "Brazílie"
+    }, 
+    "FI": {
+        "name": "Finsko"
+    }, 
+    "CN": {
+        "name": "Čína"
+    }, 
+    "RU": {
+        "name": "Rusko"
+    }, 
+    "NL": {
+        "name": "Holandsko"
+    }, 
+    "PT": {
+        "name": "Portugalsko"
+    }, 
+    "NO": {
+        "name": "Norsko"
+    }, 
+    "NA": {
+        "name": "Namibie"
+    }, 
+    "TR": {
+        "name": "Turecko"
+    }, 
+    "NZ": {
+        "regions": {
+            "NZ-S": "Jižní ostrov", 
+            "NZ-N": "Severní ostrov"
+        }, 
+        "name": "Nový Zéland"
+    }, 
+    "LT": {
+        "name": "Litva"
+    }, 
+    "LU": {
+        "name": "Lucembursko"
+    }, 
+    "RO": {
+        "name": "Rumunsko"
+    }, 
+    "IS": {
+        "name": "Island"
+    }, 
+    "PL": {
+        "name": "Polsko"
+    }, 
+    "CH": {
+        "name": "Švýcarsko"
+    }, 
+    "CO": {
+        "name": "Kolumbie"
+    }, 
+    "GR": {
+        "name": "Řecko"
+    }, 
+    "CL": {
+        "name": "Chile"
+    }, 
+    "CA": {
+        "regions": {
+            "CA-BC": "Britská Kolumbie", 
+            "CA-SK": "Saskatchewan", 
+            "CA-QC": "Québec", 
+            "CA-MB": "Manitoba", 
+            "CA-ON": "Ontario", 
+            "CA-AB": "Alberta"
+        }, 
+        "name": "Kanada"
+    }, 
+    "ZA": {
+        "name": "Jižní Afrika"
+    }, 
+    "EC": {
+        "name": "Ekvádor"
+    }, 
+    "IT": {
+        "name": "Itálie"
+    }, 
+    "CZ": {
+        "name": "Česká republika"
+    }, 
+    "AR": {
+        "name": "Argentina"
+    }, 
+    "AU": {
+        "regions": {
+            "AU-QLD": "Queensland", 
+            "AU-TAS": "Tasmánie", 
+            "AU-VIC": "Victoria", 
+            "AU-NT": "Severní území", 
+            "AU-WA": "západní Austrálie", 
+            "AU-SA": "jižní Austrálie", 
+            "AU-NSW": "Nový Jížní Wales"
+        }, 
+        "name": "Austrálie"
+    }, 
+    "AT": {
+        "regions": {
+            "AT-8": "Vorarlberg", 
+            "AT-9": "Vídeň", 
+            "AT-4": "Horní Rakousko", 
+            "AT-5": "Salzburg", 
+            "AT-6": "Štýrsko", 
+            "AT-7": "Tyrolsko", 
+            "AT-1": "Burgenland", 
+            "AT-2": "Korutany", 
+            "AT-3": "Dolní Rakousko"
+        }, 
+        "name": "Rakousko"
+    }, 
+    "BA": {
+        "name": "Bosna a Hercegovina"
+    }, 
+    "IE": {
+        "name": "Irsko"
+    }, 
+    "ES": {
+        "name": "Španělsko"
+    }, 
+    "ME": {
+        "name": "Černá Hora"
+    }, 
+    "MA": {
+        "name": "Maroko"
+    }, 
+    "IL": {
+        "name": "Izrael"
+    }, 
+    "RS": {
+        "name": "Srbsko"
+    }, 
+    "US": {
+        "regions": {
+            "US-NY": "New York", 
+            "US-PA": "Pensylvánie", 
+            "US-TN": "Tennessee", 
+            "US-ID": "Idaho", 
+            "US-NV": "Nevada", 
+            "US-NJ": "New Jersey", 
+            "US-NH": "New Hampshire", 
+            "US-VA": "Virginie", 
+            "US-HI": "Havaj", 
+            "US-VT": "Vermont", 
+            "US-NM": "Nové Mexiko", 
+            "US-NC": "Severní Karolina", 
+            "US-ND": "Severní Dakota", 
+            "US-NE": "Nebraska", 
+            "US-LA": "Louisiana", 
+            "US-SD": "Jižní Dakota", 
+            "US-DE": "Delaware", 
+            "US-FL": "Florida", 
+            "US-CT": "Connecticut", 
+            "US-WA": "Washington", 
+            "US-KS": "Kansas", 
+            "US-WI": "Wisconsin", 
+            "US-OR": "Oregon", 
+            "US-KY": "Kentucky", 
+            "US-CO": "Colorado", 
+            "US-OH": "Ohio", 
+            "US-IA": "Iowo", 
+            "US-WV": "západní Virginie", 
+            "US-WY": "Wyoming", 
+            "US-UT": "Utah", 
+            "US-IN": "Indiana", 
+            "US-IL": "Illinois", 
+            "US-AK": "Aljaška", 
+            "US-TX": "Texas", 
+            "US-ME": "Maine", 
+            "US-MD": "Maryland", 
+            "US-MA": "Massachusetts", 
+            "US-AL": "Alabama", 
+            "US-MO": "Missouri", 
+            "US-MN": "Minnesota", 
+            "US-CA": "Kalifornie", 
+            "US-OK": "Oklahoma", 
+            "US-MI": "Michigan", 
+            "US-GA": "Gruzie", 
+            "US-AZ": "Arizona", 
+            "US-MT": "Montana", 
+            "US-MS": "Mississippi", 
+            "US-SC": "Jižní Karolína", 
+            "US-RI": "Rhode Island", 
+            "US-AR": "Arkansas"
+        }, 
+        "name": "Spojené státy"
+    }, 
+    "SK": {
+        "name": "Slovensko"
+    }, 
+    "SI": {
+        "name": "Slovinsko"
+    }, 
+    "UA": {
+        "name": "Ukrajina"
+    }, 
+    "MX": {
+        "name": "Mexiko"
+    }, 
+    "SE": {
+        "name": "Švédsko"
+    }, 
+    "GB": {
+        "name": "Spojené království"
+    }
+}

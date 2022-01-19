@@ -1,0 +1,269 @@
+{
+    "BE": {
+        "name": "Belgique"
+    }, 
+    "FR": {
+        "regions": {
+            "FR-CVL": "Centre-Val de Loire", 
+            "FR-ARA": "Auvergne-Rhône-Alpes", 
+            "FR-NOR": "Normandie", 
+            "FR-PDL": "Pays-de-la-Loire", 
+            "FR-IDF": "Île-de-France", 
+            "FR-20R": "Corse", 
+            "FR-OCC": "Occitanie", 
+            "FR-PAC": "Provence-Alpes-Côte-d’Azur", 
+            "FR-BRE": "Bretagne", 
+            "FR-GES": "Grand-Est", 
+            "FR-HDF": "Hauts-de-France", 
+            "FR-NAQ": "Nouvelle-Aquitaine", 
+            "FR-BFC": "Bourgogne-Franche-Comté"
+        }, 
+        "name": "France"
+    }, 
+    "BG": {
+        "name": "Bulgarie"
+    }, 
+    "DK": {
+        "name": "Danemark"
+    }, 
+    "HR": {
+        "name": "Croatie"
+    }, 
+    "DE": {
+        "regions": {
+            "DE-BE": "Berlin", 
+            "DE-ST": "Saxe-Anhalt", 
+            "DE-RP": "Rhénanie-Palatinat", 
+            "DE-BB": "Brandebourg", 
+            "DE-NI": "Basse-Saxe", 
+            "DE-HE": "Hesse", 
+            "DE-TH": "Thuringe", 
+            "DE-BW": "Bade-Wurtemberg", 
+            "DE-HH": "Hambourg", 
+            "DE-MV": "Mecklembourg Poméranie occidentale", 
+            "DE-NW": "Rhénanie du Nord-Westphalie", 
+            "DE-SN": "Saxe", 
+            "DE-HB": "Brême", 
+            "DE-SL": "Sarre", 
+            "DE-BY": "Bavière", 
+            "DE-SH": "Schleswig-Holstein"
+        }, 
+        "name": "Allemagne"
+    }, 
+    "JP": {
+        "name": "Japon"
+    }, 
+    "HU": {
+        "name": "Hongrie"
+    }, 
+    "MK": {
+        "name": "Macédoine du Nord"
+    }, 
+    "BR": {
+        "name": "Brésil"
+    }, 
+    "FI": {
+        "name": "Finlande"
+    }, 
+    "CN": {
+        "name": "Chine"
+    }, 
+    "RU": {
+        "name": "Russie"
+    }, 
+    "NL": {
+        "name": "Pays-Bas"
+    }, 
+    "PT": {
+        "name": "le Portugal"
+    }, 
+    "NO": {
+        "name": "Norvège"
+    }, 
+    "NA": {
+        "name": "Namibie"
+    }, 
+    "TR": {
+        "name": "Turquie"
+    }, 
+    "NZ": {
+        "regions": {
+            "NZ-S": "île du sud", 
+            "NZ-N": "île du Nord"
+        }, 
+        "name": "Nouvelle-Zélande"
+    }, 
+    "LT": {
+        "name": "Lituanie"
+    }, 
+    "LU": {
+        "name": "Luxembourg"
+    }, 
+    "RO": {
+        "name": "La Roumanie"
+    }, 
+    "IS": {
+        "name": "Islande"
+    }, 
+    "PL": {
+        "name": "Pologne"
+    }, 
+    "CH": {
+        "name": "la Suisse"
+    }, 
+    "CO": {
+        "name": "Colombie"
+    }, 
+    "GR": {
+        "name": "Grèce"
+    }, 
+    "CL": {
+        "name": "Chili"
+    }, 
+    "CA": {
+        "regions": {
+            "CA-BC": "Colombie britannique", 
+            "CA-SK": "Saskatchewan", 
+            "CA-QC": "Québec", 
+            "CA-MB": "Manitoba", 
+            "CA-ON": "Ontario", 
+            "CA-AB": "Alberta"
+        }, 
+        "name": "Canada"
+    }, 
+    "ZA": {
+        "name": "Afrique du Sud"
+    }, 
+    "EC": {
+        "name": "Equateur"
+    }, 
+    "IT": {
+        "name": "Italie"
+    }, 
+    "CZ": {
+        "name": "République Tchèque"
+    }, 
+    "AR": {
+        "name": "Argentine"
+    }, 
+    "AU": {
+        "regions": {
+            "AU-QLD": "Queensland", 
+            "AU-TAS": "Tasmanie", 
+            "AU-VIC": "Victoria", 
+            "AU-NT": "Territoire du Nord", 
+            "AU-WA": "Australie occidentale", 
+            "AU-SA": "Australie du Sud", 
+            "AU-NSW": "Nouvelle Galles du Sud"
+        }, 
+        "name": "Australie"
+    }, 
+    "AT": {
+        "regions": {
+            "AT-8": "Vorarlberg", 
+            "AT-9": "Vienne", 
+            "AT-4": "Haute-Autriche", 
+            "AT-5": "Salzbourg", 
+            "AT-6": "Styrie", 
+            "AT-7": "Tyrol", 
+            "AT-1": "Burgenland", 
+            "AT-2": "Carinthie", 
+            "AT-3": "Basse-Autriche"
+        }, 
+        "name": "L'Autriche"
+    }, 
+    "BA": {
+        "name": "Bosnie Herzégovine"
+    }, 
+    "IE": {
+        "name": "Irlande"
+    }, 
+    "ES": {
+        "name": "Espagne"
+    }, 
+    "ME": {
+        "name": "Monténégro"
+    }, 
+    "MA": {
+        "name": "Maroc"
+    }, 
+    "IL": {
+        "name": "Israël"
+    }, 
+    "RS": {
+        "name": "Serbie"
+    }, 
+    "US": {
+        "regions": {
+            "US-NY": "New York", 
+            "US-PA": "Pennsylvanie", 
+            "US-TN": "Tennessee", 
+            "US-ID": "Idaho", 
+            "US-NV": "Nevada", 
+            "US-NJ": "New Jersey", 
+            "US-NH": "New Hampshire", 
+            "US-VA": "Virginie", 
+            "US-HI": "Hawaii", 
+            "US-VT": "Vermont", 
+            "US-NM": "Nouveau Mexique", 
+            "US-NC": "Caroline du Nord", 
+            "US-ND": "Dakota du nord", 
+            "US-NE": "Nebraska", 
+            "US-LA": "Louisiane", 
+            "US-SD": "Dakota du Sud", 
+            "US-DE": "Delaware", 
+            "US-FL": "Floride", 
+            "US-CT": "Connecticut", 
+            "US-WA": "Washington", 
+            "US-KS": "Kansas", 
+            "US-WI": "Wisconsin", 
+            "US-OR": "Oregon", 
+            "US-KY": "Kentucky", 
+            "US-CO": "Colorado", 
+            "US-OH": "Ohio", 
+            "US-IA": "Iowa", 
+            "US-WV": "Virginie-Occidentale", 
+            "US-WY": "Wyoming", 
+            "US-UT": "Utah", 
+            "US-IN": "Indiana", 
+            "US-IL": "Illinois", 
+            "US-AK": "Alaska", 
+            "US-TX": "Texas", 
+            "US-ME": "Maine", 
+            "US-MD": "Maryland", 
+            "US-MA": "Massachusetts", 
+            "US-AL": "Alabama", 
+            "US-MO": "Missouri", 
+            "US-MN": "Minnesota", 
+            "US-CA": "Californie", 
+            "US-OK": "Oklahoma", 
+            "US-MI": "Michigan", 
+            "US-GA": "Géorgie", 
+            "US-AZ": "Arizona", 
+            "US-MT": "Montana", 
+            "US-MS": "Mississippi", 
+            "US-SC": "Caroline du Sud", 
+            "US-RI": "Rhode Island", 
+            "US-AR": "Arkansas"
+        }, 
+        "name": "États-Unis"
+    }, 
+    "SK": {
+        "name": "Slovaquie"
+    }, 
+    "SI": {
+        "name": "Slovénie"
+    }, 
+    "UA": {
+        "name": "Ukraine"
+    }, 
+    "MX": {
+        "name": "Mexique"
+    }, 
+    "SE": {
+        "name": "Suède"
+    }, 
+    "GB": {
+        "name": "Royaume-Uni"
+    }
+}

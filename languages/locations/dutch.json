@@ -1,0 +1,269 @@
+{
+    "BE": {
+        "name": "Belgie"
+    }, 
+    "FR": {
+        "regions": {
+            "FR-CVL": "Centre-Val de Loire", 
+            "FR-ARA": "Auvergne-Rhône-Alpes", 
+            "FR-NOR": "Normandië", 
+            "FR-PDL": "Pays-de-la-Loire", 
+            "FR-IDF": "Île-de-France", 
+            "FR-20R": "Corsica", 
+            "FR-OCC": "Occitanië", 
+            "FR-PAC": "Provence-Alpes-Côte-d’Azur", 
+            "FR-BRE": "Bretagne", 
+            "FR-GES": "Grand-Est", 
+            "FR-HDF": "Hauts-de-France", 
+            "FR-NAQ": "Nieuw Aquitanië", 
+            "FR-BFC": "Bourgogne-Franche-Comté"
+        }, 
+        "name": "Frankrijk"
+    }, 
+    "BG": {
+        "name": "Bulgarije "
+    }, 
+    "DK": {
+        "name": "Denemarken"
+    }, 
+    "HR": {
+        "name": "Kroatië"
+    }, 
+    "DE": {
+        "regions": {
+            "DE-BE": "Berlijn", 
+            "DE-ST": "Saksen-Anhalt", 
+            "DE-RP": "Rijnland-Palts", 
+            "DE-BB": "Brandenburg", 
+            "DE-NI": "Nedersaksen", 
+            "DE-HE": "Hessen", 
+            "DE-TH": "Thüringen", 
+            "DE-BW": "Baden-Württemberg", 
+            "DE-HH": "Hamburg", 
+            "DE-MV": "Mecklenburg Voor-Pommeren", 
+            "DE-NW": "Noordrijn-Westfalen", 
+            "DE-SN": "Saksen", 
+            "DE-HB": "Bremen", 
+            "DE-SL": "Saarland", 
+            "DE-BY": "Beieren", 
+            "DE-SH": "Sleeswijk-Holstein"
+        }, 
+        "name": "Duitsland"
+    }, 
+    "JP": {
+        "name": "Japan"
+    }, 
+    "HU": {
+        "name": "Hongarije"
+    }, 
+    "MK": {
+        "name": "Noord-Macedonië"
+    }, 
+    "BR": {
+        "name": "Brazilië"
+    }, 
+    "FI": {
+        "name": "Finland"
+    }, 
+    "CN": {
+        "name": "China"
+    }, 
+    "RU": {
+        "name": "Rusland"
+    }, 
+    "NL": {
+        "name": "Nederland"
+    }, 
+    "PT": {
+        "name": "Portugal"
+    }, 
+    "NO": {
+        "name": "Noorwegen"
+    }, 
+    "NA": {
+        "name": "Namibië"
+    }, 
+    "TR": {
+        "name": "Kalkoen"
+    }, 
+    "NZ": {
+        "regions": {
+            "NZ-S": "zuidelijk eiland", 
+            "NZ-N": "Noord eiland"
+        }, 
+        "name": "Nieuw-Zeeland"
+    }, 
+    "LT": {
+        "name": "Litouwen"
+    }, 
+    "LU": {
+        "name": "Luxemburg"
+    }, 
+    "RO": {
+        "name": "Roemenië"
+    }, 
+    "IS": {
+        "name": "IJsland"
+    }, 
+    "PL": {
+        "name": "Polen"
+    }, 
+    "CH": {
+        "name": "Zwitserland"
+    }, 
+    "CO": {
+        "name": "Colombia"
+    }, 
+    "GR": {
+        "name": "Griekenland"
+    }, 
+    "CL": {
+        "name": "Chili"
+    }, 
+    "CA": {
+        "regions": {
+            "CA-BC": "Brits Columbia", 
+            "CA-SK": "Saskatchewan", 
+            "CA-QC": "Québec", 
+            "CA-MB": "Manitoba", 
+            "CA-ON": "Ontario", 
+            "CA-AB": "Alberta"
+        }, 
+        "name": "Canada"
+    }, 
+    "ZA": {
+        "name": "Zuid-Afrika"
+    }, 
+    "EC": {
+        "name": "Ecuador"
+    }, 
+    "IT": {
+        "name": "Italië"
+    }, 
+    "CZ": {
+        "name": "Tsjechië"
+    }, 
+    "AR": {
+        "name": "Argentinië"
+    }, 
+    "AU": {
+        "regions": {
+            "AU-QLD": "Queensland", 
+            "AU-TAS": "Tasmanië", 
+            "AU-VIC": "Victoria", 
+            "AU-NT": "Noordelijk Territorium", 
+            "AU-WA": "West Australië", 
+            "AU-SA": "Zuid Australië", 
+            "AU-NSW": "Nieuw Zuid-Wales"
+        }, 
+        "name": "Australië"
+    }, 
+    "AT": {
+        "regions": {
+            "AT-8": "Vorarlberg", 
+            "AT-9": "Wenen", 
+            "AT-4": "Opper-Oostenrijk", 
+            "AT-5": "Salzburg", 
+            "AT-6": "Stiermarken", 
+            "AT-7": "Tirol", 
+            "AT-1": "Burgenland", 
+            "AT-2": "Karinthië", 
+            "AT-3": "Neder-Oostenrijk"
+        }, 
+        "name": "Oostenrijk"
+    }, 
+    "BA": {
+        "name": "Bosnië-Herzegovina"
+    }, 
+    "IE": {
+        "name": "Ierland"
+    }, 
+    "ES": {
+        "name": "Spanje"
+    }, 
+    "ME": {
+        "name": "Montenegro"
+    }, 
+    "MA": {
+        "name": "Marokko"
+    }, 
+    "IL": {
+        "name": "Israël"
+    }, 
+    "RS": {
+        "name": "Servië"
+    }, 
+    "US": {
+        "regions": {
+            "US-NY": "New York", 
+            "US-PA": "Pennsylvania", 
+            "US-TN": "Tennessee", 
+            "US-ID": "Idaho", 
+            "US-NV": "Nevada", 
+            "US-NJ": "New Jersey", 
+            "US-NH": "New Hampshire", 
+            "US-VA": "Virginia", 
+            "US-HI": "Hawaii", 
+            "US-VT": "Vermont", 
+            "US-NM": "New Mexico", 
+            "US-NC": "Noord Carolina", 
+            "US-ND": "Noord-Dakota", 
+            "US-NE": "Nebraska", 
+            "US-LA": "Louisiana", 
+            "US-SD": "zuid Dakota", 
+            "US-DE": "Delaware", 
+            "US-FL": "Florida", 
+            "US-CT": "Connecticut", 
+            "US-WA": "Washington", 
+            "US-KS": "Kansas", 
+            "US-WI": "Wisconsin", 
+            "US-OR": "Oregon", 
+            "US-KY": "Kentucky", 
+            "US-CO": "Colorado", 
+            "US-OH": "Ohio", 
+            "US-IA": "Iowa", 
+            "US-WV": "Virginia Occidentale", 
+            "US-WY": "Wyoming", 
+            "US-UT": "Utah", 
+            "US-IN": "Indiana", 
+            "US-IL": "Illinois", 
+            "US-AK": "Alaska", 
+            "US-TX": "Texas", 
+            "US-ME": "Maine", 
+            "US-MD": "Maryland", 
+            "US-MA": "Massachusetts", 
+            "US-AL": "Alabama", 
+            "US-MO": "Missouri", 
+            "US-MN": "Minnesota", 
+            "US-CA": "Californië", 
+            "US-OK": "Oklahoma", 
+            "US-MI": "Michigan", 
+            "US-GA": "Georgië", 
+            "US-AZ": "Arizona", 
+            "US-MT": "Montana", 
+            "US-MS": "Mississippi", 
+            "US-SC": "zuid Carolina", 
+            "US-RI": "Rhode Island", 
+            "US-AR": "Arkansas"
+        }, 
+        "name": "Verenigde Staten"
+    }, 
+    "SK": {
+        "name": "Slowakije"
+    }, 
+    "SI": {
+        "name": "Slovenië"
+    }, 
+    "UA": {
+        "name": "Oekraïne"
+    }, 
+    "MX": {
+        "name": "Mexico"
+    }, 
+    "SE": {
+        "name": "Zweden"
+    }, 
+    "GB": {
+        "name": "Verenigd Koningkrijk"
+    }
+}
