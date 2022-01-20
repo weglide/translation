@@ -2,25 +2,11 @@
 
 # WeGlide Translation
 
-Translation files for WeGlide are ``index.ts flightErrors.ts rankingOptions.ts taskStatusOptions.ts``.
+The ``*.json`` files include the translationa for different languages.
+``en.json`` is up to date and includes all the keys used in WeGlide.
+If a key is missing in another language, english will be used.
 
-## Schema
-
-```typescript
-key: [
-        "english",
-        "german",
-        "french",
-        "dutch",
-        "czech",
-        "italian",
-        "polish",
-        "spanish",
-        "ukrainian",
-]
-```
-
-# Contributors
+## Contributors
 
 * @Fuchur777 (Dutch)
 * @Vratislav (Czech)

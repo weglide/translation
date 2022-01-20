@@ -1,4 +1,22 @@
-import { Units } from './translation.types'
+interface Unit {
+    abbreviation: string
+    factorToMetric: number
+}
+
+interface UnitSystem {
+    climbRate: Unit
+    cruiseSpeed: Unit
+    XCSpeed: Unit
+    distance: Unit
+    altitude: Unit
+    pressure: Unit
+}
+
+export interface Units {
+    M: UnitSystem
+    U: UnitSystem
+    I: UnitSystem
+}
 
 export const units: Units = {
   // EU
