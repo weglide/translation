@@ -514,8 +514,8 @@
         "DO": "Double"
     },
     "taskStatusOptions": {
-        "planned": "Plannend",
-        "not_planned": "Not plannend",
+        "planned": "Planned",
+        "not_planned": "Not planned",
         "scoring": "Scoring active",
         "preliminary_result": "Preliminary result",
         "inofficial_result": "Inofficial result",
