@@ -291,7 +291,6 @@
     "aircraft": "Flugzeug",
     "analyzed": "Analyse",
     "league": "Liga",
-    "segmentAchievement3": " erflogen",
     "segmentAchievement2": "Punkten einen Pokal auf dem Segment",
     "segmentAchievement1": "hat mit",
     "country": "Land",
@@ -530,8 +529,8 @@
         "NO_FES_SENSOR": "Kein FES Sensor gefunden, erlaubte Sensoren sind: {0}.",
         "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hartes Zeitlimit ({0} Sekunden) zwischen GPS-Werten überschritten um {1}, Spanne ohne Aufzeichnung sind {2} Sekunden.",
         "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} Zeitintervalle zwischen Aufzeichnungen überschreiten das weiche Limit von {1} Sekunden, erlaubt sind {2} Intervalle.",
-        "MAX_GROUND_SPEED_WARNING": "Bodengeschwindigkeit von {0} km/h bei {1} überschreitet das Maximum von {2} km/h, betreffende GPS-Fixe werden herausgefiltert.",
-        "HIGH_CHANGE_GNSS_ALT": "{0} hohe Wechsel der GNSS-Höhe (mehr als {1} m/s).",
+        "MAX_GROUND_SPEED_WARNING": "Bodengeschwindigkeit von {0} km\/h bei {1} überschreitet das Maximum von {2} km\/h, betreffende GPS-Fixe werden herausgefiltert.",
+        "HIGH_CHANGE_GNSS_ALT": "{0} hohe Wechsel der GNSS-Höhe (mehr als {1} m\/s).",
         "NON_VALID_FIXES": "Die Datei enthält {0} ungültige Aufzeichnungen.",
         "PRESS_ALT_VIOLATIONS": "Gültiger Höhenbereich von {0} bis {1} wird in {2} Aufzeichnungen überschritten.",
         "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hartes Zeitlimit ({0} Sekunden) zwischen GPS-Werten außerhalb der Wertungsfenster überschritten um {1}, Spanne ohne Aufzeichnung sind {2} Sekunden.",
@@ -547,7 +546,7 @@
         "NO_H_RECORD": "Kein H Record vorhanden.",
         "C_RECORD_TOO_LONG": "C Records enthält mehr als 20 Zeilen, Aufgabe kann nicht ausgelesen werden.",
         "NON_INCREASING_TIMES": "Zeitsprung rückwärts von {0} nach {1}.",
-        "HIGH_CHANGE_PRESS_ALT": "{0} hohe Wechsel der Druck-Höhe (mehr als {1} m/s).",
+        "HIGH_CHANGE_PRESS_ALT": "{0} hohe Wechsel der Druck-Höhe (mehr als {1} m\/s).",
         "MAX_PRESS_ALT_REACHED": "Maximale Druck-Sensorhöhe des Loggers sind {0} Meter, du hast {1} Meter erreicht.",
         "NO_TAKEOFF": "Start nicht erkannt.",
         "FIXES_BEFORE_TAKEOFF": "{0} Aufzeichnungen vor dem Start gefunden, nötig sind {1}.",
@@ -682,7 +681,7 @@
         },
         "CA": {
             "regions": {
-                "CA-BC": "British Colombia",
+                "CA-BC": "Britisch-Kolumbien",
                 "CA-SK": "Saskatchewan",
                 "CA-QC": "Québec",
                 "CA-MB": "Manitoba",
@@ -812,7 +811,7 @@
             "name": "Slowakei"
         },
         "SI": {
-            "name": "Slovenien"
+            "name": "Slowenien"
         },
         "UA": {
             "name": "Ukraine"

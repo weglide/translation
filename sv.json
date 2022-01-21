@@ -1,0 +1,47 @@
+{
+    "locations": {
+        "US": {
+            "regions": {
+                "US-CT": "Connecticut",
+                "US-WA": "Washington",
+                "US-KS": "Kansas",
+                "US-WI": "Wisconsin",
+                "US-OR": "Oregon",
+                "US-KY": "Kentucky",
+                "US-CO": "Colorado",
+                "US-OH": "Ohio",
+                "US-ME": "Maine",
+                "US-MD": "Maryland",
+                "US-MA": "Massachusetts",
+                "US-AL": "Alabama",
+                "US-MO": "Missouri",
+                "US-MN": "Minnesota",
+                "US-CA": "Kalifornien",
+                "US-OK": "Oklahoma",
+                "US-MS": "Mississippi",
+                "US-SC": "South Carolina",
+                "US-RI": "Rhode Island",
+                "US-AR": "Arkansas"
+            },
+            "name": "Förenta staterna"
+        },
+        "SK": {
+            "name": "Slovakien"
+        },
+        "SI": {
+            "name": "Slovenien"
+        },
+        "UA": {
+            "name": "Ukraina"
+        },
+        "MX": {
+            "name": "Mexiko"
+        },
+        "SE": {
+            "name": "Sverige"
+        },
+        "GB": {
+            "name": "Storbritannien"
+        }
+    }
+}

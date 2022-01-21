@@ -1,0 +1,47 @@
+{
+    "locations": {
+        "US": {
+            "regions": {
+                "US-CT": "Konektikutas",
+                "US-WA": "Vašingtonas",
+                "US-KS": "Kanzasas",
+                "US-WI": "Viskonsinas",
+                "US-OR": "Oregonas",
+                "US-KY": "Kentukis",
+                "US-CO": "Koloradas",
+                "US-OH": "Ohajas",
+                "US-ME": "Meinas",
+                "US-MD": "Merilendas",
+                "US-MA": "Masačusetsas",
+                "US-AL": "Alabama",
+                "US-MO": "Misūris",
+                "US-MN": "Minesota",
+                "US-CA": "Kalifornija",
+                "US-OK": "Oklahoma",
+                "US-MS": "Misisipė",
+                "US-SC": "Pietų Karolina",
+                "US-RI": "Rodo sala",
+                "US-AR": "Arkanzasas"
+            },
+            "name": "Jungtinės Valstijos"
+        },
+        "SK": {
+            "name": "Slovakija"
+        },
+        "SI": {
+            "name": "Slovėnija"
+        },
+        "UA": {
+            "name": "Ukraina"
+        },
+        "MX": {
+            "name": "Meksika"
+        },
+        "SE": {
+            "name": "Švedija"
+        },
+        "GB": {
+            "name": "Jungtinė Karalystė"
+        }
+    }
+}
