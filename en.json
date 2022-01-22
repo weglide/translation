@@ -159,6 +159,7 @@
   "flight": "Flight",
   "flightDeleted": "Flight deleted",
   "flightDetail": "Flight detail",
+  "flightEditLocked": "Edit period of scoring relevant entries already over.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Average GNSS altitude change between fixes in your file is {0}, Minimum is {1}.",
     "AVG_PRESS_ALT_CHANGE": "Average pressure altitude change between fixes in your file is {0}, Minimum is {1}.",
@@ -692,6 +693,7 @@
   "save": "Save",
   "scoreClubClass": "Score flight in club class",
   "scoreProcessing": "Scoring in process",
+  "scoreSecondClub": "Score this flight for {club}",
   "scoringAdd": "Add scoring window",
   "scoringEnd": "Scoring end",
   "scoringEngineNotice": "Airplane with engine selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",

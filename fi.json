@@ -159,6 +159,7 @@
   "flight": "Lento",
   "flightDeleted": "Lento poistettu",
   "flightDetail": "Lennon yksityiskohta",
+  "flightEditLocked": "Muokkaa asiaankuuluvien merkintöjen pisteytysjaksoa.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Keskimääräinen GNSS-korkeuden muutos tiedostosi korjausten välillä on {0} , minimi on {1} .",
     "AVG_PRESS_ALT_CHANGE": "Keskimääräinen painekorkeuden muutos tiedostosi korjausten välillä on {0} , minimi on {1} .",
@@ -692,6 +693,7 @@
   "save": "Tallentaa",
   "scoreClubClass": "Pistolento seuraluokassa",
   "scoreProcessing": "Pisteytys käynnissä",
+  "scoreSecondClub": "Tee tämä lento joukkueelle {club}",
   "scoringAdd": "Lisää pisteytysikkuna",
   "scoringEnd": "Pisteily loppu",
   "scoringEngineNotice": "Lentokone, jossa moottori on valittu. Varmista, että aikajaksot moottorin ollessa käynnissä (keltainen) jätetään huomioimatta.",

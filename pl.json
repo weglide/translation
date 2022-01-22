@@ -159,6 +159,7 @@
   "flight": "Lot",
   "flightDeleted": "Lot usunięty",
   "flightDetail": "Szczegóły lotu",
+  "flightEditLocked": "Okres edycji punktowanych wpisów już za nami.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Średnia zmiana wysokości GNSS pomiędzy pomiarami w Twoim pliku wynosi: {0}, Minimum to: {1}.",
     "AVG_PRESS_ALT_CHANGE": "Średnia zmiana wysokości ciśnieniowej pomiędzy pomiarami w Twoim pliku wynosi: {0}, Minimum to: {1}.",
@@ -692,6 +693,7 @@
   "save": "Zapisz",
   "scoreClubClass": "Doceń lot w klasie klubowej",
   "scoreProcessing": "Trwają obliczenia",
+  "scoreSecondClub": "Zdobądź ten lot dla {club}",
   "scoringAdd": "Dodaj ocenę",
   "scoringEnd": "Zakończ ocenę",
   "scoringEngineNotice": "Wybrany samolot z napędem. Proszę upewnić się, że okresy kiedy silnik jest włączony (żółte) są wykluczone z oceny.",

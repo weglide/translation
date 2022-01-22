@@ -159,6 +159,7 @@
   "flight": "Voo",
   "flightDeleted": "Voo excluído",
   "flightDetail": "Detalhe do voo",
+  "flightEditLocked": "Período de edição das entradas relevantes para a pontuação já terminado.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "A mudança média de altitude GNSS entre as correções em seu arquivo é {0} , o mínimo é {1} .",
     "AVG_PRESS_ALT_CHANGE": "A mudança média de altitude de pressão entre as correções em seu arquivo é {0} , o mínimo é {1} .",
@@ -692,6 +693,7 @@
   "save": "Salve ",
   "scoreClubClass": "Pontuação de voo na classe club",
   "scoreProcessing": "Pontuação em processo",
+  "scoreSecondClub": "Pontue este voo para {club}",
   "scoringAdd": "Adicionar janela de pontuação",
   "scoringEnd": "Fim de pontuação",
   "scoringEngineNotice": "Avião com motor selecionado. Certifique-se de que os intervalos de tempo com o motor em funcionamento (amarelo) sejam excluídos da pontuação.",

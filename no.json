@@ -159,6 +159,7 @@
   "flight": "Flygning",
   "flightDeleted": "Flyet er slettet",
   "flightDetail": "Flydetaljer",
+  "flightEditLocked": "Rediger perioden for å score relevante oppføringer allerede over.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Gjennomsnittlig GNSS høydeendring mellom rettelser i filen din er {0} , minimum er {1} .",
     "AVG_PRESS_ALT_CHANGE": "Gjennomsnittlig trykkhøydeendring mellom rettelser i filen din er {0} , minimum er {1} .",
@@ -692,6 +693,7 @@
   "save": "Lagre",
   "scoreClubClass": "Scoreflyging i klubbklassen",
   "scoreProcessing": "Scoring i prosess",
+  "scoreSecondClub": "Poeng denne flyvningen for {club}",
   "scoringAdd": "Legg til scoringsvindu",
   "scoringEnd": "Scoring slutt",
   "scoringEngineNotice": "Fly med valgt motor. Sørg for at tidsspenn med motor i gang (gul) er utelukket fra scoring.",

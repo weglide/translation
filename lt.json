@@ -159,6 +159,7 @@
   "flight": "Skrydis",
   "flightDeleted": "Skrydis ištrintas",
   "flightDetail": "Skrydžio detalė",
+  "flightEditLocked": "Redaguokite atitinkamų įrašų vertinimo laikotarpį.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Vidutinis GNSS aukščio pokytis tarp pataisymų jūsų faile yra {0} , minimalus yra {1} .",
     "AVG_PRESS_ALT_CHANGE": "Vidutinis slėgio aukščio pokytis tarp pataisymų jūsų faile yra {0} , minimalus yra {1} .",
@@ -692,6 +693,7 @@
   "save": "Sutaupyti",
   "scoreClubClass": "Taškinis skrydis klubinėje klasėje",
   "scoreProcessing": "Balų skaičiavimas vyksta",
+  "scoreSecondClub": "Įvertinkite šį skrydį {club}",
   "scoringAdd": "Pridėti taškų skaičiavimo langą",
   "scoringEnd": "Taškų pabaiga",
   "scoringEngineNotice": "Lėktuvas su pasirinktu varikliu. Įsitikinkite, kad laiko intervalai, kai variklis veikia (geltona spalva), neįtraukiami į balus.",

@@ -159,6 +159,7 @@
   "flight": "フライト",
   "flightDeleted": "フライトが削除されました",
   "flightDetail": "フライトの詳細",
+  "flightEditLocked": "すでに終わった関連エントリのスコアリング期間を編集します。",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "ファイル内の修正間の平均GNSS高度変化は{0} 、最小値は{1}です。",
     "AVG_PRESS_ALT_CHANGE": "ファイル内の修正間の平均気圧高度変化は{0} 、最小値は{1}です。",
@@ -690,6 +691,7 @@
   "save": "保存する",
   "scoreClubClass": "クラブクラスでのスコアフライト",
   "scoreProcessing": "採点中",
+  "scoreSecondClub": "{club}このフライトを獲得する",
   "scoringAdd": "スコアリングウィンドウを追加",
   "scoringEnd": "スコアリング終了",
   "scoringEngineNotice": "エンジンが選択された飛行機。エンジンが稼働している期間（黄色）がスコアリングから除外されていることを確認してください。",

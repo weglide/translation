@@ -159,6 +159,7 @@
   "flight": "Flug",
   "flightDeleted": "Flug gelöscht",
   "flightDetail": "Flugdetails",
+  "flightEditLocked": "Bearbeitungszeitraum für wertungsrelevante Einträge bereits vorbei.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Durchschnittliche Differenz zwischen GNSS-Höhenwerten ist {0}, Minimum sind {1} Meter.",
     "AVG_PRESS_ALT_CHANGE": "Durchschnittliche Differenz zwischen Druck-Höhenwerten ist {0}, Minimum sind {1} Meter.",
@@ -692,6 +693,7 @@
   "save": "Speichern",
   "scoreClubClass": "Werte den Flug in der Clubklasse",
   "scoreProcessing": "Punkte werden berechnet,",
+  "scoreSecondClub": "Werte diesen Flug für den {club}",
   "scoringAdd": "Neues Wertungsfenster",
   "scoringEnd": "Wertungsende",
   "scoringEngineNotice": "Flugzeug mit Motor ausgewählt. Bitte prüfe, dass die Wertungsfenster keinen Motorlauf (gelb) beinhalten.",
