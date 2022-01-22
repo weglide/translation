@@ -159,7 +159,7 @@
   "flight": "Voo",
   "flightDeleted": "Voo excluído",
   "flightDetail": "Detalhe do voo",
-  "flightEditLocked": "Período de edição das entradas relevantes para a pontuação já terminado.",
+  "flightEditLockedNotice": "Período de edição das entradas relevantes para a pontuação já terminado.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "A mudança média de altitude GNSS entre as correções em seu arquivo é {0} , o mínimo é {1} .",
     "AVG_PRESS_ALT_CHANGE": "A mudança média de altitude de pressão entre as correções em seu arquivo é {0} , o mínimo é {1} .",

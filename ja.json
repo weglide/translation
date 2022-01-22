@@ -159,7 +159,7 @@
   "flight": "フライト",
   "flightDeleted": "フライトが削除されました",
   "flightDetail": "フライトの詳細",
-  "flightEditLocked": "すでに終わった関連エントリのスコアリング期間を編集します。",
+  "flightEditLockedNotice": "すでに終わった関連エントリのスコアリング期間を編集します。",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "ファイル内の修正間の平均GNSS高度変化は{0} 、最小値は{1}です。",
     "AVG_PRESS_ALT_CHANGE": "ファイル内の修正間の平均気圧高度変化は{0} 、最小値は{1}です。",

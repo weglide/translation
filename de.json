@@ -159,7 +159,7 @@
   "flight": "Flug",
   "flightDeleted": "Flug gelöscht",
   "flightDetail": "Flugdetails",
-  "flightEditLocked": "Bearbeitungszeitraum für wertungsrelevante Einträge bereits vorbei.",
+  "flightEditLockedNotice": "Bearbeitungszeitraum für wertungsrelevante Einträge bereits vorbei.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Durchschnittliche Differenz zwischen GNSS-Höhenwerten ist {0}, Minimum sind {1} Meter.",
     "AVG_PRESS_ALT_CHANGE": "Durchschnittliche Differenz zwischen Druck-Höhenwerten ist {0}, Minimum sind {1} Meter.",
@@ -734,7 +734,7 @@
   "status": "Status",
   "stories": "Geschichten",
   "story": "Geschichte",
-  "storyMovedNotice": "Der Geschichten-Bearbeitung wurde auf die Flugseite verschoben.",
+  "storyMovedNotice": "Die Story-Bearbeitung wurde auf die Flugseite verschoben.",
   "strength": "Stärke",
   "subscribeForFee": "Kostenpflichtig abonnieren",
   "subscribeNewsletter": "Abonniere den monatlichen Newsletter",

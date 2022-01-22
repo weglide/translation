@@ -159,7 +159,7 @@
   "flight": "Vol",
   "flightDeleted": "Vol supprimé",
   "flightDetail": "Détails du vol",
-  "flightEditLocked": "La période d'édition des entrées pertinentes est déjà terminée.",
+  "flightEditLockedNotice": "La période d'édition des entrées pertinentes est déjà terminée.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "La différence moyenne entre les données d'altitude GNSS est {0}, le minimum est de {1} mètres.",
     "AVG_PRESS_ALT_CHANGE": "La différence moyenne entre les données d'altitude barométrique est {0}, le minimum est de {1} mètres.",

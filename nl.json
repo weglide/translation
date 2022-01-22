@@ -159,7 +159,7 @@
   "flight": "Vlucht",
   "flightDeleted": "Vlucht verwijderd",
   "flightDetail": "Vluchtdetails",
-  "flightEditLocked": "Bewerkingstermijn voor het scoren van relevante inzendingen is al voorbij.",
+  "flightEditLockedNotice": "Bewerkingstermijn voor het scoren van relevante inzendingen is al voorbij.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "De gemiddelde verandering van de GNSS-hoogte fixes in je bestand is {0}, minimum is {1}.",
     "AVG_PRESS_ALT_CHANGE": "De gemiddelde verandering van de drukhoogte tussen fixes in je bestand is {0}, minimum is {1}.",

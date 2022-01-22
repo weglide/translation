@@ -159,7 +159,7 @@
   "flight": "Vuelo",
   "flightDeleted": "Vuelo eliminado",
   "flightDetail": "Detalles del vuelo",
-  "flightEditLocked": "El periodo de edición de las entradas relevantes ya ha terminado.",
+  "flightEditLockedNotice": "El periodo de edición de las entradas relevantes ya ha terminado.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "El cambio de altitud promedio de GNSS entre posiciones en su archivo es {0} , el mínimo es {1} .",
     "AVG_PRESS_ALT_CHANGE": "El cambio de altitud de presión promedio entre arreglos en su archivo es {0} , el mínimo es {1} .",

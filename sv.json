@@ -159,7 +159,7 @@
   "flight": "Flyg",
   "flightDeleted": "Flyget raderat",
   "flightDetail": "Flygdetalj",
-  "flightEditLocked": "Redigera perioden för poängsättning av relevanta poster redan över.",
+  "flightEditLockedNotice": "Redigera perioden för poängsättning av relevanta poster redan över.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Genomsnittlig GNSS-höjdförändring mellan korrigeringar i din fil är {0} , minsta är {1} .",
     "AVG_PRESS_ALT_CHANGE": "Den genomsnittliga tryckhöjdsändringen mellan korrigeringar i din fil är {0} , minsta är {1} .",

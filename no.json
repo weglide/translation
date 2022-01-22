@@ -159,7 +159,7 @@
   "flight": "Flygning",
   "flightDeleted": "Flyet er slettet",
   "flightDetail": "Flydetaljer",
-  "flightEditLocked": "Rediger perioden for å score relevante oppføringer allerede over.",
+  "flightEditLockedNotice": "Rediger perioden for å score relevante oppføringer allerede over.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Gjennomsnittlig GNSS høydeendring mellom rettelser i filen din er {0} , minimum er {1} .",
     "AVG_PRESS_ALT_CHANGE": "Gjennomsnittlig trykkhøydeendring mellom rettelser i filen din er {0} , minimum er {1} .",

@@ -159,7 +159,7 @@
   "flight": "Lot",
   "flightDeleted": "Lot usunięty",
   "flightDetail": "Szczegóły lotu",
-  "flightEditLocked": "Okres edycji punktowanych wpisów już za nami.",
+  "flightEditLockedNotice": "Okres edycji punktowanych wpisów już za nami.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Średnia zmiana wysokości GNSS pomiędzy pomiarami w Twoim pliku wynosi: {0}, Minimum to: {1}.",
     "AVG_PRESS_ALT_CHANGE": "Średnia zmiana wysokości ciśnieniowej pomiędzy pomiarami w Twoim pliku wynosi: {0}, Minimum to: {1}.",

@@ -159,7 +159,7 @@
   "flight": "Volo",
   "flightDeleted": "Volo Cancellato",
   "flightDetail": "Dettagli del volo",
-  "flightEditLocked": "Periodo di modifica delle voci rilevanti già finito.",
+  "flightEditLockedNotice": "Periodo di modifica delle voci rilevanti già finito.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "La variazione di altitudine GNSS media tra le correzioni nel file è {0}, il minimo è {1}.",
     "AVG_PRESS_ALT_CHANGE": "La variazione media dell'altitudine della pressione tra le correzioni nel file è {0}, il minimo è {1}.",

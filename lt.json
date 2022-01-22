@@ -159,7 +159,7 @@
   "flight": "Skrydis",
   "flightDeleted": "Skrydis ištrintas",
   "flightDetail": "Skrydžio detalė",
-  "flightEditLocked": "Redaguokite atitinkamų įrašų vertinimo laikotarpį.",
+  "flightEditLockedNotice": "Redaguokite atitinkamų įrašų vertinimo laikotarpį.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Vidutinis GNSS aukščio pokytis tarp pataisymų jūsų faile yra {0} , minimalus yra {1} .",
     "AVG_PRESS_ALT_CHANGE": "Vidutinis slėgio aukščio pokytis tarp pataisymų jūsų faile yra {0} , minimalus yra {1} .",

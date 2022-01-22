@@ -159,7 +159,7 @@
   "flight": "Let",
   "flightDeleted": "Smazat let",
   "flightDetail": "Podrobnosti letu",
-  "flightEditLocked": "Upravit období hodnocení relevantních záznamů již uplynulo.",
+  "flightEditLockedNotice": "Upravit období hodnocení relevantních záznamů již uplynulo.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Průměrná změna nadmořské výšky GNSS mezi opravami ve vašem souboru je {0} , minimum je {1} .",
     "AVG_PRESS_ALT_CHANGE": "Průměrná změna tlakové výšky mezi opravami ve vašem souboru je {0} , minimum je {1} .",

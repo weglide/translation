@@ -159,7 +159,7 @@
   "flight": "Flight",
   "flightDeleted": "Flight deleted",
   "flightDetail": "Flight detail",
-  "flightEditLocked": "Edit period of scoring relevant entries already over.",
+  "flightEditLockedNotice": "Edit period of scoring relevant entries already over.",
   "flightErrors": {
     "AVG_GNSS_ALT_CHANGE": "Average GNSS altitude change between fixes in your file is {0}, Minimum is {1}.",
     "AVG_PRESS_ALT_CHANGE": "Average pressure altitude change between fixes in your file is {0}, Minimum is {1}.",
