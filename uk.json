@@ -708,6 +708,7 @@
   "security": "Безпека",
   "segmentAchievement1": "{name} отримав трофей",
   "segmentAchievement2": "points on segment",
+  "segmentFilterPlaceholder": "Пілот, клуб, аеродром, літак, клас",
   "segmentRanking": "Рейтинг сегментів",
   "segments": "Сегменти",
   "sendEmailAgain": "Відправити email знову",

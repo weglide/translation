@@ -708,6 +708,7 @@
   "security": "Turvallisuus",
   "segmentAchievement1": "{name} saavutti pokaalin",
   "segmentAchievement2": "pisteitä segmentissä",
+  "segmentFilterPlaceholder": "Pilotti, klubi, lentokenttä, lentokone, luokka",
   "segmentRanking": "Segmenttien sijoitus",
   "segments": "Segmentit",
   "sendEmailAgain": "Lähetä sähköpostia uudelleen",

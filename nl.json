@@ -708,6 +708,7 @@
   "security": "Veiligheid",
   "segmentAchievement1": "{name} behaalde een trofee",
   "segmentAchievement2": "punten op segment",
+  "segmentFilterPlaceholder": "Piloot, club, vliegveld, vliegtuig, klasse",
   "segmentRanking": "Segmentrangschikking",
   "segments": "Segmenten",
   "sendEmailAgain": "Email nogmaals versturen",

@@ -708,6 +708,7 @@
   "security": "Bezpečnostní",
   "segmentAchievement1": "{name} dosáhl na trofej",
   "segmentAchievement2": "body na segmentu",
+  "segmentFilterPlaceholder": "Pilot, klub, letiště, letadlo, třída",
   "segmentRanking": "Hodnocení segmentů",
   "segments": "Segmenty",
   "sendEmailAgain": "Poslat znovu e-mail",

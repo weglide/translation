@@ -708,6 +708,7 @@
   "security": "Bezpieczeństwo",
   "segmentAchievement1": "{name} zdobył trofeum",
   "segmentAchievement2": "punkty na odcinku",
+  "segmentFilterPlaceholder": "Pilot, klub, lotnisko, samolot, klasa",
   "segmentRanking": "Ranking segmentów",
   "segments": "Segmenty",
   "sendEmailAgain": "Wyślij email ponownie",

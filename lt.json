@@ -708,6 +708,7 @@
   "security": "Saugumas",
   "segmentAchievement1": "{name} pasiekė trofėjų",
   "segmentAchievement2": "taškai segmente",
+  "segmentFilterPlaceholder": "Pilotas, klubas, aerodromas, lėktuvas, klasė",
   "segmentRanking": "Segmentų reitingas",
   "segments": "Segmentai",
   "sendEmailAgain": "Siųsti el. laišką dar kartą",

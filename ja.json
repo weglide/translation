@@ -706,6 +706,7 @@
   "security": "安全",
   "segmentAchievement1": "{name}がトロフィーを獲得",
   "segmentAchievement2": "セグメント上のポイント",
+  "segmentFilterPlaceholder": "パイロット、クラブ、飛行場、航空機、クラス",
   "segmentRanking": "セグメントランキング",
   "segments": "セグメント",
   "sendEmailAgain": "もう一度メールを送信する",

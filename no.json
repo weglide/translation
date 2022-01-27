@@ -708,6 +708,7 @@
   "security": "Sikkerhet",
   "segmentAchievement1": "{name} oppnådde et trofé",
   "segmentAchievement2": "poeng på segmentet",
+  "segmentFilterPlaceholder": "Pilot, klubb, flyplass, fly, klasse",
   "segmentRanking": "Segmentrangering",
   "segments": "Segmenter",
   "sendEmailAgain": "Send e-post igjen",

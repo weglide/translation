@@ -708,6 +708,7 @@
   "security": "Security",
   "segmentAchievement1": "{name} achieved a trophy",
   "segmentAchievement2": "points on segment",
+  "segmentFilterPlaceholder": "Pilot, club, airfield, aircraft, class",
   "segmentRanking": "Segment Ranking",
   "segments": "Segments",
   "sendEmailAgain": "Send email again",

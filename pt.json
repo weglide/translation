@@ -708,6 +708,7 @@
   "security": "Segurança",
   "segmentAchievement1": "{name} conquistou um troféu",
   "segmentAchievement2": "pontos no segmento",
+  "segmentFilterPlaceholder": "Piloto, clube, aeródromo, aeronaves, classe",
   "segmentRanking": "Classificação do segmento",
   "segments": "Segmentos",
   "sendEmailAgain": "Enviar e-mail novamente",

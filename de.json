@@ -708,6 +708,7 @@
   "security": "Sicherheit",
   "segmentAchievement1": "{name} hat eine Trophäe erhalten",
   "segmentAchievement2": "Punkten einen Pokal auf dem Segment",
+  "segmentFilterPlaceholder": "Person, Verein, Flugplatz, Flugzeug, Klasse",
   "segmentRanking": "Segment Rangliste",
   "segments": "Segmente",
   "sendEmailAgain": "E-Mail erneut senden",
