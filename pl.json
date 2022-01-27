@@ -330,7 +330,11 @@
       "name": "Bośnia i Hercegowina"
     },
     "BE": {
-      "name": "Belgia"
+      "name": "Belgia",
+      "regions": {
+        "BE-VLG": "Flandria",
+        "BE-WAL": "Walonia"
+      }
     },
     "BG": {
       "name": "Bułgaria"

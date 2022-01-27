@@ -330,7 +330,11 @@
       "name": "Bosnia Erzegovina"
     },
     "BE": {
-      "name": "Belgio"
+      "name": "Belgio",
+      "regions": {
+        "BE-VLG": "Fiandre",
+        "BE-WAL": "Vallonia"
+      }
     },
     "BG": {
       "name": "Bulgaria"

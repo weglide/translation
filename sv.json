@@ -332,6 +332,10 @@
     "BE": {
       "name": "Belgien"
     },
+    "regions": {
+      "BE-VLG": "Flandern",
+      "BE-WAL": "Vallonien"
+    },
     "BG": {
       "name": "Bulgarien"
     },
