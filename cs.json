@@ -330,7 +330,11 @@
       "name": "Bosna a Hercegovina"
     },
     "BE": {
-      "name": "Belgie"
+      "name": "Belgie",
+      "regions": {
+        "BE-VLG": "Flandry",
+        "BE-WAL": "Valonsko"
+      }
     },
     "BG": {
       "name": "Bulharsko"

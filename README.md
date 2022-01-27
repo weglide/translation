@@ -2,7 +2,7 @@
 
 # WeGlide Translation
 
-The ``*.json`` files include the translationa for different languages.
+The ``*.json`` files include the translation for different languages.
 ``en.json`` is up to date and includes all the keys used in WeGlide.
 If a key is missing in another language, english will be used.
 
