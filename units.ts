@@ -1,21 +1,22 @@
 interface Unit {
-    abbreviation: string
-    factorToMetric: number
+  abbreviation: string
+  factorToMetric: number
 }
 
 interface UnitSystem {
-    climbRate: Unit
-    cruiseSpeed: Unit
-    XCSpeed: Unit
-    distance: Unit
-    altitude: Unit
-    pressure: Unit
+  climbRate: Unit
+  cruiseSpeed: Unit
+  XCSpeed: Unit
+  XCSpeed1h: Unit
+  distance: Unit
+  altitude: Unit
+  pressure: Unit
 }
 
 export interface Units {
-    M: UnitSystem
-    U: UnitSystem
-    I: UnitSystem
+  M: UnitSystem
+  U: UnitSystem
+  I: UnitSystem
 }
 
 export const units: Units = {
@@ -31,6 +32,10 @@ export const units: Units = {
     },
     XCSpeed: {
       abbreviation: 'km/h',
+      factorToMetric: 1
+    },
+    XCSpeed1h: {
+      abbreviation: 'km/1h',
       factorToMetric: 1
     },
     distance: {
@@ -60,6 +65,10 @@ export const units: Units = {
       abbreviation: 'mph', // kn?, kph?
       factorToMetric: 0.621371
     },
+    XCSpeed1h: {
+      abbreviation: 'mp1h', // kn?, kph?
+      factorToMetric: 0.621371
+    },
     distance: {
       abbreviation: 'nm',
       factorToMetric: 0.539957
@@ -85,6 +94,10 @@ export const units: Units = {
     },
     XCSpeed: {
       abbreviation: 'kph',
+      factorToMetric: 1
+    },
+    XCSpeed1h: {
+      abbreviation: 'kp1h',
       factorToMetric: 1
     },
     distance: {
