@@ -54,7 +54,7 @@ export const units: Units = {
   // USA, CA?
   U: {
     climbRate: {
-      abbreviation: 'ft/m',
+      abbreviation: 'fpm',
       factorToMetric: 3.28084 * 60
     },
     cruiseSpeed: {
