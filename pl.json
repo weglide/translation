@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Znaleziono {0} pomiarów przed startem, wymagane są {1}.",
     "FUTURE_FLIGHT": "Data lotu jest z przyszłości",
     "GNSS_ALT_VIOLATIONS": "Zakres wysokości GNSS od {0} do {1} został przekroczony w {2} pomiarach.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} wielkich zmian w wysokości GNSS (więcej niż {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} wielkich zmian w wysokości ciśnieniowej (więcej niż {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} wielkich zmian w wysokości GNSS (więcej niż {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} wielkich zmian w wysokości ciśnieniowej (więcej niż {1} m/s).",
     "H_RECORD_NO_DATE": "Nie podano daty w rekordzie H",
     "INVALID_H_RECORD": "Niepoprawny rekord H: {0}.",
     "INVALID_QNH_VALUE": "Ustalone QNH o wartości {0} hPA (bazowane na podanej wysokości) nie jest w granicach limitu od {1} hPa do {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Maksymalna wysokość czujnika GNSS to: {0}, osiągnąłeś: {1}",
-    "MAX_GROUND_SPEED_WARNING": "Prędkość względem ziemi {0} km \/ h przy {1} przekracza maksimum {2} km \/ h, odpowiednie poprawki GPS są odfiltrowywane.",
+    "MAX_GROUND_SPEED_WARNING": "Prędkość względem ziemi {0} km / h przy {1} przekracza maksimum {2} km / h, odpowiednie poprawki GPS są odfiltrowywane.",
     "MAX_PRESS_ALT_REACHED": "Maksymalna wartość czujnika wysokości ciśnieniowej to: {0}, osiągnąłeś: {1}",
     "MULTIPLE_A_RECORDS": "Podano wiele rekordów A.",
     "MULTIPLE_I_RECORDS": "Podano wiele rekordów I.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Dzięki Twojemu wsparciu nie tylko utrzymujemy tę platformę w ruchu, ale także każdego dnia ją ulepszamy. WeGlide przywiązuje dużą wagę do wysokich wartości etycznych, technicznych i naukowych, ale zawsze koncentrujemy się na Tobie.",
   "youthPromotion": "Promocja młodzieży",
   "youthPromotionDescription": "Treningi i szybowce",
-  "zaDescription": "Mistrzostwa RPA"
+  "zaDescription": "Mistrzostwa RPA",
+  "pinToTop": "Przypiąć"
 }

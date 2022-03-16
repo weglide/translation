@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "{0} Aufzeichnungen vor dem Start gefunden, nötig sind {1}.",
     "FUTURE_FLIGHT": "Datum des Fluges liegt in der Zukunft.",
     "GNSS_ALT_VIOLATIONS": "Gültiger GPS-Höhenbereich von {0} bis {1} wird in {2} Aufzeichnungen überschritten.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} hohe Wechsel der GNSS-Höhe (mehr als {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} hohe Wechsel der Druck-Höhe (mehr als {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} hohe Wechsel der GNSS-Höhe (mehr als {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} hohe Wechsel der Druck-Höhe (mehr als {1} m/s).",
     "H_RECORD_NO_DATE": "Kein Datum im H Record vorhanden.",
     "INVALID_H_RECORD": "Ungültiger H Record: {0}.",
     "INVALID_QNH_VALUE": "Festgestelltes QNH von {0} hPa (basierend auf der gegebenen Höhe) liegt außerhalb der Grenzen von {1} hPa und {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Maximale GNSS-Sensorhöhe des Loggers sind {0} Meter, du hast {1} Meter erreicht.",
-    "MAX_GROUND_SPEED_WARNING": "Bodengeschwindigkeit von {0} km\/h bei {1} überschreitet das Maximum von {2} km\/h, betreffende GPS-Fixe werden herausgefiltert.",
+    "MAX_GROUND_SPEED_WARNING": "Bodengeschwindigkeit von {0} km/h bei {1} überschreitet das Maximum von {2} km/h, betreffende GPS-Fixe werden herausgefiltert.",
     "MAX_PRESS_ALT_REACHED": "Maximale Druck-Sensorhöhe des Loggers sind {0} Meter, du hast {1} Meter erreicht.",
     "MULTIPLE_A_RECORDS": "Mehrere A Records vorhanden.",
     "MULTIPLE_I_RECORDS": "Mehrere I Records vorhanden.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Mit deiner Unterstützung halten wir nicht nur diese Platform am laufen, sondern machen sie jeden Tag besser. WeGlide verschreibt sich hohen ethischen, technischen und wissenschaftlichen Werten aber das wichtigste bleibst immer Du.",
   "youthPromotion": "Juniorenförderung",
   "youthPromotionDescription": "Coaching und Förderflugzeuge",
-  "zaDescription": "Südafrikanische Meisterschaften"
+  "zaDescription": "Südafrikanische Meisterschaften",
+  "pinToTop": "Anheften"
 }

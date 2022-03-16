@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Found {0} fixes before takeoff, required are {1}.",
     "FUTURE_FLIGHT": "Flight date is from future.",
     "GNSS_ALT_VIOLATIONS": "GNSS altitude range from {0} to {1} is exceeded in {2} GNSS fixes.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} high changes in GNSS altitude (more than {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} high changes in pressure altitude (more than {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} high changes in GNSS altitude (more than {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} high changes in pressure altitude (more than {1} m/s).",
     "H_RECORD_NO_DATE": "No date in H Record provided.",
     "INVALID_H_RECORD": "Invalid H record: {0}.",
     "INVALID_QNH_VALUE": "Determined QNH of {0} hPa (based on altitude provided) is not between limits of {1} hPa and {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Max GNSS sensor altitude is: {0}, you reached: {1}",
-    "MAX_GROUND_SPEED_WARNING": "Ground speed of {0} km\/h at {1} exceeds maximum of {2} km\/h, corresponding fixes are filtered out.",
+    "MAX_GROUND_SPEED_WARNING": "Ground speed of {0} km/h at {1} exceeds maximum of {2} km/h, corresponding fixes are filtered out.",
     "MAX_PRESS_ALT_REACHED": "Maximum pressure sensor altitude is: {0}, your reached: {1}",
     "MULTIPLE_A_RECORDS": "Multiple A Records provided.",
     "MULTIPLE_I_RECORDS": "Multiple I records provided.",
@@ -834,5 +834,6 @@
   "yourImpactText": "With your support, we not only keep this platform running but make it better every day. WeGlide is committed to high ethical, technical and scientific values ​​but the focus will alway be on You.",
   "youthPromotion": "Youth promotion",
   "youthPromotionDescription": "Coaching and youth gliders",
-  "zaDescription": "South African Championships"
+  "zaDescription": "South African Championships",
+  "pinToTop": "Pin to top"
 }

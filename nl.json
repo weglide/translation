@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "{0} fixes gevonden vóór het opstijgen, {1} fixes vereist.",
     "FUTURE_FLIGHT": "Vluchtdatum ligt in de toekomst.",
     "GNSS_ALT_VIOLATIONS": "GPS hoogtebereik van {0} tot {1} wordt overschreden in {2} fixes",
-    "HIGH_CHANGE_GNSS_ALT": "{0} grote veranderinen in je GPS-hoogte (meer dan {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} grote veranderinen in je drukhoogte (meer dan {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} grote veranderinen in je GPS-hoogte (meer dan {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} grote veranderinen in je drukhoogte (meer dan {1} m/s).",
     "H_RECORD_NO_DATE": "Geen datum in H-Record verstrekt.",
     "INVALID_H_RECORD": "Ongeldig H-Record: {0}",
     "INVALID_QNH_VALUE": "Bepaalde QNH van {0} hPa (gebaseerd op opgegeven hoogte) ligt niet tussen grenzen van {1} hPa en {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Maximale GPS-sensorhoogte van de logger is {0}, je hebt {1} meter bereikt.",
-    "MAX_GROUND_SPEED_WARNING": "De grondsnelheid van {0} km \/ u bij {1} is hoger dan het maximum van {2} km \/ u, relevante GPS-fixes worden eruit gefilterd.",
+    "MAX_GROUND_SPEED_WARNING": "De grondsnelheid van {0} km / u bij {1} is hoger dan het maximum van {2} km / u, relevante GPS-fixes worden eruit gefilterd.",
     "MAX_PRESS_ALT_REACHED": "Maximale Druksensorhoogte van de logger is {0} meter, je hebt {1} meter bereikt.",
     "MULTIPLE_A_RECORDS": "Meerdere A-Records verstrekt.",
     "MULTIPLE_I_RECORDS": "Meerdere I-Records verstrekt.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Met uw steun houden we dit platform niet alleen draaiende, maar maken we het ook elke dag beter. WeGlide zet zich in voor hoge ethische, technische en wetenschappelijke waarden, maar de focus zal altijd op U liggen.",
   "youthPromotion": "Jeugdpromotie",
   "youthPromotionDescription": "Coachen en zweefvliegen",
-  "zaDescription": "Zuid-Afrikaanse kampioenschappen"
+  "zaDescription": "Zuid-Afrikaanse kampioenschappen",
+  "pinToTop": "Vastpinnen"
 }

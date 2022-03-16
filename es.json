@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Se encontraron {0} correcciones antes del despegue, se requieren {1} .",
     "FUTURE_FLIGHT": "La fecha de vuelo es del futuro.",
     "GNSS_ALT_VIOLATIONS": "El rango de altitud GNSS de {0} a {1} se excede en {2} posiciones GNSS.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} grandes cambios en la altitud GNSS (más de {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} grandes cambios en la altitud de presión (más de {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} grandes cambios en la altitud GNSS (más de {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} grandes cambios en la altitud de presión (más de {1} m/s).",
     "H_RECORD_NO_DATE": "No se proporcionó fecha en el registro H.",
     "INVALID_H_RECORD": "Registro H no válido: {0} .",
     "INVALID_QNH_VALUE": "El QNH determinado de {0} hPa (basado en la altitud provista) no está entre los límites de {1} hPa y {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "La altitud máxima del sensor GNSS es: {0} , alcanzó: {1}",
-    "MAX_GROUND_SPEED_WARNING": "La velocidad respecto al suelo de {0} km\/h en {1} supera el máximo de {2} km\/h, las correcciones correspondientes se filtran.",
+    "MAX_GROUND_SPEED_WARNING": "La velocidad respecto al suelo de {0} km/h en {1} supera el máximo de {2} km/h, las correcciones correspondientes se filtran.",
     "MAX_PRESS_ALT_REACHED": "La altitud máxima del sensor de presión es: {0} , alcanzada: {1}",
     "MULTIPLE_A_RECORDS": "Múltiples registros A provistos.",
     "MULTIPLE_I_RECORDS": "Múltiples registros I provistos.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Con su apoyo, no solo mantenemos esta plataforma en funcionamiento, sino que la mejoramos cada día. WeGlide está comprometido con altos valores éticos, técnicos y científicos, pero el enfoque siempre estará en usted.",
   "youthPromotion": "Promoción juvenil",
   "youthPromotionDescription": "Coaching y planeadores juveniles",
-  "zaDescription": "Campeonatos de Sudáfrica"
+  "zaDescription": "Campeonatos de Sudáfrica",
+  "pinToTop": "Pin"
 }

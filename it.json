@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Trovate {0} correzioni prima del decollo, obbligatorie sono {1}.",
     "FUTURE_FLIGHT": "La data del volo è nel futuro.",
     "GNSS_ALT_VIOLATIONS": "L'intervallo di altitudine GNSS da {0} a {1} è stato superato in {2} correzioni GNSS.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} variazioni elevate dell'altitudine GNSS (più di {1} m \/ s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} variazioni elevate dell'altitudine-pressione (più di {1} m \/ s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} variazioni elevate dell'altitudine GNSS (più di {1} m / s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} variazioni elevate dell'altitudine-pressione (più di {1} m / s).",
     "H_RECORD_NO_DATE": "Nessuna data in H record fornito",
     "INVALID_H_RECORD": "Record H non valido: {0}",
     "INVALID_QNH_VALUE": "Il QNH determinato di {0} hPa (in base all'altitudine fornita) non è compreso tra i limiti di {1} hPa e {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "L'altitudine massima del sensore GNSS è: {0}, hai raggiunto: {1}",
-    "MAX_GROUND_SPEED_WARNING": "La velocità al suolo di {0} km \/ h a {1} supera il massimo di {2} km \/ h, i rilevamenti GPS pertinenti vengono filtrati.",
+    "MAX_GROUND_SPEED_WARNING": "La velocità al suolo di {0} km / h a {1} supera il massimo di {2} km / h, i rilevamenti GPS pertinenti vengono filtrati.",
     "MAX_PRESS_ALT_REACHED": "L'altitudine massima del sensore di pressione è: {0}, raggiunta: {1}",
     "MULTIPLE_A_RECORDS": "Più record A forniti.",
     "MULTIPLE_I_RECORDS": "Più record I forniti.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Con il tuo supporto, non solo manteniamo attiva questa piattaforma, ma la miglioriamo ogni giorno. WeGlide si impegna a rispettare elevati valori etici, tecnici e scientifici, ma l'attenzione sarà sempre su di te.",
   "youthPromotion": "Promozione giovanile",
   "youthPromotionDescription": "Coaching e alianti",
-  "zaDescription": "Campionati sudafricani"
+  "zaDescription": "Campionati sudafricani",
+  "pinToTop": "Appunta"
 }
