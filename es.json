@@ -844,5 +844,22 @@
   "addToCollection": "Añadir a la colección",
   "added": "Agregado",
   "attempt": "Intento",
-  "barogramRange": "Rango de barograma"
+  "barogramRange": "Rango de barograma",
+  "barogramRangeHelp": "Haga zoom y arrastre aquí para seleccionar el rango",
+  "collectionName": "Nombre de la colección",
+  "collectionDuplicated": "Colección duplicada",
+  "collectionUpdated": "Colección actualizada",
+  "collections": "Colecciones",
+  "confirmCollectionDeletion": "¿Quieres eliminar la colección?",
+  "confirmCollectionDuplication": "¿Quieres duplicar esta colección en la tuya?",
+  "create": "Crear",
+  "custom": "Personalizado",
+  "flightPhaseAnalysis": "Análisis de fase de vuelo",
+  "gliderReplay": "repetición del planeador",
+  "likedCollections": "Colecciones que me gustaron",
+  "off": "Apagado",
+  "requiresPremium": "Requiere Prima",
+  "scoreAllFlightsAutomatically": "Puntúe todos los vuelos automáticamente:",
+  "singlePhases": "Fases individuales",
+  "thermals": "térmicas"
 }

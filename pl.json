@@ -844,5 +844,22 @@
   "addToCollection": "Dodać do kolekcji",
   "added": "Dodany",
   "attempt": "Próba",
-  "barogramRange": "Zakres barogramu"
+  "barogramRange": "Zakres barogramu",
+  "barogramRangeHelp": "Powiększ i przeciągnij tutaj, aby wybrać zakres",
+  "collectionName": "Nazwa kolekcji",
+  "collectionDuplicated": "Zduplikowana kolekcja",
+  "collectionUpdated": "Zaktualizowano kolekcję",
+  "collections": "Kolekcje",
+  "confirmCollectionDeletion": "Czy chcesz usunąć kolekcję?",
+  "confirmCollectionDuplication": "Czy chcesz powielić tę kolekcję do swojej?",
+  "create": "Tworzyć",
+  "custom": "Zwyczaj",
+  "flightPhaseAnalysis": "Analiza fazy lotu",
+  "gliderReplay": "Powtórka szybowcowa",
+  "likedCollections": "Polubione kolekcje",
+  "off": "Wyłączony",
+  "requiresPremium": "Wymaga Premium",
+  "scoreAllFlightsAutomatically": "Punktuj wszystkie loty automatycznie:",
+  "singlePhases": "Pojedyncze fazy",
+  "thermals": "Termika"
 }

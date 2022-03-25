@@ -844,5 +844,22 @@
   "addToCollection": "Ajouter à la collection",
   "added": "Ajoutée",
   "attempt": "Tentative",
-  "barogramRange": "Plage de barogramme"
+  "barogramRange": "Plage de barogramme",
+  "barogramRangeHelp": "Zoomez et faites glisser ici pour sélectionner la plage",
+  "collectionName": "Nom de la collection",
+  "collectionDuplicated": "Collection dupliquée",
+  "collectionUpdated": "Collection mise à jour",
+  "collections": "Collections",
+  "confirmCollectionDeletion": "Voulez-vous supprimer la collection ?",
+  "confirmCollectionDuplication": "Voulez-vous dupliquer cette collection dans la vôtre ?",
+  "create": "Créer",
+  "custom": "Personnalisé",
+  "flightPhaseAnalysis": "Analyse des phases de vol",
+  "gliderReplay": "Rediffusion du planeur",
+  "likedCollections": "Collections aimées",
+  "off": "Désactivé",
+  "requiresPremium": "Nécessite Premium",
+  "scoreAllFlightsAutomatically": "Marquez tous les vols automatiquement:",
+  "singlePhases": "Monophasé",
+  "thermals": "Thermiques"
 }

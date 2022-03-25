@@ -844,5 +844,22 @@
   "addToCollection": "Voeg aan collectie toe",
   "added": "Toegevoegd",
   "attempt": "Poging",
-  "barogramRange": "Barogrambereik"
+  "barogramRange": "Barogrambereik",
+  "barogramRangeHelp": "Zoom en sleep hier om het bereik te selecteren",
+  "collectionName": "Naam collectie",
+  "collectionDuplicated": "Collectie gedupliceerd",
+  "collectionUpdated": "Collectie bijgewerkt",
+  "collections": "Collecties",
+  "confirmCollectionDeletion": "Wil je de collectie verwijderen?",
+  "confirmCollectionDuplication": "Wil je deze collectie dupliceren in de jouwe?",
+  "create": "Creëren",
+  "custom": "Aangepast",
+  "flightPhaseAnalysis": "Analyse vluchtfase",
+  "gliderReplay": "Zweefvliegtuig opnieuw afspelen",
+  "likedCollections": "Gelikete collecties",
+  "off": "Uit",
+  "requiresPremium": "Vereist Premium",
+  "scoreAllFlightsAutomatically": "Scoor automatisch alle vluchten:",
+  "singlePhases": "Enkele fasen",
+  "thermals": "Thermiek"
 }
