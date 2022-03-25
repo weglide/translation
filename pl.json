@@ -836,5 +836,13 @@
   "youthPromotionDescription": "Treningi i szybowce",
   "zaDescription": "Mistrzostwa RPA",
   "pinToTop": "Przypiąć",
-  "rules": "Zasady"
+  "rules": "Zasady",
+  "collection": "Kolekcja",
+  "glidePhases": "Fazy ​​schodzenia",
+  "openInSkySight": "Otwórz w SkySight",
+  "selectCollection": "Wybierz kolekcję",
+  "addToCollection": "Dodać do kolekcji",
+  "added": "Dodany",
+  "attempt": "Próba",
+  "barogramRange": "Zakres barogramu"
 }

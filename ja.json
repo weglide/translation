@@ -833,5 +833,13 @@
   "youthPromotion": "ユースプロモーション",
   "youthPromotionDescription": "コーチングとユースグライダー",
   "zaDescription": "南アフリカ選手権",
-  "rules": "ルール"
+  "rules": "ルール",
+  "collection": "コレクション",
+  "glidePhases": "グライドフェーズ",
+  "openInSkySight": "SkySightで開く",
+  "selectCollection": "コレクションを選択",
+  "addToCollection": "コレクションに追加します",
+  "added": "追加した",
+  "attempt": "試み",
+  "barogramRange": "バログラフの範囲"
 }

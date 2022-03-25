@@ -835,5 +835,13 @@
   "youthPromotion": "Jaunimo skatinimas",
   "youthPromotionDescription": "Treniruotės ir jaunimo sklandytuvai",
   "zaDescription": "Pietų Afrikos čempionatas",
-  "rules": "Taisyklės"
+  "rules": "Taisyklės",
+  "collection": "Kolekcija",
+  "glidePhases": "Slydimo fazės",
+  "openInSkySight": "Atidarykite „SkySight“.",
+  "selectCollection": "Pasirinkite kolekciją",
+  "addToCollection": "Pridėti prie kolekcijos",
+  "added": "Pridėta",
+  "attempt": "Bandymas",
+  "barogramRange": "Barogramos diapazonas"
 }

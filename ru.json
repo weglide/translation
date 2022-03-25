@@ -835,5 +835,12 @@
   "youthPromotion": "продвижение молодежи",
   "youthPromotionDescription": "Тренировочные и молодежные планеры",
   "zaDescription": "Чемпионат Южной Африки",
-  "rules": "Правила"
+  "rules": "Правила",
+  "collection": "Коллекция",
+  "glidePhases": "Фазы скольжения",
+  "openInSkySight": "Открыть в SkySight",
+  "selectCollection": "Выбрать коллекцию",
+  "addToCollection": "Добавить в коллекцию",
+  "added": "Добавлен",
+  "attempt": "Пытаться"
 }

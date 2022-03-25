@@ -836,5 +836,13 @@
   "youthPromotionDescription": "Coaching y planeadores juveniles",
   "zaDescription": "Campeonatos de Sudáfrica",
   "pinToTop": "Pin",
-  "rules": "Normas"
+  "rules": "Normas",
+  "collection": "Colección",
+  "glidePhases": "Fases de planeo",
+  "openInSkySight": "Abrir en SkySight",
+  "selectCollection": "Seleccionar colección",
+  "addToCollection": "Añadir a la colección",
+  "added": "Agregado",
+  "attempt": "Intento",
+  "barogramRange": "Rango de barograma"
 }

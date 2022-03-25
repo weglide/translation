@@ -835,5 +835,13 @@
   "youthPromotion": "Promoção da juventude",
   "youthPromotionDescription": "Treinamento e jovens planadores",
   "zaDescription": "Campeonatos da África do Sul",
-  "rules": "Regras"
+  "rules": "Regras",
+  "collection": "Coleção",
+  "glidePhases": "Fases de deslizamento",
+  "openInSkySight": "Abrir no SkySight",
+  "selectCollection": "Selecionar coleção",
+  "addToCollection": "Adicionar a coleção",
+  "added": "Adicionado",
+  "attempt": "Tentar",
+  "barogramRange": "Faixa de barograma"
 }

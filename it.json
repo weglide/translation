@@ -836,5 +836,13 @@
   "youthPromotionDescription": "Coaching e alianti",
   "zaDescription": "Campionati sudafricani",
   "pinToTop": "Appunta",
-  "rules": "Regole"
+  "rules": "Regole",
+  "collection": "Collezione",
+  "glidePhases": "Fasi di planata",
+  "openInSkySight": "Apri in SkySight",
+  "selectCollection": "Seleziona collezione",
+  "addToCollection": "Aggiungere alla collezione",
+  "added": "Aggiunto",
+  "attempt": "Tentativo",
+  "barogramRange": "Gamma di barogrammi"
 }

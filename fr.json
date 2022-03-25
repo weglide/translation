@@ -836,5 +836,13 @@
   "youthPromotionDescription": "Coaching et planeurs",
   "zaDescription": "Championnats d'Afrique du Sud",
   "pinToTop": "Épingler",
-  "rules": "Règlement"
+  "rules": "Règlement",
+  "collection": "Collection",
+  "glidePhases": "Phases de glisse",
+  "openInSkySight": "Ouvrir dans SkySight",
+  "selectCollection": "Sélectionner la collection",
+  "addToCollection": "Ajouter à la collection",
+  "added": "Ajoutée",
+  "attempt": "Tentative",
+  "barogramRange": "Plage de barogramme"
 }

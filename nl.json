@@ -836,5 +836,13 @@
   "youthPromotionDescription": "Coachen en zweefvliegen",
   "zaDescription": "Zuid-Afrikaanse kampioenschappen",
   "pinToTop": "Vastpinnen",
-  "rules": "Reglement"
+  "rules": "Reglement",
+  "collection": "Verzameling",
+  "glidePhases": "Glijfasen",
+  "openInSkySight": "Openen in SkySight",
+  "selectCollection": "Selecteer collectie",
+  "addToCollection": "Voeg aan collectie toe",
+  "added": "Toegevoegd",
+  "attempt": "Poging",
+  "barogramRange": "Barogrambereik"
 }

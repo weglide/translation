@@ -835,5 +835,12 @@
   "youthPromotion": "Заохочення молоді",
   "youthPromotionDescription": "Тренінги і планери для молоді",
   "zaDescription": "Чемпіонат Південної Африки",
-  "rules": "правила"
+  "rules": "правила",
+  "collection": "Колекція",
+  "glidePhases": "Фази ковзання",
+  "openInSkySight": "Відкрити в SkySight",
+  "selectCollection": "Виберіть колекцію",
+  "addToCollection": "Додати до колекції",
+  "added": "Додано",
+  "attempt": "Спроба"
 }

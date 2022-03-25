@@ -835,5 +835,13 @@
   "youthPromotion": "Ungdomsopprykk",
   "youthPromotionDescription": "Coaching og ungdomsseilfly",
   "zaDescription": "Sørafrikanske mesterskap",
-  "rules": "Regler"
+  "rules": "Regler",
+  "collection": "Samling",
+  "glidePhases": "Glidefaser",
+  "openInSkySight": "Åpne i SkySight",
+  "selectCollection": "Velg samling",
+  "addToCollection": "Legg til i samlingen",
+  "added": "La til",
+  "attempt": "Forsøk",
+  "barogramRange": "Barogramutvalg"
 }

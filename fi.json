@@ -835,5 +835,13 @@
   "youthPromotion": "Nuorten edistäminen",
   "youthPromotionDescription": "Valmennus ja nuorten purjelentokoneet",
   "zaDescription": "Etelä-Afrikan mestaruuskilpailut",
-  "rules": "säännöt"
+  "rules": "säännöt",
+  "collection": "Kokoelma",
+  "glidePhases": "Liukuvaiheet",
+  "openInSkySight": "Avaa SkySight",
+  "selectCollection": "Valitse kokoelma",
+  "addToCollection": "Lisää kokoelmaan",
+  "added": "Lisätty",
+  "attempt": "Yrittää",
+  "barogramRange": "Barogrammialue"
 }

@@ -835,5 +835,12 @@
   "youthPromotion": "Ungdomsfrämjande",
   "youthPromotionDescription": "Coaching och ungdomssegelflygplan",
   "zaDescription": "Sydafrikanska mästerskapen",
-  "rules": "Regler"
+  "rules": "Regler",
+  "collection": "Samling",
+  "glidePhases": "Glidfaser",
+  "openInSkySight": "Öppna i SkySight",
+  "selectCollection": "Välj samling",
+  "addToCollection": "Lägga till samling",
+  "added": "Lagt till",
+  "attempt": "Försök"
 }
