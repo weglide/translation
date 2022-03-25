@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Prieš kilimą rasta {0} {1} .",
     "FUTURE_FLIGHT": "Skrydžio data yra iš ateities.",
     "GNSS_ALT_VIOLATIONS": "GNSS aukščio diapazonas nuo {0} iki {1} viršytas {2} GNSS pataisymais.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} dideli GNSS aukščio pokyčiai (daugiau nei {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} dideli slėgio aukščio pokyčiai (daugiau nei {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} dideli GNSS aukščio pokyčiai (daugiau nei {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} dideli slėgio aukščio pokyčiai (daugiau nei {1} m/s).",
     "H_RECORD_NO_DATE": "H įraše nepateikta data.",
     "INVALID_H_RECORD": "Neteisingas H įrašas: {0} .",
     "INVALID_QNH_VALUE": "Nustatytas {0} hPa QNH (pagal pateiktą aukštį) nėra tarp {1} hPa ir {2} hPa ribų.",
     "MAX_GNSS_ALT_REACHED": "Maksimalus GNSS jutiklio aukštis virš jūros lygio yra: {0} , pasiekėte: {1}",
-    "MAX_GROUND_SPEED_WARNING": "{0} km\/h greitis važiuojant {1} viršija maksimalų {2} km\/h, atitinkami pataisymai išfiltruojami.",
+    "MAX_GROUND_SPEED_WARNING": "{0} km/h greitis važiuojant {1} viršija maksimalų {2} km/h, atitinkami pataisymai išfiltruojami.",
     "MAX_PRESS_ALT_REACHED": "Didžiausias slėgio jutiklio aukštis virš jūros lygio yra: {0} , jūsų pasiektas: {1}",
     "MULTIPLE_A_RECORDS": "Pateikiami keli A įrašai.",
     "MULTIPLE_I_RECORDS": "Pateikti keli I įrašai.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Su jūsų pagalba mes ne tik palaikome šios platformos veikimą, bet ir tobuliname ją kiekvieną dieną. „WeGlide“ yra įsipareigojusi laikytis aukštų etinių, techninių ir mokslinių vertybių, tačiau dėmesys visada bus skirtas jums.",
   "youthPromotion": "Jaunimo skatinimas",
   "youthPromotionDescription": "Treniruotės ir jaunimo sklandytuvai",
-  "zaDescription": "Pietų Afrikos čempionatas"
+  "zaDescription": "Pietų Afrikos čempionatas",
+  "rules": "Taisyklės"
 }

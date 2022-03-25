@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Foram encontradas {0} correções antes da decolagem, obrigatórias são {1} .",
     "FUTURE_FLIGHT": "A data do voo é do futuro.",
     "GNSS_ALT_VIOLATIONS": "O intervalo de altitude GNSS de {0} a {1} foi excedido em {2} correções GNSS.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} grandes mudanças na altitude GNSS (mais de {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} grandes mudanças na altitude de pressão (mais de {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} grandes mudanças na altitude GNSS (mais de {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} grandes mudanças na altitude de pressão (mais de {1} m/s).",
     "H_RECORD_NO_DATE": "Nenhuma data fornecida no Registro H.",
     "INVALID_H_RECORD": "Registro H inválido: {0} .",
     "INVALID_QNH_VALUE": "O QNH determinado de {0} hPa (com base na altitude fornecida) não está entre os limites de {1} hPa e {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "A altitude máxima do sensor GNSS é: {0} , você alcançou: {1}",
-    "MAX_GROUND_SPEED_WARNING": "A velocidade de solo de {0} km\/h em {1} excede o máximo de {2} km\/h, as correções correspondentes são filtradas.",
+    "MAX_GROUND_SPEED_WARNING": "A velocidade de solo de {0} km/h em {1} excede o máximo de {2} km/h, as correções correspondentes são filtradas.",
     "MAX_PRESS_ALT_REACHED": "A altitude máxima do sensor de pressão é: {0} , você atingiu: {1}",
     "MULTIPLE_A_RECORDS": "Vários registros A fornecidos.",
     "MULTIPLE_I_RECORDS": "Vários registros I fornecidos.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Com o seu apoio, não apenas mantemos esta plataforma funcionando, mas a tornamos melhor a cada dia. A WeGlide está comprometida com altos valores éticos, técnicos e científicos, mas o foco estará sempre em Você.",
   "youthPromotion": "Promoção da juventude",
   "youthPromotionDescription": "Treinamento e jovens planadores",
-  "zaDescription": "Campeonatos da África do Sul"
+  "zaDescription": "Campeonatos da África do Sul",
+  "rules": "Regras"
 }

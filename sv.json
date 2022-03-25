@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Hittade {0} korrigeringar före start, obligatoriska är {1} .",
     "FUTURE_FLIGHT": "Flygdatum är från framtiden.",
     "GNSS_ALT_VIOLATIONS": "GNSS-höjdintervallet från {0} till {1} överskrids i {2} GNSS-fixar.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} höga förändringar i GNSS-höjd (mer än {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} höga förändringar i tryckhöjd (mer än {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} höga förändringar i GNSS-höjd (mer än {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} höga förändringar i tryckhöjd (mer än {1} m/s).",
     "H_RECORD_NO_DATE": "Inget datum i H Record anges.",
     "INVALID_H_RECORD": "Ogiltig H-post: {0} .",
     "INVALID_QNH_VALUE": "Fastställd QNH på {0} hPa (baserat på tillhandahållen höjd) ligger inte mellan gränserna {1} hPa och {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Max GNSS-sensorhöjd är: {0} , du nådde: {1}",
-    "MAX_GROUND_SPEED_WARNING": "Markhastigheten på {0} km\/h vid {1} överstiger maximalt {2} km\/h, motsvarande korrigeringar filtreras bort.",
+    "MAX_GROUND_SPEED_WARNING": "Markhastigheten på {0} km/h vid {1} överstiger maximalt {2} km/h, motsvarande korrigeringar filtreras bort.",
     "MAX_PRESS_ALT_REACHED": "Maximal trycksensorhöjd är: {0} , din uppnådda: {1}",
     "MULTIPLE_A_RECORDS": "Flera A-poster tillhandahålls.",
     "MULTIPLE_I_RECORDS": "Flera I-poster tillhandahålls.",
@@ -834,5 +834,6 @@
   "yourImpactText": "Med ditt stöd håller vi inte bara denna plattform igång utan gör den bättre varje dag. WeGlide är engagerade i höga etiska, tekniska och vetenskapliga värderingar men fokus kommer alltid att ligga på dig.",
   "youthPromotion": "Ungdomsfrämjande",
   "youthPromotionDescription": "Coaching och ungdomssegelflygplan",
-  "zaDescription": "Sydafrikanska mästerskapen"
+  "zaDescription": "Sydafrikanska mästerskapen",
+  "rules": "Regler"
 }

@@ -168,8 +168,8 @@
     "C_RECORD_TOO_LONG": "Cレコードに20行を超える行が含まれているため、タスクを解析できません。",
     "FIXES_BEFORE_TAKEOFF": "{0}修正が見つかりました。必要なのは{1}です。",
     "FUTURE_FLIGHT": "フライト日は未来からです。",
-    "HIGH_CHANGE_GNSS_ALT": "{0} GNSS高度の大きな変化（ {1} m \/ s以上）。",
-    "HIGH_CHANGE_PRESS_ALT": "{0}気圧高度の大きな変化（ {1} m \/ s以上）。",
+    "HIGH_CHANGE_GNSS_ALT": "{0} GNSS高度の大きな変化（ {1} m / s以上）。",
+    "HIGH_CHANGE_PRESS_ALT": "{0}気圧高度の大きな変化（ {1} m / s以上）。",
     "H_RECORD_NO_DATE": "Hレコードに日付がありません。",
     "INVALID_H_RECORD": "無効なHレコード： {0} 。",
     "INVALID_QNH_VALUE": "{0} hPaの決定されたQNH（提供された高度に基づく）は、 {1} hPaと{2} hPaの制限の間にありません。",
@@ -832,5 +832,6 @@
   "yourImpactText": "皆様のご支援により、このプラットフォームを継続的に稼働させるだけでなく、日々改善していきます。 WeGlideは、高い倫理的、技術的、科学的価値に取り組んでいますが、焦点は常にあなたにあります。",
   "youthPromotion": "ユースプロモーション",
   "youthPromotionDescription": "コーチングとユースグライダー",
-  "zaDescription": "南アフリカ選手権"
+  "zaDescription": "南アフリカ選手権",
+  "rules": "ルール"
 }

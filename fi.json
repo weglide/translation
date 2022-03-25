@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Löytyi {0} korjausta ennen lentoonlähtöä, vaaditaan {1} .",
     "FUTURE_FLIGHT": "Lentopäivä on tulevaisuudesta.",
     "GNSS_ALT_VIOLATIONS": "GNSS-korkeusalue {0} - {1} on ylitetty {2} GNSS-korjauksessa.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} suurta muutosta GNSS-korkeudessa (yli {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} suurta painekorkeuden muutosta (yli {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} suurta muutosta GNSS-korkeudessa (yli {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} suurta painekorkeuden muutosta (yli {1} m/s).",
     "H_RECORD_NO_DATE": "Ei päivämäärää H-tietueessa.",
     "INVALID_H_RECORD": "Virheellinen H-tietue: {0} .",
     "INVALID_QNH_VALUE": "Määritetty {0} hPa:n QNH (perustuu annettuun korkeuteen) ei ole {1} hPa:n ja {2} hPa:n rajojen välissä.",
     "MAX_GNSS_ALT_REACHED": "Suurin GNSS-anturin korkeus on: {0} , saavutit: {1}",
-    "MAX_GROUND_SPEED_WARNING": "Maanopeus {0} km\/h paikassa {1} ylittää maksimiarvon {2} km\/h, vastaavat korjaukset suodatetaan pois.",
+    "MAX_GROUND_SPEED_WARNING": "Maanopeus {0} km/h paikassa {1} ylittää maksimiarvon {2} km/h, vastaavat korjaukset suodatetaan pois.",
     "MAX_PRESS_ALT_REACHED": "Paineanturin enimmäiskorkeus on: {0} , saavutettu: {1}",
     "MULTIPLE_A_RECORDS": "Useita A-tietueita tarjotaan.",
     "MULTIPLE_I_RECORDS": "Useita I-tietueita toimitettu.",
@@ -750,7 +750,7 @@
   "supporterTeaser": "Hanki WeGlide Supporter -paketti ja nauti ainutlaatuisista ominaisuuksista.",
   "supporterTerms": "Ryhdy tukijaksi nyt",
   "supporterTermsSubline": "Tilauksesi, sinun etusi",
-  "supporterTermsText": "Tilaus maksaa 48 €\/vuosi, on milloin tahansa irtisanottavissa ja veloitetaan vuosittain. Ei muunnoskuluja tai maksuja.",
+  "supporterTermsText": "Tilaus maksaa 48 €/vuosi, on milloin tahansa irtisanottavissa ja veloitetaan vuosittain. Ei muunnoskuluja tai maksuja.",
   "surface": "Pinta",
   "takeoff": "Ottaa pois",
   "task": "Tehtävä",
@@ -834,5 +834,6 @@
   "yourImpactText": "Tukesi avulla emme vain pidä tätä alustaa käynnissä, vaan teemme siitä paremman joka päivä. WeGlide on sitoutunut korkeisiin eettisiin, teknisiin ja tieteellisiin arvoihin, mutta painopiste on aina sinussa.",
   "youthPromotion": "Nuorten edistäminen",
   "youthPromotionDescription": "Valmennus ja nuorten purjelentokoneet",
-  "zaDescription": "Etelä-Afrikan mestaruuskilpailut"
+  "zaDescription": "Etelä-Afrikan mestaruuskilpailut",
+  "rules": "säännöt"
 }

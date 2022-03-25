@@ -169,13 +169,13 @@
     "FIXES_BEFORE_TAKEOFF": "Nalezeno {0} oprav před vzletem, povinné je {1} .",
     "FUTURE_FLIGHT": "Datum letu je z budoucnosti.",
     "GNSS_ALT_VIOLATIONS": "Rozsah nadmořské výšky GNSS od {0} do {1} byl překročen v {2} opravách GNSS.",
-    "HIGH_CHANGE_GNSS_ALT": "{0} velkých změn nadmořské výšky GNSS (více než {1} m\/s).",
-    "HIGH_CHANGE_PRESS_ALT": "{0} velkých změn tlakové výšky (více než {1} m\/s).",
+    "HIGH_CHANGE_GNSS_ALT": "{0} velkých změn nadmořské výšky GNSS (více než {1} m/s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} velkých změn tlakové výšky (více než {1} m/s).",
     "H_RECORD_NO_DATE": "V záznamu H není uvedeno žádné datum.",
     "INVALID_H_RECORD": "Neplatný záznam H: {0} .",
     "INVALID_QNH_VALUE": "Určený QNH {0} hPa (na základě poskytnuté nadmořské výšky) není mezi limity {1} hPa a {2} hPa.",
     "MAX_GNSS_ALT_REACHED": "Maximální výška senzoru GNSS je: {0} , dosáhli jste: {1}",
-    "MAX_GROUND_SPEED_WARNING": "Pozemní rychlost {0} km\/h v {1} překračuje maximum {2} km\/h, odpovídající opravy jsou odfiltrovány.",
+    "MAX_GROUND_SPEED_WARNING": "Pozemní rychlost {0} km/h v {1} překračuje maximum {2} km/h, odpovídající opravy jsou odfiltrovány.",
     "MAX_PRESS_ALT_REACHED": "Maximální výška tlakového senzoru je: {0} , dosažená {1}",
     "MULTIPLE_A_RECORDS": "Poskytováno více záznamů A.",
     "MULTIPLE_I_RECORDS": "Poskytováno několik záznamů I.",
@@ -834,5 +834,6 @@
   "yourImpactText": "S vaší podporou tuto platformu nejen udržujeme v chodu, ale zlepšujeme ji každý den. WeGlide se zavázala k vysokým etickým, technickým a vědeckým hodnotám, ale důraz bude vždy kladen na vás.",
   "youthPromotion": "Podpora mládeže",
   "youthPromotionDescription": "Koučování a kluzáky",
-  "zaDescription": "Mistrovství Jižní Afriky"
+  "zaDescription": "Mistrovství Jižní Afriky",
+  "rules": "Pravidla"
 }
