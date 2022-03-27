@@ -858,8 +858,9 @@
   "likedCollections": "Gillade samlingar",
   "off": "Av",
   "requiresPremium": "Kräver Premium",
-  "scoreAllFlightsAutomatically": "Betyg alla flyg automatiskt:",
   "singlePhases": "Enfaser",
   "thermals": "Termik",
-  "pinToTop": "Nåla till toppen"
+  "pinToTop": "Nåla till toppen",
+  "hostAsLocalCompetition": "Värd som lokal tävling:",
+  "select": "Välj"
 }

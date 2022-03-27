@@ -858,8 +858,9 @@
   "likedCollections": "Понравившиеся коллекции",
   "off": "Выключенный",
   "requiresPremium": "Требуется Премиум",
-  "scoreAllFlightsAutomatically": "Оценка всех рейсов автоматически:",
   "singlePhases": "Отдельные фазы",
   "thermals": "Термики",
-  "pinToTop": "Закрепить вверху"
+  "pinToTop": "Закрепить вверху",
+  "hostAsLocalCompetition": "Организовать местное соревнование:",
+  "select": "Выбирать"
 }

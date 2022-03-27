@@ -858,8 +858,9 @@
   "likedCollections": "Tykkäät kokoelmista",
   "off": "Vinossa",
   "requiresPremium": "Vaatii Premiumin",
-  "scoreAllFlightsAutomatically": "Arvioi kaikki lennot automaattisesti:",
   "singlePhases": "Yksittäisiä vaiheita",
   "thermals": "Lämpötuotteet",
-  "pinToTop": "Kiinnitä ylös"
+  "pinToTop": "Kiinnitä ylös",
+  "hostAsLocalCompetition": "Isäntä paikallisena kilpailuna:",
+  "select": "Valitse"
 }

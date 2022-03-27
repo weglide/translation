@@ -858,8 +858,9 @@
   "likedCollections": "Oblíbené kolekce",
   "off": "Vypnuto",
   "requiresPremium": "Vyžaduje Premium",
-  "scoreAllFlightsAutomatically": "Automaticky vyhodnoťte všechny lety:",
   "singlePhases": "Jednotlivé fáze",
   "thermals": "Termální",
-  "pinToTop": "Připnout nahoru"
+  "pinToTop": "Připnout nahoru",
+  "hostAsLocalCompetition": "Hostit jako místní soutěž:",
+  "select": "Vybrat"
 }

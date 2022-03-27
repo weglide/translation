@@ -859,7 +859,8 @@
   "likedCollections": "Polubione kolekcje",
   "off": "Wyłączony",
   "requiresPremium": "Wymaga Premium",
-  "scoreAllFlightsAutomatically": "Punktuj wszystkie loty automatycznie:",
   "singlePhases": "Pojedyncze fazy",
-  "thermals": "Termika"
+  "thermals": "Termika",
+  "hostAsLocalCompetition": "Hostuj jako lokalna konkurencja:",
+  "select": "Wybierz"
 }

@@ -860,6 +860,7 @@
   "barogramRangeHelp": "Zoom and drag here to select the range",
   "glidePhases": "Glide phases",
   "off": "Off",
-  "scoreAllFlightsAutomatically": "Score all flights automatically:",
-  "requiresPremium": "Requires Premium"
+  "requiresPremium": "Requires Premium",
+  "select": "Select",
+  "hostAsLocalCompetition": "Host as local competition:"
 }

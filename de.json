@@ -855,11 +855,12 @@
   "barogramRange": "Barogram Ausschnitt",
   "barogramRangeHelp": "Hier zoomen und verschieben um den Ausschnitt anzupassen",
   "thermals": "Thermiken",
-  "scoreAllFlightsAutomatically": "Alle Flüge automatisch werten:",
   "requiresPremium": "Premium benötigt",
   "off": "Aus",
   "collection": "Sammlung",
   "glidePhases": "Gleitphasen",
   "openInSkySight": "In SkySight öffnen",
-  "selectCollection": "Sammlung auswählen"
+  "selectCollection": "Sammlung auswählen",
+  "select": "Auswählen",
+  "hostAsLocalCompetition": "Als lokaler Wettbewerb:"
 }

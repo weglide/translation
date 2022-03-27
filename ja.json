@@ -856,8 +856,9 @@
   "likedCollections": "気に入ったコレクション",
   "off": "オフ",
   "requiresPremium": "プレミアムが必要",
-  "scoreAllFlightsAutomatically": "すべてのフライトを自動的にスコアリングします。",
   "singlePhases": "単相",
   "thermals": "サーマル",
-  "pinToTop": "上に固定"
+  "pinToTop": "上に固定",
+  "hostAsLocalCompetition": "ローカルコンテストとして主催：",
+  "select": "選択する"
 }

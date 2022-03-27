@@ -858,8 +858,9 @@
   "likedCollections": "Gostou das coleções",
   "off": "Fora",
   "requiresPremium": "Requer Premium",
-  "scoreAllFlightsAutomatically": "Pontue todos os voos automaticamente:",
   "singlePhases": "Fases únicas",
   "thermals": "Térmicas",
-  "pinToTop": "Fixar no topo"
+  "pinToTop": "Fixar no topo",
+  "hostAsLocalCompetition": "Anfitrião como competição local:",
+  "select": "Selecionar"
 }

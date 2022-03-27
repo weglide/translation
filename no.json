@@ -858,8 +858,9 @@
   "likedCollections": "Likte samlinger",
   "off": "Av",
   "requiresPremium": "Krever Premium",
-  "scoreAllFlightsAutomatically": "Poeng alle flyreiser automatisk:",
   "singlePhases": "Enkeltfaser",
   "thermals": "Termikk",
-  "pinToTop": "Fest til toppen"
+  "pinToTop": "Fest til toppen",
+  "hostAsLocalCompetition": "Vert som lokal konkurranse:",
+  "select": "Plukke ut"
 }

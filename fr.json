@@ -859,7 +859,8 @@
   "likedCollections": "Collections aimées",
   "off": "Désactivé",
   "requiresPremium": "Nécessite Premium",
-  "scoreAllFlightsAutomatically": "Marquez tous les vols automatiquement:",
   "singlePhases": "Monophasé",
-  "thermals": "Thermiques"
+  "thermals": "Thermiques",
+  "hostAsLocalCompetition": "Organisez une compétition locale:",
+  "select": "Sélectionner"
 }

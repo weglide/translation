@@ -859,7 +859,8 @@
   "likedCollections": "Gelikete collecties",
   "off": "Uit",
   "requiresPremium": "Vereist Premium",
-  "scoreAllFlightsAutomatically": "Scoor automatisch alle vluchten:",
   "singlePhases": "Enkele fasen",
-  "thermals": "Thermiek"
+  "thermals": "Thermiek",
+  "hostAsLocalCompetition": "Gastheer als lokale competitie:",
+  "select": "Selecteer"
 }

@@ -858,8 +858,9 @@
   "likedCollections": "Сподобалися колекції",
   "off": "Вимкнено",
   "requiresPremium": "Потрібен преміум",
-  "scoreAllFlightsAutomatically": "Автоматично оцінюйте всі рейси:",
   "singlePhases": "Поодинокі фази",
   "thermals": "Теплові",
-  "pinToTop": "Закріпіть зверху"
+  "pinToTop": "Закріпіть зверху",
+  "hostAsLocalCompetition": "Ведучий місцевий конкурс:",
+  "select": "Виберіть"
 }

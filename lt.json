@@ -858,8 +858,9 @@
   "likedCollections": "Patiko kolekcijos",
   "off": "Išjungta",
   "requiresPremium": "Reikalinga Premium",
-  "scoreAllFlightsAutomatically": "Įvertinkite visus skrydžius automatiškai:",
   "singlePhases": "Vienos fazės",
   "thermals": "Terminiai",
-  "pinToTop": "Prisegti prie viršaus"
+  "pinToTop": "Prisegti prie viršaus",
+  "hostAsLocalCompetition": "Rengėjas kaip vietinis konkursas:",
+  "select": "Pasirinkite"
 }
