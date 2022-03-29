@@ -862,5 +862,6 @@
   "off": "Off",
   "requiresPremium": "Requires Premium",
   "select": "Select",
-  "hostAsLocalCompetition": "Host as local competition:"
+  "hostAsLocalCompetition": "Host as local competition:",
+  "joshuaDescription": "Overland Expert"
 }
