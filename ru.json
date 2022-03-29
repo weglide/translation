@@ -862,5 +862,9 @@
   "thermals": "Термики",
   "pinToTop": "Закрепить вверху",
   "hostAsLocalCompetition": "Организовать местное соревнование:",
-  "select": "Выбирать"
+  "select": "Выбирать",
+  "hours": "Часы",
+  "minutes": "Минуты",
+  "seconds": "Секунды",
+  "joshuaDescription": "Сухопутный эксперт"
 }

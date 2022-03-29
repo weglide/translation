@@ -862,5 +862,9 @@
   "singlePhases": "Enkele fasen",
   "thermals": "Thermiek",
   "hostAsLocalCompetition": "Gastheer als lokale competitie:",
-  "select": "Selecteer"
+  "select": "Selecteer",
+  "hours": "Uren",
+  "minutes": "Minuten",
+  "seconds": "seconden",
+  "joshuaDescription": "Overland-expert"
 }

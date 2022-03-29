@@ -862,5 +862,9 @@
   "singlePhases": "Monophasé",
   "thermals": "Thermiques",
   "hostAsLocalCompetition": "Organisez une compétition locale:",
-  "select": "Sélectionner"
+  "select": "Sélectionner",
+  "hours": "Les heures",
+  "minutes": "Minutes",
+  "seconds": "Secondes",
+  "joshuaDescription": "Expert terrestre"
 }

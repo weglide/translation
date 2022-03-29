@@ -863,5 +863,8 @@
   "selectCollection": "Sammlung auswählen",
   "select": "Auswählen",
   "hostAsLocalCompetition": "Als lokaler Wettbewerb:",
-  "joshuaDescription": "Überland Experte"
+  "joshuaDescription": "Überland Experte",
+  "hours": "Stunden",
+  "minutes": "Minuten",
+  "seconds": "Sekunden"
 }

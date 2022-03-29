@@ -862,5 +862,9 @@
   "thermals": "Lämpötuotteet",
   "pinToTop": "Kiinnitä ylös",
   "hostAsLocalCompetition": "Isäntä paikallisena kilpailuna:",
-  "select": "Valitse"
+  "select": "Valitse",
+  "hours": "Tuntia",
+  "minutes": "Pöytäkirja",
+  "seconds": "Sekuntia",
+  "joshuaDescription": "Overland-asiantuntija"
 }

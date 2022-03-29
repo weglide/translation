@@ -862,5 +862,9 @@
   "thermals": "Térmicas",
   "pinToTop": "Fixar no topo",
   "hostAsLocalCompetition": "Anfitrião como competição local:",
-  "select": "Selecionar"
+  "select": "Selecionar",
+  "hours": "Horas",
+  "minutes": "Minutos",
+  "seconds": "Segundos",
+  "joshuaDescription": "Especialista em Terra"
 }

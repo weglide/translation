@@ -862,5 +862,9 @@
   "thermals": "Termální",
   "pinToTop": "Připnout nahoru",
   "hostAsLocalCompetition": "Hostit jako místní soutěž:",
-  "select": "Vybrat"
+  "select": "Vybrat",
+  "hours": "hodiny",
+  "minutes": "Minut",
+  "seconds": "Sekundy",
+  "joshuaDescription": "Pozemní expert"
 }

@@ -862,5 +862,9 @@
   "singlePhases": "Fases individuales",
   "thermals": "térmicas",
   "hostAsLocalCompetition": "Anfitrión como competencia local:",
-  "select": "Seleccione"
+  "select": "Seleccione",
+  "hours": "Horas",
+  "minutes": "Minutos",
+  "seconds": "Segundos",
+  "joshuaDescription": "Experto terrestre"
 }

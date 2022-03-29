@@ -862,5 +862,9 @@
   "thermals": "Termikk",
   "pinToTop": "Fest til toppen",
   "hostAsLocalCompetition": "Vert som lokal konkurranse:",
-  "select": "Plukke ut"
+  "select": "Plukke ut",
+  "hours": "Timer",
+  "minutes": "Minutter",
+  "seconds": "Sekunder",
+  "joshuaDescription": "Overland Expert"
 }

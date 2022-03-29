@@ -862,5 +862,9 @@
   "thermals": "Terminiai",
   "pinToTop": "Prisegti prie viršaus",
   "hostAsLocalCompetition": "Rengėjas kaip vietinis konkursas:",
-  "select": "Pasirinkite"
+  "select": "Pasirinkite",
+  "hours": "Valandos",
+  "minutes": "Minutės",
+  "seconds": "sekundės",
+  "joshuaDescription": "Overland ekspertas"
 }

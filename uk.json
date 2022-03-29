@@ -862,5 +862,9 @@
   "thermals": "Теплові",
   "pinToTop": "Закріпіть зверху",
   "hostAsLocalCompetition": "Ведучий місцевий конкурс:",
-  "select": "Виберіть"
+  "select": "Виберіть",
+  "hours": "годин",
+  "minutes": "Хвилини",
+  "seconds": "Секунди",
+  "joshuaDescription": "Експерт по суші"
 }

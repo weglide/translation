@@ -863,5 +863,8 @@
   "requiresPremium": "Requires Premium",
   "select": "Select",
   "hostAsLocalCompetition": "Host as local competition:",
-  "joshuaDescription": "Overland Expert"
+  "joshuaDescription": "Overland Expert",
+  "hours": "Hours",
+  "minutes": "Minutes",
+  "seconds": "Seconds"
 }

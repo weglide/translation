@@ -860,5 +860,9 @@
   "thermals": "サーマル",
   "pinToTop": "上に固定",
   "hostAsLocalCompetition": "ローカルコンテストとして主催：",
-  "select": "選択する"
+  "select": "選択する",
+  "hours": "時間",
+  "minutes": "分",
+  "seconds": "秒",
+  "joshuaDescription": "オーバーランドエキスパート"
 }
