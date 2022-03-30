@@ -875,5 +875,6 @@
   "switchPlan": "Abo wechseln",
   "updatePaymentInfo": "Zahlungsinformationen aktualisieren",
   "upgradeTeaser": "Ergänze dein WeGlide um einzigartige und leistungsstarke Funktionen.",
-  "yourPlan": "Dein Abonnement"
+  "yourPlan": "Dein Abonnement",
+  "scoreFilterPlaceholder": "Pilot, Verein, Klasse, Flugplatz …"
 }

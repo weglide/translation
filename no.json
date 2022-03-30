@@ -875,5 +875,6 @@
   "switchPlan": "Bytt abonnement",
   "updatePaymentInfo": "Oppdater betalingsinformasjon",
   "upgradeTeaser": "Oppgrader WeGlide-opplevelsen din med unike og kraftige funksjoner.",
-  "yourPlan": "Ditt abonnement"
+  "yourPlan": "Ditt abonnement",
+  "scoreFilterPlaceholder": "Pilot, klubb, klasse, flyplass …"
 }

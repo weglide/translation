@@ -875,5 +875,6 @@
   "switchPlan": "Zmień subskrypcję",
   "updatePaymentInfo": "Zaktualizuj informacje o płatności",
   "upgradeTeaser": "Ulepsz swoje wrażenia z WeGlide dzięki unikalnym i zaawansowanym funkcjom.",
-  "yourPlan": "Twoja subskrypcja"
+  "yourPlan": "Twoja subskrypcja",
+  "scoreFilterPlaceholder": "Pilot, klub, klasa, lotnisko…"
 }

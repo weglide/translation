@@ -875,5 +875,6 @@
   "billedYearly": "billed yearly",
   "perMonth": "per month",
   "yourPlan": "Your Subscription",
-  "recommended": "Recommended"
+  "recommended": "Recommended",
+  "scoreFilterPlaceholder": "Pilot, club, class, airfield …"
 }

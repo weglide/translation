@@ -875,5 +875,6 @@
   "switchPlan": "Vaihda tilausta",
   "updatePaymentInfo": "Päivitä maksutiedot",
   "upgradeTeaser": "Päivitä WeGlide-kokemuksesi ainutlaatuisilla ja tehokkailla ominaisuuksilla.",
-  "yourPlan": "Tilauksesi"
+  "yourPlan": "Tilauksesi",
+  "scoreFilterPlaceholder": "Lentäjä, klubi, luokka, lentokenttä…"
 }

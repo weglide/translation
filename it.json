@@ -875,5 +875,6 @@
   "switchPlan": "Cambia abbonamento",
   "updatePaymentInfo": "Aggiorna le informazioni di pagamento",
   "upgradeTeaser": "Migliora la tua esperienza WeGlide con funzionalità uniche e potenti.",
-  "yourPlan": "Il tuo abbonamento"
+  "yourPlan": "Il tuo abbonamento",
+  "scoreFilterPlaceholder": "Pilota, club, classe, aeroporto..."
 }
