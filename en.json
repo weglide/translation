@@ -876,5 +876,6 @@
   "perMonth": "per month",
   "yourPlan": "Your Subscription",
   "recommended": "Recommended",
-  "scoreFilterPlaceholder": "Pilot, club, class, airfield …"
+  "scoreFilterPlaceholder": "Pilot, club, class, airfield …",
+  "taskType": "Task type:"
 }

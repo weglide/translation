@@ -874,5 +874,6 @@
   "updatePaymentInfo": "支払い情報を更新する",
   "upgradeTeaser": "ユニークで強力な機能でWeGlide体験をアップグレードしてください。",
   "yourPlan": "サブスクリプション",
-  "scoreFilterPlaceholder": "パイロット、クラブ、クラス、飛行場…"
+  "scoreFilterPlaceholder": "パイロット、クラブ、クラス、飛行場…",
+  "taskType": "タスクタイプ："
 }

@@ -876,5 +876,6 @@
   "updatePaymentInfo": "Обновить платежную информацию",
   "upgradeTeaser": "Расширьте возможности WeGlide с помощью уникальных и мощных функций.",
   "yourPlan": "Ваша подписка",
-  "scoreFilterPlaceholder": "Пилот, клуб, класс, аэродром…"
+  "scoreFilterPlaceholder": "Пилот, клуб, класс, аэродром…",
+  "taskType": "Тип задачи:"
 }

@@ -876,5 +876,6 @@
   "updatePaymentInfo": "Mettre à jour les informations de paiement",
   "upgradeTeaser": "Améliorez votre expérience WeGlide avec des fonctionnalités uniques et puissantes.",
   "yourPlan": "Votre abonnement",
-  "scoreFilterPlaceholder": "Pilote, club, classe, aérodrome…"
+  "scoreFilterPlaceholder": "Pilote, club, classe, aérodrome…",
+  "taskType": "Type de tâche:"
 }
