@@ -877,5 +877,7 @@
   "upgradeTeaser": "Atnaujinkite savo WeGlide patirtį naudodami unikalias ir galingas funkcijas.",
   "yourPlan": "Jūsų prenumerata",
   "scoreFilterPlaceholder": "Pilotas, klubas, klasė, aerodromas…",
-  "taskType": "Užduoties tipas:"
+  "taskType": "Užduoties tipas:",
+  "localCompetition": "Vietinė konkurencija",
+  "minTime": "Minimalus laikas"
 }

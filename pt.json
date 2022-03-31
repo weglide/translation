@@ -877,5 +877,7 @@
   "upgradeTeaser": "Atualize sua experiência WeGlide com recursos exclusivos e poderosos.",
   "yourPlan": "Sua assinatura",
   "scoreFilterPlaceholder": "Piloto, clube, classe, aeródromo…",
-  "taskType": "Tipo de tarefa:"
+  "taskType": "Tipo de tarefa:",
+  "localCompetition": "Concorrência local",
+  "minTime": "Tempo mínimo"
 }

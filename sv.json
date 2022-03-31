@@ -877,5 +877,7 @@
   "upgradeTeaser": "Uppgradera din WeGlide-upplevelse med unika och kraftfulla funktioner.",
   "yourPlan": "Ditt abonnemang",
   "scoreFilterPlaceholder": "Pilot, klubb, klass, flygfält...",
-  "taskType": "Uppgiftstyp:"
+  "taskType": "Uppgiftstyp:",
+  "localCompetition": "Lokal tävling",
+  "minTime": "Minsta tid"
 }

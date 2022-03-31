@@ -877,5 +877,7 @@
   "yourPlan": "Your Subscription",
   "recommended": "Recommended",
   "scoreFilterPlaceholder": "Pilot, club, class, airfield …",
-  "taskType": "Task type:"
+  "taskType": "Task type:",
+  "localCompetition": "Local competition",
+  "minTime": "Minimum time"
 }

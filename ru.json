@@ -877,5 +877,7 @@
   "upgradeTeaser": "Расширьте возможности WeGlide с помощью уникальных и мощных функций.",
   "yourPlan": "Ваша подписка",
   "scoreFilterPlaceholder": "Пилот, клуб, класс, аэродром…",
-  "taskType": "Тип задачи:"
+  "taskType": "Тип задачи:",
+  "localCompetition": "Местный конкурс",
+  "minTime": "Минимальное время"
 }

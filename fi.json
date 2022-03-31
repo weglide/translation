@@ -877,5 +877,7 @@
   "upgradeTeaser": "Päivitä WeGlide-kokemuksesi ainutlaatuisilla ja tehokkailla ominaisuuksilla.",
   "yourPlan": "Tilauksesi",
   "scoreFilterPlaceholder": "Lentäjä, klubi, luokka, lentokenttä…",
-  "taskType": "Tehtävän tyyppi:"
+  "taskType": "Tehtävän tyyppi:",
+  "localCompetition": "Paikallinen kilpailu",
+  "minTime": "Minimi aika"
 }

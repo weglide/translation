@@ -877,5 +877,7 @@
   "upgradeTeaser": "Upgradujte svůj zážitek z WeGlide o jedinečné a výkonné funkce.",
   "yourPlan": "Vaše předplatné",
   "scoreFilterPlaceholder": "Pilot, klub, třída, letiště…",
-  "taskType": "Typ úkolu:"
+  "taskType": "Typ úkolu:",
+  "localCompetition": "Místní konkurence",
+  "minTime": "Minimální čas"
 }
