@@ -851,7 +851,7 @@
   "create": "Vytvořit",
   "custom": "Zvyk",
   "flightPhaseAnalysis": "Fázová analýza letu",
-  "gliderReplay": "Přehrání kluzáku",
+  "gliderReplay": "Denní přehrávání",
   "likedCollections": "Oblíbené kolekce",
   "off": "Vypnuto",
   "requiresPremium": "Vyžaduje Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilot, klub, třída, letiště…",
   "taskType": "Typ úkolu:",
   "localCompetition": "Místní konkurence",
-  "minTime": "Minimální čas"
+  "minTime": "Minimální čas",
+  "thanksFromTheTeam": "Díky od týmu!",
+  "gotIt": "Mám to"
 }

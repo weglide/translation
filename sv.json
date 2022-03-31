@@ -851,7 +851,7 @@
   "create": "Skapa",
   "custom": "Beställnings",
   "flightPhaseAnalysis": "Flygfasanalys",
-  "gliderReplay": "Repris av glidflygplan",
+  "gliderReplay": "Dagsrepris",
   "likedCollections": "Gillade samlingar",
   "off": "Av",
   "requiresPremium": "Kräver Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilot, klubb, klass, flygfält...",
   "taskType": "Uppgiftstyp:",
   "localCompetition": "Lokal tävling",
-  "minTime": "Minsta tid"
+  "minTime": "Minsta tid",
+  "thanksFromTheTeam": "Tack från teamet!",
+  "gotIt": "Jag fattar"
 }

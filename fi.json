@@ -851,7 +851,7 @@
   "create": "Luoda",
   "custom": "Mukautettu",
   "flightPhaseAnalysis": "Lentovaiheen analyysi",
-  "gliderReplay": "Purjelentokoneen toisto",
+  "gliderReplay": "Päivän toisto",
   "likedCollections": "Tykkäät kokoelmista",
   "off": "Vinossa",
   "requiresPremium": "Vaatii Premiumin",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Lentäjä, klubi, luokka, lentokenttä…",
   "taskType": "Tehtävän tyyppi:",
   "localCompetition": "Paikallinen kilpailu",
-  "minTime": "Minimi aika"
+  "minTime": "Minimi aika",
+  "thanksFromTheTeam": "Kiitos joukkueelta!",
+  "gotIt": "Sain sen"
 }

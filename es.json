@@ -852,7 +852,7 @@
   "create": "Crear",
   "custom": "Personalizado",
   "flightPhaseAnalysis": "Análisis de fase de vuelo",
-  "gliderReplay": "repetición del planeador",
+  "gliderReplay": "repetición del día",
   "likedCollections": "Colecciones que me gustaron",
   "off": "Apagado",
   "requiresPremium": "Requiere Prima",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Piloto, club, clase, aeródromo…",
   "taskType": "Tipo de tarea:",
   "localCompetition": "competencia local",
-  "minTime": "tiempo minimo"
+  "minTime": "tiempo minimo",
+  "thanksFromTheTeam": "¡Gracias del equipo!",
+  "gotIt": "Entiendo"
 }

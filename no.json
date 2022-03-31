@@ -851,7 +851,7 @@
   "create": "Skape",
   "custom": "Tilpasset",
   "flightPhaseAnalysis": "Flyfaseanalyse",
-  "gliderReplay": "Replay av glider",
+  "gliderReplay": "Replay av dagen",
   "likedCollections": "Likte samlinger",
   "off": "Av",
   "requiresPremium": "Krever Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilot, klubb, klasse, flyplass …",
   "taskType": "Oppgavetype:",
   "localCompetition": "Lokal konkurranse",
-  "minTime": "Minimum tid"
+  "minTime": "Minimum tid",
+  "thanksFromTheTeam": "Takk fra teamet!",
+  "gotIt": "Har det"
 }

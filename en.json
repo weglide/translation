@@ -850,7 +850,7 @@
   "likedCollections": "Liked collections",
   "collections": "Collections",
   "openInSkySight": "Open in SkySight",
-  "gliderReplay": "Glider replay",
+  "gliderReplay": "Day replay",
   "flightPhaseAnalysis": "Flight phase analysis",
   "singlePhases": "Single phases",
   "barogramRange": "Barogram range",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilot, club, class, airfield …",
   "taskType": "Task type:",
   "localCompetition": "Local competition",
-  "minTime": "Minimum time"
+  "minTime": "Minimum time",
+  "thanksFromTheTeam": "Thanks from the team!",
+  "gotIt": "Got it"
 }

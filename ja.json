@@ -849,7 +849,7 @@
   "create": "作成",
   "custom": "カスタム",
   "flightPhaseAnalysis": "飛行段階分析",
-  "gliderReplay": "グライダーのリプレイ",
+  "gliderReplay": "デイリプレイ",
   "likedCollections": "気に入ったコレクション",
   "off": "オフ",
   "requiresPremium": "プレミアムが必要",
@@ -877,5 +877,7 @@
   "scoreFilterPlaceholder": "パイロット、クラブ、クラス、飛行場…",
   "taskType": "タスクタイプ：",
   "localCompetition": "地元の競争",
-  "minTime": "最小時間"
+  "minTime": "最小時間",
+  "thanksFromTheTeam": "チームからありがとう！",
+  "gotIt": "とった"
 }

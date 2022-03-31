@@ -846,7 +846,7 @@
   "collections": "Sammlungen",
   "likedCollections": "Sammlungen mit Herz",
   "attempt": "Versuch",
-  "gliderReplay": "Verkehrsrückschau",
+  "gliderReplay": "Tagesrückschau",
   "flightPhaseAnalysis": "Flugphasen Analyse",
   "singlePhases": "Einzelne Phasen",
   "barogramRange": "Barogram Ausschnitt",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilot, Verein, Klasse, Flugplatz …",
   "taskType": "Aufgabentyp:",
   "localCompetition": "Lokaler Wettbewerb",
-  "minTime": "Mindestzeit"
+  "minTime": "Mindestzeit",
+  "thanksFromTheTeam": "Danke vom Team!",
+  "gotIt": "Alles klar"
 }

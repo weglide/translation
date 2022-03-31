@@ -851,7 +851,7 @@
   "create": "Crio",
   "custom": "Personalizado",
   "flightPhaseAnalysis": "Análise da fase de voo",
-  "gliderReplay": "Repetição do planador",
+  "gliderReplay": "Repetição do dia",
   "likedCollections": "Gostou das coleções",
   "off": "Fora",
   "requiresPremium": "Requer Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Piloto, clube, classe, aeródromo…",
   "taskType": "Tipo de tarefa:",
   "localCompetition": "Concorrência local",
-  "minTime": "Tempo mínimo"
+  "minTime": "Tempo mínimo",
+  "thanksFromTheTeam": "Obrigado da equipe!",
+  "gotIt": "Entendi"
 }

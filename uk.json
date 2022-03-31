@@ -851,7 +851,7 @@
   "create": "Створюйте",
   "custom": "На замовлення",
   "flightPhaseAnalysis": "Аналіз фаз польоту",
-  "gliderReplay": "Повторення планера",
+  "gliderReplay": "День повторення",
   "likedCollections": "Сподобалися колекції",
   "off": "Вимкнено",
   "requiresPremium": "Потрібен преміум",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Пілот, клуб, клас, аеродром…",
   "taskType": "Тип завдання:",
   "localCompetition": "Місцевий конкурс",
-  "minTime": "Мінімальний час"
+  "minTime": "Мінімальний час",
+  "thanksFromTheTeam": "Дякую від команди!",
+  "gotIt": "Зрозумів"
 }

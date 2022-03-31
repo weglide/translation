@@ -851,7 +851,7 @@
   "create": "Sukurti",
   "custom": "Pasirinktinis",
   "flightPhaseAnalysis": "Skrydžio fazės analizė",
-  "gliderReplay": "Sklandytuvo pakartojimas",
+  "gliderReplay": "Dienos pakartojimas",
   "likedCollections": "Patiko kolekcijos",
   "off": "Išjungta",
   "requiresPremium": "Reikalinga Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilotas, klubas, klasė, aerodromas…",
   "taskType": "Užduoties tipas:",
   "localCompetition": "Vietinė konkurencija",
-  "minTime": "Minimalus laikas"
+  "minTime": "Minimalus laikas",
+  "thanksFromTheTeam": "Ačiū iš komandos!",
+  "gotIt": "Supratau"
 }

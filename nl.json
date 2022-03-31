@@ -852,7 +852,7 @@
   "create": "Creëren",
   "custom": "Aangepast",
   "flightPhaseAnalysis": "Analyse vluchtfase",
-  "gliderReplay": "Zweefvliegtuig opnieuw afspelen",
+  "gliderReplay": "Dag herhaling",
   "likedCollections": "Gelikete collecties",
   "off": "Uit",
   "requiresPremium": "Vereist Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Piloot, club, klas, vliegveld …",
   "taskType": "Taaktype:",
   "localCompetition": "Lokale competitie",
-  "minTime": "Minimale tijd"
+  "minTime": "Minimale tijd",
+  "thanksFromTheTeam": "Bedankt van het team!",
+  "gotIt": "Ik snap het"
 }

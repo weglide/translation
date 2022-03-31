@@ -852,7 +852,7 @@
   "create": "Créer",
   "custom": "Personnalisé",
   "flightPhaseAnalysis": "Analyse des phases de vol",
-  "gliderReplay": "Rediffusion du planeur",
+  "gliderReplay": "Rediffusion du jour",
   "likedCollections": "Collections aimées",
   "off": "Désactivé",
   "requiresPremium": "Nécessite Premium",
@@ -879,5 +879,7 @@
   "scoreFilterPlaceholder": "Pilote, club, classe, aérodrome…",
   "taskType": "Type de tâche:",
   "localCompetition": "Concurrence locale",
-  "minTime": "Temps minimal"
+  "minTime": "Temps minimal",
+  "thanksFromTheTeam": "Merci de la part de l'équipe !",
+  "gotIt": "J'ai compris"
 }
