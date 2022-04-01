@@ -881,5 +881,9 @@
   "localCompetition": "Local competition",
   "minTime": "Minimum time",
   "thanksFromTheTeam": "Thanks from the team!",
-  "gotIt": "Got it"
+  "gotIt": "Got it",
+  "selected": "Selected",
+  "dueNow": "due now",
+  "takeNextStep": "Take the next step",
+  "futurePlans": "Learn about our future plans and how we want to advance gliding as a sport."
 }

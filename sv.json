@@ -881,5 +881,9 @@
   "localCompetition": "Lokal tävling",
   "minTime": "Minsta tid",
   "thanksFromTheTeam": "Tack från teamet!",
-  "gotIt": "Jag fattar"
+  "gotIt": "Jag fattar",
+  "dueNow": "ska vara inne nu",
+  "selected": "Vald",
+  "futurePlans": "Lär dig om våra framtidsplaner och hur vi vill utveckla segelflyg som sport.",
+  "takeNextStep": "Ta nästa steg"
 }

@@ -881,5 +881,9 @@
   "localCompetition": "Concurrence locale",
   "minTime": "Temps minimal",
   "thanksFromTheTeam": "Merci de la part de l'équipe !",
-  "gotIt": "J'ai compris"
+  "gotIt": "J'ai compris",
+  "dueNow": "pour tout de suite",
+  "selected": "Choisi",
+  "futurePlans": "Découvrez nos plans futurs et comment nous voulons faire progresser le vol à voile en tant que sport.",
+  "takeNextStep": "Passez à l'étape suivante"
 }

@@ -881,5 +881,9 @@
   "localCompetition": "Paikallinen kilpailu",
   "minTime": "Minimi aika",
   "thanksFromTheTeam": "Kiitos joukkueelta!",
-  "gotIt": "Sain sen"
+  "gotIt": "Sain sen",
+  "dueNow": "eräpäivä nyt",
+  "selected": "Valittu",
+  "futurePlans": "Ota selvää tulevaisuuden suunnitelmistamme ja siitä, miten haluamme edistää luistoa urheiluna.",
+  "takeNextStep": "Ota seuraava askel"
 }
