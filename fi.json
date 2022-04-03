@@ -885,5 +885,6 @@
   "dueNow": "eräpäivä nyt",
   "selected": "Valittu",
   "futurePlans": "Ota selvää tulevaisuuden suunnitelmistamme ja siitä, miten haluamme edistää luistoa urheiluna.",
-  "takeNextStep": "Ota seuraava askel"
+  "takeNextStep": "Ota seuraava askel",
+  "startCollectingFlights": "Aloita lentojen kerääminen tällä symbolilla"
 }

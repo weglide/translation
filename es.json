@@ -885,5 +885,6 @@
   "dueNow": "por ahora",
   "selected": "Seleccionado",
   "futurePlans": "Conozca nuestros planes futuros y cómo queremos hacer avanzar el vuelo sin motor como deporte.",
-  "takeNextStep": "Da el siguiente paso"
+  "takeNextStep": "Da el siguiente paso",
+  "startCollectingFlights": "Empieza a coleccionar vuelos con este símbolo"
 }

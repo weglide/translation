@@ -885,5 +885,6 @@
   "dueNow": "terminas dabar",
   "selected": "Pasirinkta",
   "futurePlans": "Sužinokite apie mūsų ateities planus ir apie tai, kaip norime sklandyti kaip sporto šaką.",
-  "takeNextStep": "Ženkite kitą žingsnį"
+  "takeNextStep": "Ženkite kitą žingsnį",
+  "startCollectingFlights": "Su šiuo simboliu pradėkite rinkti skrydžius"
 }

@@ -883,5 +883,6 @@
   "dueNow": "今期",
   "selected": "選択済み",
   "futurePlans": "私たちの将来の計画と、スポーツとしての滑走をどのように進めたいかについて学びましょう。",
-  "takeNextStep": "次のステップに進む"
+  "takeNextStep": "次のステップに進む",
+  "startCollectingFlights": "この記号でフライトの収集を開始します"
 }
