@@ -886,5 +886,8 @@
   "selected": "Ausgewählt",
   "futurePlans": "Erfahren mehr über unsere Zukunftspläne und wie wir den Segelflug voranbringen wollen.",
   "takeNextStep": "Gehe den nächsten Schritt",
-  "startCollectingFlights": "Sammel Flüge mit diesem Symbol"
+  "startCollectingFlights": "Sammel Flüge mit diesem Symbol",
+  "couldNotConnectToLive": "Es konnte keine Verbindung zum Livetracking hergestellt werden",
+  "flightNoLongerAvailable": "Flug nicht mehr verfügbar",
+  "competitionNoLongerAvailable": "Wettbewerb nicht mehr verfügbar"
 }

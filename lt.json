@@ -886,5 +886,8 @@
   "selected": "Pasirinkta",
   "futurePlans": "Sužinokite apie mūsų ateities planus ir apie tai, kaip norime sklandyti kaip sporto šaką.",
   "takeNextStep": "Ženkite kitą žingsnį",
-  "startCollectingFlights": "Su šiuo simboliu pradėkite rinkti skrydžius"
+  "startCollectingFlights": "Su šiuo simboliu pradėkite rinkti skrydžius",
+  "couldNotConnectToLive": "Nepavyko prisijungti prie tiesioginio stebėjimo",
+  "flightNoLongerAvailable": "Skrydis nebepasiekiamas",
+  "competitionNoLongerAvailable": "Konkursas nebepasiekiamas"
 }

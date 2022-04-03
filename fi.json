@@ -886,5 +886,8 @@
   "selected": "Valittu",
   "futurePlans": "Ota selvää tulevaisuuden suunnitelmistamme ja siitä, miten haluamme edistää luistoa urheiluna.",
   "takeNextStep": "Ota seuraava askel",
-  "startCollectingFlights": "Aloita lentojen kerääminen tällä symbolilla"
+  "startCollectingFlights": "Aloita lentojen kerääminen tällä symbolilla",
+  "couldNotConnectToLive": "Ei saatu yhteyttä live-seurantaan",
+  "flightNoLongerAvailable": "Lento ei ole enää saatavilla",
+  "competitionNoLongerAvailable": "Kilpailu ei ole enää saatavilla"
 }

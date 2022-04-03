@@ -886,5 +886,8 @@
   "selected": "Wybrany",
   "futurePlans": "Dowiedz się o naszych planach na przyszłość i o tym, jak chcemy rozwijać szybownictwo jako sport.",
   "takeNextStep": "Zrób następny krok",
-  "startCollectingFlights": "Zacznij zbierać loty z tym symbolem"
+  "startCollectingFlights": "Zacznij zbierać loty z tym symbolem",
+  "couldNotConnectToLive": "Nie udało się połączyć ze śledzeniem na żywo",
+  "flightNoLongerAvailable": "Lot nie jest już dostępny",
+  "competitionNoLongerAvailable": "Konkurs nie jest już dostępny"
 }

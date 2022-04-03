@@ -886,5 +886,8 @@
   "selected": "Vybraný",
   "futurePlans": "Přečtěte si o našich plánech do budoucna a o tom, jak chceme posunout plachtění jako sport.",
   "takeNextStep": "Udělejte další krok",
-  "startCollectingFlights": "Začněte sbírat lety s tímto symbolem"
+  "startCollectingFlights": "Začněte sbírat lety s tímto symbolem",
+  "couldNotConnectToLive": "Nelze se připojit k živému sledování",
+  "flightNoLongerAvailable": "Let již není dostupný",
+  "competitionNoLongerAvailable": "Soutěž již není k dispozici"
 }

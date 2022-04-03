@@ -886,5 +886,8 @@
   "dueNow": "due now",
   "takeNextStep": "Take the next step",
   "futurePlans": "Learn about our future plans and how we want to advance gliding as a sport.",
-  "startCollectingFlights": "Start collecting flights with this symbol"
+  "startCollectingFlights": "Start collecting flights with this symbol",
+  "couldNotConnectToLive": "Could not connect to livetracking",
+  "flightNoLongerAvailable": "Flight no longer available",
+  "competitionNoLongerAvailable": "Competition no longer available"
 }

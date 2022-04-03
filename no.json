@@ -886,5 +886,8 @@
   "selected": "Valgt",
   "futurePlans": "Lær om våre fremtidsplaner og hvordan vi ønsker å fremme gliding som en sport.",
   "takeNextStep": "Ta neste steg",
-  "startCollectingFlights": "Begynn å samle flyreiser med dette symbolet"
+  "startCollectingFlights": "Begynn å samle flyreiser med dette symbolet",
+  "couldNotConnectToLive": "Kunne ikke koble til livetracking",
+  "flightNoLongerAvailable": "Flyvningen er ikke lenger tilgjengelig",
+  "competitionNoLongerAvailable": "Konkurransen er ikke lenger tilgjengelig"
 }

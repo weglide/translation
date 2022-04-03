@@ -886,5 +886,8 @@
   "selected": "Choisi",
   "futurePlans": "Découvrez nos plans futurs et comment nous voulons faire progresser le vol à voile en tant que sport.",
   "takeNextStep": "Passez à l'étape suivante",
-  "startCollectingFlights": "Commencez à collecter des vols avec ce symbole"
+  "startCollectingFlights": "Commencez à collecter des vols avec ce symbole",
+  "couldNotConnectToLive": "Impossible de se connecter au livetracking",
+  "flightNoLongerAvailable": "Le vol n'est plus disponible",
+  "competitionNoLongerAvailable": "Le concours n'est plus disponible"
 }

@@ -886,5 +886,8 @@
   "selected": "Vald",
   "futurePlans": "Lär dig om våra framtidsplaner och hur vi vill utveckla segelflyg som sport.",
   "takeNextStep": "Ta nästa steg",
-  "startCollectingFlights": "Börja samla in flygningar med denna symbol"
+  "startCollectingFlights": "Börja samla in flygningar med denna symbol",
+  "couldNotConnectToLive": "Det gick inte att ansluta till livetracking",
+  "flightNoLongerAvailable": "Flyg inte längre tillgängligt",
+  "competitionNoLongerAvailable": "Tävlingen är inte längre tillgänglig"
 }

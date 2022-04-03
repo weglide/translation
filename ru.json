@@ -886,5 +886,8 @@
   "selected": "Выбрано",
   "futurePlans": "Узнайте о наших планах на будущее и о том, как мы хотим продвигать планеризм как вид спорта.",
   "takeNextStep": "Сделайте следующий шаг",
-  "startCollectingFlights": "Начать собирать рейсы с этим символом"
+  "startCollectingFlights": "Начать собирать рейсы с этим символом",
+  "couldNotConnectToLive": "Не удалось подключиться к отслеживанию в реальном времени",
+  "flightNoLongerAvailable": "Рейс больше не доступен",
+  "competitionNoLongerAvailable": "Конкурс больше не доступен"
 }
