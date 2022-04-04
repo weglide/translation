@@ -895,5 +895,6 @@
   "startTaskPlanning": "Виберіть початкове місце на карті",
   "afterTrialInfo": "{price} на рік після цього, якщо не скасовано",
   "startFreeTrial": "Безкоштовне випробування",
-  "trialPeriod": "14 днів безкоштовно"
+  "trialPeriod": "14 днів безкоштовно",
+  "featuresExplanation": "Дізнайтеся більше про функції."
 }

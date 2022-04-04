@@ -895,5 +895,6 @@
   "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą",
   "afterTrialInfo": "{price} per metus vėliau, jei neatšauksite",
   "startFreeTrial": "Nemokamas bandymas",
-  "trialPeriod": "14 dienų nemokamai"
+  "trialPeriod": "14 dienų nemokamai",
+  "featuresExplanation": "Sužinokite daugiau apie funkcijas."
 }

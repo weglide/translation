@@ -893,5 +893,6 @@
   "startTaskPlanning": "地図上で開始場所を選択します",
   "afterTrialInfo": "その後、キャンセルしない場合は年{price}ドル",
   "startFreeTrial": "無料トライアル",
-  "trialPeriod": "14日間無料"
+  "trialPeriod": "14日間無料",
+  "featuresExplanation": "機能の詳細をご覧ください。"
 }

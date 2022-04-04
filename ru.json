@@ -895,5 +895,6 @@
   "startTaskPlanning": "Выберите начальную точку на карте",
   "afterTrialInfo": "{price} в год после этого, если не отменить",
   "startFreeTrial": "Бесплатная пробная версия",
-  "trialPeriod": "14 дней бесплатно"
+  "trialPeriod": "14 дней бесплатно",
+  "featuresExplanation": "Узнайте больше о функциях."
 }

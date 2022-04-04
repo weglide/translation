@@ -895,5 +895,6 @@
   "offline": "Offline",
   "startFreeTrial": "Start free trial",
   "trialPeriod": "14 days free",
-  "afterTrialInfo": "{price} per year afterwards, if not canceled"
+  "afterTrialInfo": "{price} per year afterwards, if not canceled",
+  "featuresExplanation": "Learn more about the features."
 }

@@ -895,5 +895,6 @@
   "startTaskPlanning": "Selecione um local de partida no mapa",
   "afterTrialInfo": "{price} por ano depois, se não for cancelado",
   "startFreeTrial": "Teste grátis",
-  "trialPeriod": "14 dias grátis"
+  "trialPeriod": "14 dias grátis",
+  "featuresExplanation": "Saiba mais sobre os recursos."
 }

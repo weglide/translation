@@ -895,5 +895,6 @@
   "startTaskPlanning": "Valitse aloituspaikka kartalta",
   "afterTrialInfo": "{price} vuodessa sen jälkeen, jos sitä ei peruuteta",
   "startFreeTrial": "Ilmainen kokeilu",
-  "trialPeriod": "14 päivää ilmaiseksi"
+  "trialPeriod": "14 päivää ilmaiseksi",
+  "featuresExplanation": "Lisätietoja ominaisuuksista."
 }

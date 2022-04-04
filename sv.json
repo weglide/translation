@@ -895,5 +895,6 @@
   "startTaskPlanning": "Välj en startplats på kartan",
   "afterTrialInfo": "{price} per år efteråt, om inte avbokning",
   "startFreeTrial": "Gratis provperiod",
-  "trialPeriod": "14 dagar gratis"
+  "trialPeriod": "14 dagar gratis",
+  "featuresExplanation": "Läs mer om funktionerna."
 }

@@ -895,5 +895,6 @@
   "startTaskPlanning": "Selecteer een startlocatie op de kaart",
   "afterTrialInfo": "{price} per jaar daarna, indien niet geannuleerd",
   "startFreeTrial": "Gratis proefperiode",
-  "trialPeriod": "14 dagen gratis"
+  "trialPeriod": "14 dagen gratis",
+  "featuresExplanation": "Lees meer over de functies."
 }
