@@ -889,5 +889,9 @@
   "startCollectingFlights": "Su šiuo simboliu pradėkite rinkti skrydžius",
   "couldNotConnectToLive": "Nepavyko prisijungti prie tiesioginio stebėjimo",
   "flightNoLongerAvailable": "Skrydis nebepasiekiamas",
-  "competitionNoLongerAvailable": "Konkursas nebepasiekiamas"
+  "competitionNoLongerAvailable": "Konkursas nebepasiekiamas",
+  "arrival": "Atvykimas",
+  "noCertificatesYet": "Dar nėra sertifikatų, pradėkite įkelti skrydžius, kad uždirbtumėte pirmąjį.",
+  "offline": "Neprisijungus",
+  "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą"
 }

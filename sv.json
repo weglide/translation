@@ -889,5 +889,9 @@
   "startCollectingFlights": "Börja samla in flygningar med denna symbol",
   "couldNotConnectToLive": "Det gick inte att ansluta till livetracking",
   "flightNoLongerAvailable": "Flyg inte längre tillgängligt",
-  "competitionNoLongerAvailable": "Tävlingen är inte längre tillgänglig"
+  "competitionNoLongerAvailable": "Tävlingen är inte längre tillgänglig",
+  "arrival": "Ankomst",
+  "noCertificatesYet": "Inga certifikat än, börja ladda upp flyg för att få ditt första.",
+  "offline": "Off-line",
+  "startTaskPlanning": "Välj en startplats på kartan"
 }

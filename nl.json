@@ -889,5 +889,9 @@
   "startCollectingFlights": "Begin met het verzamelen van vluchten met dit symbool",
   "couldNotConnectToLive": "Kan geen verbinding maken met livetracking",
   "flightNoLongerAvailable": "Vlucht niet meer beschikbaar",
-  "competitionNoLongerAvailable": "Competitie niet meer beschikbaar"
+  "competitionNoLongerAvailable": "Competitie niet meer beschikbaar",
+  "arrival": "Aankomst",
+  "noCertificatesYet": "Nog geen certificaten, begin met het uploaden van vluchten om uw eerste te verdienen.",
+  "offline": "offline",
+  "startTaskPlanning": "Selecteer een startlocatie op de kaart"
 }

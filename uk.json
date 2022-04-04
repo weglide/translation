@@ -889,5 +889,9 @@
   "startCollectingFlights": "Почніть збирати рейси з цим символом",
   "couldNotConnectToLive": "Не вдалося підключитися до відстеження в реальному часі",
   "flightNoLongerAvailable": "Рейс більше не доступний",
-  "competitionNoLongerAvailable": "Конкурс більше недоступний"
+  "competitionNoLongerAvailable": "Конкурс більше недоступний",
+  "arrival": "Прибуття",
+  "noCertificatesYet": "Ще немає сертифікатів, почніть завантажувати авіарейси, щоб отримати свій перший.",
+  "offline": "Офлайн",
+  "startTaskPlanning": "Виберіть початкове місце на карті"
 }

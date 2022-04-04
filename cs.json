@@ -889,5 +889,9 @@
   "startCollectingFlights": "Začněte sbírat lety s tímto symbolem",
   "couldNotConnectToLive": "Nelze se připojit k živému sledování",
   "flightNoLongerAvailable": "Let již není dostupný",
-  "competitionNoLongerAvailable": "Soutěž již není k dispozici"
+  "competitionNoLongerAvailable": "Soutěž již není k dispozici",
+  "arrival": "Příchod",
+  "noCertificatesYet": "Zatím žádné certifikáty, začněte nahrávat lety a získejte svůj první.",
+  "offline": "Offline",
+  "startTaskPlanning": "Vyberte výchozí místo na mapě"
 }

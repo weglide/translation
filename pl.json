@@ -889,5 +889,9 @@
   "startCollectingFlights": "Zacznij zbierać loty z tym symbolem",
   "couldNotConnectToLive": "Nie udało się połączyć ze śledzeniem na żywo",
   "flightNoLongerAvailable": "Lot nie jest już dostępny",
-  "competitionNoLongerAvailable": "Konkurs nie jest już dostępny"
+  "competitionNoLongerAvailable": "Konkurs nie jest już dostępny",
+  "arrival": "Przyjazd",
+  "noCertificatesYet": "Nie masz jeszcze certyfikatów, zacznij przesyłać loty, aby zdobyć swój pierwszy.",
+  "offline": "Offline",
+  "startTaskPlanning": "Wybierz lokalizację początkową na mapie"
 }

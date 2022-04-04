@@ -889,5 +889,9 @@
   "startCollectingFlights": "Empieza a coleccionar vuelos con este símbolo",
   "couldNotConnectToLive": "No se pudo conectar al seguimiento en vivo",
   "flightNoLongerAvailable": "Vuelo ya no disponible",
-  "competitionNoLongerAvailable": "La competencia ya no está disponible"
+  "competitionNoLongerAvailable": "La competencia ya no está disponible",
+  "arrival": "Llegada",
+  "noCertificatesYet": "Aún no hay certificados, comience a cargar vuelos para obtener el primero.",
+  "offline": "Desconectado",
+  "startTaskPlanning": "Seleccione una ubicación de inicio en el mapa"
 }

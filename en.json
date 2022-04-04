@@ -889,5 +889,9 @@
   "startCollectingFlights": "Start collecting flights with this symbol",
   "couldNotConnectToLive": "Could not connect to livetracking",
   "flightNoLongerAvailable": "Flight no longer available",
-  "competitionNoLongerAvailable": "Competition no longer available"
+  "competitionNoLongerAvailable": "Competition no longer available",
+  "startTaskPlanning": "Select a starting location on the map",
+  "arrival": "Arrival",
+  "noCertificatesYet": "No certificates yet, start uploading flights to earn your first one.",
+  "offline": "Offline"
 }

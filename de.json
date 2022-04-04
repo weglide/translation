@@ -889,5 +889,9 @@
   "startCollectingFlights": "Sammel Flüge mit diesem Symbol",
   "couldNotConnectToLive": "Es konnte keine Verbindung zum Livetracking hergestellt werden",
   "flightNoLongerAvailable": "Flug nicht mehr verfügbar",
-  "competitionNoLongerAvailable": "Wettbewerb nicht mehr verfügbar"
+  "competitionNoLongerAvailable": "Wettbewerb nicht mehr verfügbar",
+  "arrival": "Ankunft",
+  "noCertificatesYet": "Noch keine Zertifikate, beginne mit dem Hochladen von Flügen, um dein erstes Zertifikat zu erhalten.",
+  "offline": "Offline",
+  "startTaskPlanning": "Wähle einen Startort auf der Karte aus"
 }

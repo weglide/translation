@@ -889,5 +889,9 @@
   "startCollectingFlights": "Begynn å samle flyreiser med dette symbolet",
   "couldNotConnectToLive": "Kunne ikke koble til livetracking",
   "flightNoLongerAvailable": "Flyvningen er ikke lenger tilgjengelig",
-  "competitionNoLongerAvailable": "Konkurransen er ikke lenger tilgjengelig"
+  "competitionNoLongerAvailable": "Konkurransen er ikke lenger tilgjengelig",
+  "arrival": "Ankomst",
+  "noCertificatesYet": "Ingen sertifikater ennå, begynn å laste opp flyreiser for å få din første.",
+  "offline": "Frakoblet",
+  "startTaskPlanning": "Velg et startsted på kartet"
 }

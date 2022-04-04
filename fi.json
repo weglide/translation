@@ -889,5 +889,9 @@
   "startCollectingFlights": "Aloita lentojen kerääminen tällä symbolilla",
   "couldNotConnectToLive": "Ei saatu yhteyttä live-seurantaan",
   "flightNoLongerAvailable": "Lento ei ole enää saatavilla",
-  "competitionNoLongerAvailable": "Kilpailu ei ole enää saatavilla"
+  "competitionNoLongerAvailable": "Kilpailu ei ole enää saatavilla",
+  "arrival": "Saapuminen",
+  "noCertificatesYet": "Ei vielä todistuksia. Aloita lentojen lataaminen ansaitaksesi ensimmäisen.",
+  "offline": "Offline-tilassa",
+  "startTaskPlanning": "Valitse aloituspaikka kartalta"
 }

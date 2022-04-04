@@ -889,5 +889,9 @@
   "startCollectingFlights": "Inizia a raccogliere voli con questo simbolo",
   "couldNotConnectToLive": "Impossibile connettersi al livetracking",
   "flightNoLongerAvailable": "Volo non più disponibile",
-  "competitionNoLongerAvailable": "Concorso non più disponibile"
+  "competitionNoLongerAvailable": "Concorso non più disponibile",
+  "arrival": "Arrivo",
+  "noCertificatesYet": "Nessun certificato ancora, inizia a caricare i voli per guadagnare il tuo primo.",
+  "offline": "disconnesso",
+  "startTaskPlanning": "Seleziona una posizione di partenza sulla mappa"
 }
