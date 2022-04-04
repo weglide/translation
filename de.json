@@ -864,7 +864,7 @@
   "hours": "Stunden",
   "minutes": "Minuten",
   "seconds": "Sekunden",
-  "automaticExpiration": "Das Abonnement wird gekündigt und läuft am {date} ab, Du kannst danach erneut abonnieren.",
+  "automaticExpiration": "Das Abonnement wird gekündigt und läuft am {date} ab, du kannst danach erneut abonnieren.",
   "automaticRenewal": "Das Abonnement ist aktiv und wird am {date} verlängert.",
   "billedYearly": "jährlich abgerechnet",
   "currentPlan": "Du hast {plan} abonniert.",
@@ -881,9 +881,8 @@
   "localCompetition": "Lokaler Wettbewerb",
   "minTime": "Mindestzeit",
   "thanksFromTheTeam": "Danke vom Team!",
-  "gotIt": "Alles klar",
   "selected": "Ausgewählt",
-  "futurePlans": "Erfahren mehr über unsere Zukunftspläne und wie wir den Segelflug voranbringen wollen.",
+  "futurePlans": "Erfahre mehr über unsere Zukunftspläne und wie wir den Segelflug voranbringen wollen.",
   "takeNextStep": "Gehe den nächsten Schritt",
   "startCollectingFlights": "Sammel Flüge mit diesem Symbol",
   "couldNotConnectToLive": "Es konnte keine Verbindung zum Livetracking hergestellt werden",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "Danach {price} pro Jahr, falls nicht gekündigt",
   "startFreeTrial": "Kostenlos testen",
   "trialPeriod": "14 Tage kostenlos",
-  "featuresExplanation": "Erfahre mehr über die Funktionen."
+  "featuresExplanation": "Erfahre mehr über die Funktionen.",
+  "showMeTheStatisticsList": "Zeig mir die Statistikliste"
 }

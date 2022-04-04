@@ -879,7 +879,6 @@
   "localCompetition": "地元の競争",
   "minTime": "最小時間",
   "thanksFromTheTeam": "チームからありがとう！",
-  "gotIt": "とった",
   "selected": "選択済み",
   "futurePlans": "私たちの将来の計画と、スポーツとしての滑走をどのように進めたいかについて学びましょう。",
   "takeNextStep": "次のステップに進む",
@@ -894,5 +893,6 @@
   "afterTrialInfo": "その後、キャンセルしない場合は年{price}ドル",
   "startFreeTrial": "無料トライアル",
   "trialPeriod": "14日間無料",
-  "featuresExplanation": "機能の詳細をご覧ください。"
+  "featuresExplanation": "機能の詳細をご覧ください。",
+  "showMeTheStatisticsList": "統計リストを見せて"
 }

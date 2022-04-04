@@ -881,7 +881,6 @@
   "localCompetition": "Paikallinen kilpailu",
   "minTime": "Minimi aika",
   "thanksFromTheTeam": "Kiitos joukkueelta!",
-  "gotIt": "Sain sen",
   "selected": "Valittu",
   "futurePlans": "Ota selvää tulevaisuuden suunnitelmistamme ja siitä, miten haluamme edistää luistoa urheiluna.",
   "takeNextStep": "Ota seuraava askel",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} vuodessa sen jälkeen, jos sitä ei peruuteta",
   "startFreeTrial": "Ilmainen kokeilu",
   "trialPeriod": "14 päivää ilmaiseksi",
-  "featuresExplanation": "Lisätietoja ominaisuuksista."
+  "featuresExplanation": "Lisätietoja ominaisuuksista.",
+  "showMeTheStatisticsList": "Näytä minulle tilastoluettelo"
 }

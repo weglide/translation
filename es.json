@@ -881,7 +881,6 @@
   "localCompetition": "competencia local",
   "minTime": "tiempo minimo",
   "thanksFromTheTeam": "¡Gracias del equipo!",
-  "gotIt": "Entiendo",
   "selected": "Seleccionado",
   "futurePlans": "Conozca nuestros planes futuros y cómo queremos hacer avanzar el vuelo sin motor como deporte.",
   "takeNextStep": "Da el siguiente paso",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} por año después, si no se cancela",
   "startFreeTrial": "Prueba gratis",
   "trialPeriod": "14 días gratis",
-  "featuresExplanation": "Obtenga más información sobre las características."
+  "featuresExplanation": "Obtenga más información sobre las características.",
+  "showMeTheStatisticsList": "La lista de estadísticas"
 }

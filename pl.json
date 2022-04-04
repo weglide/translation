@@ -881,7 +881,6 @@
   "localCompetition": "Konkurs lokalny",
   "minTime": "Minimalny czas",
   "thanksFromTheTeam": "Dzięki od zespołu!",
-  "gotIt": "Rozumiem",
   "selected": "Wybrany",
   "futurePlans": "Dowiedz się o naszych planach na przyszłość i o tym, jak chcemy rozwijać szybownictwo jako sport.",
   "takeNextStep": "Zrób następny krok",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} rocznie później, jeśli nie zostanie anulowany",
   "startFreeTrial": "Bezpłatna wersja próbna",
   "trialPeriod": "14 dni za darmo",
-  "featuresExplanation": "Dowiedz się więcej o funkcjach."
+  "featuresExplanation": "Dowiedz się więcej o funkcjach.",
+  "showMeTheStatisticsList": "Pokaż mi listę statystyk"
 }

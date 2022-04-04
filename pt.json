@@ -881,7 +881,6 @@
   "localCompetition": "Concorrência local",
   "minTime": "Tempo mínimo",
   "thanksFromTheTeam": "Obrigado da equipe!",
-  "gotIt": "Entendi",
   "selected": "Selecionado",
   "futurePlans": "Saiba mais sobre nossos planos futuros e como queremos avançar no vôo livre como esporte.",
   "takeNextStep": "Dê o próximo passo",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} por ano depois, se não for cancelado",
   "startFreeTrial": "Teste grátis",
   "trialPeriod": "14 dias grátis",
-  "featuresExplanation": "Saiba mais sobre os recursos."
+  "featuresExplanation": "Saiba mais sobre os recursos.",
+  "showMeTheStatisticsList": "Mostre-me a lista de estatísticas"
 }

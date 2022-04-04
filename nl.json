@@ -881,7 +881,6 @@
   "localCompetition": "Lokale competitie",
   "minTime": "Minimale tijd",
   "thanksFromTheTeam": "Bedankt van het team!",
-  "gotIt": "Ik snap het",
   "selected": "Geselecteerd",
   "futurePlans": "Lees meer over onze toekomstplannen en hoe we zweefvliegen als sport willen bevorderen.",
   "takeNextStep": "Zet de volgende stap",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} per jaar daarna, indien niet geannuleerd",
   "startFreeTrial": "Gratis proefperiode",
   "trialPeriod": "14 dagen gratis",
-  "featuresExplanation": "Lees meer over de functies."
+  "featuresExplanation": "Lees meer over de functies.",
+  "showMeTheStatisticsList": "Laat me de statistiekenlijst zien"
 }

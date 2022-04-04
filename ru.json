@@ -881,7 +881,6 @@
   "localCompetition": "Местный конкурс",
   "minTime": "Минимальное время",
   "thanksFromTheTeam": "Спасибо от команды!",
-  "gotIt": "Понятно",
   "selected": "Выбрано",
   "futurePlans": "Узнайте о наших планах на будущее и о том, как мы хотим продвигать планеризм как вид спорта.",
   "takeNextStep": "Сделайте следующий шаг",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} в год после этого, если не отменить",
   "startFreeTrial": "Бесплатная пробная версия",
   "trialPeriod": "14 дней бесплатно",
-  "featuresExplanation": "Узнайте больше о функциях."
+  "featuresExplanation": "Узнайте больше о функциях.",
+  "showMeTheStatisticsList": "Покажите мне список статистики"
 }

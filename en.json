@@ -881,7 +881,6 @@
   "localCompetition": "Local competition",
   "minTime": "Minimum time",
   "thanksFromTheTeam": "Thanks from the team!",
-  "gotIt": "Got it",
   "selected": "Selected",
   "takeNextStep": "Take the next step",
   "futurePlans": "Learn about our future plans and how we want to advance gliding as a sport.",
@@ -896,5 +895,6 @@
   "startFreeTrial": "Start free trial",
   "trialPeriod": "14 days free",
   "afterTrialInfo": "{price} per year afterwards, if not canceled",
-  "featuresExplanation": "Learn more about the features."
+  "featuresExplanation": "Learn more about the features.",
+  "showMeTheStatisticsList": "Show me the statistics list"
 }

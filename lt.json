@@ -881,7 +881,6 @@
   "localCompetition": "Vietinė konkurencija",
   "minTime": "Minimalus laikas",
   "thanksFromTheTeam": "Ačiū iš komandos!",
-  "gotIt": "Supratau",
   "selected": "Pasirinkta",
   "futurePlans": "Sužinokite apie mūsų ateities planus ir apie tai, kaip norime sklandyti kaip sporto šaką.",
   "takeNextStep": "Ženkite kitą žingsnį",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} per metus vėliau, jei neatšauksite",
   "startFreeTrial": "Nemokamas bandymas",
   "trialPeriod": "14 dienų nemokamai",
-  "featuresExplanation": "Sužinokite daugiau apie funkcijas."
+  "featuresExplanation": "Sužinokite daugiau apie funkcijas.",
+  "showMeTheStatisticsList": "Parodyk statistikos sąrašą"
 }

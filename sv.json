@@ -881,7 +881,6 @@
   "localCompetition": "Lokal tävling",
   "minTime": "Minsta tid",
   "thanksFromTheTeam": "Tack från teamet!",
-  "gotIt": "Jag fattar",
   "selected": "Vald",
   "futurePlans": "Lär dig om våra framtidsplaner och hur vi vill utveckla segelflyg som sport.",
   "takeNextStep": "Ta nästa steg",
@@ -896,5 +895,6 @@
   "afterTrialInfo": "{price} per år efteråt, om inte avbokning",
   "startFreeTrial": "Gratis provperiod",
   "trialPeriod": "14 dagar gratis",
-  "featuresExplanation": "Läs mer om funktionerna."
+  "featuresExplanation": "Läs mer om funktionerna.",
+  "showMeTheStatisticsList": "Visa mig statistiklistan"
 }
