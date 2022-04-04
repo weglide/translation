@@ -882,7 +882,6 @@
   "minTime": "tiempo minimo",
   "thanksFromTheTeam": "¡Gracias del equipo!",
   "gotIt": "Entiendo",
-  "dueNow": "por ahora",
   "selected": "Seleccionado",
   "futurePlans": "Conozca nuestros planes futuros y cómo queremos hacer avanzar el vuelo sin motor como deporte.",
   "takeNextStep": "Da el siguiente paso",
@@ -893,5 +892,8 @@
   "arrival": "Llegada",
   "noCertificatesYet": "Aún no hay certificados, comience a cargar vuelos para obtener el primero.",
   "offline": "Desconectado",
-  "startTaskPlanning": "Seleccione una ubicación de inicio en el mapa"
+  "startTaskPlanning": "Seleccione una ubicación de inicio en el mapa",
+  "afterTrialInfo": "{price} por año después, si no se cancela",
+  "startFreeTrial": "Prueba gratis",
+  "trialPeriod": "14 días gratis"
 }

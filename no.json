@@ -882,7 +882,6 @@
   "minTime": "Minimum tid",
   "thanksFromTheTeam": "Takk fra teamet!",
   "gotIt": "Har det",
-  "dueNow": "forfaller nå",
   "selected": "Valgt",
   "futurePlans": "Lær om våre fremtidsplaner og hvordan vi ønsker å fremme gliding som en sport.",
   "takeNextStep": "Ta neste steg",
@@ -893,5 +892,8 @@
   "arrival": "Ankomst",
   "noCertificatesYet": "Ingen sertifikater ennå, begynn å laste opp flyreiser for å få din første.",
   "offline": "Frakoblet",
-  "startTaskPlanning": "Velg et startsted på kartet"
+  "startTaskPlanning": "Velg et startsted på kartet",
+  "afterTrialInfo": "{price} år etterpå, hvis ikke kansellert",
+  "startFreeTrial": "Gratis prøveperiode",
+  "trialPeriod": "14 dager gratis"
 }

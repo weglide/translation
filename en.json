@@ -883,7 +883,6 @@
   "thanksFromTheTeam": "Thanks from the team!",
   "gotIt": "Got it",
   "selected": "Selected",
-  "dueNow": "due now",
   "takeNextStep": "Take the next step",
   "futurePlans": "Learn about our future plans and how we want to advance gliding as a sport.",
   "startCollectingFlights": "Start collecting flights with this symbol",
@@ -893,5 +892,8 @@
   "startTaskPlanning": "Select a starting location on the map",
   "arrival": "Arrival",
   "noCertificatesYet": "No certificates yet, start uploading flights to earn your first one.",
-  "offline": "Offline"
+  "offline": "Offline",
+  "startFreeTrial": "Start free trial",
+  "trialPeriod": "14 days free",
+  "afterTrialInfo": "{price} per year afterwards, if not canceled"
 }

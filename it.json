@@ -882,7 +882,6 @@
   "minTime": "Tempo minimo",
   "thanksFromTheTeam": "Grazie dalla squadra!",
   "gotIt": "Fatto",
-  "dueNow": "dovuto ora",
   "selected": "Selezionato",
   "futurePlans": "Scopri i nostri piani futuri e come vogliamo far progredire il volo a vela come sport.",
   "takeNextStep": "Fai il passo successivo",
@@ -893,5 +892,8 @@
   "arrival": "Arrivo",
   "noCertificatesYet": "Nessun certificato ancora, inizia a caricare i voli per guadagnare il tuo primo.",
   "offline": "disconnesso",
-  "startTaskPlanning": "Seleziona una posizione di partenza sulla mappa"
+  "startTaskPlanning": "Seleziona una posizione di partenza sulla mappa",
+  "afterTrialInfo": "{price} all'anno in seguito, se non annullato",
+  "startFreeTrial": "Prova gratuita",
+  "trialPeriod": "14 giorni gratis"
 }

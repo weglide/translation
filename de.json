@@ -882,7 +882,6 @@
   "minTime": "Mindestzeit",
   "thanksFromTheTeam": "Danke vom Team!",
   "gotIt": "Alles klar",
-  "dueNow": "jetzt fällig",
   "selected": "Ausgewählt",
   "futurePlans": "Erfahren mehr über unsere Zukunftspläne und wie wir den Segelflug voranbringen wollen.",
   "takeNextStep": "Gehe den nächsten Schritt",
@@ -893,5 +892,8 @@
   "arrival": "Ankunft",
   "noCertificatesYet": "Noch keine Zertifikate, beginne mit dem Hochladen von Flügen, um dein erstes Zertifikat zu erhalten.",
   "offline": "Offline",
-  "startTaskPlanning": "Wähle einen Startort auf der Karte aus"
+  "startTaskPlanning": "Wähle einen Startort auf der Karte aus",
+  "afterTrialInfo": "Danach {price} pro Jahr, falls nicht gekündigt",
+  "startFreeTrial": "Kostenlos testen",
+  "trialPeriod": "14 Tage kostenlos"
 }

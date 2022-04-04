@@ -882,7 +882,6 @@
   "minTime": "Minimale tijd",
   "thanksFromTheTeam": "Bedankt van het team!",
   "gotIt": "Ik snap het",
-  "dueNow": "nu uitgerekend",
   "selected": "Geselecteerd",
   "futurePlans": "Lees meer over onze toekomstplannen en hoe we zweefvliegen als sport willen bevorderen.",
   "takeNextStep": "Zet de volgende stap",
@@ -893,5 +892,8 @@
   "arrival": "Aankomst",
   "noCertificatesYet": "Nog geen certificaten, begin met het uploaden van vluchten om uw eerste te verdienen.",
   "offline": "offline",
-  "startTaskPlanning": "Selecteer een startlocatie op de kaart"
+  "startTaskPlanning": "Selecteer een startlocatie op de kaart",
+  "afterTrialInfo": "{price} per jaar daarna, indien niet geannuleerd",
+  "startFreeTrial": "Gratis proefperiode",
+  "trialPeriod": "14 dagen gratis"
 }

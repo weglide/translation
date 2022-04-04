@@ -882,7 +882,6 @@
   "minTime": "Minimalus laikas",
   "thanksFromTheTeam": "Ačiū iš komandos!",
   "gotIt": "Supratau",
-  "dueNow": "terminas dabar",
   "selected": "Pasirinkta",
   "futurePlans": "Sužinokite apie mūsų ateities planus ir apie tai, kaip norime sklandyti kaip sporto šaką.",
   "takeNextStep": "Ženkite kitą žingsnį",
@@ -893,5 +892,8 @@
   "arrival": "Atvykimas",
   "noCertificatesYet": "Dar nėra sertifikatų, pradėkite įkelti skrydžius, kad uždirbtumėte pirmąjį.",
   "offline": "Neprisijungus",
-  "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą"
+  "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą",
+  "afterTrialInfo": "{price} per metus vėliau, jei neatšauksite",
+  "startFreeTrial": "Nemokamas bandymas",
+  "trialPeriod": "14 dienų nemokamai"
 }

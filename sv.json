@@ -882,7 +882,6 @@
   "minTime": "Minsta tid",
   "thanksFromTheTeam": "Tack från teamet!",
   "gotIt": "Jag fattar",
-  "dueNow": "ska vara inne nu",
   "selected": "Vald",
   "futurePlans": "Lär dig om våra framtidsplaner och hur vi vill utveckla segelflyg som sport.",
   "takeNextStep": "Ta nästa steg",
@@ -893,5 +892,8 @@
   "arrival": "Ankomst",
   "noCertificatesYet": "Inga certifikat än, börja ladda upp flyg för att få ditt första.",
   "offline": "Off-line",
-  "startTaskPlanning": "Välj en startplats på kartan"
+  "startTaskPlanning": "Välj en startplats på kartan",
+  "afterTrialInfo": "{price} per år efteråt, om inte avbokning",
+  "startFreeTrial": "Gratis provperiod",
+  "trialPeriod": "14 dagar gratis"
 }

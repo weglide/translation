@@ -882,7 +882,6 @@
   "minTime": "Minimi aika",
   "thanksFromTheTeam": "Kiitos joukkueelta!",
   "gotIt": "Sain sen",
-  "dueNow": "eräpäivä nyt",
   "selected": "Valittu",
   "futurePlans": "Ota selvää tulevaisuuden suunnitelmistamme ja siitä, miten haluamme edistää luistoa urheiluna.",
   "takeNextStep": "Ota seuraava askel",
@@ -893,5 +892,8 @@
   "arrival": "Saapuminen",
   "noCertificatesYet": "Ei vielä todistuksia. Aloita lentojen lataaminen ansaitaksesi ensimmäisen.",
   "offline": "Offline-tilassa",
-  "startTaskPlanning": "Valitse aloituspaikka kartalta"
+  "startTaskPlanning": "Valitse aloituspaikka kartalta",
+  "afterTrialInfo": "{price} vuodessa sen jälkeen, jos sitä ei peruuteta",
+  "startFreeTrial": "Ilmainen kokeilu",
+  "trialPeriod": "14 päivää ilmaiseksi"
 }

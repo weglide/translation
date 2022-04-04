@@ -882,7 +882,6 @@
   "minTime": "Tempo mínimo",
   "thanksFromTheTeam": "Obrigado da equipe!",
   "gotIt": "Entendi",
-  "dueNow": "devido agora",
   "selected": "Selecionado",
   "futurePlans": "Saiba mais sobre nossos planos futuros e como queremos avançar no vôo livre como esporte.",
   "takeNextStep": "Dê o próximo passo",
@@ -893,5 +892,8 @@
   "arrival": "Chegada",
   "noCertificatesYet": "Ainda não há certificados, comece a enviar voos para ganhar o seu primeiro.",
   "offline": "desligada",
-  "startTaskPlanning": "Selecione um local de partida no mapa"
+  "startTaskPlanning": "Selecione um local de partida no mapa",
+  "afterTrialInfo": "{price} por ano depois, se não for cancelado",
+  "startFreeTrial": "Teste grátis",
+  "trialPeriod": "14 dias grátis"
 }

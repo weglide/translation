@@ -882,7 +882,6 @@
   "minTime": "Minimalny czas",
   "thanksFromTheTeam": "Dzięki od zespołu!",
   "gotIt": "Rozumiem",
-  "dueNow": "termin już",
   "selected": "Wybrany",
   "futurePlans": "Dowiedz się o naszych planach na przyszłość i o tym, jak chcemy rozwijać szybownictwo jako sport.",
   "takeNextStep": "Zrób następny krok",
@@ -893,5 +892,8 @@
   "arrival": "Przyjazd",
   "noCertificatesYet": "Nie masz jeszcze certyfikatów, zacznij przesyłać loty, aby zdobyć swój pierwszy.",
   "offline": "Offline",
-  "startTaskPlanning": "Wybierz lokalizację początkową na mapie"
+  "startTaskPlanning": "Wybierz lokalizację początkową na mapie",
+  "afterTrialInfo": "{price} rocznie później, jeśli nie zostanie anulowany",
+  "startFreeTrial": "Bezpłatna wersja próbna",
+  "trialPeriod": "14 dni za darmo"
 }

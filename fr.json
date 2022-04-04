@@ -882,7 +882,6 @@
   "minTime": "Temps minimal",
   "thanksFromTheTeam": "Merci de la part de l'équipe !",
   "gotIt": "J'ai compris",
-  "dueNow": "pour tout de suite",
   "selected": "Choisi",
   "futurePlans": "Découvrez nos plans futurs et comment nous voulons faire progresser le vol à voile en tant que sport.",
   "takeNextStep": "Passez à l'étape suivante",
@@ -893,5 +892,8 @@
   "arrival": "Arrivée",
   "noCertificatesYet": "Pas encore de certificats, commencez à télécharger des vols pour gagner votre premier.",
   "offline": "Hors ligne",
-  "startTaskPlanning": "Sélectionnez un lieu de départ sur la carte"
+  "startTaskPlanning": "Sélectionnez un lieu de départ sur la carte",
+  "afterTrialInfo": "{price} par année par la suite, si non annulé",
+  "startFreeTrial": "Essai gratuit",
+  "trialPeriod": "14 jours gratuits"
 }
