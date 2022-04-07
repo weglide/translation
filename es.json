@@ -896,5 +896,25 @@
   "startFreeTrial": "Prueba gratis",
   "trialPeriod": "14 días gratis",
   "featuresExplanation": "Obtenga más información sobre las características.",
-  "showMeTheStatisticsList": "La lista de estadísticas"
+  "showMeTheStatisticsList": "La lista de estadísticas",
+  "barogramHelp": {
+    "agl": "Altitud sobre el nivel del suelo",
+    "battery": "Nivel de masa FES restante",
+    "energy": "FES energía utilizada hasta ahora",
+    "glideDetour": "Desvío a vela por la ruta puntuable",
+    "glideDistance": "Distancia recorrida entre térmicas",
+    "glideGain": "Ganancia/pérdida de altitud durante el planeo",
+    "glideRatio": "Ratio de planeo medio",
+    "glideSpeed": "Velocidad media de crucero de planeo",
+    "msl": "Altitud sobre el nivel medio del mar",
+    "power": "Energía FES en uso ahora",
+    "speed": "Velocidad de crucero",
+    "speed1h": "Velocidad media de competición de una hora",
+    "thermalAvg": "Tasa media de ascenso térmico",
+    "thermalBank": "Inclinación media del planeador y dirección de giro",
+    "thermalGain": "Ganancia/pérdida de altitud durante la térmica",
+    "thermalSpeed": "Velocidad media de crucero térmico",
+    "thermalTime": "Tiempo dedicado a la termal",
+    "vario": "Tasa de ascenso suavizada del variómetro"
+  }
 }

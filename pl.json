@@ -896,5 +896,25 @@
   "startFreeTrial": "Bezpłatna wersja próbna",
   "trialPeriod": "14 dni za darmo",
   "featuresExplanation": "Dowiedz się więcej o funkcjach.",
-  "showMeTheStatisticsList": "Pokaż mi listę statystyk"
+  "showMeTheStatisticsList": "Pokaż mi listę statystyk",
+  "barogramHelp": {
+    "agl": "Wysokość nad poziomem gruntu",
+    "battery": "Pozostały poziom ciasta FES",
+    "energy": "Dotychczas wykorzystywana energia FES",
+    "glideDetour": "Objazd szybowcowy wzdłuż trasy punktowanej",
+    "glideDistance": "Odległość pokonywana między termami",
+    "glideGain": "Przyrost/utrata wysokości podczas szybowania",
+    "glideRatio": "Średni współczynnik poślizgu",
+    "glideSpeed": "Średnia prędkość przelotu schodzenia",
+    "msl": "Wysokość nad średnim poziomem morza",
+    "power": "Moc FES w użyciu",
+    "speed": "Prędkość rejsu",
+    "speed1h": "Średnia godzinna prędkość zawodów",
+    "thermalAvg": "Średnia prędkość wznoszenia termicznego",
+    "thermalBank": "Średnie pochylenie szybowca i kierunek okrążania",
+    "thermalGain": "Przyrost/utrata wysokości podczas ogrzewania",
+    "thermalSpeed": "Średnia prędkość rejsu termicznego",
+    "thermalTime": "Czas spędzony na ogrzewaniu",
+    "vario": "Wygładzona prędkość wznoszenia wariometru"
+  }
 }

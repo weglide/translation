@@ -896,5 +896,25 @@
   "startFreeTrial": "Essai gratuit",
   "trialPeriod": "14 jours gratuits",
   "featuresExplanation": "En savoir plus sur les fonctionnalités.",
-  "showMeTheStatisticsList": "La liste des statistiques"
+  "showMeTheStatisticsList": "La liste des statistiques",
+  "barogramHelp": {
+    "agl": "Altitude au-dessus du sol",
+    "battery": "Niveau de batterie FES restant",
+    "energy": "Énergie FES utilisée jusqu'à présent",
+    "glideDetour": "Détour glissé le long du parcours de pointage",
+    "glideDistance": "Distance parcourue entre thermiques",
+    "glideGain": "Gain/perte d'altitude en vol plané",
+    "glideRatio": "Finesse moyenne",
+    "glideSpeed": "Vitesse de croisière moyenne en plané",
+    "msl": "Altitude au-dessus du niveau moyen de la mer",
+    "power": "Puissance FES en cours d'utilisation",
+    "speed": "Vitesse de croisière",
+    "speed1h": "Vitesse moyenne de compétition sur une heure",
+    "thermalAvg": "Taux de montée thermique moyen",
+    "thermalBank": "Inclinaison moyenne du planeur et direction indirecte",
+    "thermalGain": "Gain/perte d'altitude pendant le thermique",
+    "thermalSpeed": "Vitesse de croisière thermique moyenne",
+    "thermalTime": "Temps passé en thermalisme",
+    "vario": "Taux de montée du variomètre lissé"
+  }
 }

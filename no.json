@@ -896,5 +896,25 @@
   "startFreeTrial": "Gratis prøveperiode",
   "trialPeriod": "14 dager gratis",
   "featuresExplanation": "Lær mer om funksjonene.",
-  "showMeTheStatisticsList": "Vis meg statistikklisten"
+  "showMeTheStatisticsList": "Vis meg statistikklisten",
+  "barogramHelp": {
+    "agl": "Høyde over bakkenivå",
+    "battery": "Gjenværende FES rørenivå",
+    "energy": "FES-energi brukt til nå",
+    "glideDetour": "Glidende omvei langs scoringsruten",
+    "glideDistance": "Avstand dekket mellom termikk",
+    "glideGain": "Høydeøkning/tap under gliding",
+    "glideRatio": "Gjennomsnittlig glideforhold",
+    "glideSpeed": "Gjennomsnittlig glidecruisehastighet",
+    "msl": "Høyde over gjennomsnittlig havnivå",
+    "power": "FES-strøm i bruk nå",
+    "speed": "Cruisehastighet",
+    "speed1h": "Gjennomsnittlig en times konkurransehastighet",
+    "thermalAvg": "Gjennomsnittlig termisk stigningshastighet",
+    "thermalBank": "Gjennomsnittlig glidertilt og sirkulasjonsretning",
+    "thermalGain": "Høydeøkning/tap under termisk bruk",
+    "thermalSpeed": "Gjennomsnittlig termisk cruisehastighet",
+    "thermalTime": "Tid brukt på termisk",
+    "vario": "Glattet variometer stigningshastighet"
+  }
 }

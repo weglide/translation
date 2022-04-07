@@ -896,5 +896,25 @@
   "startFreeTrial": "Zkušební verze zdarma",
   "trialPeriod": "14 dní zdarma",
   "featuresExplanation": "Zjistěte více o funkcích.",
-  "showMeTheStatisticsList": "Ukaž mi seznam statistik"
+  "showMeTheStatisticsList": "Ukaž mi seznam statistik",
+  "barogramHelp": {
+    "agl": "Nadmořská výška nad úrovní terénu",
+    "battery": "Zbývající úroveň těsta FES",
+    "energy": "Dosud využívaná energie FES",
+    "glideDetour": "Klouzavá objížďka po hodnotící trase",
+    "glideDistance": "Překonaná vzdálenost mezi termiky",
+    "glideGain": "Nárůst/ztráta nadmořské výšky při klouzání",
+    "glideRatio": "Průměrný klouzavost",
+    "glideSpeed": "Průměrná klouzavá cestovní rychlost",
+    "msl": "Nadmořská výška nad střední hladinou moře",
+    "power": "Nyní se používá výkon FES",
+    "speed": "Rychlost letu",
+    "speed1h": "Průměrná rychlost soutěže za hodinu",
+    "thermalAvg": "Průměrná rychlost stoupání",
+    "thermalBank": "Průměrný sklon kluzáku a směr kroužení",
+    "thermalGain": "Zisk/ztráta nadmořské výšky při stoupání",
+    "thermalSpeed": "Průměrná rychlost tepelné plavby",
+    "thermalTime": "Čas strávený termálem",
+    "vario": "Vyhlazená rychlost stoupání variometru"
+  }
 }

@@ -896,5 +896,25 @@
   "startFreeTrial": "Kostenlos testen",
   "trialPeriod": "14 Tage kostenlos",
   "featuresExplanation": "Erfahre mehr über die Funktionen.",
-  "showMeTheStatisticsList": "Zeig mir die Statistikliste"
+  "showMeTheStatisticsList": "Zeig mir die Statistikliste",
+  "barogramHelp": {
+    "agl": "Höhe über Grund",
+    "battery": "Verbleibender FES-Batteriestand",
+    "energy": "Bisher verwendete FES-Energie",
+    "glideDetour": "Gleitumweg entlang der Wertungsstrecke",
+    "glideDistance": "Zurückgelegte Strecke zwischen den Aufwinden",
+    "glideGain": "Höhengewinn/-Verlust beim Gleiten",
+    "glideRatio": "Durchschnittliche Gleitzahl",
+    "glideSpeed": "Durchschnittliche Gleitfluggeschwindigkeit",
+    "msl": "Höhe über dem mittleren Meeresspiegel",
+    "power": "Aktuelle FES Leistung",
+    "speed": "Geschwindigkeit",
+    "speed1h": "Gemittelte Wettbewerbsgeschw. über eine Stunde",
+    "thermalAvg": "Durchschnittliche Aufwindsteigrate",
+    "thermalBank": "Durchschnittliche Flugzeugneigung - und Kreisrichtung",
+    "thermalGain": "Aufwind Höhengewinn - und Verlust",
+    "thermalSpeed": "Durchschnittliche Geschwindigkeit im Aufwind",
+    "thermalTime": "Zeit im Aufwind",
+    "vario": "Geglättetes Vario"
+  }
 }

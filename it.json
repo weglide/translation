@@ -896,5 +896,25 @@
   "startFreeTrial": "Prova gratuita",
   "trialPeriod": "14 giorni gratis",
   "featuresExplanation": "Ulteriori informazioni sulle funzionalità.",
-  "showMeTheStatisticsList": "Mostrami l'elenco delle statistiche"
+  "showMeTheStatisticsList": "Mostrami l'elenco delle statistiche",
+  "barogramHelp": {
+    "agl": "Altitudine sopra il livello del suolo",
+    "battery": "Livello battitore FES rimanente",
+    "energy": "Energia FES utilizzata fino ad ora",
+    "glideDetour": "Deviazione in planata lungo il percorso del punteggio",
+    "glideDistance": "Distanza percorsa tra le termiche",
+    "glideGain": "Guadagno/perdita di altitudine durante la planata",
+    "glideRatio": "Rapporto di planata medio",
+    "glideSpeed": "Velocità di crociera media in planata",
+    "msl": "Altitudine sopra il livello medio del mare",
+    "power": "Potenza FES in uso ora",
+    "speed": "Velocità di crociera",
+    "speed1h": "Velocità media di gara di un'ora",
+    "thermalAvg": "Velocità media di salita termica",
+    "thermalBank": "Inclinazione media dell'aliante e direzione di virata",
+    "thermalGain": "Guadagno/perdita di altitudine durante la termica",
+    "thermalSpeed": "Velocità di crociera termica media",
+    "thermalTime": "Tempo trascorso in termica",
+    "vario": "Velocità di salita del variometro attenuata"
+  }
 }

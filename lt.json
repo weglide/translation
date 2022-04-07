@@ -896,5 +896,25 @@
   "startFreeTrial": "Nemokamas bandymas",
   "trialPeriod": "14 dienų nemokamai",
   "featuresExplanation": "Sužinokite daugiau apie funkcijas.",
-  "showMeTheStatisticsList": "Parodyk statistikos sąrašą"
+  "showMeTheStatisticsList": "Parodyk statistikos sąrašą",
+  "barogramHelp": {
+    "agl": "Aukštis virš žemės lygio",
+    "battery": "Likęs FES tešlos lygis",
+    "energy": "Iki šiol naudota FES energija",
+    "glideDetour": "Sklandantis aplinkkelis taškų surinkimo maršrutu",
+    "glideDistance": "Atstumas tarp terminių",
+    "glideGain": "Aukščio padidėjimas / sumažėjimas sklandant",
+    "glideRatio": "Vidutinis slydimo santykis",
+    "glideSpeed": "Vidutinis slydimo kreiserinis greitis",
+    "msl": "Aukštis virš vidutinio jūros lygio",
+    "power": "Dabar naudojama FES galia",
+    "speed": "Kruizinis greitis",
+    "speed1h": "Vidutinis vienos valandos varžybų greitis",
+    "thermalAvg": "Vidutinis šiluminio pakilimo greitis",
+    "thermalBank": "Vidutinė sklandytuvo pasvirimo ir sukimosi kryptis",
+    "thermalGain": "Aukščio padidėjimas / sumažėjimas kaitinant",
+    "thermalSpeed": "Vidutinis terminis kruizinis greitis",
+    "thermalTime": "Šildymo laikas",
+    "vario": "Išlygintas variometro kilimo greitis"
+  }
 }

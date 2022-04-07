@@ -896,5 +896,25 @@
   "startFreeTrial": "Gratis proefperiode",
   "trialPeriod": "14 dagen gratis",
   "featuresExplanation": "Lees meer over de functies.",
-  "showMeTheStatisticsList": "Laat me de statistiekenlijst zien"
+  "showMeTheStatisticsList": "Laat me de statistiekenlijst zien",
+  "barogramHelp": {
+    "agl": "Hoogte boven grondniveau",
+    "battery": "Resterend FES-beslagniveau",
+    "energy": "FES-energie gebruikt tot nu toe",
+    "glideDetour": "Glijdende omweg langs de scoreroute",
+    "glideDistance": "Afgelegde afstand tussen thermiek",
+    "glideGain": "Hoogtewinst/verlies tijdens het glijden",
+    "glideRatio": "Gemiddeld glijvermogen",
+    "glideSpeed": "Gemiddelde glijsnelheid",
+    "msl": "Hoogte boven gemiddeld zeeniveau",
+    "power": "FES-stroom nu in gebruik",
+    "speed": "Kruissnelheid",
+    "speed1h": "Gemiddelde wedstrijdsnelheid van een uur",
+    "thermalAvg": "Gemiddelde thermische klimsnelheid",
+    "thermalBank": "Gemiddelde kantel- en cirkelrichting van het zweefvliegtuig",
+    "thermalGain": "Hoogtewinst/verlies tijdens thermiek",
+    "thermalSpeed": "Gemiddelde thermische kruissnelheid",
+    "thermalTime": "Tijd besteed aan thermiek",
+    "vario": "Afgevlakte variometer klimsnelheid"
+  }
 }

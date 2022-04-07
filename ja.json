@@ -894,5 +894,25 @@
   "startFreeTrial": "無料トライアル",
   "trialPeriod": "14日間無料",
   "featuresExplanation": "機能の詳細をご覧ください。",
-  "showMeTheStatisticsList": "統計リストを見せて"
+  "showMeTheStatisticsList": "統計リストを見せて",
+  "barogramHelp": {
+    "agl": "対地高度",
+    "battery": "残りのFESバッターレベル",
+    "energy": "これまでに使用されたFESエネルギー",
+    "glideDetour": "得点ルートに沿って滑走迂回",
+    "glideDistance": "サーマル間の距離",
+    "glideGain": "滑空中の高度の増減",
+    "glideRatio": "平均グライドレシオ",
+    "glideSpeed": "グライドクルーズの平均速度",
+    "msl": "平均海面より上の高度",
+    "power": "現在使用中のFES電源",
+    "speed": "巡航速度",
+    "speed1h": "平均1時間の競技速度",
+    "thermalAvg": "平均上昇率",
+    "thermalBank": "グライダーの平均傾斜と旋回方向",
+    "thermalGain": "サーマル中の高度の増減",
+    "thermalSpeed": "平均サーマルクルーズ速度",
+    "thermalTime": "暖房に費やした時間",
+    "vario": "平滑化されたバリオメーター上昇率"
+  }
 }

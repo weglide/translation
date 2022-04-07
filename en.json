@@ -877,7 +877,7 @@
   "yourPlan": "Your Subscription",
   "recommended": "Recommended",
   "scoreFilterPlaceholder": "Pilot, club, class, airfield …",
-  "taskType": "Task type:",
+  "taskType": "Turnpoint type:",
   "localCompetition": "Local competition",
   "minTime": "Minimum time",
   "thanksFromTheTeam": "Thanks from the team!",
@@ -896,5 +896,25 @@
   "trialPeriod": "14 days free",
   "afterTrialInfo": "{price} per year afterwards, if not canceled",
   "featuresExplanation": "Learn more about the features.",
-  "showMeTheStatisticsList": "Show me the statistics list"
+  "showMeTheStatisticsList": "Show me the statistics list",
+  "barogramHelp": {
+    "thermalTime": "Time spent thermaling",
+    "thermalGain": "Altitude gain/loss while thermaling",
+    "thermalAvg": "Average thermal climb rate",
+    "thermalSpeed": "Average thermal cruise speed",
+    "thermalBank": "Average glider bank and circling direction",
+    "glideDistance": "Distance covered between thermals",
+    "glideGain": "Altitude gain/loss while gliding",
+    "glideRatio": "Average glide ratio",
+    "glideSpeed": "Average glide cruise speed",
+    "glideDetour": "Gliding detour along the scoring route",
+    "battery": "Remaining FES batter level",
+    "power": "FES power in use now",
+    "energy": "FES energy used until now",
+    "msl": "Altitude above mean sea level",
+    "agl": "Altitude above ground level",
+    "vario": "Smoothed variometer climb rate",
+    "speed": "Cruise speed",
+    "speed1h": "Average one hour competition speed"
+  }
 }

@@ -896,5 +896,25 @@
   "startFreeTrial": "Gratis provperiod",
   "trialPeriod": "14 dagar gratis",
   "featuresExplanation": "Läs mer om funktionerna.",
-  "showMeTheStatisticsList": "Visa mig statistiklistan"
+  "showMeTheStatisticsList": "Visa mig statistiklistan",
+  "barogramHelp": {
+    "agl": "Höjd över marknivå",
+    "battery": "Återstående FES-smetnivå",
+    "energy": "FES-energi som använts fram till nu",
+    "glideDetour": "Glidande omväg längs poängvägen",
+    "glideDistance": "Avstånd mellan termikerna",
+    "glideGain": "Höjdökning/förlust under glidning",
+    "glideRatio": "Genomsnittligt glidförhållande",
+    "glideSpeed": "Genomsnittlig glidfart",
+    "msl": "Höjd över medelhavsytan",
+    "power": "FES-ström används nu",
+    "speed": "Kryssningshastighet",
+    "speed1h": "Genomsnittlig en timmes tävlingshastighet",
+    "thermalAvg": "Genomsnittlig termisk klättringshastighet",
+    "thermalBank": "Genomsnittlig lutnings- och cirkulationsriktning för glidflygplan",
+    "thermalGain": "Höjdökning/-förlust under termisk användning",
+    "thermalSpeed": "Genomsnittlig termisk marschfart",
+    "thermalTime": "Tid tillbringad termisk",
+    "vario": "Utjämnad variometer stigningshastighet"
+  }
 }

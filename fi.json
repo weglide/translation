@@ -896,5 +896,25 @@
   "startFreeTrial": "Ilmainen kokeilu",
   "trialPeriod": "14 päivää ilmaiseksi",
   "featuresExplanation": "Lisätietoja ominaisuuksista.",
-  "showMeTheStatisticsList": "Näytä minulle tilastoluettelo"
+  "showMeTheStatisticsList": "Näytä minulle tilastoluettelo",
+  "barogramHelp": {
+    "agl": "Korkeus maanpinnan yläpuolella",
+    "battery": "Jäljellä oleva FES-taikinan taso",
+    "energy": "FES-energiaa käytetty tähän asti",
+    "glideDetour": "Liukuva kiertotie pisteytysreitillä",
+    "glideDistance": "Termien välinen etäisyys",
+    "glideGain": "Korkeuden nousu/häviö luistossa",
+    "glideRatio": "Keskimääräinen liukusuhde",
+    "glideSpeed": "Keskimääräinen liukumatkanopeus",
+    "msl": "Korkeus keskimääräisen merenpinnan yläpuolella",
+    "power": "FES-virta käytössä nyt",
+    "speed": "Risteilynopeus",
+    "speed1h": "Keskimääräinen tunnin kilpailunopeus",
+    "thermalAvg": "Keskimääräinen lämpönousunopeus",
+    "thermalBank": "Keskimääräinen purjelentokoneen kallistus ja kiertosuunta",
+    "thermalGain": "Korkeuden nousu/häviö lämpökäsittelyn aikana",
+    "thermalSpeed": "Keskimääräinen lämpöristeilynopeus",
+    "thermalTime": "Lämmitykseen käytetty aika",
+    "vario": "Tasoitettu variometrin nousunopeus"
+  }
 }
