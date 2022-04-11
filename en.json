@@ -916,5 +916,6 @@
     "vario": "Smoothed variometer climb rate",
     "speed": "Cruise speed",
     "speed1h": "Average one hour competition speed"
-  }
+  },
+  "startsOn": "Starts on"
 }

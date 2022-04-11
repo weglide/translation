@@ -916,5 +916,6 @@
     "thermalSpeed": "Genomsnittlig termisk marschfart",
     "thermalTime": "Tid tillbringad termisk",
     "vario": "Utjämnad variometer stigningshastighet"
-  }
+  },
+  "startsOn": "Börjar på"
 }

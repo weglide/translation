@@ -916,5 +916,6 @@
     "thermalSpeed": "Keskimääräinen lämpöristeilynopeus",
     "thermalTime": "Lämmitykseen käytetty aika",
     "vario": "Tasoitettu variometrin nousunopeus"
-  }
+  },
+  "startsOn": "Alkaa"
 }

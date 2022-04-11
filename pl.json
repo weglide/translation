@@ -916,5 +916,6 @@
     "thermalSpeed": "Średnia prędkość rejsu termicznego",
     "thermalTime": "Czas spędzony na ogrzewaniu",
     "vario": "Wygładzona prędkość wznoszenia wariometru"
-  }
+  },
+  "startsOn": "Rozpoczyna się"
 }

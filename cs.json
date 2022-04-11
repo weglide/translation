@@ -916,5 +916,6 @@
     "thermalSpeed": "Průměrná rychlost tepelné plavby",
     "thermalTime": "Čas strávený termálem",
     "vario": "Vyhlazená rychlost stoupání variometru"
-  }
+  },
+  "startsOn": "Začíná"
 }

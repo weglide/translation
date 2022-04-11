@@ -916,5 +916,6 @@
     "thermalSpeed": "Durchschnittliche Geschwindigkeit im Aufwind",
     "thermalTime": "Zeit im Aufwind",
     "vario": "Geglättetes Vario"
-  }
+  },
+  "startsOn": "Startet am"
 }

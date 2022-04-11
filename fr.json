@@ -916,5 +916,6 @@
     "thermalSpeed": "Vitesse de croisière thermique moyenne",
     "thermalTime": "Temps passé en thermalisme",
     "vario": "Taux de montée du variomètre lissé"
-  }
+  },
+  "startsOn": "Commence le"
 }

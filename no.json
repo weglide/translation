@@ -916,5 +916,6 @@
     "thermalSpeed": "Gjennomsnittlig termisk cruisehastighet",
     "thermalTime": "Tid brukt på termisk",
     "vario": "Glattet variometer stigningshastighet"
-  }
+  },
+  "startsOn": "Starter på"
 }

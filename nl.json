@@ -916,5 +916,6 @@
     "thermalSpeed": "Gemiddelde thermische kruissnelheid",
     "thermalTime": "Tijd besteed aan thermiek",
     "vario": "Afgevlakte variometer klimsnelheid"
-  }
+  },
+  "startsOn": "begint op"
 }

@@ -916,5 +916,6 @@
     "thermalSpeed": "Velocità di crociera termica media",
     "thermalTime": "Tempo trascorso in termica",
     "vario": "Velocità di salita del variometro attenuata"
-  }
+  },
+  "startsOn": "Inizia il"
 }

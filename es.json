@@ -916,5 +916,6 @@
     "thermalSpeed": "Velocidad media de crucero térmico",
     "thermalTime": "Tiempo dedicado a la termal",
     "vario": "Tasa de ascenso suavizada del variómetro"
-  }
+  },
+  "startsOn": "Comienza el"
 }
