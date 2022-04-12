@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Vil du duplisere denne samlingen til din?",
   "create": "Skape",
   "custom": "Tilpasset",
-  "flightPhaseAnalysis": "Faseanalyse",
-  "gliderReplay": "Replay av dagen",
+  "phaseAnalysis": "Faseanalyse",
+  "dayReplay": "Replay av dagen",
   "likedCollections": "Likte samlinger",
   "off": "Av",
   "requiresPremium": "Krever Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Tid brukt på termisk",
     "vario": "Glattet variometer stigningshastighet"
   },
-  "startsOn": "Starter på"
+  "startsOn": "Starter på",
+  "send": "Sende"
 }

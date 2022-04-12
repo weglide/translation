@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Ви хочете скопіювати цю колекцію у свою?",
   "create": "Створюйте",
   "custom": "На замовлення",
-  "flightPhaseAnalysis": "Фазовий аналіз",
-  "gliderReplay": "День повторення",
+  "phaseAnalysis": "Фазовий аналіз",
+  "dayReplay": "День повторення",
   "likedCollections": "Сподобалися колекції",
   "off": "Вимкнено",
   "requiresPremium": "Потрібен преміум",
@@ -917,5 +917,6 @@
     "thermalTime": "Час, витрачений на утеплення",
     "vario": "Згладжений варіометр підйому"
   },
-  "startsOn": "Починається"
+  "startsOn": "Починається",
+  "send": "Надіслати"
 }

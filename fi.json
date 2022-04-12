@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Haluatko kopioida tämän kokoelman omaasi?",
   "create": "Luoda",
   "custom": "Mukautettu",
-  "flightPhaseAnalysis": "Vaiheanalyysi",
-  "gliderReplay": "Päivän toisto",
+  "phaseAnalysis": "Vaiheanalyysi",
+  "dayReplay": "Päivän toisto",
   "likedCollections": "Tykkäät kokoelmista",
   "off": "Vinossa",
   "requiresPremium": "Vaatii Premiumin",
@@ -917,5 +917,6 @@
     "thermalTime": "Lämmitykseen käytetty aika",
     "vario": "Tasoitettu variometrin nousunopeus"
   },
-  "startsOn": "Alkaa"
+  "startsOn": "Alkaa",
+  "send": "Lähettää"
 }

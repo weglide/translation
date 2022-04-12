@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Vill du kopiera den här samlingen till din?",
   "create": "Skapa",
   "custom": "Beställnings",
-  "flightPhaseAnalysis": "Fasanalys",
-  "gliderReplay": "Dagsrepris",
+  "phaseAnalysis": "Fasanalys",
+  "dayReplay": "Dagsrepris",
   "likedCollections": "Gillade samlingar",
   "off": "Av",
   "requiresPremium": "Kräver Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Tid tillbringad termisk",
     "vario": "Utjämnad variometer stigningshastighet"
   },
-  "startsOn": "Börjar på"
+  "startsOn": "Börjar på",
+  "send": "Skicka"
 }

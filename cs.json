@@ -850,8 +850,6 @@
   "confirmCollectionDuplication": "Chcete duplikovat tuto sbírku do vaší?",
   "create": "Vytvořit",
   "custom": "Zvyk",
-  "flightPhaseAnalysis": "Fázová analýza",
-  "gliderReplay": "Denní přehrávání",
   "likedCollections": "Oblíbené kolekce",
   "off": "Vypnuto",
   "requiresPremium": "Vyžaduje Premium",
@@ -917,5 +915,8 @@
     "thermalTime": "Čas strávený termálem",
     "vario": "Vyhlazená rychlost stoupání variometru"
   },
-  "startsOn": "Začíná"
+  "startsOn": "Začíná",
+  "dayReplay": "Denní přehrávání",
+  "phaseAnalysis": "Fázová analýza",
+  "send": "Poslat"
 }

@@ -847,12 +847,12 @@
   "collectionDuplicated": "Collection dupliquée",
   "collectionUpdated": "Collection mise à jour",
   "collections": "Collections",
-  "confirmCollectionDeletion": "Voulez-vous supprimer la collection ?",
-  "confirmCollectionDuplication": "Voulez-vous dupliquer cette collection dans la vôtre ?",
+  "confirmCollectionDeletion": "Voulez-vous supprimer la collection ?",
+  "confirmCollectionDuplication": "Voulez-vous dupliquer cette collection dans la vôtre ?",
   "create": "Créer",
   "custom": "Personnalisé",
-  "flightPhaseAnalysis": "Analyse des phases",
-  "gliderReplay": "Rediffusion du jour",
+  "phaseAnalysis": "Analyse des phases",
+  "dayReplay": "Rediffusion du jour",
   "likedCollections": "Collections aimées",
   "off": "Désactivé",
   "requiresPremium": "Nécessite Premium",
@@ -877,7 +877,7 @@
   "upgradeTeaser": "Améliorez votre expérience WeGlide avec des fonctionnalités uniques et puissantes.",
   "yourPlan": "Votre abonnement",
   "scoreFilterPlaceholder": "Pilote, club, classe, aérodrome…",
-  "taskType": "Type de point de virage :",
+  "taskType": "Type de point de virage :",
   "localCompetition": "Concurrence locale",
   "minTime": "Temps minimal",
   "thanksFromTheTeam": "Merci de la part de l'équipe !",
@@ -917,5 +917,6 @@
     "thermalTime": "Temps passé en thermalisme",
     "vario": "Taux de montée du variomètre lissé"
   },
-  "startsOn": "Commence le"
+  "startsOn": "Commence le",
+  "send": "Envoyer"
 }

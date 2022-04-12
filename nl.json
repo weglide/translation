@@ -851,8 +851,8 @@
   "confirmCollectionDuplication": "Wil je deze collectie dupliceren in de jouwe?",
   "create": "Creëren",
   "custom": "Aangepast",
-  "flightPhaseAnalysis": "Fase analyse",
-  "gliderReplay": "Dag herhaling",
+  "phaseAnalysis": "Fase analyse",
+  "dayReplay": "Dag herhaling",
   "likedCollections": "Gelikete collecties",
   "off": "Uit",
   "requiresPremium": "Vereist Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Tijd besteed aan thermiek",
     "vario": "Afgevlakte variometer klimsnelheid"
   },
-  "startsOn": "begint op"
+  "startsOn": "begint op",
+  "send": "Versturen"
 }

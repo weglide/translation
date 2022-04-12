@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Ar norite kopijuoti šią kolekciją į savo?",
   "create": "Sukurti",
   "custom": "Pasirinktinis",
-  "flightPhaseAnalysis": "Fazės analizė",
-  "gliderReplay": "Dienos pakartojimas",
+  "phaseAnalysis": "Fazės analizė",
+  "dayReplay": "Dienos pakartojimas",
   "likedCollections": "Patiko kolekcijos",
   "off": "Išjungta",
   "requiresPremium": "Reikalinga Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Šildymo laikas",
     "vario": "Išlygintas variometro kilimo greitis"
   },
-  "startsOn": "Prasideda"
+  "startsOn": "Prasideda",
+  "send": "Siųsti"
 }

@@ -851,8 +851,8 @@
   "confirmCollectionDuplication": "Vuoi duplicare questa raccolta nella tua?",
   "create": "Creare",
   "custom": "Costume",
-  "flightPhaseAnalysis": "Analisi di fase",
-  "gliderReplay": "Ripetizione del giorno",
+  "phaseAnalysis": "Analisi di fase",
+  "dayReplay": "Ripetizione del giorno",
   "likedCollections": "Collezioni piaciute",
   "off": "Spento",
   "requiresPremium": "Richiede Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Tempo trascorso in termica",
     "vario": "Velocità di salita del variometro attenuata"
   },
-  "startsOn": "Inizia il"
+  "startsOn": "Inizia il",
+  "send": "Spedire"
 }

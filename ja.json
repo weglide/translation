@@ -848,8 +848,8 @@
   "confirmCollectionDuplication": "このコレクションを自分のコレクションに複製しますか？",
   "create": "作成",
   "custom": "カスタム",
-  "flightPhaseAnalysis": "位相分析",
-  "gliderReplay": "デイリプレイ",
+  "phaseAnalysis": "位相分析",
+  "dayReplay": "デイリプレイ",
   "likedCollections": "気に入ったコレクション",
   "off": "オフ",
   "requiresPremium": "プレミアムが必要",
@@ -915,5 +915,6 @@
     "thermalTime": "暖房に費やした時間",
     "vario": "平滑化されたバリオメーター上昇率"
   },
-  "startsOn": "で始まります"
+  "startsOn": "で始まります",
+  "send": "送信"
 }

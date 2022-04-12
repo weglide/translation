@@ -850,8 +850,8 @@
   "confirmCollectionDuplication": "Deseja duplicar esta coleção na sua?",
   "create": "Crio",
   "custom": "Personalizado",
-  "flightPhaseAnalysis": "Análise de fase",
-  "gliderReplay": "Repetição do dia",
+  "phaseAnalysis": "Análise de fase",
+  "dayReplay": "Repetição do dia",
   "likedCollections": "Gostou das coleções",
   "off": "Fora",
   "requiresPremium": "Requer Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Tempo gasto na termalização",
     "vario": "Taxa de subida do variômetro suavizada"
   },
-  "startsOn": "Começa em"
+  "startsOn": "Começa em",
+  "send": "Mandar"
 }

@@ -851,8 +851,8 @@
   "confirmCollectionDuplication": "¿Quieres duplicar esta colección en la tuya?",
   "create": "Crear",
   "custom": "Personalizado",
-  "flightPhaseAnalysis": "Análisis de fase",
-  "gliderReplay": "repetición del día",
+  "phaseAnalysis": "Análisis de fase",
+  "dayReplay": "repetición del día",
   "likedCollections": "Colecciones que me gustaron",
   "off": "Apagado",
   "requiresPremium": "Requiere Prima",
@@ -917,5 +917,6 @@
     "thermalTime": "Tiempo dedicado a la termal",
     "vario": "Tasa de ascenso suavizada del variómetro"
   },
-  "startsOn": "Comienza el"
+  "startsOn": "Comienza el",
+  "send": "Enviar"
 }

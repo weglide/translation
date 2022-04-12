@@ -835,7 +835,7 @@
   "pinToTop": "Przypiąć",
   "rules": "Zasady",
   "collection": "Kolekcja",
-  "glidePhases": "Fazy ​​schodzenia",
+  "glidePhases": "Fazy   schodzenia",
   "openInSkySight": "Otwórz w SkySight",
   "selectCollection": "Wybierz kolekcję",
   "addToCollection": "Dodać do kolekcji",
@@ -851,8 +851,8 @@
   "confirmCollectionDuplication": "Czy chcesz powielić tę kolekcję do swojej?",
   "create": "Tworzyć",
   "custom": "Zwyczaj",
-  "flightPhaseAnalysis": "Analiza faz",
-  "gliderReplay": "Powtórka dnia",
+  "phaseAnalysis": "Analiza faz",
+  "dayReplay": "Powtórka dnia",
   "likedCollections": "Polubione kolekcje",
   "off": "Wyłączony",
   "requiresPremium": "Wymaga Premium",
@@ -917,5 +917,6 @@
     "thermalTime": "Czas spędzony na ogrzewaniu",
     "vario": "Wygładzona prędkość wznoszenia wariometru"
   },
-  "startsOn": "Rozpoczyna się"
+  "startsOn": "Rozpoczyna się",
+  "send": "Wysłać"
 }
