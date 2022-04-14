@@ -918,5 +918,6 @@
     "vario": "Tasa de ascenso suavizada del variómetro"
   },
   "startsOn": "Comienza el",
-  "send": "Enviar"
+  "send": "Enviar",
+  "barboraDescription": "Piloto de competición"
 }

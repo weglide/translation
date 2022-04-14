@@ -918,5 +918,6 @@
     "vario": "Taxa de subida do variômetro suavizada"
   },
   "startsOn": "Começa em",
-  "send": "Mandar"
+  "send": "Mandar",
+  "barboraDescription": "Piloto de competição"
 }

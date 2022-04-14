@@ -918,5 +918,6 @@
     "vario": "Taux de montée du variomètre lissé"
   },
   "startsOn": "Commence le",
-  "send": "Envoyer"
+  "send": "Envoyer",
+  "barboraDescription": "Pilote de compétition"
 }

@@ -918,5 +918,6 @@
     "vario": "Tasoitettu variometrin nousunopeus"
   },
   "startsOn": "Alkaa",
-  "send": "Lähettää"
+  "send": "Lähettää",
+  "barboraDescription": "Kilpailulentäjä"
 }
