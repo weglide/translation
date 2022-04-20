@@ -918,5 +918,6 @@
   "startsOn": "で始まります",
   "send": "送信",
   "barboraDescription": "競争パイロット",
-  "getNewFeatures": "新機能を入手"
+  "getNewFeatures": "新機能を入手",
+  "currentPlanTest": "{plan}をテストしています。"
 }

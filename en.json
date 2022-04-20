@@ -865,6 +865,7 @@
     "minutes": "Minutes",
     "seconds": "Seconds",
     "currentPlan": "You are subscribed to {plan}.",
+    "currentPlanTest": "You are testing {plan}.",
     "automaticRenewal": "The subscription is active and will be renewed on {date}.",
     "automaticExpiration": "The subscription is canceled and will expire on {date}, you can subscribe again afterwards.",
     "updatePaymentInfo": "Update payment info",

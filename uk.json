@@ -920,5 +920,6 @@
   "startsOn": "Починається",
   "send": "Надіслати",
   "barboraDescription": "Пілот змагань",
-  "getNewFeatures": "Отримайте нові функції"
+  "getNewFeatures": "Отримайте нові функції",
+  "currentPlanTest": "Ви тестуєте {plan}."
 }

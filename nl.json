@@ -920,5 +920,6 @@
   "startsOn": "begint op",
   "send": "Versturen",
   "barboraDescription": "Wedstrijd piloot",
-  "getNewFeatures": "Krijg nieuwe functies"
+  "getNewFeatures": "Krijg nieuwe functies",
+  "currentPlanTest": "Je test {plan}."
 }

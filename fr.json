@@ -920,5 +920,6 @@
   "startsOn": "Commence le",
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
-  "getNewFeatures": "Nouvelle fonctionnalité"
+  "getNewFeatures": "Nouvelle fonctionnalité",
+  "currentPlanTest": "Vous testez {plan}."
 }

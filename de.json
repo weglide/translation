@@ -970,5 +970,6 @@
     "superchargeDailyList": "Die nächste Stufe der Tageswertung."
   },
   "barboraDescription": "Wettbewerbspilotin",
-  "getNewFeatures": "Hol dir neue Funktionen"
+  "getNewFeatures": "Hol dir neue Funktionen",
+  "currentPlanTest": "Du probierst {plan} aus."
 }

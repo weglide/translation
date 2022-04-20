@@ -920,5 +920,6 @@
   "startsOn": "Starter på",
   "send": "Sende",
   "barboraDescription": "Konkurransepilot",
-  "getNewFeatures": "Få nye funksjoner"
+  "getNewFeatures": "Få nye funksjoner",
+  "currentPlanTest": "Du tester {plan}."
 }

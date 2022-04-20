@@ -920,5 +920,6 @@
   "startsOn": "Начинается",
   "send": "Отправлять",
   "barboraDescription": "Пилот соревнований",
-  "getNewFeatures": "Получите новые функции"
+  "getNewFeatures": "Получите новые функции",
+  "currentPlanTest": "Вы тестируете {plan}."
 }

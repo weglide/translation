@@ -920,5 +920,6 @@
   "startsOn": "Alkaa",
   "send": "Lähettää",
   "barboraDescription": "Kilpailulentäjä",
-  "getNewFeatures": "Hanki uusia ominaisuuksia"
+  "getNewFeatures": "Hanki uusia ominaisuuksia",
+  "currentPlanTest": "Testaat {plan}."
 }

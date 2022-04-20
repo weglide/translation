@@ -920,5 +920,6 @@
   "startsOn": "Prasideda",
   "send": "Siųsti",
   "barboraDescription": "Varžybų pilotas",
-  "getNewFeatures": "Gaukite naujų funkcijų"
+  "getNewFeatures": "Gaukite naujų funkcijų",
+  "currentPlanTest": "Bandote {plan}."
 }

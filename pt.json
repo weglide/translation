@@ -920,5 +920,6 @@
   "startsOn": "Começa em",
   "send": "Mandar",
   "barboraDescription": "Piloto de competição",
-  "getNewFeatures": "Obtenha novos recursos"
+  "getNewFeatures": "Obtenha novos recursos",
+  "currentPlanTest": "Você está testando {plan}."
 }

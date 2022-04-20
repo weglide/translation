@@ -920,5 +920,6 @@
   "phaseAnalysis": "Fázová analýza",
   "send": "Poslat",
   "barboraDescription": "Soutěžní pilot",
-  "getNewFeatures": "Získejte nové funkce"
+  "getNewFeatures": "Získejte nové funkce",
+  "currentPlanTest": "Testujete {plan}."
 }
