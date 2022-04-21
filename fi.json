@@ -921,5 +921,6 @@
   "send": "Lähettää",
   "barboraDescription": "Kilpailulentäjä",
   "getNewFeatures": "Hanki uusia ominaisuuksia",
-  "currentPlanTest": "Testaat {plan}."
+  "currentPlanTest": "Testaat {plan}.",
+  "testNewFeatures": "Kokeile uusia ominaisuuksia"
 }

@@ -921,5 +921,6 @@
   "send": "Mandar",
   "barboraDescription": "Piloto de competição",
   "getNewFeatures": "Obtenha novos recursos",
-  "currentPlanTest": "Você está testando {plan}."
+  "currentPlanTest": "Você está testando {plan}.",
+  "testNewFeatures": "Experimente novos recursos"
 }

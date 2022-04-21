@@ -921,5 +921,6 @@
   "send": "Skicka",
   "barboraDescription": "Tävlingspilot",
   "getNewFeatures": "Få nya funktioner",
-  "currentPlanTest": "Du testar {plan}."
+  "currentPlanTest": "Du testar {plan}.",
+  "testNewFeatures": "Prova nya funktioner"
 }

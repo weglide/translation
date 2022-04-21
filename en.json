@@ -971,5 +971,6 @@
     },
     "send": "Send",
     "barboraDescription": "Competition pilot",
-    "getNewFeatures": "Get new features"
+    "getNewFeatures": "Get new features",
+    "testNewFeatures": "Try new features"
 }

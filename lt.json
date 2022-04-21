@@ -921,5 +921,6 @@
   "send": "Siųsti",
   "barboraDescription": "Varžybų pilotas",
   "getNewFeatures": "Gaukite naujų funkcijų",
-  "currentPlanTest": "Bandote {plan}."
+  "currentPlanTest": "Bandote {plan}.",
+  "testNewFeatures": "Išbandykite naujas funkcijas"
 }

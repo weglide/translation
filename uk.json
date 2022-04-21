@@ -921,5 +921,6 @@
   "send": "Надіслати",
   "barboraDescription": "Пілот змагань",
   "getNewFeatures": "Отримайте нові функції",
-  "currentPlanTest": "Ви тестуєте {plan}."
+  "currentPlanTest": "Ви тестуєте {plan}.",
+  "testNewFeatures": "Спробуйте нові функції"
 }

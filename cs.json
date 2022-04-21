@@ -921,5 +921,6 @@
   "send": "Poslat",
   "barboraDescription": "Soutěžní pilot",
   "getNewFeatures": "Získejte nové funkce",
-  "currentPlanTest": "Testujete {plan}."
+  "currentPlanTest": "Testujete {plan}.",
+  "testNewFeatures": "Vyzkoušejte nové funkce"
 }

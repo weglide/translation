@@ -921,5 +921,6 @@
   "send": "Versturen",
   "barboraDescription": "Wedstrijd piloot",
   "getNewFeatures": "Krijg nieuwe functies",
-  "currentPlanTest": "Je test {plan}."
+  "currentPlanTest": "Je test {plan}.",
+  "testNewFeatures": "Probeer nieuwe functies"
 }

@@ -921,5 +921,6 @@
   "send": "Sende",
   "barboraDescription": "Konkurransepilot",
   "getNewFeatures": "Få nye funksjoner",
-  "currentPlanTest": "Du tester {plan}."
+  "currentPlanTest": "Du tester {plan}.",
+  "testNewFeatures": "Prøv nye funksjoner"
 }

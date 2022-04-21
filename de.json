@@ -971,5 +971,6 @@
   },
   "barboraDescription": "Wettbewerbspilotin",
   "getNewFeatures": "Hol dir neue Funktionen",
-  "currentPlanTest": "Du probierst {plan} aus."
+  "currentPlanTest": "Du probierst {plan} aus.",
+  "testNewFeatures": "Teste neue Funktionen"
 }

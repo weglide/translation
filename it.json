@@ -921,5 +921,6 @@
   "send": "Spedire",
   "barboraDescription": "Pilota da competizione",
   "getNewFeatures": "Ottieni nuove funzionalità",
-  "currentPlanTest": "Stai testando {plan}."
+  "currentPlanTest": "Stai testando {plan}.",
+  "testNewFeatures": "Prova nuove funzionalità"
 }
