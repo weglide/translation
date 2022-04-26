@@ -923,5 +923,7 @@
   "getNewFeatures": "Krijg nieuwe functies",
   "currentPlanTest": "Je test {plan}.",
   "testNewFeatures": "Probeer nieuwe functies",
-  "juniors": "Junioren"
+  "juniors": "Junioren",
+  "getStatisticsList": "De lijst met statistieken ophalen",
+  "tryStatisticsList": "Probeer de statistiekenlijst gratis"
 }

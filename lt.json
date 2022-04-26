@@ -923,5 +923,7 @@
   "getNewFeatures": "Gaukite naujų funkcijų",
   "currentPlanTest": "Bandote {plan}.",
   "testNewFeatures": "Išbandykite naujas funkcijas",
-  "juniors": "Jaunieji"
+  "juniors": "Jaunieji",
+  "getStatisticsList": "Gaukite statistikos sąrašą",
+  "tryStatisticsList": "Išbandykite statistikos sąrašą nemokamai"
 }

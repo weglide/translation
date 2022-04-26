@@ -923,5 +923,7 @@
   "getNewFeatures": "Получите новые функции",
   "currentPlanTest": "Вы тестируете {plan}.",
   "testNewFeatures": "Попробуйте новые функции",
-  "juniors": "Юниоры"
+  "juniors": "Юниоры",
+  "getStatisticsList": "Получить список статистики",
+  "tryStatisticsList": "Попробуйте список статистики бесплатно"
 }

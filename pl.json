@@ -923,5 +923,7 @@
   "getNewFeatures": "Uzyskaj nowe funkcje",
   "currentPlanTest": "Testujesz {plan}.",
   "testNewFeatures": "Wypróbuj nowe funkcje",
-  "juniors": "Juniorzy"
+  "juniors": "Juniorzy",
+  "getStatisticsList": "Pobierz listę statystyk",
+  "tryStatisticsList": "Wypróbuj listę statystyk za darmo"
 }

@@ -921,5 +921,7 @@
   "getNewFeatures": "新機能を入手",
   "currentPlanTest": "{plan}をテストしています。",
   "testNewFeatures": "新機能を試す",
-  "juniors": "ジュニア"
+  "juniors": "ジュニア",
+  "getStatisticsList": "統計リストを取得する",
+  "tryStatisticsList": "統計リストを無料でお試しください"
 }

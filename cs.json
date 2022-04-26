@@ -923,5 +923,7 @@
   "getNewFeatures": "Získejte nové funkce",
   "currentPlanTest": "Testujete {plan}.",
   "testNewFeatures": "Vyzkoušejte nové funkce",
-  "juniors": "Junioři"
+  "juniors": "Junioři",
+  "getStatisticsList": "Získejte seznam statistik",
+  "tryStatisticsList": "Vyzkoušejte zdarma seznam statistik"
 }

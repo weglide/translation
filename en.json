@@ -973,5 +973,7 @@
   "barboraDescription": "Competition pilot",
   "getNewFeatures": "Get new features",
   "testNewFeatures": "Try new features",
-  "juniors": "Juniors"
+  "juniors": "Juniors",
+  "getStatisticsList": "Get the statistics list",
+  "tryStatisticsList": "Try the statistics list for free"
 }

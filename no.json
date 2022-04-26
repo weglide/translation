@@ -923,5 +923,7 @@
   "getNewFeatures": "Få nye funksjoner",
   "currentPlanTest": "Du tester {plan}.",
   "testNewFeatures": "Prøv nye funksjoner",
-  "juniors": "Juniorer"
+  "juniors": "Juniorer",
+  "getStatisticsList": "Få statistikklisten",
+  "tryStatisticsList": "Prøv statistikklisten gratis"
 }
