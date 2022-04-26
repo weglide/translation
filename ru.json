@@ -922,5 +922,6 @@
   "barboraDescription": "Пилот соревнований",
   "getNewFeatures": "Получите новые функции",
   "currentPlanTest": "Вы тестируете {plan}.",
-  "testNewFeatures": "Попробуйте новые функции"
+  "testNewFeatures": "Попробуйте новые функции",
+  "juniors": "Юниоры"
 }

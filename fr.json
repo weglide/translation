@@ -922,5 +922,6 @@
   "barboraDescription": "Pilote de compétition",
   "getNewFeatures": "Nouvelle fonctionnalité",
   "currentPlanTest": "Vous testez {plan}.",
-  "testNewFeatures": "Nouvelle fonctionnalité"
+  "testNewFeatures": "Nouvelle fonctionnalité",
+  "juniors": "Juniors"
 }

@@ -922,5 +922,6 @@
   "barboraDescription": "Tävlingspilot",
   "getNewFeatures": "Få nya funktioner",
   "currentPlanTest": "Du testar {plan}.",
-  "testNewFeatures": "Prova nya funktioner"
+  "testNewFeatures": "Prova nya funktioner",
+  "juniors": "Juniorer"
 }
