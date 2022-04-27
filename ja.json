@@ -923,5 +923,6 @@
   "testNewFeatures": "新機能を試す",
   "juniors": "ジュニア",
   "getStatisticsList": "統計リストを取得する",
-  "tryStatisticsList": "統計リストを無料でお試しください"
+  "tryStatisticsList": "統計リストを無料でお試しください",
+  "travelDescription": "WeGlideトラベルコンペティション"
 }
