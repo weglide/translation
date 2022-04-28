@@ -668,7 +668,10 @@
     "pilot": "Piloto",
     "pilot_total": "Total",
     "summer": "Verão",
-    "winter": "Inverno"
+    "winter": "Inverno",
+    "long": "Grandes",
+    "middle": "Meio",
+    "short": "Baixo"
   },
   "ranks": "Posição",
   "ratioAbbrev": "Razão",

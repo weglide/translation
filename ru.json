@@ -668,7 +668,10 @@
     "pilot": "Пилот",
     "pilot_total": "Всего",
     "summer": "Лето",
-    "winter": "Зима"
+    "winter": "Зима",
+    "long": "Длинный",
+    "middle": "Середина",
+    "short": "короткий"
   },
   "ranks": "Звания",
   "ratioAbbrev": "Соотношение",

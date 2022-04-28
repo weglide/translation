@@ -666,7 +666,10 @@
     "pilot": "パイロット",
     "pilot_total": "合計",
     "summer": "夏",
-    "winter": "冬"
+    "winter": "冬",
+    "long": "長さ",
+    "middle": "真ん中",
+    "short": "短い"
   },
   "ranks": "ランク",
   "ratioAbbrev": "比",

@@ -668,7 +668,10 @@
     "pilot": "Pilot",
     "pilot_total": "Celkový",
     "summer": "Léto",
-    "winter": "Zima"
+    "winter": "Zima",
+    "long": "Dlouho",
+    "middle": "Střední",
+    "short": "Krátký"
   },
   "ranks": "Pořadí",
   "ratioAbbrev": "Poměr",

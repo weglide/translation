@@ -668,7 +668,10 @@
     "pilot": "Pilot",
     "pilot_total": "Total",
     "summer": "Sommer",
-    "winter": "Vinter"
+    "winter": "Vinter",
+    "long": "Lang",
+    "middle": "Midten",
+    "short": "Kort"
   },
   "ranks": "Rangerer",
   "ratioAbbrev": "Forhold",

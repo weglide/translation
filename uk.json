@@ -4,5 +4,10 @@
   "automaticRenewal": "Ваша підписка буде автоматично поновлена ​​{date}.",
   "automaticExpiration": "Вашу підписку скасовано та закінчиться {date}. \nПісля цієї дати ви зможете знову підписатися.",
   "travelDescription": "Туристична чашка WeGlide",
-  "travel": "Подорожі"
+  "travel": "Подорожі",
+  "rankingOptions": {
+    "long": "Довгота",
+    "middle": "Середній",
+    "short": "Короткий"
+  }
 }

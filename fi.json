@@ -668,7 +668,10 @@
     "pilot": "Lentäjä",
     "pilot_total": "Kaikki yhteensä",
     "summer": "Kesä",
-    "winter": "Talvi"
+    "winter": "Talvi",
+    "long": "Pitkä",
+    "middle": "Keski",
+    "short": "Lyhyt"
   },
   "ranks": "Sijoitukset",
   "ratioAbbrev": "Suhde",

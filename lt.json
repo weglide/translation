@@ -668,7 +668,10 @@
     "pilot": "Pilotas",
     "pilot_total": "Iš viso",
     "summer": "Vasara",
-    "winter": "Žiema"
+    "winter": "Žiema",
+    "long": "Ilgas",
+    "middle": "Vidurio",
+    "short": "Trumpas"
   },
   "ranks": "Rangos",
   "ratioAbbrev": "Santykis",
