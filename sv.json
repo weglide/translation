@@ -852,5 +852,8 @@
   "tryStatisticsList": "Prova statistiklistan gratis",
   "travelDescription": "WeGlide Resetävling",
   "travel": "Resa",
-  "travels": "Resor"
+  "travels": "Resor",
+  "declarationTeaser": "Deklarera en uppgift och få upp till 70 % bonuspoäng i nationella tävlingar.",
+  "liveConnected": "Livespårning ansluten",
+  "liveDisconnected": "Livespårning frånkopplad"
 }

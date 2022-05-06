@@ -698,7 +698,7 @@
   "takeoff": "Start",
   "task": "Aufgabe",
   "taskFilterPlaceholder": "Aufgabe, Distanz, Person, Flugplatz",
-  "taskLockedNotice": "Aufgabe kann nicht bearbeitet werden weil sie bereits deklariert wurde.",
+  "taskLockedNotice": "Aufgabe kann nicht bearbeitet werden, da sie bereits deklariert wurde.",
   "taskName": "Aufgabenname",
   "taskSaved": "Aufgabe gespeichert",
   "taskStatusOptions": {
@@ -902,5 +902,8 @@
   "tryStatisticsList": "Teste die Statistikliste kostenlos",
   "travelDescription": "WeGlide Reise Cup",
   "travel": "Reise",
-  "travels": "Reisen"
+  "travels": "Reisen",
+  "liveConnected": "Live verbunden",
+  "liveDisconnected": "Live getrennt",
+  "declarationTeaser": "Deklariere eine Aufgabe und erhalte bis zu 70 % Bonuspunkte bei nationalen Wettbewerben."
 }

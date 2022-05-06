@@ -852,5 +852,8 @@
   "tryStatisticsList": "Išbandykite statistikos sąrašą nemokamai",
   "travelDescription": "WeGlide kelionių konkursas",
   "travel": "Kelionė",
-  "travels": "Kelionės"
+  "travels": "Kelionės",
+  "declarationTeaser": "Paskelbkite užduotį ir gaukite iki 70% papildomų taškų nacionaliniuose konkursuose.",
+  "liveConnected": "Tiesioginis stebėjimas prijungtas",
+  "liveDisconnected": "Tiesioginis stebėjimas atjungtas"
 }

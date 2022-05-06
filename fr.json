@@ -852,5 +852,8 @@
   "tryStatisticsList": "Essayez la liste des statistiques",
   "travelDescription": "Compétition de voyage WeGlide",
   "travel": "Voyage",
-  "travels": "Voyages"
+  "travels": "Voyages",
+  "declarationTeaser": "Déclarez une tâche et obtenez jusqu'à 70% de points bonus dans les compétitions nationales.",
+  "liveConnected": "Suivi en direct connecté",
+  "liveDisconnected": "Suivi en direct déconnecté"
 }

@@ -559,10 +559,10 @@
   "noNotifications": "No notifications.",
   "noOneYet": "No one yet.",
   "noSegments": "No segments in this area",
-  "noTaskDeclared": "No declared task.",
+  "noTaskDeclared": "No task declared",
   "noTaskInFile": "No valid task in file found",
   "noTasks": "No tasks yet, plan a new one!",
-  "noTrackingConnected": "No tracking connected.",
+  "noTrackingConnected": "No live tracking connected.",
   "notVerified": "Please verify your Email first",
   "notifications": "Notifications",
   "now": "now",
@@ -902,5 +902,8 @@
   "tryStatisticsList": "Try the statistics list for free",
   "travelDescription": "WeGlide Travel Cup",
   "travel": "Travel",
-  "travels": "Travels"
+  "travels": "Travels",
+  "declarationTeaser": "Declare a task and get up to 70% bonus points in national competitions.",
+  "liveConnected": "Live connected",
+  "liveDisconnected": "Live disconnected"
 }

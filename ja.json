@@ -850,5 +850,8 @@
   "tryStatisticsList": "統計リストを無料でお試しください",
   "travelDescription": "WeGlideトラベルコンペティション",
   "travel": "旅行",
-  "travels": "旅行"
+  "travels": "旅行",
+  "declarationTeaser": "タスクを宣言し、全国大会で最大70％のボーナスポイントを獲得します。",
+  "liveConnected": "接続されたライブトラッキング",
+  "liveDisconnected": "ライブトラッキングが切断されました"
 }

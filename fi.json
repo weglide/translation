@@ -852,5 +852,8 @@
   "tryStatisticsList": "Kokeile tilastoluetteloa ilmaiseksi",
   "travelDescription": "WeGlide matkailukilpailu",
   "travel": "Matkustaa",
-  "travels": "Matkat"
+  "travels": "Matkat",
+  "declarationTeaser": "Ilmoita tehtävä ja saat jopa 70 % bonuspisteitä kansallisissa kilpailuissa.",
+  "liveConnected": "Liveseuranta yhdistetty",
+  "liveDisconnected": "Live-seuranta katkaistu"
 }
