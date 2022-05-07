@@ -855,5 +855,6 @@
   "travels": "Reiser",
   "declarationTeaser": "Erklær en oppgave og få opptil 70 % bonuspoeng i nasjonale konkurranser.",
   "liveConnected": "Live sporing tilkoblet",
-  "liveDisconnected": "Live-sporing frakoblet"
+  "liveDisconnected": "Live-sporing frakoblet",
+  "disconnect": "Koble fra"
 }

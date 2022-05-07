@@ -855,5 +855,6 @@
   "travels": "reizen",
   "declarationTeaser": "Verklaar een taak en ontvang tot 70% bonuspunten in nationale competities.",
   "liveConnected": "Live volgen verbonden",
-  "liveDisconnected": "Live volgen ontkoppeld"
+  "liveDisconnected": "Live volgen ontkoppeld",
+  "disconnect": "verbinding verbreken"
 }

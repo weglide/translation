@@ -855,5 +855,6 @@
   "travels": "Viaggi",
   "declarationTeaser": "Dichiara un compito e ottieni fino al 70% di punti bonus nelle competizioni nazionali.",
   "liveConnected": "Tempo reale connesso",
-  "liveDisconnected": "Tempo reale disconnesso"
+  "liveDisconnected": "Tempo reale disconnesso",
+  "disconnect": "Disconnetti"
 }

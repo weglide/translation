@@ -855,5 +855,6 @@
   "travels": "Kelionės",
   "declarationTeaser": "Paskelbkite užduotį ir gaukite iki 70% papildomų taškų nacionaliniuose konkursuose.",
   "liveConnected": "Tiesioginis stebėjimas prijungtas",
-  "liveDisconnected": "Tiesioginis stebėjimas atjungtas"
+  "liveDisconnected": "Tiesioginis stebėjimas atjungtas",
+  "disconnect": "Atsijungti"
 }

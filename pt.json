@@ -855,5 +855,6 @@
   "travels": "Viagens",
   "declarationTeaser": "Declare uma tarefa e ganhe até 70% de pontos de bônus em competições nacionais.",
   "liveConnected": "Rastreamento ao vivo conectado",
-  "liveDisconnected": "Rastreamento ao vivo desconectado"
+  "liveDisconnected": "Rastreamento ao vivo desconectado",
+  "disconnect": "desconectar"
 }
