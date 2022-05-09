@@ -856,5 +856,7 @@
   "declarationTeaser": "Deklarera en uppgift och få upp till 70 % bonuspoäng i nationella tävlingar.",
   "liveConnected": "Livespårning ansluten",
   "liveDisconnected": "Livespårning frånkopplad",
-  "disconnect": "Koppla ifrån"
+  "disconnect": "Koppla ifrån",
+  "allFlightTraces": "Alla flygspår",
+  "centerMap": "Centrera kartan"
 }

@@ -856,5 +856,7 @@
   "declarationTeaser": "Paskelbkite užduotį ir gaukite iki 70% papildomų taškų nacionaliniuose konkursuose.",
   "liveConnected": "Tiesioginis stebėjimas prijungtas",
   "liveDisconnected": "Tiesioginis stebėjimas atjungtas",
-  "disconnect": "Atsijungti"
+  "disconnect": "Atsijungti",
+  "allFlightTraces": "Visi skrydžio pėdsakai",
+  "centerMap": "Centrinis žemėlapis"
 }

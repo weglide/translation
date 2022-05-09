@@ -856,5 +856,7 @@
   "declarationTeaser": "Zadeklaruj zadanie i zdobądź do 70% punktów bonusowych w konkursach krajowych.",
   "liveConnected": "Połączono śledzenie na żywo",
   "liveDisconnected": "Śledzenie na żywo zostało odłączone",
-  "disconnect": "Rozłączyć się"
+  "disconnect": "Rozłączyć się",
+  "allFlightTraces": "Wszystkie ślady lotów",
+  "centerMap": "Mapa centrum"
 }

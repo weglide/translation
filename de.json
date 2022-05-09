@@ -906,5 +906,7 @@
   "liveConnected": "Live verbunden",
   "liveDisconnected": "Live getrennt",
   "declarationTeaser": "Deklariere eine Aufgabe und erhalte bis zu 70 % Bonuspunkte bei nationalen Wettbewerben.",
-  "disconnect": "Trennen"
+  "disconnect": "Trennen",
+  "allFlightTraces": "Alle Flugspuren",
+  "centerMap": "Karte zentrieren"
 }

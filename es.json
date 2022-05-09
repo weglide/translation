@@ -856,5 +856,7 @@
   "declarationTeaser": "Declare una tarea y obtenga hasta un 70% de puntos de bonificación en competencias nacionales.",
   "liveConnected": "Seguimiento en vivo conectado",
   "liveDisconnected": "Seguimiento en vivo desconectado",
-  "disconnect": "Desconectar"
+  "disconnect": "Desconectar",
+  "allFlightTraces": "Todos los rastros de vuelo",
+  "centerMap": "Mapa central"
 }

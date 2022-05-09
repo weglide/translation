@@ -856,5 +856,7 @@
   "declarationTeaser": "Ilmoita tehtävä ja saat jopa 70 % bonuspisteitä kansallisissa kilpailuissa.",
   "liveConnected": "Liveseuranta yhdistetty",
   "liveDisconnected": "Live-seuranta katkaistu",
-  "disconnect": "Katkaista"
+  "disconnect": "Katkaista",
+  "allFlightTraces": "Kaikki lennon jäljet",
+  "centerMap": "Keskikartta"
 }

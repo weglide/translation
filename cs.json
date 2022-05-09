@@ -856,5 +856,7 @@
   "declarationTeaser": "Vyhlaste úkol a získejte až 70 % bonusových bodů v národních soutěžích.",
   "liveConnected": "Živé sledování připojeno",
   "liveDisconnected": "Živé sledování je odpojeno",
-  "disconnect": "Odpojit"
+  "disconnect": "Odpojit",
+  "allFlightTraces": "Všechny stopy letu",
+  "centerMap": "Středová mapa"
 }

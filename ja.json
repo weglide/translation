@@ -854,5 +854,7 @@
   "declarationTeaser": "タスクを宣言し、全国大会で最大70％のボーナスポイントを獲得します。",
   "liveConnected": "接続されたライブトラッキング",
   "liveDisconnected": "ライブトラッキングが切断されました",
-  "disconnect": "切断する"
+  "disconnect": "切断する",
+  "allFlightTraces": "すべてのフライトトレース",
+  "centerMap": "センターマップ"
 }

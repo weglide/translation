@@ -856,5 +856,7 @@
   "declarationTeaser": "Declare uma tarefa e ganhe até 70% de pontos de bônus em competições nacionais.",
   "liveConnected": "Rastreamento ao vivo conectado",
   "liveDisconnected": "Rastreamento ao vivo desconectado",
-  "disconnect": "desconectar"
+  "disconnect": "desconectar",
+  "allFlightTraces": "Todos os rastros de voo",
+  "centerMap": "Mapa central"
 }

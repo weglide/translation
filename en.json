@@ -906,5 +906,7 @@
   "declarationTeaser": "Declare a task and get up to 70% bonus points in national competitions.",
   "liveConnected": "Live connected",
   "liveDisconnected": "Live disconnected",
-  "disconnect": "Disconnect"
+  "disconnect": "Disconnect",
+  "allFlightTraces": "All flight traces",
+  "centerMap": "Center map"
 }
