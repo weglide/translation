@@ -858,5 +858,6 @@
   "liveDisconnected": "Live volgen ontkoppeld",
   "disconnect": "verbinding verbreken",
   "allFlightTraces": "Alle vluchtsporen",
-  "centerMap": "Kaart in het midden"
+  "centerMap": "Kaart in het midden",
+  "competitionNotAvailable": "Competitie gepauzeerd of beëindigd."
 }

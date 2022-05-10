@@ -856,5 +856,6 @@
   "liveDisconnected": "ライブトラッキングが切断されました",
   "disconnect": "切断する",
   "allFlightTraces": "すべてのフライトトレース",
-  "centerMap": "センターマップ"
+  "centerMap": "センターマップ",
+  "competitionNotAvailable": "競争は一時停止または終了しました。"
 }

@@ -908,5 +908,6 @@
   "declarationTeaser": "Deklariere eine Aufgabe und erhalte bis zu 70 % Bonuspunkte bei nationalen Wettbewerben.",
   "disconnect": "Trennen",
   "allFlightTraces": "Alle Flugspuren",
-  "centerMap": "Karte zentrieren"
+  "centerMap": "Karte zentrieren",
+  "competitionNotAvailable": "Wettbewerb pausiert oder beendet."
 }

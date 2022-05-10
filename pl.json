@@ -858,5 +858,6 @@
   "liveDisconnected": "Śledzenie na żywo zostało odłączone",
   "disconnect": "Rozłączyć się",
   "allFlightTraces": "Wszystkie ślady lotów",
-  "centerMap": "Mapa centrum"
+  "centerMap": "Mapa centrum",
+  "competitionNotAvailable": "Konkurs został wstrzymany lub zakończony."
 }

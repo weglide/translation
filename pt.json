@@ -858,5 +858,6 @@
   "liveDisconnected": "Rastreamento ao vivo desconectado",
   "disconnect": "desconectar",
   "allFlightTraces": "Todos os rastros de voo",
-  "centerMap": "Mapa central"
+  "centerMap": "Mapa central",
+  "competitionNotAvailable": "Competição pausada ou terminada."
 }

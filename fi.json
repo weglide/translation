@@ -858,5 +858,6 @@
   "liveDisconnected": "Live-seuranta katkaistu",
   "disconnect": "Katkaista",
   "allFlightTraces": "Kaikki lennon jäljet",
-  "centerMap": "Keskikartta"
+  "centerMap": "Keskikartta",
+  "competitionNotAvailable": "Kilpailu keskeytetty tai päättynyt."
 }

@@ -858,5 +858,6 @@
   "liveDisconnected": "Livespårning frånkopplad",
   "disconnect": "Koppla ifrån",
   "allFlightTraces": "Alla flygspår",
-  "centerMap": "Centrera kartan"
+  "centerMap": "Centrera kartan",
+  "competitionNotAvailable": "Tävlingen pausad eller avslutad."
 }

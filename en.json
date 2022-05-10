@@ -908,5 +908,6 @@
   "liveDisconnected": "Live disconnected",
   "disconnect": "Disconnect",
   "allFlightTraces": "All flight traces",
-  "centerMap": "Center map"
+  "centerMap": "Center map",
+  "competitionNotAvailable": "Competition paused or finished."
 }

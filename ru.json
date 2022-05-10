@@ -858,5 +858,6 @@
   "liveDisconnected": "Отслеживание в реальном времени отключено",
   "disconnect": "Отключить",
   "allFlightTraces": "Все следы полета",
-  "centerMap": "Карта центра"
+  "centerMap": "Карта центра",
+  "competitionNotAvailable": "Соревнование приостановлено или завершено."
 }

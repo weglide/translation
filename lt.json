@@ -858,5 +858,6 @@
   "liveDisconnected": "Tiesioginis stebėjimas atjungtas",
   "disconnect": "Atsijungti",
   "allFlightTraces": "Visi skrydžio pėdsakai",
-  "centerMap": "Centrinis žemėlapis"
+  "centerMap": "Centrinis žemėlapis",
+  "competitionNotAvailable": "Varžybos pristabdytos arba baigtos."
 }

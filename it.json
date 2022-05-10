@@ -858,5 +858,6 @@
   "liveDisconnected": "Tempo reale disconnesso",
   "disconnect": "Disconnetti",
   "allFlightTraces": "Tutte le tracce di volo",
-  "centerMap": "Mappa centrale"
+  "centerMap": "Mappa centrale",
+  "competitionNotAvailable": "Concorso sospeso o terminato."
 }

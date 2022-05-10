@@ -858,5 +858,6 @@
   "liveDisconnected": "Živé sledování je odpojeno",
   "disconnect": "Odpojit",
   "allFlightTraces": "Všechny stopy letu",
-  "centerMap": "Středová mapa"
+  "centerMap": "Středová mapa",
+  "competitionNotAvailable": "Soutěž pozastavena nebo ukončena."
 }

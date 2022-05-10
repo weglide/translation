@@ -858,5 +858,6 @@
   "liveDisconnected": "Live-sporing frakoblet",
   "disconnect": "Koble fra",
   "allFlightTraces": "Alle flyspor",
-  "centerMap": "Senter kart"
+  "centerMap": "Senter kart",
+  "competitionNotAvailable": "Konkurransen er stoppet eller avsluttet."
 }
