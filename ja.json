@@ -857,5 +857,6 @@
   "disconnect": "切断する",
   "allFlightTraces": "すべてのフライトトレース",
   "centerMap": "センターマップ",
-  "competitionNotAvailable": "競争は一時停止または終了しました。"
+  "competitionNotAvailable": "競争は一時停止または終了しました。",
+  "tryPremium": "プレミアムを無料でお試しください"
 }

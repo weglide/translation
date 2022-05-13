@@ -859,5 +859,6 @@
   "disconnect": "desconectar",
   "allFlightTraces": "Todos os rastros de voo",
   "centerMap": "Mapa central",
-  "competitionNotAvailable": "Competição pausada ou terminada."
+  "competitionNotAvailable": "Competição pausada ou terminada.",
+  "tryPremium": "Experimente o Premium gratuitamente"
 }

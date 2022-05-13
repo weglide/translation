@@ -859,5 +859,6 @@
   "disconnect": "Koppla ifrån",
   "allFlightTraces": "Alla flygspår",
   "centerMap": "Centrera kartan",
-  "competitionNotAvailable": "Tävlingen pausad eller avslutad."
+  "competitionNotAvailable": "Tävlingen pausad eller avslutad.",
+  "tryPremium": "Prova Premium gratis"
 }

@@ -859,5 +859,6 @@
   "disconnect": "Koble fra",
   "allFlightTraces": "Alle flyspor",
   "centerMap": "Senter kart",
-  "competitionNotAvailable": "Konkurransen er stoppet eller avsluttet."
+  "competitionNotAvailable": "Konkurransen er stoppet eller avsluttet.",
+  "tryPremium": "Prøv Premium gratis"
 }

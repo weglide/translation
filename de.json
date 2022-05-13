@@ -909,5 +909,6 @@
   "disconnect": "Trennen",
   "allFlightTraces": "Alle Flugspuren",
   "centerMap": "Karte zentrieren",
-  "competitionNotAvailable": "Wettbewerb pausiert oder beendet."
+  "competitionNotAvailable": "Wettbewerb pausiert oder beendet.",
+  "tryPremium": "Teste Premium kostenlos"
 }

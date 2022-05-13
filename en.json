@@ -909,5 +909,6 @@
   "disconnect": "Disconnect",
   "allFlightTraces": "All flight traces",
   "centerMap": "Center map",
-  "competitionNotAvailable": "Competition paused or finished."
+  "competitionNotAvailable": "Competition paused or finished.",
+  "tryPremium": "Try Premium for free"
 }

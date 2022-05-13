@@ -859,5 +859,6 @@
   "disconnect": "Odpojit",
   "allFlightTraces": "Všechny stopy letu",
   "centerMap": "Středová mapa",
-  "competitionNotAvailable": "Soutěž pozastavena nebo ukončena."
+  "competitionNotAvailable": "Soutěž pozastavena nebo ukončena.",
+  "tryPremium": "Vyzkoušejte Premium zdarma"
 }

@@ -859,5 +859,6 @@
   "disconnect": "Отключить",
   "allFlightTraces": "Все следы полета",
   "centerMap": "Карта центра",
-  "competitionNotAvailable": "Соревнование приостановлено или завершено."
+  "competitionNotAvailable": "Соревнование приостановлено или завершено.",
+  "tryPremium": "Попробуйте Премиум бесплатно"
 }
