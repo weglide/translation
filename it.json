@@ -860,5 +860,6 @@
   "allFlightTraces": "Tutte le tracce di volo",
   "centerMap": "Mappa centrale",
   "competitionNotAvailable": "Concorso sospeso o terminato.",
-  "tryPremium": "Prova Premium gratuitamente"
+  "tryPremium": "Prova Premium gratuitamente",
+  "userGroup": "Gruppo di utenti"
 }

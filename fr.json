@@ -860,5 +860,6 @@
   "allFlightTraces": "Toutes les traces de vol",
   "centerMap": "Centrer la carte",
   "competitionNotAvailable": "Compétition interrompue ou terminée.",
-  "tryPremium": "Essayez Premium gratuitement"
+  "tryPremium": "Essayez Premium gratuitement",
+  "userGroup": "Groupe d'utilisateurs"
 }

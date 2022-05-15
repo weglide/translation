@@ -860,5 +860,6 @@
   "allFlightTraces": "Kaikki lennon jäljet",
   "centerMap": "Keskikartta",
   "competitionNotAvailable": "Kilpailu keskeytetty tai päättynyt.",
-  "tryPremium": "Kokeile Premiumia ilmaiseksi"
+  "tryPremium": "Kokeile Premiumia ilmaiseksi",
+  "userGroup": "Käyttäjäryhmä"
 }

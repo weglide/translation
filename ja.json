@@ -858,5 +858,6 @@
   "allFlightTraces": "すべてのフライトトレース",
   "centerMap": "センターマップ",
   "competitionNotAvailable": "競争は一時停止または終了しました。",
-  "tryPremium": "プレミアムを無料でお試しください"
+  "tryPremium": "プレミアムを無料でお試しください",
+  "userGroup": "ユーザー・グループ"
 }
