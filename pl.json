@@ -861,5 +861,6 @@
   "centerMap": "Mapa centrum",
   "competitionNotAvailable": "Konkurs został wstrzymany lub zakończony.",
   "tryPremium": "Wypróbuj Premium za darmo",
-  "userGroup": "Grupa użytkowników"
+  "userGroup": "Grupa użytkowników",
+  "taskDeclarationWarning": "Deklarujesz to zadanie na {days} dni. \nTo nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide."
 }

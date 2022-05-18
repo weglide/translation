@@ -913,5 +913,6 @@
   "tryPremium": "Try Premium for free",
   "becomeBetter": "For everyone who wants to get better",
   "learnMoreAboutPossibilities": "Learn more about the possibilities",
-  "userGroup": "User group"
+  "userGroup": "User group",
+  "taskDeclarationWarning": "You are declaring this task for {days} days. This will overwrite all declarations in your logger and on WeGlide."
 }
