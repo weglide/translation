@@ -914,5 +914,6 @@
   "becomeBetter": "Für alle, die besser werden wollen",
   "learnMoreAboutPossibilities": "Erfahre mehr über die Möglichkeiten",
   "userGroup": "Nutzergruppe",
-  "taskDeclarationWarning": "Du deklarierst diese Aufgabe für {days} Tage. Damit überschreibst du alle Deklarationen in deinem Logger und auf WeGlide."
+  "taskDeclarationWarning": "Du deklarierst diese Aufgabe für {days} Tage. Damit überschreibst du alle Deklarationen in deinem Logger und auf WeGlide.",
+  "landingOpportunities": "Landemöglichkeiten"
 }

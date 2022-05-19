@@ -862,5 +862,6 @@
   "competitionNotAvailable": "Competitie gepauzeerd of beëindigd.",
   "tryPremium": "Probeer Premium gratis",
   "userGroup": "Gebruikersgroep",
-  "taskDeclarationWarning": "U declareert deze taak voor {days} dagen. \nHiermee worden alle declaraties in uw logger en op WeGlide overschreven."
+  "taskDeclarationWarning": "U declareert deze taak voor {days} dagen. \nHiermee worden alle declaraties in uw logger en op WeGlide overschreven.",
+  "landingOpportunities": "Landingskansen"
 }

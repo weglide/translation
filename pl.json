@@ -862,5 +862,6 @@
   "competitionNotAvailable": "Konkurs został wstrzymany lub zakończony.",
   "tryPremium": "Wypróbuj Premium za darmo",
   "userGroup": "Grupa użytkowników",
-  "taskDeclarationWarning": "Deklarujesz to zadanie na {days} dni. \nTo nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide."
+  "taskDeclarationWarning": "Deklarujesz to zadanie na {days} dni. \nTo nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
+  "landingOpportunities": "Możliwość lądowania"
 }

@@ -862,5 +862,6 @@
   "competitionNotAvailable": "Competición pausada o finalizada.",
   "tryPremium": "Prueba Premium gratis",
   "userGroup": "Grupo de usuario",
-  "taskDeclarationWarning": "Estás declarando esta tarea por {days} días. \nEsto sobrescribirá todas las declaraciones en su registrador y en WeGlide."
+  "taskDeclarationWarning": "Estás declarando esta tarea por {days} días. \nEsto sobrescribirá todas las declaraciones en su registrador y en WeGlide.",
+  "landingOpportunities": "Oportunidades de aterrizaje"
 }
