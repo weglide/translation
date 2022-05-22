@@ -863,5 +863,8 @@
   "tryPremium": "Prova Premium gratis",
   "userGroup": "Användargrupp",
   "landingOpportunities": "Landningsmöjligheter",
-  "supportWeGlideNow": "Stöd WeGlide nu"
+  "supportWeGlideNow": "Stöd WeGlide nu",
+  "sort": "Sortera",
+  "scoring": "Poängsättning",
+  "direction": "Riktning"
 }

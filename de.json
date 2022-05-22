@@ -916,5 +916,8 @@
   "userGroup": "Nutzergruppe",
   "taskDeclarationWarning": "Du deklarierst diese Aufgabe für {days} Tage. Damit überschreibst du alle Deklarationen in deinem Logger und auf WeGlide.",
   "landingOpportunities": "Landemöglichkeiten",
-  "supportWeGlideNow": "Unterstütze WeGlide jetzt"
+  "supportWeGlideNow": "Unterstütze WeGlide jetzt",
+  "sort": "Sortieren",
+  "scoring": "Wertung",
+  "direction": "Richtung"
 }

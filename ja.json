@@ -861,5 +861,8 @@
   "tryPremium": "プレミアムを無料でお試しください",
   "userGroup": "ユーザー・グループ",
   "landingOpportunities": "着陸の機会",
-  "supportWeGlideNow": "今すぐWeGlideをサポート"
+  "supportWeGlideNow": "今すぐWeGlideをサポート",
+  "sort": "選別",
+  "scoring": "スコアリング",
+  "direction": "方向"
 }

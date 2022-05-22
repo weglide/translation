@@ -863,5 +863,8 @@
   "tryPremium": "Kokeile Premiumia ilmaiseksi",
   "userGroup": "Käyttäjäryhmä",
   "landingOpportunities": "Laskeutumismahdollisuudet",
-  "supportWeGlideNow": "Tue WeGlidea nyt"
+  "supportWeGlideNow": "Tue WeGlidea nyt",
+  "sort": "Järjestellä",
+  "scoring": "Pisteytys",
+  "direction": "Suunta"
 }

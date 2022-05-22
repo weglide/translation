@@ -863,5 +863,8 @@
   "tryPremium": "Спробуйте Premium безкоштовно",
   "userGroup": "Група користувачів",
   "landingOpportunities": "Можливості посадки",
-  "supportWeGlideNow": "Підтримуйте WeGlide зараз"
+  "supportWeGlideNow": "Підтримуйте WeGlide зараз",
+  "sort": "Сортувати",
+  "scoring": "Підрахунок балів",
+  "direction": "Напрямок"
 }

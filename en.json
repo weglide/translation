@@ -916,5 +916,8 @@
   "userGroup": "User group",
   "taskDeclarationWarning": "You are declaring this task for {days} days. This will overwrite all declarations in your logger and on WeGlide.",
   "landingOpportunities": "Landing opportunities",
-  "supportWeGlideNow": "Support WeGlide now"
+  "supportWeGlideNow": "Support WeGlide now",
+  "sort": "Sort",
+  "scoring": "Scoring",
+  "direction": "Direction"
 }

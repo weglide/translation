@@ -863,5 +863,8 @@
   "tryPremium": "Попробуйте Премиум бесплатно",
   "userGroup": "Группа пользователей",
   "landingOpportunities": "Возможности посадки",
-  "supportWeGlideNow": "Поддержите WeGlide сейчас"
+  "supportWeGlideNow": "Поддержите WeGlide сейчас",
+  "sort": "Сортировать",
+  "scoring": "Подсчет очков",
+  "direction": "Направление"
 }
