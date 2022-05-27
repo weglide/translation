@@ -17,6 +17,8 @@ If a key is missing in another language, english will be used.
 * @ITKewai (Italian)
 * @grzesie (Polish)
 * @muravitskiy (Ukrainian)
+* @deltafox44 (French)
+* @phdepechy (French)
 
 ## Contribute
 
