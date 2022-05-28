@@ -818,7 +818,7 @@
   "noCertificatesYet": "Pas encore de certificats, commencez à télécharger des vols pour gagner votre premier.",
   "offline": "Hors ligne",
   "startTaskPlanning": "Sélectionnez un lieu de départ sur la carte",
-  "afterTrialInfo": "{price} par année par la suite, si non annulé",
+  "afterTrialInfo": "{price} par mois ensuite, facturé annuellement",
   "startFreeTrial": "Essai gratuit",
   "trialPeriod": "14 jours gratuits",
   "featuresExplanation": "Les fonctionnalités expliquées",
@@ -867,5 +867,6 @@
   "supportWeGlideNow": "Soutenez WeGlide maintenant",
   "sort": "Sorte",
   "scoring": "Notation",
-  "direction": "Direction"
+  "direction": "Direction",
+  "whatYouGet": "Ce que vous obtenez"
 }

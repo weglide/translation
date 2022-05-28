@@ -818,7 +818,7 @@
   "noCertificatesYet": "Ще немає сертифікатів, почніть завантажувати авіарейси, щоб отримати свій перший.",
   "offline": "Офлайн",
   "startTaskPlanning": "Виберіть початкове місце на карті",
-  "afterTrialInfo": "{price} на рік після цього, якщо не скасовано",
+  "afterTrialInfo": "{price} на місяць згодом, рахунок виставляється щорічно",
   "startFreeTrial": "Безкоштовне випробування",
   "trialPeriod": "14 днів безкоштовно",
   "featuresExplanation": "Пояснені особливості",
@@ -866,5 +866,6 @@
   "supportWeGlideNow": "Підтримуйте WeGlide зараз",
   "sort": "Сортувати",
   "scoring": "Підрахунок балів",
-  "direction": "Напрямок"
+  "direction": "Напрямок",
+  "whatYouGet": "Що ви отримуєте"
 }

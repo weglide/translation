@@ -818,7 +818,7 @@
   "noCertificatesYet": "Ei vielä todistuksia. Aloita lentojen lataaminen ansaitaksesi ensimmäisen.",
   "offline": "Offline-tilassa",
   "startTaskPlanning": "Valitse aloituspaikka kartalta",
-  "afterTrialInfo": "{price} vuodessa sen jälkeen, jos sitä ei peruuteta",
+  "afterTrialInfo": "{price} kuukaudessa sen jälkeen, laskutetaan vuosittain",
   "startFreeTrial": "Ilmainen kokeilu",
   "trialPeriod": "14 päivää ilmaiseksi",
   "featuresExplanation": "Ominaisuudet selitetty",
@@ -866,5 +866,6 @@
   "supportWeGlideNow": "Tue WeGlidea nyt",
   "sort": "Järjestellä",
   "scoring": "Pisteytys",
-  "direction": "Suunta"
+  "direction": "Suunta",
+  "whatYouGet": "Mitä saat"
 }

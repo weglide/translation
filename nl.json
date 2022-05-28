@@ -818,7 +818,7 @@
   "noCertificatesYet": "Nog geen certificaten, begin met het uploaden van vluchten om uw eerste te verdienen.",
   "offline": "offline",
   "startTaskPlanning": "Selecteer een startlocatie op de kaart",
-  "afterTrialInfo": "{price} per jaar daarna, indien niet geannuleerd",
+  "afterTrialInfo": "{price} per maand achteraf, jaarlijks gefactureerd",
   "startFreeTrial": "Gratis proefperiode",
   "trialPeriod": "14 dagen gratis",
   "featuresExplanation": "De functies uitgelegd",
@@ -867,5 +867,6 @@
   "supportWeGlideNow": "Steun WeGlide nu",
   "sort": "Soort",
   "scoring": "Scoren",
-  "direction": "Richting"
+  "direction": "Richting",
+  "whatYouGet": "Wat je krijgt"
 }

@@ -818,7 +818,7 @@
   "noCertificatesYet": "Dar nėra sertifikatų, pradėkite įkelti skrydžius, kad uždirbtumėte pirmąjį.",
   "offline": "Neprisijungus",
   "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą",
-  "afterTrialInfo": "{price} per metus vėliau, jei neatšauksite",
+  "afterTrialInfo": "Vėliau {price} per mėnesį, apmokestinama kasmet",
   "startFreeTrial": "Nemokamas bandymas",
   "trialPeriod": "14 dienų nemokamai",
   "featuresExplanation": "Paaiškintos savybės",
@@ -866,5 +866,6 @@
   "supportWeGlideNow": "Palaikykite WeGlide dabar",
   "sort": "Rūšiuoti",
   "scoring": "Taškais",
-  "direction": "Kryptis"
+  "direction": "Kryptis",
+  "whatYouGet": "Ką tu gavai"
 }

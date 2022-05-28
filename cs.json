@@ -816,7 +816,7 @@
   "noCertificatesYet": "Zatím žádné certifikáty, začněte nahrávat lety a získejte svůj první.",
   "offline": "Offline",
   "startTaskPlanning": "Vyberte výchozí místo na mapě",
-  "afterTrialInfo": "{price} ročně poté, pokud nebude zrušeno",
+  "afterTrialInfo": "{price} za měsíc poté, účtováno ročně",
   "startFreeTrial": "Zkušební verze zdarma",
   "trialPeriod": "14 dní zdarma",
   "featuresExplanation": "Vysvětlené funkce",
@@ -866,5 +866,6 @@
   "supportWeGlideNow": "Podpořte WeGlide nyní",
   "sort": "Seřadit",
   "scoring": "Bodování",
-  "direction": "Směr"
+  "direction": "Směr",
+  "whatYouGet": "Co dostaneš"
 }

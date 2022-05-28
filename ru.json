@@ -818,7 +818,7 @@
   "noCertificatesYet": "Пока нет сертификатов, начните загружать рейсы, чтобы получить свой первый.",
   "offline": "Не в сети",
   "startTaskPlanning": "Выберите начальную точку на карте",
-  "afterTrialInfo": "{price} в год после этого, если не отменить",
+  "afterTrialInfo": "{price} в месяц после этого, оплачивается ежегодно",
   "startFreeTrial": "Бесплатная пробная версия",
   "trialPeriod": "14 дней бесплатно",
   "featuresExplanation": "Объяснение особенностей",
@@ -866,5 +866,6 @@
   "supportWeGlideNow": "Поддержите WeGlide сейчас",
   "sort": "Сортировать",
   "scoring": "Подсчет очков",
-  "direction": "Направление"
+  "direction": "Направление",
+  "whatYouGet": "То, что вы получаете"
 }
