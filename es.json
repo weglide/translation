@@ -868,5 +868,7 @@
   "sort": "Clasificar",
   "scoring": "Puntuación",
   "direction": "Dirección",
-  "whatYouGet": "Lo que obtienes"
+  "whatYouGet": "Lo que obtienes",
+  "calendar": "Calendario",
+  "row": "Fila"
 }

@@ -867,5 +867,7 @@
   "sort": "Järjestellä",
   "scoring": "Pisteytys",
   "direction": "Suunta",
-  "whatYouGet": "Mitä saat"
+  "whatYouGet": "Mitä saat",
+  "calendar": "Kalenteri",
+  "row": "Rivi"
 }

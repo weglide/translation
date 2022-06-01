@@ -865,5 +865,7 @@
   "sort": "選別",
   "scoring": "スコアリング",
   "direction": "方向",
-  "whatYouGet": "あなたが得るもの"
+  "whatYouGet": "あなたが得るもの",
+  "calendar": "カレンダー",
+  "row": "行"
 }

@@ -867,5 +867,7 @@
   "sort": "Sortera",
   "scoring": "Poängsättning",
   "direction": "Riktning",
-  "whatYouGet": "Vad du får"
+  "whatYouGet": "Vad du får",
+  "calendar": "Kalender",
+  "row": "Rad"
 }

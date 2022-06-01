@@ -920,5 +920,7 @@
   "sort": "Sortieren",
   "scoring": "Wertung",
   "direction": "Richtung",
-  "whatYouGet": "Was du bekommst"
+  "whatYouGet": "Was du bekommst",
+  "calendar": "Kalender",
+  "row": "Zeile"
 }

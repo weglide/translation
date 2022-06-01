@@ -868,5 +868,7 @@
   "sort": "Sorte",
   "scoring": "Notation",
   "direction": "Direction",
-  "whatYouGet": "Ce que vous obtenez"
+  "whatYouGet": "Ce que vous obtenez",
+  "calendar": "Calendrier",
+  "row": "Ligne"
 }
