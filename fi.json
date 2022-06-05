@@ -873,5 +873,6 @@
   "multiCircumnavigation": "Monipuolinen kiertäminen",
   "noValidTriangleOrRectangle": "Ei kelvollista kolmiota tai suorakulmiota",
   "scoringDistance": "Maalintekoetäisyys",
-  "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa"
+  "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa",
+  "youLikeLive": "Pidätkö live-seurannasta?"
 }

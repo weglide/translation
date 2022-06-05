@@ -873,5 +873,6 @@
   "multiCircumnavigation": "Multi jordomsegling",
   "noValidTriangleOrRectangle": "Ingen giltig triangel eller rektangel",
   "scoringDistance": "Poängavstånd",
-  "taskPointCalculation": "Poängberäkning för nationella tävlingar"
+  "taskPointCalculation": "Poängberäkning för nationella tävlingar",
+  "youLikeLive": "Gillar du livespårningen?"
 }

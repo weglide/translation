@@ -874,5 +874,6 @@
   "multiCircumnavigation": "Multitour du monde",
   "noValidTriangleOrRectangle": "Aucun triangle ou rectangle valide",
   "scoringDistance": "Distance de notation",
-  "taskPointCalculation": "Calcul des points pour les compétitions nationales"
+  "taskPointCalculation": "Calcul des points pour les compétitions nationales",
+  "youLikeLive": "Vous aimez le suivi en direct ?"
 }

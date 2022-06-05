@@ -871,5 +871,6 @@
   "multiCircumnavigation": "マルチ周回ナビゲーション",
   "noValidTriangleOrRectangle": "有効な三角形または長方形がありません",
   "scoringDistance": "得点距離",
-  "taskPointCalculation": "全国大会のポイント計算"
+  "taskPointCalculation": "全国大会のポイント計算",
+  "youLikeLive": "あなたはライブトラッキングが好きですか？"
 }

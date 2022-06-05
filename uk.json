@@ -873,5 +873,6 @@
   "multiCircumnavigation": "Мульти навколосвітнє плавання",
   "noValidTriangleOrRectangle": "Немає допустимого трикутника чи прямокутника",
   "scoringDistance": "Оцінка дистанції",
-  "taskPointCalculation": "Підрахунок балів за національні змагання"
+  "taskPointCalculation": "Підрахунок балів за національні змагання",
+  "youLikeLive": "Вам подобається відстеження в прямому ефірі?"
 }

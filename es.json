@@ -874,5 +874,6 @@
   "multiCircumnavigation": "circunnavegación múltiple",
   "noValidTriangleOrRectangle": "Ningún triángulo o rectángulo válido",
   "scoringDistance": "Distancia de gol",
-  "taskPointCalculation": "Cálculo de puntos para competiciones nacionales"
+  "taskPointCalculation": "Cálculo de puntos para competiciones nacionales",
+  "youLikeLive": "¿Te gusta el seguimiento en vivo?"
 }

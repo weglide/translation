@@ -873,5 +873,6 @@
   "multiCircumnavigation": "Многократное кругосветное плавание",
   "noValidTriangleOrRectangle": "Нет допустимого треугольника или прямоугольника",
   "scoringDistance": "Зачетное расстояние",
-  "taskPointCalculation": "Подсчет очков на национальных соревнованиях"
+  "taskPointCalculation": "Подсчет очков на национальных соревнованиях",
+  "youLikeLive": "Вам нравится живое отслеживание?"
 }

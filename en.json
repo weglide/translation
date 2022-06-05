@@ -926,5 +926,6 @@
   "taskPointCalculation": "Point calculation for national competitions",
   "noValidTriangleOrRectangle": "No valid triangle or rectangle",
   "scoringDistance": "Scoring distance",
-  "multiCircumnavigation": "Multi circumnavigation"
+  "multiCircumnavigation": "Multi circumnavigation",
+  "youLikeLive": "You like the live tracking?"
 }
