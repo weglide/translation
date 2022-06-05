@@ -893,7 +893,11 @@
     "statisticsListDescription": "Vergleiche dich mit anderen oder verfolge deinen Fortschritt über die Zeit. \nErgänzender Listentyp, der die folgenden Statistiken auf einen Blick bereithält.",
     "statisticsListGlide": "Gleiten und Umweg",
     "statisticsListThermal": "Aufwinde und Einkreisversuche",
-    "superchargeDailyList": "Die nächste Stufe der Tageswertung."
+    "superchargeDailyList": "Die nächste Stufe der Tageswertung.",
+    "landingOpportunitiesCheck": "Überprüfe die Sicherheit deiner Entscheidungen",
+    "landingOpportunitiesDescription": "Interaktive Ankunftshöhe für jeden Flugplatz auf deinem Weg.",
+    "landingOpportunitiesImprove": "Verbessere dich, indem du über Alternativen nachdenkst",
+    "landingOpportunitiesLearn": "Lerne, welche Möglichkeiten du während deines Fluges hattest"
   },
   "barboraDescription": "Wettbewerbspilotin",
   "currentPlanTest": "Du probierst {plan} aus.",
@@ -915,7 +919,7 @@
   "learnMoreAboutPossibilities": "Erfahre mehr über die Möglichkeiten",
   "userGroup": "Nutzergruppe",
   "taskDeclarationWarning": "Du deklarierst diese Aufgabe für {days} Tage. Damit überschreibst du alle Deklarationen in deinem Logger und auf WeGlide.",
-  "landingOpportunities": "Landemöglichkeiten",
+  "landingOpportunities": "Flugplatz Ankunftshöhe",
   "supportWeGlideNow": "Unterstütze WeGlide jetzt",
   "sort": "Sortieren",
   "scoring": "Wertung",

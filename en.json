@@ -893,7 +893,11 @@
     "earlyBirdAccessDescription": "Contact us for access to features before they become available to the public.",
     "earlyBirdAccessFuture": "Shape the future of WeGlide with your feedback",
     "missSomething": "Miss Something?",
-    "missSomethingDescription": "We are eager to chat with you and improve."
+    "missSomethingDescription": "We are eager to chat with you and improve.",
+    "landingOpportunitiesDescription": "Interactive arrival altitude for every airport along your way.",
+    "landingOpportunitiesLearn": "Learn which options you had at any point during your flight",
+    "landingOpportunitiesCheck": "Check if the decisions you made were safe",
+    "landingOpportunitiesImprove": "Improve by thinking about alternatives after the flight"
   },
   "send": "Send",
   "barboraDescription": "Competition pilot",
@@ -915,7 +919,7 @@
   "learnMoreAboutPossibilities": "Learn more about the possibilities",
   "userGroup": "User group",
   "taskDeclarationWarning": "You are declaring this task for {days} days. This will overwrite all declarations in your logger and on WeGlide.",
-  "landingOpportunities": "Landing opportunities",
+  "landingOpportunities": "Airport arrival altitude",
   "supportWeGlideNow": "Support WeGlide now",
   "sort": "Sort",
   "scoring": "Scoring",
