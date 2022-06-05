@@ -922,5 +922,9 @@
   "direction": "Direction",
   "whatYouGet": "What you get",
   "row": "Row",
-  "calendar": "Calendar"
+  "calendar": "Calendar",
+  "taskPointCalculation": "Point calculation for national competitions",
+  "noValidTriangleOrRectangle": "No valid triangle or rectangle",
+  "scoringDistance": "Scoring distance",
+  "multiCircumnavigation": "Multi circumnavigation"
 }

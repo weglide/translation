@@ -922,5 +922,9 @@
   "direction": "Richtung",
   "whatYouGet": "Was du bekommst",
   "calendar": "Kalender",
-  "row": "Zeile"
+  "row": "Zeile",
+  "multiCircumnavigation": "Mehrfach Umrundung",
+  "noValidTriangleOrRectangle": "Kein gültiges Dreieck oder Viereck",
+  "scoringDistance": "Wertungsdistanz",
+  "taskPointCalculation": "Punkterechnung für nationale Wettbewerbe"
 }

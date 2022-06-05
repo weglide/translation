@@ -870,5 +870,9 @@
   "direction": "Direction",
   "whatYouGet": "Ce que vous obtenez",
   "calendar": "Calendrier",
-  "row": "Ligne"
+  "row": "Ligne",
+  "multiCircumnavigation": "Multitour du monde",
+  "noValidTriangleOrRectangle": "Aucun triangle ou rectangle valide",
+  "scoringDistance": "Distance de notation",
+  "taskPointCalculation": "Calcul des points pour les compétitions nationales"
 }

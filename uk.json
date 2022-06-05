@@ -869,5 +869,9 @@
   "direction": "Напрямок",
   "whatYouGet": "Що ви отримуєте",
   "calendar": "Календар",
-  "row": "рядок"
+  "row": "рядок",
+  "multiCircumnavigation": "Мульти навколосвітнє плавання",
+  "noValidTriangleOrRectangle": "Немає допустимого трикутника чи прямокутника",
+  "scoringDistance": "Оцінка дистанції",
+  "taskPointCalculation": "Підрахунок балів за національні змагання"
 }

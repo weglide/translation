@@ -869,5 +869,9 @@
   "direction": "Suunta",
   "whatYouGet": "Mitä saat",
   "calendar": "Kalenteri",
-  "row": "Rivi"
+  "row": "Rivi",
+  "multiCircumnavigation": "Monipuolinen kiertäminen",
+  "noValidTriangleOrRectangle": "Ei kelvollista kolmiota tai suorakulmiota",
+  "scoringDistance": "Maalintekoetäisyys",
+  "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa"
 }

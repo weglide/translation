@@ -870,5 +870,9 @@
   "direction": "Dirección",
   "whatYouGet": "Lo que obtienes",
   "calendar": "Calendario",
-  "row": "Fila"
+  "row": "Fila",
+  "multiCircumnavigation": "circunnavegación múltiple",
+  "noValidTriangleOrRectangle": "Ningún triángulo o rectángulo válido",
+  "scoringDistance": "Distancia de gol",
+  "taskPointCalculation": "Cálculo de puntos para competiciones nacionales"
 }

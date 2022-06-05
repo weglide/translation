@@ -869,5 +869,9 @@
   "direction": "Направление",
   "whatYouGet": "То, что вы получаете",
   "calendar": "Календарь",
-  "row": "Строка"
+  "row": "Строка",
+  "multiCircumnavigation": "Многократное кругосветное плавание",
+  "noValidTriangleOrRectangle": "Нет допустимого треугольника или прямоугольника",
+  "scoringDistance": "Зачетное расстояние",
+  "taskPointCalculation": "Подсчет очков на национальных соревнованиях"
 }

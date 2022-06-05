@@ -869,5 +869,9 @@
   "direction": "Kryptis",
   "whatYouGet": "Ką tu gavai",
   "calendar": "Kalendorius",
-  "row": "Eilė"
+  "row": "Eilė",
+  "multiCircumnavigation": "Keli apvažiavimai aplinkui",
+  "noValidTriangleOrRectangle": "Nėra tinkamo trikampio ar stačiakampio",
+  "scoringDistance": "įmušimo atstumas",
+  "taskPointCalculation": "Nacionalinių varžybų taškų skaičiavimas"
 }

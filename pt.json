@@ -869,5 +869,9 @@
   "direction": "Direção",
   "whatYouGet": "O que você ganha",
   "calendar": "Calendário",
-  "row": "Fileira"
+  "row": "Fileira",
+  "multiCircumnavigation": "circunavegação múltipla",
+  "noValidTriangleOrRectangle": "Nenhum triângulo ou retângulo válido",
+  "scoringDistance": "Distância de pontuação",
+  "taskPointCalculation": "Cálculo de pontos para competições nacionais"
 }

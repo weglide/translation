@@ -870,5 +870,9 @@
   "direction": "Kierunek",
   "whatYouGet": "Co dostałeś",
   "calendar": "Kalendarz",
-  "row": "Wiersz"
+  "row": "Wiersz",
+  "multiCircumnavigation": "Wiele okrążeń",
+  "noValidTriangleOrRectangle": "Brak prawidłowego trójkąta lub prostokąta",
+  "scoringDistance": "Odległość punktowana",
+  "taskPointCalculation": "Obliczanie punktów za zawody krajowe"
 }

@@ -869,5 +869,9 @@
   "direction": "Direzione",
   "whatYouGet": "Cosa ottieni",
   "calendar": "Calendario",
-  "row": "Riga"
+  "row": "Riga",
+  "multiCircumnavigation": "Multi circumnavigazione",
+  "noValidTriangleOrRectangle": "Nessun triangolo o rettangolo valido",
+  "scoringDistance": "Distanza di punteggio",
+  "taskPointCalculation": "Calcolo dei punti per le competizioni nazionali"
 }

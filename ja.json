@@ -867,5 +867,9 @@
   "direction": "方向",
   "whatYouGet": "あなたが得るもの",
   "calendar": "カレンダー",
-  "row": "行"
+  "row": "行",
+  "multiCircumnavigation": "マルチ周回ナビゲーション",
+  "noValidTriangleOrRectangle": "有効な三角形または長方形がありません",
+  "scoringDistance": "得点距離",
+  "taskPointCalculation": "全国大会のポイント計算"
 }

@@ -870,5 +870,9 @@
   "direction": "Richting",
   "whatYouGet": "Wat je krijgt",
   "calendar": "Kalender",
-  "row": "Rij"
+  "row": "Rij",
+  "multiCircumnavigation": "Meerdere omvaart",
+  "noValidTriangleOrRectangle": "Geen geldige driehoek of rechthoek",
+  "scoringDistance": "Scoren afstand",
+  "taskPointCalculation": "Puntenberekening voor nationale competities"
 }

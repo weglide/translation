@@ -869,5 +869,9 @@
   "direction": "Retning",
   "whatYouGet": "Hva du får",
   "calendar": "Kalender",
-  "row": "Rad"
+  "row": "Rad",
+  "multiCircumnavigation": "Multiomseiling",
+  "noValidTriangleOrRectangle": "Ingen gyldig trekant eller rektangel",
+  "scoringDistance": "Scoringsavstand",
+  "taskPointCalculation": "Poengberegning for nasjonale konkurranser"
 }

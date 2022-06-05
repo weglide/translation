@@ -869,5 +869,9 @@
   "direction": "Riktning",
   "whatYouGet": "Vad du får",
   "calendar": "Kalender",
-  "row": "Rad"
+  "row": "Rad",
+  "multiCircumnavigation": "Multi jordomsegling",
+  "noValidTriangleOrRectangle": "Ingen giltig triangel eller rektangel",
+  "scoringDistance": "Poängavstånd",
+  "taskPointCalculation": "Poängberäkning för nationella tävlingar"
 }

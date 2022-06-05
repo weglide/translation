@@ -869,5 +869,9 @@
   "direction": "Směr",
   "whatYouGet": "Co dostaneš",
   "calendar": "Kalendář",
-  "row": "Řádek"
+  "row": "Řádek",
+  "multiCircumnavigation": "Vícenásobná plavba",
+  "noValidTriangleOrRectangle": "Žádný platný trojúhelník nebo obdélník",
+  "scoringDistance": "Bodovací vzdálenost",
+  "taskPointCalculation": "Bodový výpočet pro národní soutěže"
 }
