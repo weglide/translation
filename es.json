@@ -192,7 +192,7 @@
   "following": "Siguiente",
   "forever": "Para siempre",
   "forgotPassword": "¿Has olvidado tu contraseña?",
-  "frDescription": "Campeonatos de francia",
+  "frDescription": "Campeonatos de Francia",
   "free": "Libre",
   "freeDescription": "Copa de distancia WeGlide",
   "frequency": "Frecuencia",
@@ -201,8 +201,8 @@
   "general": "General",
   "glide": "Planeo",
   "glider": "Planeador",
-  "glidingAirspaces": "Espacios aéreos deslizantes",
-  "glidingUsage": "Uso de deslizamiento",
+  "glidingAirspaces": "Espacios aéreos planeadores",
+  "glidingUsage": "Uso planeadores",
   "hangGlider": "Ala delta",
   "hello": "Hola",
   "help": "Ayudar",
@@ -368,7 +368,7 @@
         "FR-ARA": "Auvernia-Ródano-Alpes",
         "FR-BFC": "Borgoña-Franco Condado",
         "FR-BRE": "Bretaña",
-        "FR-CVL": "Centro-Val de Loire",
+        "FR-CVL": "Centro-Valle del Loira",
         "FR-GES": "Gran Este",
         "FR-HDF": "Altos de Francia",
         "FR-IDF": "Isla de Francia",
@@ -419,7 +419,7 @@
       "name": "Montenegro"
     },
     "MK": {
-      "name": "macedonia del norte"
+      "name": "Macedonia del Norte"
     },
     "MX": {
       "name": "México"
@@ -437,7 +437,7 @@
       "name": "Nueva Zelanda",
       "regions": {
         "NZ-N": "Isla del Norte",
-        "NZ-S": "Isla del sur"
+        "NZ-S": "Isla del Sur"
       }
     },
     "PL": {
@@ -579,7 +579,7 @@
   "ownFlightCommented": "respondió tu comentario.",
   "pageNotFound": "No se encontró el sitio de destino.",
   "paraglider": "Parapente",
-  "partner": "Pareja",
+  "partner": "Asociado",
   "password": "Contraseña",
   "payments": "Pagos",
   "philosophy": "Filosofía",
@@ -588,7 +588,7 @@
   "pilots": "Pilotos",
   "pleaseReload": "vuelva a cargar esta página.",
   "points": "Puntos",
-  "predictedFlightDistance": "Distancia de vuelo prevista",
+  "predictedFlightDistance": "Distancia potencial de vuelo ",
   "press": "PR",
   "privacyPolicy": "Política de privacidad",
   "private": "Solo visible para mi",
@@ -719,7 +719,7 @@
   "textConfirm": "He leído y acepto los siguientes documentos: ",
   "textConfirmUpload": "Confirmo que mis ventanas de puntuación se eligen de acuerdo con las reglas, cada espacio aéreo activo cruzado fue autorizado por ATC y he leído y aceptado los siguientes documentos:",
   "thermal": "Térmico",
-  "thermalHeight": "Altura térmica",
+  "thermalHeight": "Altura térmicos",
   "thermaling": "Térmico",
   "timeAbbrev": "Tiempo",
   "timeless": "Sin tiempo",
@@ -736,7 +736,7 @@
   "undeclare": "Eliminar declaración",
   "until": "hasta",
   "update": "Actualizar",
-  "uphillRidgeWind": "Viento de cresta ascendente",
+  "uphillRidgeWind": "Ascendencia dinámica",
   "upload": "Subir",
   "uploadFlight": "Subir vuelo",
   "uploadFlights": "Subir vuelos",
