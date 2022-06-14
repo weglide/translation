@@ -931,5 +931,7 @@
   "noValidTriangleOrRectangle": "Kein gültiges Dreieck oder Viereck",
   "scoringDistance": "Wertungsdistanz",
   "taskPointCalculation": "Punkterechnung für nationale Wettbewerbe",
-  "youLikeLive": "Dir gefällt das Live-Tracking?"
+  "youLikeLive": "Dir gefällt das Live-Tracking?",
+  "declarations": "Deklarationen",
+  "noDeclarations": "Derzeit keine offenen Deklarationen."
 }

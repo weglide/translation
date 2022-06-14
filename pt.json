@@ -874,5 +874,7 @@
   "noValidTriangleOrRectangle": "Nenhum triângulo ou retângulo válido",
   "scoringDistance": "Distância de pontuação",
   "taskPointCalculation": "Cálculo de pontos para competições nacionais",
-  "youLikeLive": "Você gosta do rastreamento ao vivo?"
+  "youLikeLive": "Você gosta do rastreamento ao vivo?",
+  "declarations": "Declarações",
+  "noDeclarations": "Atualmente não há declarações abertas."
 }

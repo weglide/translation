@@ -883,7 +883,7 @@
     "collectionsWave": "Des vols d'onde extraordinaires",
     "collectionsStories": "Des vols avec de belles histoires",
     "collectionsTrip": "Le meilleur voyage en planeur de votre vie",
-    "collectionsPréparation": "Les vols de préparation pour votre prochain grand objectif de vol à voile",
+    "collectionsPreparation": "Les vols de préparation pour votre prochain grand objectif de vol à voile",
     "sponsorAdvanceGliding": "Sponsorisez-nous pour faire progresser le vol à voile",
     "everythingInPremium": "Tout ce qui se trouve dans Premium, plus en option:",
     "profileBadge": "Insigne de Profil",
@@ -931,5 +931,7 @@
   "noValidTriangleOrRectangle": "Aucun triangle ou rectangle valide",
   "scoringDistance": "Distance de notation",
   "taskPointCalculation": "Calcul des points pour les compétitions nationales",
-  "youLikeLive": "Vous aimez le suivi en direct?"
+  "youLikeLive": "Vous aimez le suivi en direct?",
+  "declarations": "Déclarations",
+  "noDeclarations": "Actuellement aucune déclaration ouverte."
 }

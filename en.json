@@ -931,5 +931,7 @@
   "noValidTriangleOrRectangle": "No valid triangle or rectangle",
   "scoringDistance": "Scoring distance",
   "multiCircumnavigation": "Multi circumnavigation",
-  "youLikeLive": "You like the live tracking?"
+  "youLikeLive": "You like the live tracking?",
+  "declarations": "Declarations",
+  "noDeclarations": "Currently no open declarations."
 }

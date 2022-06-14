@@ -875,5 +875,7 @@
   "noValidTriangleOrRectangle": "Geen geldige driehoek of rechthoek",
   "scoringDistance": "Scoren afstand",
   "taskPointCalculation": "Puntenberekening voor nationale competities",
-  "youLikeLive": "Vind je het live volgen leuk?"
+  "youLikeLive": "Vind je het live volgen leuk?",
+  "declarations": "Verklaringen",
+  "noDeclarations": "Momenteel geen openstaande aangiften."
 }

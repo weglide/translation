@@ -874,5 +874,7 @@
   "noValidTriangleOrRectangle": "Nėra tinkamo trikampio ar stačiakampio",
   "scoringDistance": "įmušimo atstumas",
   "taskPointCalculation": "Nacionalinių varžybų taškų skaičiavimas",
-  "youLikeLive": "Ar jums patinka tiesioginis stebėjimas?"
+  "youLikeLive": "Ar jums patinka tiesioginis stebėjimas?",
+  "declarations": "Deklaracijos",
+  "noDeclarations": "Šiuo metu atvirų deklaracijų nėra."
 }

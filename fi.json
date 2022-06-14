@@ -874,5 +874,7 @@
   "noValidTriangleOrRectangle": "Ei kelvollista kolmiota tai suorakulmiota",
   "scoringDistance": "Maalintekoetäisyys",
   "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa",
-  "youLikeLive": "Pidätkö live-seurannasta?"
+  "youLikeLive": "Pidätkö live-seurannasta?",
+  "declarations": "julistukset",
+  "noDeclarations": "Tällä hetkellä ei avoimia ilmoituksia."
 }

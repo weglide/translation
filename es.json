@@ -875,5 +875,7 @@
   "noValidTriangleOrRectangle": "Ningún triángulo o rectángulo válido",
   "scoringDistance": "Distancia de gol",
   "taskPointCalculation": "Cálculo de puntos para competiciones nacionales",
-  "youLikeLive": "¿Te gusta el seguimiento en vivo?"
+  "youLikeLive": "¿Te gusta el seguimiento en vivo?",
+  "declarations": "Declaraciones",
+  "noDeclarations": "Actualmente no hay declaraciones abiertas."
 }

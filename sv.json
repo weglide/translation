@@ -874,5 +874,7 @@
   "noValidTriangleOrRectangle": "Ingen giltig triangel eller rektangel",
   "scoringDistance": "Poängavstånd",
   "taskPointCalculation": "Poängberäkning för nationella tävlingar",
-  "youLikeLive": "Gillar du livespårningen?"
+  "youLikeLive": "Gillar du livespårningen?",
+  "declarations": "Deklarationer",
+  "noDeclarations": "För närvarande inga öppna deklarationer."
 }

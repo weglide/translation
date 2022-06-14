@@ -872,5 +872,7 @@
   "noValidTriangleOrRectangle": "有効な三角形または長方形がありません",
   "scoringDistance": "得点距離",
   "taskPointCalculation": "全国大会のポイント計算",
-  "youLikeLive": "あなたはライブトラッキングが好きですか？"
+  "youLikeLive": "あなたはライブトラッキングが好きですか？",
+  "declarations": "宣言",
+  "noDeclarations": "現在、オープン宣言はありません。"
 }
