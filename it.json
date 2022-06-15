@@ -878,5 +878,7 @@
   "declarations": "Dichiarazioni",
   "noDeclarations": "Al momento nessuna dichiarazione aperta.",
   "taskDeclarationWarning": "Questo sovrascriverà tutte le dichiarazioni nel tuo logger e su WeGlide.",
-  "declarationsExplanation": "Dichiarazioni attive di altri"
+  "declarationsExplanation": "Dichiarazioni attive di altri",
+  "satSupporter": "5 minuti meteo sat e mappe HD",
+  "upgradeNow": "Aggiorna ora"
 }

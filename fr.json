@@ -934,5 +934,7 @@
   "youLikeLive": "Vous aimez le suivi en direct?",
   "declarations": "Déclarations",
   "noDeclarations": "Actuellement aucune déclaration ouverte.",
-  "declarationsExplanation": "Déclarations actives des autres"
+  "declarationsExplanation": "Déclarations actives des autres",
+  "satSupporter": "5min météo sat et cartes HD",
+  "upgradeNow": "Mettre à jour maintenant"
 }

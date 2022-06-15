@@ -876,5 +876,7 @@
   "declarations": "宣言",
   "noDeclarations": "現在、オープン宣言はありません。",
   "taskDeclarationWarning": "これにより、ロガーとWeGlideのすべての宣言が上書きされます。",
-  "declarationsExplanation": "他の人からの積極的な宣言"
+  "declarationsExplanation": "他の人からの積極的な宣言",
+  "satSupporter": "5分の天気予報とHDマップ",
+  "upgradeNow": "今すぐアップグレード"
 }

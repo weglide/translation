@@ -878,5 +878,7 @@
   "declarations": "julistukset",
   "noDeclarations": "Tällä hetkellä ei avoimia ilmoituksia.",
   "taskDeclarationWarning": "Tämä korvaa kaikki ilmoitukset loggerissasi ja WeGlidessa.",
-  "declarationsExplanation": "Aktiiviset julistukset muilta"
+  "declarationsExplanation": "Aktiiviset julistukset muilta",
+  "satSupporter": "5 minuutin sää- ja HD-kartat",
+  "upgradeNow": "Päivitä nyt"
 }

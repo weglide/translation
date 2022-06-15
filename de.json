@@ -934,5 +934,7 @@
   "youLikeLive": "Dir gefällt das Live-Tracking?",
   "declarations": "Deklarationen",
   "noDeclarations": "Derzeit keine offenen Deklarationen.",
-  "declarationsExplanation": "Aktive Deklarationen von anderen"
+  "declarationsExplanation": "Aktive Deklarationen von anderen",
+  "satSupporter": "5min Wetter Sat und HD Karten",
+  "upgradeNow": "Jetzt upgraden"
 }

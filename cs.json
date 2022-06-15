@@ -878,5 +878,7 @@
   "declarations": "prohlášení",
   "noDeclarations": "V současné době žádná otevřená prohlášení.",
   "taskDeclarationWarning": "Tím se přepíší všechna deklarace ve vašem loggeru a na WeGlide.",
-  "declarationsExplanation": "Aktivní prohlášení od ostatních"
+  "declarationsExplanation": "Aktivní prohlášení od ostatních",
+  "satSupporter": "5min meteorologický sat a HD mapy",
+  "upgradeNow": "Vylepšit nyní"
 }

@@ -921,6 +921,8 @@
   "taskDeclarationWarning": "This will overwrite all declarations in your logger and on WeGlide.",
   "landingOpportunities": "Airport arrival altitude",
   "supportWeGlideNow": "Support WeGlide now",
+  "satSupporter": "5min weather sat and HD maps",
+  "upgradeNow": "Upgrade now",
   "sort": "Sort",
   "scoring": "Scoring",
   "direction": "Direction",

@@ -878,5 +878,7 @@
   "declarations": "Декларации",
   "noDeclarations": "В настоящее время нет открытых объявлений.",
   "taskDeclarationWarning": "Это перезапишет все объявления в вашем регистраторе и на WeGlide.",
-  "declarationsExplanation": "Активные объявления от других"
+  "declarationsExplanation": "Активные объявления от других",
+  "satSupporter": "5-минутная погода и карты HD",
+  "upgradeNow": "Обнови сейчас"
 }

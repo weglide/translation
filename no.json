@@ -878,5 +878,7 @@
   "declarations": "Erklæringer",
   "noDeclarations": "Foreløpig ingen åpne erklæringer.",
   "taskDeclarationWarning": "Dette vil overskrive alle erklæringer i loggeren din og på WeGlide.",
-  "declarationsExplanation": "Aktive erklæringer fra andre"
+  "declarationsExplanation": "Aktive erklæringer fra andre",
+  "satSupporter": "5min værsat og HD-kart",
+  "upgradeNow": "Oppgrader nå"
 }

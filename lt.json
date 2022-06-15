@@ -878,5 +878,7 @@
   "declarations": "Deklaracijos",
   "noDeclarations": "Šiuo metu atvirų deklaracijų nėra.",
   "taskDeclarationWarning": "Taip bus perrašytos visos deklaracijos jūsų registratoriuje ir „WeGlide“.",
-  "declarationsExplanation": "Aktyvūs kitų pareiškimai"
+  "declarationsExplanation": "Aktyvūs kitų pareiškimai",
+  "satSupporter": "5 min. oras ir HD žemėlapiai",
+  "upgradeNow": "Patobulinti dabar"
 }
