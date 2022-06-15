@@ -876,5 +876,7 @@
   "taskPointCalculation": "Calcolo dei punti per le competizioni nazionali",
   "youLikeLive": "Ti piace il monitoraggio in tempo reale?",
   "declarations": "Dichiarazioni",
-  "noDeclarations": "Al momento nessuna dichiarazione aperta."
+  "noDeclarations": "Al momento nessuna dichiarazione aperta.",
+  "taskDeclarationWarning": "Questo sovrascriverà tutte le dichiarazioni nel tuo logger e su WeGlide.",
+  "declarationsExplanation": "Dichiarazioni attive di altri"
 }

@@ -918,7 +918,7 @@
   "becomeBetter": "Pour tous ceux qui veulent s'améliorer",
   "learnMoreAboutPossibilities": "En savoir plus au sujet des possibilités",
   "userGroup": "Groupe d'utilisateurs",
-  "taskDeclarationWarning": "Vous déclarez cette circuit pour {days} jours. \nCela écrasera toutes les déclarations dans votre enregistreur et sur WeGlide.",
+  "taskDeclarationWarning": "Cela écrasera toutes les déclarations dans votre enregistreur et sur WeGlide.",
   "landingOpportunities": "Altitude d'arrivée à l'aéroport",
   "supportWeGlideNow": "Soutenez WeGlide maintenant",
   "sort": "Sorte",
@@ -933,5 +933,6 @@
   "taskPointCalculation": "Calcul des points pour les compétitions nationales",
   "youLikeLive": "Vous aimez le suivi en direct?",
   "declarations": "Déclarations",
-  "noDeclarations": "Actuellement aucune déclaration ouverte."
+  "noDeclarations": "Actuellement aucune déclaration ouverte.",
+  "declarationsExplanation": "Déclarations actives des autres"
 }

@@ -876,5 +876,7 @@
   "taskPointCalculation": "Poängberäkning för nationella tävlingar",
   "youLikeLive": "Gillar du livespårningen?",
   "declarations": "Deklarationer",
-  "noDeclarations": "För närvarande inga öppna deklarationer."
+  "noDeclarations": "För närvarande inga öppna deklarationer.",
+  "taskDeclarationWarning": "Detta kommer att skriva över alla deklarationer i din logger och på WeGlide.",
+  "declarationsExplanation": "Aktiva deklarationer från andra"
 }

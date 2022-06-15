@@ -876,5 +876,7 @@
   "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa",
   "youLikeLive": "Pidätkö live-seurannasta?",
   "declarations": "julistukset",
-  "noDeclarations": "Tällä hetkellä ei avoimia ilmoituksia."
+  "noDeclarations": "Tällä hetkellä ei avoimia ilmoituksia.",
+  "taskDeclarationWarning": "Tämä korvaa kaikki ilmoitukset loggerissasi ja WeGlidessa.",
+  "declarationsExplanation": "Aktiiviset julistukset muilta"
 }

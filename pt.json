@@ -876,5 +876,7 @@
   "taskPointCalculation": "Cálculo de pontos para competições nacionais",
   "youLikeLive": "Você gosta do rastreamento ao vivo?",
   "declarations": "Declarações",
-  "noDeclarations": "Atualmente não há declarações abertas."
+  "noDeclarations": "Atualmente não há declarações abertas.",
+  "taskDeclarationWarning": "Isso substituirá todas as declarações em seu registrador e no WeGlide.",
+  "declarationsExplanation": "Declarações ativas de outros"
 }

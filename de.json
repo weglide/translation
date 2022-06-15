@@ -733,7 +733,7 @@
   "type": "Typ",
   "ulGlider": "UL Gleiter",
   "unauthorizedNotice": "Du bist nicht eingeloggt, bitte gib deinen vollen Namen sowie dein Geburtsdatum zum Hochladen an falls du einen Account hast oder",
-  "undeclare": "Deklaration Löschen",
+  "undeclare": "Deklaration Aufheben",
   "until": "bis",
   "update": "Aktualisieren",
   "uphillRidgeWind": "Hangaufwind",
@@ -918,7 +918,7 @@
   "becomeBetter": "Für alle, die besser werden wollen",
   "learnMoreAboutPossibilities": "Erfahre mehr über die Möglichkeiten",
   "userGroup": "Nutzergruppe",
-  "taskDeclarationWarning": "Du deklarierst diese Aufgabe für {days} Tage. Damit überschreibst du alle Deklarationen in deinem Logger und auf WeGlide.",
+  "taskDeclarationWarning": "Dadurch werden alle Deklarationen in deinem Logger und auf WeGlide überschrieben.",
   "landingOpportunities": "Flugplatz Ankunftshöhe",
   "supportWeGlideNow": "Unterstütze WeGlide jetzt",
   "sort": "Sortieren",
@@ -933,5 +933,6 @@
   "taskPointCalculation": "Punkterechnung für nationale Wettbewerbe",
   "youLikeLive": "Dir gefällt das Live-Tracking?",
   "declarations": "Deklarationen",
-  "noDeclarations": "Derzeit keine offenen Deklarationen."
+  "noDeclarations": "Derzeit keine offenen Deklarationen.",
+  "declarationsExplanation": "Aktive Deklarationen von anderen"
 }

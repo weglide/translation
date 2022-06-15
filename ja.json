@@ -874,5 +874,7 @@
   "taskPointCalculation": "全国大会のポイント計算",
   "youLikeLive": "あなたはライブトラッキングが好きですか？",
   "declarations": "宣言",
-  "noDeclarations": "現在、オープン宣言はありません。"
+  "noDeclarations": "現在、オープン宣言はありません。",
+  "taskDeclarationWarning": "これにより、ロガーとWeGlideのすべての宣言が上書きされます。",
+  "declarationsExplanation": "他の人からの積極的な宣言"
 }

@@ -918,7 +918,7 @@
   "becomeBetter": "For everyone who wants to get better",
   "learnMoreAboutPossibilities": "Learn more about the possibilities",
   "userGroup": "User group",
-  "taskDeclarationWarning": "You are declaring this task for {days} days. This will overwrite all declarations in your logger and on WeGlide.",
+  "taskDeclarationWarning": "This will overwrite all declarations in your logger and on WeGlide.",
   "landingOpportunities": "Airport arrival altitude",
   "supportWeGlideNow": "Support WeGlide now",
   "sort": "Sort",
@@ -933,5 +933,6 @@
   "multiCircumnavigation": "Multi circumnavigation",
   "youLikeLive": "You like the live tracking?",
   "declarations": "Declarations",
-  "noDeclarations": "Currently no open declarations."
+  "noDeclarations": "Currently no open declarations.",
+  "declarationsExplanation": "Active declarations from others"
 }

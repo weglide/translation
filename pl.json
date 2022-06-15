@@ -862,7 +862,7 @@
   "competitionNotAvailable": "Konkurs został wstrzymany lub zakończony.",
   "tryPremium": "Wypróbuj Premium za darmo",
   "userGroup": "Grupa użytkowników",
-  "taskDeclarationWarning": "Deklarujesz to zadanie na {days} dni. \nTo nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
+  "taskDeclarationWarning": "To nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
   "landingOpportunities": "Wysokość przylotu na lotnisko",
   "supportWeGlideNow": "Wesprzyj WeGlide teraz",
   "sort": "Sortować",
@@ -877,5 +877,6 @@
   "taskPointCalculation": "Obliczanie punktów za zawody krajowe",
   "youLikeLive": "Lubisz śledzenie na żywo?",
   "declarations": "Deklaracje",
-  "noDeclarations": "Obecnie brak otwartych deklaracji."
+  "noDeclarations": "Obecnie brak otwartych deklaracji.",
+  "declarationsExplanation": "Aktywne deklaracje od innych"
 }

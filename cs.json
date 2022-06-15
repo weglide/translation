@@ -876,5 +876,7 @@
   "taskPointCalculation": "Bodový výpočet pro národní soutěže",
   "youLikeLive": "Líbí se vám živé sledování?",
   "declarations": "prohlášení",
-  "noDeclarations": "V současné době žádná otevřená prohlášení."
+  "noDeclarations": "V současné době žádná otevřená prohlášení.",
+  "taskDeclarationWarning": "Tím se přepíší všechna deklarace ve vašem loggeru a na WeGlide.",
+  "declarationsExplanation": "Aktivní prohlášení od ostatních"
 }

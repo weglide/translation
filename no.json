@@ -876,5 +876,7 @@
   "taskPointCalculation": "Poengberegning for nasjonale konkurranser",
   "youLikeLive": "Liker du livesporingen?",
   "declarations": "Erklæringer",
-  "noDeclarations": "Foreløpig ingen åpne erklæringer."
+  "noDeclarations": "Foreløpig ingen åpne erklæringer.",
+  "taskDeclarationWarning": "Dette vil overskrive alle erklæringer i loggeren din og på WeGlide.",
+  "declarationsExplanation": "Aktive erklæringer fra andre"
 }
