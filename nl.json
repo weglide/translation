@@ -880,5 +880,6 @@
   "noDeclarations": "Momenteel geen openstaande aangiften.",
   "declarationsExplanation": "Actieve declaraties van anderen",
   "satSupporter": "5 min weer zat en HD-kaarten",
-  "upgradeNow": "Waardeer nu op"
+  "upgradeNow": "Waardeer nu op",
+  "startTime": "Starttijd (UTC)"
 }

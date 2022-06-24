@@ -880,5 +880,6 @@
   "taskDeclarationWarning": "Detta kommer att skriva över alla deklarationer i din logger och på WeGlide.",
   "declarationsExplanation": "Aktiva deklarationer från andra",
   "satSupporter": "5min vädersatt och HD-kartor",
-  "upgradeNow": "Uppgradera nu"
+  "upgradeNow": "Uppgradera nu",
+  "startTime": "Starttid (UTC)"
 }

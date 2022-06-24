@@ -936,5 +936,6 @@
   "youLikeLive": "You like the live tracking?",
   "declarations": "Declarations",
   "noDeclarations": "Currently no open declarations.",
-  "declarationsExplanation": "Active declarations from others"
+  "declarationsExplanation": "Active declarations from others",
+  "startTime": "Start time (UTC, 24h)"
 }

@@ -880,5 +880,6 @@
   "taskDeclarationWarning": "Це перезапише всі оголошення у вашому реєстраторі та в WeGlide.",
   "declarationsExplanation": "Активні заяви інших",
   "satSupporter": "5 хвилин погоди та карти HD",
-  "upgradeNow": "Оновити зараз"
+  "upgradeNow": "Оновити зараз",
+  "startTime": "Час початку (UTC)"
 }

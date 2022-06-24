@@ -880,5 +880,6 @@
   "noDeclarations": "Actualmente no hay declaraciones abiertas.",
   "declarationsExplanation": "Declaraciones activas de otros",
   "satSupporter": "Sat meteo de 5 minutos y mapas HD",
-  "upgradeNow": "Actualizar ahora"
+  "upgradeNow": "Actualizar ahora",
+  "startTime": "Hora de inicio (UTC)"
 }

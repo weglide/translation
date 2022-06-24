@@ -880,5 +880,6 @@
   "taskDeclarationWarning": "Tämä korvaa kaikki ilmoitukset loggerissasi ja WeGlidessa.",
   "declarationsExplanation": "Aktiiviset julistukset muilta",
   "satSupporter": "5 minuutin sää- ja HD-kartat",
-  "upgradeNow": "Päivitä nyt"
+  "upgradeNow": "Päivitä nyt",
+  "startTime": "Aloitusaika (UTC)"
 }

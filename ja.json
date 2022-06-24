@@ -878,5 +878,6 @@
   "taskDeclarationWarning": "これにより、ロガーとWeGlideのすべての宣言が上書きされます。",
   "declarationsExplanation": "他の人からの積極的な宣言",
   "satSupporter": "5分の天気予報とHDマップ",
-  "upgradeNow": "今すぐアップグレード"
+  "upgradeNow": "今すぐアップグレード",
+  "startTime": "開始時間（UTC）"
 }

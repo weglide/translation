@@ -880,5 +880,6 @@
   "taskDeclarationWarning": "Taip bus perrašytos visos deklaracijos jūsų registratoriuje ir „WeGlide“.",
   "declarationsExplanation": "Aktyvūs kitų pareiškimai",
   "satSupporter": "5 min. oras ir HD žemėlapiai",
-  "upgradeNow": "Patobulinti dabar"
+  "upgradeNow": "Patobulinti dabar",
+  "startTime": "Pradžios laikas (UTC)"
 }

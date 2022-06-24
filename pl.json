@@ -880,5 +880,6 @@
   "noDeclarations": "Obecnie brak otwartych deklaracji.",
   "declarationsExplanation": "Aktywne deklaracje od innych",
   "satSupporter": "5min pogoda i mapy HD",
-  "upgradeNow": "Ulepsz teraz"
+  "upgradeNow": "Ulepsz teraz",
+  "startTime": "Czas rozpoczęcia (UTC)"
 }
