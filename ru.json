@@ -874,5 +874,12 @@
   "noValidTriangleOrRectangle": "Нет допустимого треугольника или прямоугольника",
   "scoringDistance": "Зачетное расстояние",
   "taskPointCalculation": "Подсчет очков на национальных соревнованиях",
-  "youLikeLive": "Вам нравится живое отслеживание?"
+  "youLikeLive": "Вам нравится живое отслеживание?",
+  "declarations": "Декларации",
+  "noDeclarations": "В настоящее время нет открытых объявлений.",
+  "taskDeclarationWarning": "Это перезапишет все объявления в вашем регистраторе и на WeGlide.",
+  "declarationsExplanation": "Активные объявления от других",
+  "satSupporter": "5-минутная погода и карты HD",
+  "upgradeNow": "Обнови сейчас",
+  "startTime": "Время начала (UTC)"
 }

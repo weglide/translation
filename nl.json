@@ -862,7 +862,7 @@
   "competitionNotAvailable": "Competitie gepauzeerd of beëindigd.",
   "tryPremium": "Probeer Premium gratis",
   "userGroup": "Gebruikersgroep",
-  "taskDeclarationWarning": "U declareert deze taak voor {days} dagen. \nHiermee worden alle declaraties in uw logger en op WeGlide overschreven.",
+  "taskDeclarationWarning": "Hiermee worden alle declaraties in uw logger en op WeGlide overschreven.",
   "landingOpportunities": "Hoogte aankomst luchthaven",
   "supportWeGlideNow": "Steun WeGlide nu",
   "sort": "Soort",
@@ -875,5 +875,11 @@
   "noValidTriangleOrRectangle": "Geen geldige driehoek of rechthoek",
   "scoringDistance": "Scoren afstand",
   "taskPointCalculation": "Puntenberekening voor nationale competities",
-  "youLikeLive": "Vind je het live volgen leuk?"
+  "youLikeLive": "Vind je het live volgen leuk?",
+  "declarations": "Verklaringen",
+  "noDeclarations": "Momenteel geen openstaande aangiften.",
+  "declarationsExplanation": "Actieve declaraties van anderen",
+  "satSupporter": "5 min weer zat en HD-kaarten",
+  "upgradeNow": "Waardeer nu op",
+  "startTime": "Starttijd (UTC)"
 }

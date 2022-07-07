@@ -862,7 +862,7 @@
   "competitionNotAvailable": "Konkurs został wstrzymany lub zakończony.",
   "tryPremium": "Wypróbuj Premium za darmo",
   "userGroup": "Grupa użytkowników",
-  "taskDeclarationWarning": "Deklarujesz to zadanie na {days} dni. \nTo nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
+  "taskDeclarationWarning": "To nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
   "landingOpportunities": "Wysokość przylotu na lotnisko",
   "supportWeGlideNow": "Wesprzyj WeGlide teraz",
   "sort": "Sortować",
@@ -875,5 +875,11 @@
   "noValidTriangleOrRectangle": "Brak prawidłowego trójkąta lub prostokąta",
   "scoringDistance": "Odległość punktowana",
   "taskPointCalculation": "Obliczanie punktów za zawody krajowe",
-  "youLikeLive": "Lubisz śledzenie na żywo?"
+  "youLikeLive": "Lubisz śledzenie na żywo?",
+  "declarations": "Deklaracje",
+  "noDeclarations": "Obecnie brak otwartych deklaracji.",
+  "declarationsExplanation": "Aktywne deklaracje od innych",
+  "satSupporter": "5min pogoda i mapy HD",
+  "upgradeNow": "Ulepsz teraz",
+  "startTime": "Czas rozpoczęcia (UTC)"
 }

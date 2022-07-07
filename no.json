@@ -874,5 +874,12 @@
   "noValidTriangleOrRectangle": "Ingen gyldig trekant eller rektangel",
   "scoringDistance": "Scoringsavstand",
   "taskPointCalculation": "Poengberegning for nasjonale konkurranser",
-  "youLikeLive": "Liker du livesporingen?"
+  "youLikeLive": "Liker du livesporingen?",
+  "declarations": "Erklæringer",
+  "noDeclarations": "Foreløpig ingen åpne erklæringer.",
+  "taskDeclarationWarning": "Dette vil overskrive alle erklæringer i loggeren din og på WeGlide.",
+  "declarationsExplanation": "Aktive erklæringer fra andre",
+  "satSupporter": "5min værsat og HD-kart",
+  "upgradeNow": "Oppgrader nå",
+  "startTime": "Starttid (UTC)"
 }

@@ -862,7 +862,7 @@
   "competitionNotAvailable": "Competición pausada o finalizada.",
   "tryPremium": "Prueba Premium gratis",
   "userGroup": "Grupo de usuario",
-  "taskDeclarationWarning": "Estás declarando esta tarea por {days} días. \nEsto sobrescribirá todas las declaraciones en su registrador y en WeGlide.",
+  "taskDeclarationWarning": "Esto sobrescribirá todas las declaraciones en su registrador y en WeGlide.",
   "landingOpportunities": "Altitud de llegada al aeropuerto",
   "supportWeGlideNow": "Apoya a WeGlide ahora",
   "sort": "Clasificar",
@@ -875,5 +875,11 @@
   "noValidTriangleOrRectangle": "Ningún triángulo o rectángulo válido",
   "scoringDistance": "Distancia de gol",
   "taskPointCalculation": "Cálculo de puntos para competiciones nacionales",
-  "youLikeLive": "¿Te gusta el seguimiento en vivo?"
+  "youLikeLive": "¿Te gusta el seguimiento en vivo?",
+  "declarations": "Declaraciones",
+  "noDeclarations": "Actualmente no hay declaraciones abiertas.",
+  "declarationsExplanation": "Declaraciones activas de otros",
+  "satSupporter": "Sat meteo de 5 minutos y mapas HD",
+  "upgradeNow": "Actualizar ahora",
+  "startTime": "Hora de inicio (UTC)"
 }
