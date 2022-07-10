@@ -939,5 +939,6 @@
   "satSupporter": "5min Wetter Sat und HD Karten",
   "upgradeNow": "Jetzt upgraden",
   "startTime": "Startzeit (UTC)",
-  "listShortenedZoom": "Liste gekürzt, zoome näher heran, um mehr Flüge anzuzeigen."
+  "listShortenedZoom": "Liste gekürzt, zoome näher heran, um mehr Flüge anzuzeigen.",
+  "thermalReplay": "Thermikrückschau"
 }

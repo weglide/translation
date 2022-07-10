@@ -880,5 +880,6 @@
   "satSupporter": "5分の天気予報とHDマップ",
   "upgradeNow": "今すぐアップグレード",
   "startTime": "開始時間（UTC）",
-  "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。"
+  "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。",
+  "thermalReplay": "サーマルレビュー"
 }

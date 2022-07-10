@@ -939,5 +939,6 @@
   "satSupporter": "5min météo sat et cartes HD",
   "upgradeNow": "Mettre à jour maintenant",
   "startTime": "Heure de début (UTC)",
-  "listShortenedZoom": "Liste raccourcie, zoomez plus près pour afficher plus de vols."
+  "listShortenedZoom": "Liste raccourcie, zoomez plus près pour afficher plus de vols.",
+  "thermalReplay": "Rétrospective des thermiques"
 }

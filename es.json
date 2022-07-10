@@ -882,5 +882,6 @@
   "satSupporter": "Sat meteo de 5 minutos y mapas HD",
   "upgradeNow": "Actualizar ahora",
   "startTime": "Hora de inicio (UTC)",
-  "listShortenedZoom": "Lista acortada, acerque el zoom para mostrar más vuelos."
+  "listShortenedZoom": "Lista acortada, acerque el zoom para mostrar más vuelos.",
+  "thermalReplay": "Revisión térmica"
 }

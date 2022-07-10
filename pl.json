@@ -882,5 +882,6 @@
   "satSupporter": "5min pogoda i mapy HD",
   "upgradeNow": "Ulepsz teraz",
   "startTime": "Czas rozpoczęcia (UTC)",
-  "listShortenedZoom": "Lista skrócona, przybliż ją, aby wyświetlić więcej lotów."
+  "listShortenedZoom": "Lista skrócona, przybliż ją, aby wyświetlić więcej lotów.",
+  "thermalReplay": "Powtórka termiczna"
 }

@@ -882,5 +882,6 @@
   "satSupporter": "5 minuutin sää- ja HD-kartat",
   "upgradeNow": "Päivitä nyt",
   "startTime": "Aloitusaika (UTC)",
-  "listShortenedZoom": "Luetteloa lyhennetty, zoomaa lähemmäksi nähdäksesi lisää lentoja."
+  "listShortenedZoom": "Luetteloa lyhennetty, zoomaa lähemmäksi nähdäksesi lisää lentoja.",
+  "thermalReplay": "Lämpötilatarkastelu"
 }
