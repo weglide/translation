@@ -938,5 +938,6 @@
   "declarationsExplanation": "Aktive Deklarationen von anderen",
   "satSupporter": "5min Wetter Sat und HD Karten",
   "upgradeNow": "Jetzt upgraden",
-  "startTime": "Startzeit (UTC)"
+  "startTime": "Startzeit (UTC)",
+  "listShortenedZoom": "Liste gekürzt, zoome näher heran, um mehr Flüge anzuzeigen."
 }

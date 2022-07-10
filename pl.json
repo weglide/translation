@@ -881,5 +881,6 @@
   "declarationsExplanation": "Aktywne deklaracje od innych",
   "satSupporter": "5min pogoda i mapy HD",
   "upgradeNow": "Ulepsz teraz",
-  "startTime": "Czas rozpoczęcia (UTC)"
+  "startTime": "Czas rozpoczęcia (UTC)",
+  "listShortenedZoom": "Lista skrócona, przybliż ją, aby wyświetlić więcej lotów."
 }

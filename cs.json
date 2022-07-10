@@ -881,5 +881,6 @@
   "declarationsExplanation": "Aktivní prohlášení od ostatních",
   "satSupporter": "5min meteorologický sat a HD mapy",
   "upgradeNow": "Vylepšit nyní",
-  "startTime": "Čas zahájení (UTC)"
+  "startTime": "Čas zahájení (UTC)",
+  "listShortenedZoom": "Seznam je zkrácen, přiblížením zobrazíte více letů."
 }

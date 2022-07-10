@@ -879,5 +879,6 @@
   "declarationsExplanation": "他の人からの積極的な宣言",
   "satSupporter": "5分の天気予報とHDマップ",
   "upgradeNow": "今すぐアップグレード",
-  "startTime": "開始時間（UTC）"
+  "startTime": "開始時間（UTC）",
+  "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。"
 }

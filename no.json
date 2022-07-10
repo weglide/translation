@@ -881,5 +881,6 @@
   "declarationsExplanation": "Aktive erklæringer fra andre",
   "satSupporter": "5min værsat og HD-kart",
   "upgradeNow": "Oppgrader nå",
-  "startTime": "Starttid (UTC)"
+  "startTime": "Starttid (UTC)",
+  "listShortenedZoom": "Listen forkortet, zoom nærmere for å vise flere flyreiser."
 }

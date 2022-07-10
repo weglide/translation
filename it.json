@@ -881,5 +881,6 @@
   "declarationsExplanation": "Dichiarazioni attive di altri",
   "satSupporter": "5 minuti meteo sat e mappe HD",
   "upgradeNow": "Aggiorna ora",
-  "startTime": "Ora di inizio (UTC)"
+  "startTime": "Ora di inizio (UTC)",
+  "listShortenedZoom": "Elenco abbreviato, zoom più vicino per visualizzare più voli."
 }

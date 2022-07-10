@@ -881,5 +881,6 @@
   "declarationsExplanation": "Aktiva deklarationer från andra",
   "satSupporter": "5min vädersatt och HD-kartor",
   "upgradeNow": "Uppgradera nu",
-  "startTime": "Starttid (UTC)"
+  "startTime": "Starttid (UTC)",
+  "listShortenedZoom": "Listan förkortas, zooma närmare för att visa fler flyg."
 }

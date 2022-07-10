@@ -881,5 +881,6 @@
   "declarationsExplanation": "Активні заяви інших",
   "satSupporter": "5 хвилин погоди та карти HD",
   "upgradeNow": "Оновити зараз",
-  "startTime": "Час початку (UTC)"
+  "startTime": "Час початку (UTC)",
+  "listShortenedZoom": "Список скорочено, збільште масштаб, щоб показати більше рейсів."
 }

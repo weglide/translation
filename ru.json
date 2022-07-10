@@ -881,5 +881,6 @@
   "declarationsExplanation": "Активные объявления от других",
   "satSupporter": "5-минутная погода и карты HD",
   "upgradeNow": "Обнови сейчас",
-  "startTime": "Время начала (UTC)"
+  "startTime": "Время начала (UTC)",
+  "listShortenedZoom": "Список сокращен, увеличьте масштаб, чтобы отобразить больше рейсов."
 }
