@@ -898,7 +898,11 @@
     "landingOpportunitiesCheck": "Überprüfe die Sicherheit deiner Entscheidungen",
     "landingOpportunitiesDescription": "Interaktive Ankunftshöhe für jeden Flugplatz auf deinem Weg.",
     "landingOpportunitiesImprove": "Verbessere dich, indem du über Alternativen nachdenkst",
-    "landingOpportunitiesLearn": "Lerne, welche Möglichkeiten du während deines Fluges hattest"
+    "landingOpportunitiesLearn": "Lerne, welche Möglichkeiten du während deines Fluges hattest",
+    "thermalReplayAnimated": "Bis zu tausend verschiedene Thermiken für jede Flugminute",
+    "thermalReplayClickable": "Ein Klick auf eine Thermik führt zum entsprechenden Flug",
+    "thermalReplayDescription": "Alle Aufwinde des Tages. \nBeobachte, wie einzelne Aufwinde um dich herum entstehen, während du über das Barogramm fährst.",
+    "thermalReplayDetours": "Analysiere, wo die lohnenden Umwege gewesen wären"
   },
   "barboraDescription": "Wettbewerbspilotin",
   "currentPlanTest": "Du probierst {plan} aus.",

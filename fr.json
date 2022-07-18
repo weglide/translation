@@ -898,7 +898,11 @@
     "landingOpportunitiesDescription": "Altitude interactive d'arrivée pour chaque aéroport sur votre route.",
     "landingOpportunitiesLearn": "Apprenez quelles options vous aviez à tout moment pendant votre vol",
     "landingOpportunitiesCheck": "Vérifiez si les décisions que vous avez prises étaient sûres",
-    "landingOpportunitiesImprove": "Améliorez-vous en réfléchissant aux alternatives après le vol"
+    "landingOpportunitiesImprove": "Améliorez-vous en réfléchissant aux alternatives après le vol",
+    "thermalReplayAnimated": "Jusqu'à des milliers de thermiques différents pour chaque minute de votre vol",
+    "thermalReplayClickable": "Cliquer sur les thermiques mène au vol correspondant",
+    "thermalReplayDescription": "Tous les thermiques d'une journée. \nObservez des thermiques simples apparaître autour de vous en survolant le barogramme.",
+    "thermalReplayDetours": "Analysez où auraient été les détours intéressants"
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
