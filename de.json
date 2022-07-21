@@ -944,5 +944,6 @@
   "upgradeNow": "Jetzt upgraden",
   "startTime": "Startzeit (UTC)",
   "listShortenedZoom": "Liste gekürzt, zoome näher heran, um mehr Flüge anzuzeigen.",
-  "thermalReplay": "Thermikrückschau"
+  "thermalReplay": "Thermikrückschau",
+  "landed": "gelandet"
 }

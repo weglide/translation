@@ -883,5 +883,6 @@
   "upgradeNow": "Actualizar ahora",
   "startTime": "Hora de inicio (UTC)",
   "listShortenedZoom": "Lista acortada, acerque el zoom para mostrar más vuelos.",
-  "thermalReplay": "Revisión térmica"
+  "thermalReplay": "Revisión térmica",
+  "landed": "aterrizado"
 }

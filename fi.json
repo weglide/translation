@@ -883,5 +883,6 @@
   "upgradeNow": "Päivitä nyt",
   "startTime": "Aloitusaika (UTC)",
   "listShortenedZoom": "Luetteloa lyhennetty, zoomaa lähemmäksi nähdäksesi lisää lentoja.",
-  "thermalReplay": "Lämpötilatarkastelu"
+  "thermalReplay": "Lämpötilatarkastelu",
+  "landed": "laskeutui"
 }

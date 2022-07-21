@@ -881,5 +881,6 @@
   "upgradeNow": "今すぐアップグレード",
   "startTime": "開始時間（UTC）",
   "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。",
-  "thermalReplay": "サーマルレビュー"
+  "thermalReplay": "サーマルレビュー",
+  "landed": "上陸"
 }

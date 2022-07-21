@@ -944,5 +944,6 @@
   "declarationsExplanation": "Active declarations from others",
   "startTime": "Start time (UTC, 24h)",
   "listShortenedZoom": "List shortened, zoom closer to display more flights.",
-  "thermalReplay": "Thermal Replay"
+  "thermalReplay": "Thermal Replay",
+  "landed": "landed"
 }

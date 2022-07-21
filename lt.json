@@ -883,5 +883,6 @@
   "upgradeNow": "Patobulinti dabar",
   "startTime": "Pradžios laikas (UTC)",
   "listShortenedZoom": "Sąrašas sutrumpintas, priartinkite mastelį, kad būtų rodoma daugiau skrydžių.",
-  "thermalReplay": "Terminė apžvalga"
+  "thermalReplay": "Terminė apžvalga",
+  "landed": "nusileido"
 }

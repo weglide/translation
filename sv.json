@@ -883,5 +883,6 @@
   "upgradeNow": "Uppgradera nu",
   "startTime": "Starttid (UTC)",
   "listShortenedZoom": "Listan förkortas, zooma närmare för att visa fler flyg.",
-  "thermalReplay": "Termisk repris"
+  "thermalReplay": "Termisk repris",
+  "landed": "landat"
 }

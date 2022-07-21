@@ -883,5 +883,6 @@
   "upgradeNow": "Waardeer nu op",
   "startTime": "Starttijd (UTC)",
   "listShortenedZoom": "Lijst ingekort, zoom dichterbij om meer vluchten weer te geven.",
-  "thermalReplay": "Thermisch overzicht"
+  "thermalReplay": "Thermisch overzicht",
+  "landed": "geland"
 }
