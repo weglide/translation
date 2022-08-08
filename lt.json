@@ -884,5 +884,6 @@
   "startTime": "Pradžios laikas (UTC)",
   "listShortenedZoom": "Sąrašas sutrumpintas, priartinkite mastelį, kad būtų rodoma daugiau skrydžių.",
   "thermalReplay": "Terminė apžvalga",
-  "landed": "nusileido"
+  "landed": "nusileido",
+  "getPremium": "Gaukite Premium"
 }

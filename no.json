@@ -884,5 +884,6 @@
   "startTime": "Starttid (UTC)",
   "listShortenedZoom": "Listen forkortet, zoom nærmere for å vise flere flyreiser.",
   "thermalReplay": "Termisk replay",
-  "landed": "landet"
+  "landed": "landet",
+  "getPremium": "Få Premium"
 }

@@ -882,5 +882,6 @@
   "startTime": "開始時間（UTC）",
   "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。",
   "thermalReplay": "サーマルレビュー",
-  "landed": "上陸"
+  "landed": "上陸",
+  "getPremium": "プレミアムを取得"
 }

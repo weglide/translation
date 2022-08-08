@@ -945,5 +945,6 @@
   "startTime": "Heure de début (UTC)",
   "listShortenedZoom": "Liste raccourcie, zoomez plus près pour afficher plus de vols.",
   "thermalReplay": "Rétrospective des thermiques",
-  "landed": "a atterri"
+  "landed": "a atterri",
+  "getPremium": "Obtenez la prime"
 }

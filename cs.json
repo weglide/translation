@@ -884,5 +884,6 @@
   "startTime": "Čas zahájení (UTC)",
   "listShortenedZoom": "Seznam je zkrácen, přiblížením zobrazíte více letů.",
   "thermalReplay": "Tepelná revize",
-  "landed": "přistál"
+  "landed": "přistál",
+  "getPremium": "Získejte Premium"
 }

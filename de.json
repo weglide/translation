@@ -945,5 +945,6 @@
   "startTime": "Startzeit (UTC)",
   "listShortenedZoom": "Liste gekürzt, zoome näher heran, um mehr Flüge anzuzeigen.",
   "thermalReplay": "Thermikrückschau",
-  "landed": "gelandet"
+  "landed": "gelandet",
+  "getPremium": "Hol dir Premium"
 }
