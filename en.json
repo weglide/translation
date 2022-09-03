@@ -946,5 +946,6 @@
   "listShortenedZoom": "List shortened, zoom closer to display more flights.",
   "thermalReplay": "Thermal Replay",
   "landed": "landed",
-  "getPremium": "Get Premium"
+  "getPremium": "Get Premium",
+  "magazineHomeUrl": "https://magazine.weglide.org"
 }
