@@ -901,7 +901,8 @@
     "thermalReplayAnimated": "Jusqu'à des milliers de thermiques différents pour chaque minute de votre vol",
     "thermalReplayClickable": "Cliquer sur les thermiques mène au vol correspondant",
     "thermalReplayDescription": "Tous les thermiques d'une journée. \nObservez des thermiques simples apparaître autour de vous en survolant le barogramme.",
-    "thermalReplayDetours": "Analysez où auraient été les détours intéressants"
+    "thermalReplayDetours": "Analysez où auraient été les détours intéressants",
+    "trialPaymentNotice": "Le mode de paiement ne sera pas débité pendant la période d'essai."
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
