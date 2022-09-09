@@ -902,7 +902,8 @@
     "thermalReplayClickable": "Cliquer sur les thermiques mène au vol correspondant",
     "thermalReplayDescription": "Tous les thermiques d'une journée. \nObservez des thermiques simples apparaître autour de vous en survolant le barogramme.",
     "thermalReplayDetours": "Analysez où auraient été les détours intéressants",
-    "trialPaymentNotice": "Le mode de paiement ne sera pas débité pendant la période d'essai."
+    "trialPaymentNotice": "Le mode de paiement ne sera pas débité pendant la période d'essai.",
+    "trialPaymentNotice2": "Si vous annulez avant la fin de la période de test, vous n'encourrez aucun frais."
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
