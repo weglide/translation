@@ -788,6 +788,7 @@
   "select": "Select",
   "hostAsLocalCompetition": "Host as local competition:",
   "joshuaDescription": "Overland Expert",
+  "maxDescription": "Thermal Enthusiast",
   "hours": "Hours",
   "minutes": "Minutes",
   "currentPlan": "You are subscribed to {plan}.",
