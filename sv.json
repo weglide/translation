@@ -884,5 +884,7 @@
   "listShortenedZoom": "Listan förkortas, zooma närmare för att visa fler flyg.",
   "thermalReplay": "Termisk repris",
   "landed": "landat",
-  "getPremium": "Skaffa Premium"
+  "getPremium": "Skaffa Premium",
+  "tipOfTheDay": "Dagens Tips",
+  "ok": "Ok!"
 }

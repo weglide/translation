@@ -948,5 +948,7 @@
   "thermalReplay": "Thermikrückschau",
   "landed": "gelandet",
   "getPremium": "Hol dir Premium",
-  "maxDescription": "Aufwindenthusiast"
+  "maxDescription": "Aufwindenthusiast",
+  "tipOfTheDay": "Tipp des Tages",
+  "ok": "Alles klar!"
 }

@@ -948,5 +948,7 @@
   "listShortenedZoom": "List shortened, zoom closer to display more flights.",
   "thermalReplay": "Thermal Replay",
   "landed": "landed",
-  "getPremium": "Get Premium"
+  "getPremium": "Get Premium",
+  "tipOfTheDay": "Tip of the day",
+  "ok": "Ok!"
 }

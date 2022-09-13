@@ -882,5 +882,7 @@
   "listShortenedZoom": "リストを短くし、ズームしてより多くのフライトを表示します。",
   "thermalReplay": "サーマルレビュー",
   "landed": "上陸",
-  "getPremium": "プレミアムを取得"
+  "getPremium": "プレミアムを取得",
+  "tipOfTheDay": "今日のヒント",
+  "ok": "Ok！"
 }

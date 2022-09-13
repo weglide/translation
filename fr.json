@@ -947,5 +947,7 @@
   "listShortenedZoom": "Liste raccourcie, zoomez plus près pour afficher plus de vols.",
   "thermalReplay": "Rétrospective des thermiques",
   "landed": "a atterri",
-  "getPremium": "Obtenez la prime"
+  "getPremium": "Obtenez la prime",
+  "tipOfTheDay": "Conseil du jour",
+  "ok": "D'accord!"
 }

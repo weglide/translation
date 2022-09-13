@@ -884,5 +884,7 @@
   "listShortenedZoom": "Lista acortada, acerque el zoom para mostrar más vuelos.",
   "thermalReplay": "Revisión térmica",
   "landed": "aterrizado",
-  "getPremium": "Hazte premium"
+  "getPremium": "Hazte premium",
+  "tipOfTheDay": "Consejo del día",
+  "ok": "¡OK!"
 }

@@ -884,5 +884,7 @@
   "listShortenedZoom": "Lista skrócona, przybliż ją, aby wyświetlić więcej lotów.",
   "thermalReplay": "Powtórka termiczna",
   "landed": "wylądował",
-  "getPremium": "Uzyskaj Premium"
+  "getPremium": "Uzyskaj Premium",
+  "tipOfTheDay": "Porada dnia",
+  "ok": "Ok!"
 }

@@ -884,5 +884,7 @@
   "listShortenedZoom": "Luetteloa lyhennetty, zoomaa lähemmäksi nähdäksesi lisää lentoja.",
   "thermalReplay": "Lämpötilatarkastelu",
   "landed": "laskeutui",
-  "getPremium": "Hanki Premium"
+  "getPremium": "Hanki Premium",
+  "tipOfTheDay": "Päivän vihje",
+  "ok": "Ok!"
 }
