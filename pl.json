@@ -650,7 +650,6 @@
   "save": "Zapisz",
   "scoreClubClass": "Doceń lot w klasie klubowej",
   "scoreProcessing": "Trwają obliczenia",
-  "scoreSecondClub": "Zdobądź ten lot dla {club}",
   "scoringAdd": "Dodaj ocenę",
   "scoringEnd": "Zakończ ocenę",
   "scoringEngineNotice": "Wybrany samolot z napędem. Proszę upewnić się, że okresy kiedy silnik jest włączony (żółte) są wykluczone z oceny.",
@@ -886,5 +885,6 @@
   "landed": "wylądował",
   "getPremium": "Uzyskaj Premium",
   "tipOfTheDay": "Porada dnia",
-  "ok": "Ok!"
+  "ok": "Ok!",
+  "noClub": "nie ma klubu"
 }

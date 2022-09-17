@@ -648,7 +648,6 @@
   "save": "保存する",
   "scoreClubClass": "クラブクラスでのスコアフライト",
   "scoreProcessing": "採点中",
-  "scoreSecondClub": "{club}このフライトを獲得する",
   "scoringAdd": "スコアリングウィンドウを追加",
   "scoringEnd": "スコアリング終了",
   "scoringEngineNotice": "エンジンが選択された飛行機。エンジンが稼働している期間（黄色）がスコアリングから除外されていることを確認してください。",
@@ -884,5 +883,6 @@
   "landed": "上陸",
   "getPremium": "プレミアムを取得",
   "tipOfTheDay": "今日のヒント",
-  "ok": "Ok！"
+  "ok": "Ok！",
+  "noClub": "クラブなし"
 }

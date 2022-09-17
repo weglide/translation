@@ -650,7 +650,6 @@
   "save": "Salve ",
   "scoreClubClass": "Pontuação de voo na classe club",
   "scoreProcessing": "Pontuação em processo",
-  "scoreSecondClub": "Pontue este voo para {club}",
   "scoringAdd": "Adicionar janela de pontuação",
   "scoringEnd": "Fim de pontuação",
   "scoringEngineNotice": "Avião com motor selecionado. Certifique-se de que os intervalos de tempo com o motor em funcionamento (amarelo) sejam excluídos da pontuação.",
@@ -886,5 +885,6 @@
   "landed": "pousado",
   "getPremium": "Obter Premium",
   "tipOfTheDay": "Dica do dia",
-  "ok": "OK!"
+  "ok": "OK!",
+  "noClub": "nenhum clube"
 }

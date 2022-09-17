@@ -650,7 +650,6 @@
   "save": "Enregistrer",
   "scoreClubClass": "Marquer le vol en classe club",
   "scoreProcessing": "Calcul des points en cours,",
-  "scoreSecondClub": "Marquez ce vol pour {club}",
   "scoringAdd": "Nouvelle fenêtre de vol",
   "scoringEnd": "Fin du vol",
   "scoringEngineNotice": "Tu as choisi un planeur avec moteur. Merci de vérifier que les fenêtres de vol ne contiennent pas de temps moteur (jaune).",
@@ -949,5 +948,6 @@
   "landed": "a atterri",
   "getPremium": "Obtenez la prime",
   "tipOfTheDay": "Conseil du jour",
-  "ok": "D'accord!"
+  "ok": "D'accord!",
+  "noClub": "pas de club"
 }

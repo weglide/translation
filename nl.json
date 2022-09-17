@@ -650,7 +650,6 @@
   "save": "Opslaan",
   "scoreClubClass": "Scoor de vlucht in clubklasse",
   "scoreProcessing": "Bezig met scoren",
-  "scoreSecondClub": "Scoor deze vlucht voor {club}",
   "scoringAdd": "Scoringsgebied toevoegen",
   "scoringEnd": "Eind van het scoren",
   "scoringEngineNotice": "Vliegtuig met motor geselecteerd, het scoringgebied mag geen motorlooptijd bevatten.",
@@ -886,5 +885,6 @@
   "landed": "geland",
   "getPremium": "Krijg Premium",
   "tipOfTheDay": "Tip van de dag",
-  "ok": "OK!"
+  "ok": "OK!",
+  "noClub": "geen club"
 }

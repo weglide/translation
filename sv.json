@@ -650,7 +650,6 @@
   "save": "Spara",
   "scoreClubClass": "Poängflygning i klubbklass",
   "scoreProcessing": "Poäng pågår",
-  "scoreSecondClub": "Gör det här flyget för {club}",
   "scoringAdd": "Lägg till poängfönster",
   "scoringEnd": "Poängslut",
   "scoringEngineNotice": "Flygplan med motor vald. Vänligen se till att tidsintervall med igång motor (gul) är uteslutna från poängsättning.",
@@ -886,5 +885,6 @@
   "landed": "landat",
   "getPremium": "Skaffa Premium",
   "tipOfTheDay": "Dagens Tips",
-  "ok": "Ok!"
+  "ok": "Ok!",
+  "noClub": "ingen klubb"
 }

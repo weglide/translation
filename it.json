@@ -650,7 +650,6 @@
   "save": "Salva",
   "scoreClubClass": "Punteggio del volo in classe club",
   "scoreProcessing": "Calcondo i punti",
-  "scoreSecondClub": "Segna questo volo per {club}",
   "scoringAdd": "Aggiungi punteggio",
   "scoringEnd": "Fine punteggio",
   "scoringEngineNotice": "Aereo con motore selezionato, Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio",
@@ -886,5 +885,6 @@
   "landed": "atterrato",
   "getPremium": "Ottieni Premium",
   "tipOfTheDay": "Consiglio del giorno",
-  "ok": "Ok!"
+  "ok": "Ok!",
+  "noClub": "nessun club"
 }

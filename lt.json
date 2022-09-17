@@ -650,7 +650,6 @@
   "save": "Sutaupyti",
   "scoreClubClass": "Taškinis skrydis klubinėje klasėje",
   "scoreProcessing": "Balų skaičiavimas vyksta",
-  "scoreSecondClub": "Įvertinkite šį skrydį {club}",
   "scoringAdd": "Pridėti taškų skaičiavimo langą",
   "scoringEnd": "Taškų pabaiga",
   "scoringEngineNotice": "Lėktuvas su pasirinktu varikliu. Įsitikinkite, kad laiko intervalai, kai variklis veikia (geltona spalva), neįtraukiami į balus.",
@@ -886,5 +885,6 @@
   "landed": "nusileido",
   "getPremium": "Gaukite Premium",
   "tipOfTheDay": "Dienos patarimas",
-  "ok": "Gerai!"
+  "ok": "Gerai!",
+  "noClub": "jokio klubo"
 }

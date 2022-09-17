@@ -650,7 +650,6 @@
   "save": "Save",
   "scoreClubClass": "Score flight in club class",
   "scoreProcessing": "Scoring in process",
-  "scoreSecondClub": "Score this flight for {club}",
   "scoringAdd": "Add scoring window",
   "scoringEnd": "Scoring end",
   "scoringEngineNotice": "Airplane with engine selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
@@ -950,5 +949,6 @@
   "landed": "landed",
   "getPremium": "Get Premium",
   "tipOfTheDay": "Tip of the day",
-  "ok": "Ok!"
+  "ok": "Ok!",
+  "noClub": "no club"
 }

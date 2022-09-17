@@ -650,7 +650,6 @@
   "save": "Lagre",
   "scoreClubClass": "Scoreflyging i klubbklassen",
   "scoreProcessing": "Scoring i prosess",
-  "scoreSecondClub": "Poeng denne flyvningen for {club}",
   "scoringAdd": "Legg til scoringsvindu",
   "scoringEnd": "Scoring slutt",
   "scoringEngineNotice": "Fly med valgt motor. Sørg for at tidsspenn med motor i gang (gul) er utelukket fra scoring.",
@@ -886,5 +885,6 @@
   "landed": "landet",
   "getPremium": "Få Premium",
   "tipOfTheDay": "Dagens tips",
-  "ok": "Ok!"
+  "ok": "Ok!",
+  "noClub": "ingen klubb"
 }

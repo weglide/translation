@@ -650,7 +650,6 @@
   "save": "Uložit",
   "scoreClubClass": "Skóre letu v klubové třídě",
   "scoreProcessing": "Probíhá výpočet",
-  "scoreSecondClub": "Zabodujte tento let pro {club}",
   "scoringAdd": "Přidat vyhodnocení",
   "scoringEnd": "Konec vyhodnocení",
   "scoringEngineNotice": "Vybrán kluzák s motorem, ujistěte se, že ve vyhodnocení není část letu s během motoru (žlutá)",
@@ -886,5 +885,6 @@
   "landed": "přistál",
   "getPremium": "Získejte Premium",
   "tipOfTheDay": "Tip dne",
-  "ok": "OK!"
+  "ok": "OK!",
+  "noClub": "žádný klub"
 }
