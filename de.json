@@ -950,5 +950,6 @@
   "maxDescription": "Aufwindenthusiast",
   "tipOfTheDay": "Tipp des Tages",
   "ok": "Alles klar!",
-  "noClub": "Kein Verein"
+  "noClubWarning": "Kein Verein ausgewählt, hochgeladene Flüge werden keinem Verein zugewiesen.",
+  "setClub": "Verein auswählen"
 }

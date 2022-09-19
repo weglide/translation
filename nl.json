@@ -886,5 +886,6 @@
   "getPremium": "Krijg Premium",
   "tipOfTheDay": "Tip van de dag",
   "ok": "OK!",
-  "noClub": "geen club"
+  "noClubWarning": "Geen club geselecteerd, geüploade vluchten worden aan geen enkele club toegewezen.",
+  "setClub": "Selecteer club"
 }

@@ -950,5 +950,6 @@
   "getPremium": "Get Premium",
   "tipOfTheDay": "Tip of the day",
   "ok": "Ok!",
-  "noClub": "no club"
+  "noClubWarning": "No club selected, uploaded flights will not be assigned to any club.",
+  "setClub": "Select club"
 }

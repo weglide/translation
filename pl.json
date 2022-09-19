@@ -886,5 +886,6 @@
   "getPremium": "Uzyskaj Premium",
   "tipOfTheDay": "Porada dnia",
   "ok": "Ok!",
-  "noClub": "nie ma klubu"
+  "noClubWarning": "Nie wybrano klubu, przesłane loty nie zostaną przypisane do żadnego klubu.",
+  "setClub": "Wybierz klub"
 }

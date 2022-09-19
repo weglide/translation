@@ -886,5 +886,6 @@
   "getPremium": "Skaffa Premium",
   "tipOfTheDay": "Dagens Tips",
   "ok": "Ok!",
-  "noClub": "ingen klubb"
+  "noClubWarning": "Ingen klubb har valts, uppladdade flyg kommer inte att tilldelas någon klubb.",
+  "setClub": "Välj klubb"
 }

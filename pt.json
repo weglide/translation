@@ -886,5 +886,6 @@
   "getPremium": "Obter Premium",
   "tipOfTheDay": "Dica do dia",
   "ok": "OK!",
-  "noClub": "nenhum clube"
+  "noClubWarning": "Nenhum clube selecionado, os voos enviados não serão atribuídos a nenhum clube.",
+  "setClub": "Selecionar clube"
 }

@@ -886,5 +886,6 @@
   "getPremium": "Získejte Premium",
   "tipOfTheDay": "Tip dne",
   "ok": "OK!",
-  "noClub": "žádný klub"
+  "noClubWarning": "Nebyl vybrán žádný klub, nahrané lety nebudou přiřazeny žádnému klubu.",
+  "setClub": "Vyberte klub"
 }

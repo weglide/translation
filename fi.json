@@ -886,5 +886,6 @@
   "getPremium": "Hanki Premium",
   "tipOfTheDay": "Päivän vihje",
   "ok": "Ok!",
-  "noClub": "ei klubia"
+  "noClubWarning": "Yhtään klubia ei ole valittu, ladattuja lentoja ei määrätä millekään seuralle.",
+  "setClub": "Valitse klubi"
 }

@@ -886,5 +886,6 @@
   "getPremium": "Få Premium",
   "tipOfTheDay": "Dagens tips",
   "ok": "Ok!",
-  "noClub": "ingen klubb"
+  "noClubWarning": "Ingen klubb valgt, opplastede flyreiser vil ikke bli tildelt noen klubb.",
+  "setClub": "Velg klubb"
 }

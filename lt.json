@@ -886,5 +886,6 @@
   "getPremium": "Gaukite Premium",
   "tipOfTheDay": "Dienos patarimas",
   "ok": "Gerai!",
-  "noClub": "jokio klubo"
+  "noClubWarning": "Nepasirinktas joks klubas, įkelti skrydžiai nebus priskirti jokiam klubui.",
+  "setClub": "Pasirinkite klubą"
 }
