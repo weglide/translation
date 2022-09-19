@@ -11,6 +11,7 @@ interface UnitSystem {
   distance: Unit
   altitude: Unit
   pressure: Unit
+  weight: Unit
 }
 
 export interface Units {
@@ -49,6 +50,10 @@ export const units: Units = {
     pressure: {
       abbreviation: 'mBar',
       factorToMetric: 1
+    },
+    weight: {
+      abbreviation: 'kg',
+      factorToMetric: 1
     }
   },
   // USA, CA?
@@ -80,6 +85,10 @@ export const units: Units = {
     pressure: {
       abbreviation: 'hg', // inch of mercury
       factorToMetric: 0.02953
+    },
+    weight: {
+      abbreviation: 'lb',
+      factorToMetric: 2.204623
     }
   },
   // GB, AUS
@@ -111,6 +120,10 @@ export const units: Units = {
     pressure: {
       abbreviation: 'hPa',
       factorToMetric: 1 // hPa == mBar
+    },
+    weight: {
+      abbreviation: 'kg',
+      factorToMetric: 1
     }
   }
 }
