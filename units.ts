@@ -67,12 +67,12 @@ export const units: Units = {
       factorToMetric: 0.539957
     },
     XCSpeed: {
-      abbreviation: 'mph', // kn?, kph?
-      factorToMetric: 0.621371
+      abbreviation: 'kn', // kn?, kph?
+      factorToMetric: 0.539957
     },
     XCSpeed1h: {
-      abbreviation: 'mp1h', // kn?, kph?
-      factorToMetric: 0.621371
+      abbreviation: 'nm/1h', // kn?, kph?
+      factorToMetric: 0.539957
     },
     distance: {
       abbreviation: 'nm',
