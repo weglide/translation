@@ -12,6 +12,7 @@ interface UnitSystem {
   altitude: Unit
   pressure: Unit
   weight: Unit
+  area: Unit
   wingLoading: Unit
 }
 
@@ -56,6 +57,10 @@ export const units: Units = {
       abbreviation: 'kg',
       factorToMetric: 1
     },
+    area: {
+      abbreviation: 'm²',
+      factorToMetric: 1
+    },
     wingLoading: {
       abbreviation: 'kg/m²',
       factorToMetric: 1
@@ -95,8 +100,12 @@ export const units: Units = {
       abbreviation: 'lb',
       factorToMetric: 2.204623
     },
+    area: {
+      abbreviation: 'ft²',
+      factorToMetric: 10.76391
+    },
     wingLoading: {
-      abbreviation: 'lbs/sq',
+      abbreviation: 'lb/ft²',
       factorToMetric: 0.20481614432518
     }
   },
@@ -132,6 +141,10 @@ export const units: Units = {
     },
     weight: {
       abbreviation: 'kg',
+      factorToMetric: 1
+    },
+    area: {
+      abbreviation: 'm²',
       factorToMetric: 1
     },
     wingLoading: {
