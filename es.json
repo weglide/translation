@@ -887,5 +887,7 @@
   "tipOfTheDay": "Consejo del día",
   "ok": "¡OK!",
   "noClubWarning": "Ningún club seleccionado, los vuelos subidos no serán asignados a ningún club.",
-  "setClub": "Seleccionar club"
+  "setClub": "Seleccionar club",
+  "takeoffWeight": "Peso de despegue",
+  "wingLoading": "ala cargando"
 }

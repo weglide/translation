@@ -885,5 +885,7 @@
   "tipOfTheDay": "今日のヒント",
   "ok": "Ok！",
   "noClubWarning": "クラブが選択されていません。アップロードされたフライトは、どのクラブにも割り当てられません。",
-  "setClub": "クラブを選択"
+  "setClub": "クラブを選択",
+  "takeoffWeight": "離陸重量",
+  "wingLoading": "ウイングローディング"
 }

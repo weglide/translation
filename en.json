@@ -951,5 +951,7 @@
   "tipOfTheDay": "Tip of the day",
   "ok": "Ok!",
   "noClubWarning": "No club selected, uploaded flights will not be assigned to any club.",
-  "setClub": "Select club"
+  "setClub": "Select club",
+  "takeoffWeight": "Takeoff weight",
+  "wingLoading": "wing loading"
 }

@@ -887,5 +887,7 @@
   "tipOfTheDay": "Dagens Tips",
   "ok": "Ok!",
   "noClubWarning": "Ingen klubb har valts, uppladdade flyg kommer inte att tilldelas någon klubb.",
-  "setClub": "Välj klubb"
+  "setClub": "Välj klubb",
+  "takeoffWeight": "Startvikt",
+  "wingLoading": "vinglastning"
 }

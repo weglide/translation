@@ -950,5 +950,7 @@
   "tipOfTheDay": "Conseil du jour",
   "ok": "D'accord!",
   "noClubWarning": "Aucun club sélectionné, les vols téléchargés ne seront attribués à aucun club.",
-  "setClub": "Sélectionnez un club"
+  "setClub": "Sélectionnez un club",
+  "takeoffWeight": "Masse au décollage",
+  "wingLoading": "chargement alaire"
 }

@@ -887,5 +887,7 @@
   "tipOfTheDay": "Porada dnia",
   "ok": "Ok!",
   "noClubWarning": "Nie wybrano klubu, przesłane loty nie zostaną przypisane do żadnego klubu.",
-  "setClub": "Wybierz klub"
+  "setClub": "Wybierz klub",
+  "takeoffWeight": "Masa startowa",
+  "wingLoading": "ładowanie skrzydła"
 }

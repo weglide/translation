@@ -887,5 +887,7 @@
   "tipOfTheDay": "Dienos patarimas",
   "ok": "Gerai!",
   "noClubWarning": "Nepasirinktas joks klubas, įkelti skrydžiai nebus priskirti jokiam klubui.",
-  "setClub": "Pasirinkite klubą"
+  "setClub": "Pasirinkite klubą",
+  "takeoffWeight": "Kilimo svoris",
+  "wingLoading": "sparno apkrova"
 }

@@ -887,5 +887,7 @@
   "tipOfTheDay": "Tip dne",
   "ok": "OK!",
   "noClubWarning": "Nebyl vybrán žádný klub, nahrané lety nebudou přiřazeny žádnému klubu.",
-  "setClub": "Vyberte klub"
+  "setClub": "Vyberte klub",
+  "takeoffWeight": "Vzletová hmotnost",
+  "wingLoading": "zatížení křídla"
 }

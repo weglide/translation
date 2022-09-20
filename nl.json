@@ -887,5 +887,7 @@
   "tipOfTheDay": "Tip van de dag",
   "ok": "OK!",
   "noClubWarning": "Geen club geselecteerd, geüploade vluchten worden aan geen enkele club toegewezen.",
-  "setClub": "Selecteer club"
+  "setClub": "Selecteer club",
+  "takeoffWeight": "Startgewicht",
+  "wingLoading": "vleugelbelasting"
 }
