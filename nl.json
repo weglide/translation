@@ -888,6 +888,6 @@
   "ok": "OK!",
   "noClubWarning": "Geen club geselecteerd, geüploade vluchten worden aan geen enkele club toegewezen.",
   "setClub": "Selecteer club",
-  "takeoffWeight": "Startgewicht",
+  "takeoffWeight": "Startgewicht (optioneel)",
   "wingLoading": "vleugelbelasting"
 }

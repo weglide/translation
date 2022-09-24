@@ -888,6 +888,6 @@
   "ok": "OK!",
   "noClubWarning": "Nebyl vybrán žádný klub, nahrané lety nebudou přiřazeny žádnému klubu.",
   "setClub": "Vyberte klub",
-  "takeoffWeight": "Vzletová hmotnost",
+  "takeoffWeight": "Vzletová hmotnost (volitelné)",
   "wingLoading": "zatížení křídla"
 }

@@ -888,6 +888,6 @@
   "ok": "Ok!",
   "noClubWarning": "Nessun club selezionato, i voli caricati non verranno assegnati a nessun club.",
   "setClub": "Seleziona il club",
-  "takeoffWeight": "Peso al decollo",
+  "takeoffWeight": "Peso al decollo (opzionale)",
   "wingLoading": "carico alare"
 }

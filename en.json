@@ -952,6 +952,6 @@
   "ok": "Ok!",
   "noClubWarning": "No club selected, uploaded flights will not be assigned to any club.",
   "setClub": "Select club",
-  "takeoffWeight": "Takeoff weight",
+  "takeoffWeight": "Takeoff weight (optional)",
   "wingLoading": "wing loading"
 }
