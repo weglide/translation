@@ -888,6 +888,6 @@
   "ok": "Ok!",
   "noClubWarning": "Yhtään klubia ei ole valittu, ladattuja lentoja ei määrätä millekään seuralle.",
   "setClub": "Valitse klubi",
-  "takeoffWeight": "Lähtöpaino (valinnainen)",
+  "takeoffWeight": "Lähtöpaino {unit} (valinnainen)",
   "wingLoading": "siipien lastaus"
 }

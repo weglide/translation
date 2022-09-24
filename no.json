@@ -888,6 +888,6 @@
   "ok": "Ok!",
   "noClubWarning": "Ingen klubb valgt, opplastede flyreiser vil ikke bli tildelt noen klubb.",
   "setClub": "Velg klubb",
-  "takeoffWeight": "Startvekt (valgfritt)",
+  "takeoffWeight": "Startvekt i {unit} (valgfritt)",
   "wingLoading": "vingelasting"
 }

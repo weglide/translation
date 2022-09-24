@@ -888,6 +888,6 @@
   "ok": "Ok!",
   "noClubWarning": "Nie wybrano klubu, przesłane loty nie zostaną przypisane do żadnego klubu.",
   "setClub": "Wybierz klub",
-  "takeoffWeight": "Masa startowa (opcjonalnie)",
+  "takeoffWeight": "Masa startowa w {unit} (opcjonalnie)",
   "wingLoading": "ładowanie skrzydła"
 }

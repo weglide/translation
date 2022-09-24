@@ -886,6 +886,6 @@
   "ok": "Ok！",
   "noClubWarning": "クラブが選択されていません。アップロードされたフライトは、どのクラブにも割り当てられません。",
   "setClub": "クラブを選択",
-  "takeoffWeight": "離陸重量（オプション）",
+  "takeoffWeight": "離陸重量 ({unit}) (オプション)",
   "wingLoading": "ウイングローディング"
 }

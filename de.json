@@ -952,6 +952,6 @@
   "ok": "Alles klar!",
   "noClubWarning": "Kein Verein ausgewählt, hochgeladene Flüge werden keinem Verein zugewiesen.",
   "setClub": "Verein auswählen",
-  "takeoffWeight": "Startgewicht (optional)",
+  "takeoffWeight": "Startgewicht in {unit} (optional)",
   "wingLoading": "Flächenbelastung"
 }

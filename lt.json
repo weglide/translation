@@ -888,6 +888,6 @@
   "ok": "Gerai!",
   "noClubWarning": "Nepasirinktas joks klubas, įkelti skrydžiai nebus priskirti jokiam klubui.",
   "setClub": "Pasirinkite klubą",
-  "takeoffWeight": "Kilimo svoris (neprivaloma)",
+  "takeoffWeight": "Kilimo svoris {unit} (neprivaloma)",
   "wingLoading": "sparno apkrova"
 }
