@@ -816,7 +816,7 @@
   "startTaskPlanning": "Wähle einen Startort auf der Karte aus",
   "afterTrialInfo": "Danach {price} pro Monat, jährliche Abrechnung",
   "startFreeTrial": "Kostenlos testen",
-  "trialPeriod": "14 Tage kostenlos",
+  "trialPeriod": "14 Tage gratis testen",
   "featuresExplanation": "Die Funktionen erklärt",
   "showMeTheStatisticsList": "Zeig mir die Statistik Liste",
   "barogramHelp": {
@@ -901,8 +901,7 @@
     "thermalReplayClickable": "Ein Klick auf eine Thermik führt zum entsprechenden Flug",
     "thermalReplayDescription": "Alle Aufwinde des Tages. \nBeobachte, wie einzelne Aufwinde um dich herum entstehen, während du über das Barogramm fährst.",
     "thermalReplayDetours": "Analysiere, wo die lohnenden Umwege gewesen wären",
-    "trialPaymentNotice": "Zahlungsmethode wird während des Testzeitraums nicht belastet.",
-    "trialPaymentNotice2": "Bei Kündigung vor Ablauf des Testzeitraums entstehen dir keine Kosten."
+    "trialPaymentNotice": "Zahlungsmethode wird während des Testzeitraums nicht belastet, jederzeit kündbar."
   },
   "barboraDescription": "Wettbewerbspilotin",
   "currentPlanTest": "Du probierst {plan} aus.",

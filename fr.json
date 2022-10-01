@@ -819,7 +819,7 @@
   "startTaskPlanning": "Sélectionnez un lieu de départ sur la carte",
   "afterTrialInfo": "{price} par mois ensuite, facturé annuellement",
   "startFreeTrial": "Essai gratuit",
-  "trialPeriod": "14 jours gratuits",
+  "trialPeriod": "14 jours d'essai gratuit",
   "featuresExplanation": "Les fonctionnalités expliquées",
   "showMeTheStatisticsList": "La liste des statistiques",
   "barogramHelp": {
@@ -901,8 +901,7 @@
     "thermalReplayClickable": "Cliquer sur les thermiques mène au vol correspondant",
     "thermalReplayDescription": "Tous les thermiques d'une journée. \nObservez des thermiques simples apparaître autour de vous en survolant le barogramme.",
     "thermalReplayDetours": "Analysez où auraient été les détours intéressants",
-    "trialPaymentNotice": "Le mode de paiement ne sera pas débité pendant la période d'essai.",
-    "trialPaymentNotice2": "Si vous annulez avant la fin de la période de test, vous n'encourrez aucun frais."
+    "trialPaymentNotice": "Le mode de paiement ne sera pas facturé pendant la période d'essai, annulez à tout moment."
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
