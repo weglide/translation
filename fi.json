@@ -623,7 +623,8 @@
     "winter": "Talvi",
     "long": "Pitkä",
     "middle": "Keski",
-    "short": "Lyhyt"
+    "short": "Lyhyt",
+    "VI": "Vintage"
   },
   "ranks": "Sijoitukset",
   "ratioAbbrev": "Suhde",
