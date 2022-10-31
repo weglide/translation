@@ -612,6 +612,7 @@
     "DO": "Dvojitý",
     "OP": "Otevřeno",
     "ST": "Std",
+    "VI": "Vinobraní",
     "airport_total": "Letiště",
     "club": "Klub",
     "club_total": "Celkem klub",
@@ -623,8 +624,7 @@
     "winter": "Zima",
     "long": "Dlouho",
     "middle": "Střední",
-    "short": "Krátký",
-    "VI": "Vinobraní"
+    "short": "Krátký"
   },
   "ranks": "Pořadí",
   "ratioAbbrev": "Poměr",

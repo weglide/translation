@@ -610,8 +610,9 @@
     "ALL": "Wszystkie",
     "CL": "Klub",
     "DO": "Podwójnie",
-    "OP": "otwarty",
+    "OP": "Otwarty",
     "ST": "Std",
+    "VI": "Klasyczny",
     "airport_total": "Lotnisko",
     "club": "Klub",
     "club_total": "Suma klubowa",
@@ -623,8 +624,7 @@
     "winter": "Zima",
     "long": "Długi",
     "middle": "Środek",
-    "short": "Krótki",
-    "VI": "Klasyczny"
+    "short": "Krótki"
   },
   "ranks": "Rangi",
   "ratioAbbrev": "Stosunek",

@@ -612,6 +612,7 @@
     "DO": "Doble",
     "OP": "Abierto",
     "ST": "Estándar",
+    "VI": "Antiguo",
     "airport_total": "Aeropuerto",
     "club": "Club",
     "club_total": "Total del club",
@@ -623,8 +624,7 @@
     "winter": "Invierno",
     "long": "Largo",
     "middle": "Medio",
-    "short": "Corto",
-    "VI": "Antiguo"
+    "short": "Corto"
   },
   "ranks": "Rangos",
   "ratioAbbrev": "Proporción",

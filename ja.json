@@ -610,6 +610,7 @@
     "DO": "ダブル",
     "OP": "開ける",
     "ST": "標準",
+    "VI": "ビンテージ",
     "airport_total": "空港",
     "club": "クラブ",
     "club_total": "クラブ合計",
@@ -621,8 +622,7 @@
     "winter": "冬",
     "long": "長さ",
     "middle": "真ん中",
-    "short": "短い",
-    "VI": "ビンテージ"
+    "short": "短い"
   },
   "ranks": "ランク",
   "ratioAbbrev": "比",

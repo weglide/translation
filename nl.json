@@ -612,6 +612,7 @@
     "DO": "Dubbele",
     "OP": "Open",
     "ST": "Std",
+    "VI": "Vintage",
     "airport_total": "Vliegveld totaal",
     "club": "Club",
     "club_total": "Club totaal",
@@ -623,8 +624,7 @@
     "winter": "Winter",
     "long": "Lang",
     "middle": "Midden",
-    "short": "Kort",
-    "VI": "Vintage"
+    "short": "Kort"
   },
   "ranks": "Ranglijst",
   "ratioAbbrev": "Ratio",

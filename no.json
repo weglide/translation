@@ -612,6 +612,7 @@
     "DO": "Dobbelt",
     "OP": "Åpen",
     "ST": "Std",
+    "VI": "Årgang",
     "airport_total": "flyplassen",
     "club": "Klubb",
     "club_total": "Klubb totalt",
@@ -623,8 +624,7 @@
     "winter": "Vinter",
     "long": "Lang",
     "middle": "Midten",
-    "short": "Kort",
-    "VI": "Årgang"
+    "short": "Kort"
   },
   "ranks": "Rangerer",
   "ratioAbbrev": "Forhold",
