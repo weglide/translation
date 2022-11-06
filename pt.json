@@ -890,5 +890,8 @@
   "noClubWarning": "Nenhum clube selecionado, os voos enviados não serão atribuídos a nenhum clube.",
   "setClub": "Selecionar clube",
   "takeoffWeight": "Peso de decolagem em {unit} (opcional)",
-  "wingLoading": "carregamento de asa"
+  "wingLoading": "carregamento de asa",
+  "subscription": {
+    "becomePatron": "Torne-se um Patrono"
+  }
 }

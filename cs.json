@@ -890,5 +890,8 @@
   "noClubWarning": "Nebyl vybrán žádný klub, nahrané lety nebudou přiřazeny žádnému klubu.",
   "setClub": "Vyberte klub",
   "takeoffWeight": "Vzletová hmotnost v {unit} (volitelné)",
-  "wingLoading": "zatížení křídla"
+  "wingLoading": "zatížení křídla",
+  "subscription": {
+    "becomePatron": "Staňte se patronem"
+  }
 }

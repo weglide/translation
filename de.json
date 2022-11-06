@@ -902,7 +902,8 @@
     "thermalReplayClickable": "Ein Klick auf eine Thermik führt zum entsprechenden Flug",
     "thermalReplayDescription": "Alle Aufwinde des Tages. \nBeobachte, wie einzelne Aufwinde um dich herum entstehen, während du über das Barogramm fährst.",
     "thermalReplayDetours": "Analysiere, wo die lohnenden Umwege gewesen wären",
-    "trialPaymentNotice": "Zahlungsmethode wird während des Testzeitraums nicht belastet, jederzeit kündbar."
+    "trialPaymentNotice": "Zahlungsmethode wird während des Testzeitraums nicht belastet, jederzeit kündbar.",
+    "becomePatron": "Patron werden"
   },
   "barboraDescription": "Wettbewerbspilotin",
   "currentPlanTest": "Du probierst {plan} aus.",

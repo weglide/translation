@@ -890,5 +890,8 @@
   "noClubWarning": "Ingen klubb har valts, uppladdade flyg kommer inte att tilldelas någon klubb.",
   "setClub": "Välj klubb",
   "takeoffWeight": "Startvikt i {unit} (tillval)",
-  "wingLoading": "vinglastning"
+  "wingLoading": "vinglastning",
+  "subscription": {
+    "becomePatron": "Bli en beskyddare"
+  }
 }

@@ -285,5 +285,8 @@
   "noClubWarning": "Nessun club selezionato, i voli caricati non verranno assegnati a nessun club.",
   "setClub": "Seleziona il club",
   "takeoffWeight": "Peso al decollo in {unit} (opzionale)",
-  "wingLoading": "carico alare"
+  "wingLoading": "carico alare",
+  "subscription": {
+    "becomePatron": "Diventa un mecenate"
+  }
 }

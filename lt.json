@@ -890,5 +890,8 @@
   "noClubWarning": "Nepasirinktas joks klubas, įkelti skrydžiai nebus priskirti jokiam klubui.",
   "setClub": "Pasirinkite klubą",
   "takeoffWeight": "Kilimo svoris {unit} (neprivaloma)",
-  "wingLoading": "sparno apkrova"
+  "wingLoading": "sparno apkrova",
+  "subscription": {
+    "becomePatron": "Tapk mecenatu"
+  }
 }

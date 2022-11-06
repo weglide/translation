@@ -890,5 +890,8 @@
   "noClubWarning": "Ningún club seleccionado, los vuelos subidos no serán asignados a ningún club.",
   "setClub": "Seleccionar club",
   "takeoffWeight": "Peso de despegue en {unit} (opcional)",
-  "wingLoading": "ala cargando"
+  "wingLoading": "ala cargando",
+  "subscription": {
+    "becomePatron": "Conviértete en un mecenas"
+  }
 }

@@ -903,7 +903,8 @@
     "thermalReplayDescription": "All the thermals of a day. See single thermals appear around you while hovering over the barogram.",
     "thermalReplayDetours": "Analyze where the worthwhile detours would have been",
     "thermalReplayAnimated": "Up to thousands of different thermals for every Minute of flight",
-    "thermalReplayClickable": "Clicking thermals leads to the corresponding flight"
+    "thermalReplayClickable": "Clicking thermals leads to the corresponding flight",
+    "becomePatron": "Become a Patron"
   },
   "send": "Send",
   "barboraDescription": "Competition pilot",
