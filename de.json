@@ -860,9 +860,8 @@
     "everythingInFree": "Alles Kostenlose, plus:",
     "everythingInPremium": "Alles in Premium, plus optional:",
     "everythingInSupporter": "Alles in Supporter, plus:",
-    "hdSatellite": "Satellitenbilder",
+    "hdSatellite": "HD Satellitenkarten",
     "hdSatellite10x": "10x die aktuelle Kartenauflösung",
-    "hdSatellite5min": "3x öfter Wettersatellitenbilder",
     "hdSatelliteDescription": "Satellitenkarten von Esri, Airbus, USGS und Maxar.",
     "hostLocalCompetitions": "Lokale Wettbewerbe veranstalten",
     "hostLocalCompetitionsDescription": "Spontanes Rennen zwischen Freunden von deinem Flugplatz oder großer Wettbewerb, werde zum Host!",
@@ -907,7 +906,11 @@
     "weatherSatellite": "Wettersatellit",
     "weatherSatelliteDescription": "Animierte Hochfrequenz-Wettersatellitenbilder.",
     "weatherSatelliteFrequencyEurope": "5 Minuten Rapid Scan für Europa",
-    "weatherSatelliteFrequencyWorld": "10 Minuten Scan für den Rest der Welt"
+    "weatherSatelliteFrequencyWorld": "10 Minuten Scan für den Rest der Welt",
+    "3dFlightView": "3D Flugansicht",
+    "3dFlightViewCamera": "Freie Kamerasteuerung",
+    "3dFlightViewDescription": "Lehne dich zurück und erlebe jeden Flug in 3D.",
+    "3dFlightViewSpeed": "1x, 5x und 10x Wiedergabegeschwindigkeit"
   },
   "barboraDescription": "Wettbewerbspilotin",
   "currentPlanTest": "Du probierst {plan} aus.",
@@ -959,5 +962,5 @@
   "setClub": "Verein auswählen",
   "takeoffWeight": "Startgewicht in {unit} (optional)",
   "wingLoading": "Flächenbelastung",
-  "plansHeadline": "Schöpfe dein volles Potenzial im Cockpit aus"
+  "plansHeadline": "Bringe deine fliegerischen Fähigkeiten auf das nächste Level"
 }

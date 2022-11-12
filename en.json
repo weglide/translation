@@ -851,6 +851,10 @@
     "superchargeDailyList": "Professional flight analysis.",
     "everythingInFree": "Everything in free, plus:",
     "trialPaymentNotice": "Payment method will not be charged during the trial period, cancel at any time.",
+    "3dFlightView": "3D flight view",
+    "3dFlightViewDescription": "Lean back and relive any flight in 3D.",
+    "3dFlightViewSpeed": "1x, 5x and 10x playback speed",
+    "3dFlightViewCamera": "Full camera control",
     "hdSatellite": "HD satellite maps",
     "hdSatelliteDescription": "Aerial imagery maps from Esri, Airbus, USGS and Maxar.",
     "hdSatellite10x": "10x better resolution",
@@ -958,5 +962,5 @@
   "setClub": "Select club",
   "takeoffWeight": "Takeoff weight in {unit} (optional)",
   "wingLoading": "wing loading",
-  "plansHeadline": "Unlock your full potential in the cockpit"
+  "plansHeadline": "Bring your flying skills to the next level"
 }

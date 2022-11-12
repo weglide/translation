@@ -906,7 +906,11 @@
     "weatherSatellite": "Satellite météo",
     "weatherSatelliteDescription": "Images satellites météorologiques animées à haute fréquence.",
     "weatherSatelliteFrequencyEurope": "Scan rapide de 5 minutes pour l'Europe",
-    "weatherSatelliteFrequencyWorld": "Scan de 10 minutes pour le reste du monde"
+    "weatherSatelliteFrequencyWorld": "Scan de 10 minutes pour le reste du monde",
+    "3dFlightView": "Vue de vol 3D",
+    "3dFlightViewCamera": "Contrôle total de la caméra",
+    "3dFlightViewDescription": "Détendez-vous et vivez chaque vol en 3D.",
+    "3dFlightViewSpeed": "1x, 5x et 10x vitesse de lecture"
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",
@@ -957,5 +961,5 @@
   "setClub": "Sélectionnez un club",
   "takeoffWeight": "Masse au décollage en {unit} (facultatif)",
   "wingLoading": "chargement alaire",
-  "plansHeadline": "Libérez tout votre potentiel dans le cockpit"
+  "plansHeadline": "Amenez vos compétences de vol au niveau supérieur"
 }
