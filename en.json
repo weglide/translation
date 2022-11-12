@@ -911,7 +911,8 @@
     "thermalReplayDetours": "Analyze where the worthwhile detours would have been",
     "thermalReplayAnimated": "Up to thousands of different thermals for every Minute of flight",
     "thermalReplayClickable": "Clicking thermals leads to the corresponding flight",
-    "becomePatron": "Become a Patron"
+    "becomePatron": "Become a Patron",
+    "requestSponsorMaterial": "request sponsor material"
   },
   "send": "Send",
   "barboraDescription": "Competition pilot",
