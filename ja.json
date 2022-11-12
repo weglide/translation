@@ -807,7 +807,6 @@
   "thanksFromTheTeam": "チームからありがとう！",
   "selected": "選択済み",
   "futurePlans": "今後の計画についてもっと知る",
-  "takeNextStep": "次のステップに進む",
   "startCollectingFlights": "この記号でフライトの収集を開始します",
   "couldNotConnectToLive": "ライブトラッキングに接続できませんでした",
   "flightNoLongerAvailable": "フライトはご利用いただけなくなりました",
@@ -891,5 +890,6 @@
   "wingLoading": "ウイングローディング",
   "subscription": {
     "becomePatron": "パトロンになる"
-  }
+  },
+  "plansHeadline": ""
 }

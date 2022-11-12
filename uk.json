@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Дякую від команди!",
   "selected": "Вибрано",
   "futurePlans": "Дізнайтеся більше про наші майбутні плани",
-  "takeNextStep": "Зробіть наступний крок",
   "startCollectingFlights": "Почніть збирати рейси з цим символом",
   "couldNotConnectToLive": "Не вдалося підключитися до відстеження в реальному часі",
   "flightNoLongerAvailable": "Рейс більше не доступний",
@@ -893,5 +892,6 @@
   "wingLoading": "навантаження на крило",
   "subscription": {
     "becomePatron": "Стати патроном"
-  }
+  },
+  "plansHeadline": ""
 }

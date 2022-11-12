@@ -807,7 +807,6 @@
   "thanksFromTheTeam": "Danke vom Team!",
   "selected": "Ausgewählt",
   "futurePlans": "Erfahre mehr über unsere Zukunftspläne",
-  "takeNextStep": "Gehe den nächsten Schritt",
   "startCollectingFlights": "Sammel Flüge mit diesem Symbol",
   "couldNotConnectToLive": "Es konnte keine Verbindung zum Livetracking hergestellt werden",
   "flightNoLongerAvailable": "Flug nicht mehr verfügbar",
@@ -959,5 +958,6 @@
   "noClubWarning": "Kein Verein ausgewählt, hochgeladene Flüge werden keinem Verein zugewiesen.",
   "setClub": "Verein auswählen",
   "takeoffWeight": "Startgewicht in {unit} (optional)",
-  "wingLoading": "Flächenbelastung"
+  "wingLoading": "Flächenbelastung",
+  "plansHeadline": "Schöpfe dein volles Potenzial im Cockpit aus"
 }

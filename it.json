@@ -204,7 +204,6 @@
   "thanksFromTheTeam": "Grazie dalla squadra!",
   "selected": "Selezionato",
   "futurePlans": "Scopri di più sui nostri piani futuri",
-  "takeNextStep": "Fai il passo successivo",
   "startCollectingFlights": "Inizia a raccogliere voli con questo simbolo",
   "couldNotConnectToLive": "Impossibile connettersi al livetracking",
   "flightNoLongerAvailable": "Volo non più disponibile",
@@ -288,5 +287,6 @@
   "wingLoading": "carico alare",
   "subscription": {
     "becomePatron": "Diventa un mecenate"
-  }
+  },
+  "plansHeadline": ""
 }

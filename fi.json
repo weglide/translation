@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Kiitos joukkueelta!",
   "selected": "Valittu",
   "futurePlans": "Lue lisää tulevaisuuden suunnitelmistamme",
-  "takeNextStep": "Ota seuraava askel",
   "startCollectingFlights": "Aloita lentojen kerääminen tällä symbolilla",
   "couldNotConnectToLive": "Ei saatu yhteyttä live-seurantaan",
   "flightNoLongerAvailable": "Lento ei ole enää saatavilla",
@@ -893,5 +892,6 @@
   "wingLoading": "siipien lastaus",
   "subscription": {
     "becomePatron": "Ryhdy suojelijaksi"
-  }
+  },
+  "plansHeadline": ""
 }

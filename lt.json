@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Ačiū iš komandos!",
   "selected": "Pasirinkta",
   "futurePlans": "Sužinokite daugiau apie mūsų ateities planus",
-  "takeNextStep": "Ženkite kitą žingsnį",
   "startCollectingFlights": "Su šiuo simboliu pradėkite rinkti skrydžius",
   "couldNotConnectToLive": "Nepavyko prisijungti prie tiesioginio stebėjimo",
   "flightNoLongerAvailable": "Skrydis nebepasiekiamas",
@@ -893,5 +892,6 @@
   "wingLoading": "sparno apkrova",
   "subscription": {
     "becomePatron": "Tapk mecenatu"
-  }
+  },
+  "plansHeadline": ""
 }

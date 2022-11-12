@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Takk fra teamet!",
   "selected": "Valgt",
   "futurePlans": "Lær mer om våre fremtidsplaner",
-  "takeNextStep": "Ta neste steg",
   "startCollectingFlights": "Begynn å samle flyreiser med dette symbolet",
   "couldNotConnectToLive": "Kunne ikke koble til livetracking",
   "flightNoLongerAvailable": "Flyvningen er ikke lenger tilgjengelig",
@@ -893,5 +892,6 @@
   "wingLoading": "vingelasting",
   "subscription": {
     "becomePatron": "Bli en beskytter"
-  }
+  },
+  "plansHeadline": ""
 }

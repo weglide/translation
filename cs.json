@@ -807,7 +807,6 @@
   "thanksFromTheTeam": "Díky od týmu!",
   "selected": "Vybraný",
   "futurePlans": "Zjistěte více o našich plánech do budoucna",
-  "takeNextStep": "Udělejte další krok",
   "startCollectingFlights": "Začněte sbírat lety s tímto symbolem",
   "couldNotConnectToLive": "Nelze se připojit k živému sledování",
   "flightNoLongerAvailable": "Let již není dostupný",
@@ -893,5 +892,6 @@
   "wingLoading": "zatížení křídla",
   "subscription": {
     "becomePatron": "Staňte se patronem"
-  }
+  },
+  "plansHeadline": ""
 }

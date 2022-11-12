@@ -810,7 +810,6 @@
   "thanksFromTheTeam": "Merci de la part de l'équipe!",
   "selected": "Choisi",
   "futurePlans": "En savoir plus sur nos projets futurs",
-  "takeNextStep": "Passez à l'étape suivante",
   "startCollectingFlights": "Commencez à collecter des vols avec ce symbole",
   "couldNotConnectToLive": "Impossible de se connecter au suivi en direct",
   "flightNoLongerAvailable": "Le vol n'est plus disponible",
@@ -957,5 +956,6 @@
   "noClubWarning": "Aucun club sélectionné, les vols téléchargés ne seront attribués à aucun club.",
   "setClub": "Sélectionnez un club",
   "takeoffWeight": "Masse au décollage en {unit} (facultatif)",
-  "wingLoading": "chargement alaire"
+  "wingLoading": "chargement alaire",
+  "plansHeadline": "Libérez tout votre potentiel dans le cockpit"
 }

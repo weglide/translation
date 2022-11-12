@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Dzięki od zespołu!",
   "selected": "Wybrany",
   "futurePlans": "Dowiedz się więcej o naszych planach na przyszłość",
-  "takeNextStep": "Zrób następny krok",
   "startCollectingFlights": "Zacznij zbierać loty z tym symbolem",
   "couldNotConnectToLive": "Nie udało się połączyć ze śledzeniem na żywo",
   "flightNoLongerAvailable": "Lot nie jest już dostępny",
@@ -893,5 +892,6 @@
   "wingLoading": "ładowanie skrzydła",
   "subscription": {
     "becomePatron": "Zostań Patronem"
-  }
+  },
+  "plansHeadline": ""
 }

@@ -809,7 +809,6 @@
   "thanksFromTheTeam": "Спасибо от команды!",
   "selected": "Выбрано",
   "futurePlans": "Узнайте больше о наших планах на будущее",
-  "takeNextStep": "Сделайте следующий шаг",
   "startCollectingFlights": "Начать собирать рейсы с этим символом",
   "couldNotConnectToLive": "Не удалось подключиться к отслеживанию в реальном времени",
   "flightNoLongerAvailable": "Рейс больше не доступен",
@@ -893,5 +892,6 @@
   "wingLoading": "нагрузка на крыло",
   "subscription": {
     "becomePatron": "Стать покровителем"
-  }
+  },
+  "plansHeadline": ""
 }

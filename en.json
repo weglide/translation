@@ -810,7 +810,6 @@
   "minTime": "Minimum time",
   "thanksFromTheTeam": "Thanks from the team!",
   "selected": "Selected",
-  "takeNextStep": "Take the next step",
   "futurePlans": "Learn more about our future plans",
   "startCollectingFlights": "Start collecting flights with this symbol",
   "couldNotConnectToLive": "Could not connect to livetracking",
@@ -958,5 +957,6 @@
   "noClubWarning": "No club selected, uploaded flights will not be assigned to any club.",
   "setClub": "Select club",
   "takeoffWeight": "Takeoff weight in {unit} (optional)",
-  "wingLoading": "wing loading"
+  "wingLoading": "wing loading",
+  "plansHeadline": "Unlock your full potential in the cockpit"
 }
