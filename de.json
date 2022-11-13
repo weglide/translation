@@ -963,5 +963,6 @@
   "setClub": "Verein auswählen",
   "takeoffWeight": "Startgewicht in {unit} (optional)",
   "wingLoading": "Flächenbelastung",
-  "plansHeadline": "Bringe deine fliegerischen Fähigkeiten auf das nächste Level"
+  "plansHeadline": "Bringe deine fliegerischen Fähigkeiten auf das nächste Level",
+  "trialPeriodInfo": "14 Tage, jederzeit kündbar"
 }

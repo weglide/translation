@@ -821,6 +821,7 @@
   "startFreeTrial": "Start free trial",
   "trialPeriod": "14 days free trial",
   "afterTrialInfo": "{price} per year afterwards.",
+  "trialPeriodInfo": "14 days, cancel anytime",
   "featuresExplanation": "The features explained",
   "showMeTheStatisticsList": "Show me the statistics list",
   "barogramHelp": {

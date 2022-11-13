@@ -962,5 +962,6 @@
   "setClub": "Sélectionnez un club",
   "takeoffWeight": "Masse au décollage en {unit} (facultatif)",
   "wingLoading": "chargement alaire",
-  "plansHeadline": "Amenez vos compétences de vol au niveau supérieur"
+  "plansHeadline": "Amenez vos compétences de vol au niveau supérieur",
+  "trialPeriodInfo": "14 jours, annulez à tout moment"
 }
