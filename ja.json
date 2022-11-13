@@ -889,7 +889,8 @@
   "takeoffWeight": "離陸重量 ({unit}) (オプション)",
   "wingLoading": "ウイングローディング",
   "subscription": {
-    "becomePatron": "パトロンになる"
+    "becomePatron": "パトロンになる",
+    "hdSatelliteUpgrade": "HD 衛星地図を入手する"
   },
   "plansHeadline": ""
 }

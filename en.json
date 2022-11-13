@@ -846,6 +846,7 @@
   },
   "startsOn": "Starts on",
   "subscription": {
+    "hdSatelliteUpgrade": "Get HD satellite maps",
     "planUpdated": "Subscription plan updated",
     "planUpgradePrompt": "Your subscription will be upgraded now.",
     "planDowngradePrompt": "Your subscription will be downgraded at the end of the billing period.",

@@ -911,7 +911,8 @@
     "3dFlightViewCamera": "Contrôle total de la caméra",
     "3dFlightViewDescription": "Détendez-vous et vivez chaque vol en 3D.",
     "3dFlightViewSpeed": "1x, 5x et 10x vitesse de lecture",
-    "requestSponsorMaterial": "demander du matériel de parrainage"
+    "requestSponsorMaterial": "demander du matériel de parrainage",
+    "hdSatelliteUpgrade": "Obtenez des cartes satellites HD"
   },
   "send": "Envoyer",
   "barboraDescription": "Pilote de compétition",

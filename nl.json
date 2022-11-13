@@ -891,7 +891,8 @@
   "takeoffWeight": "Startgewicht in {unit} (optioneel)",
   "wingLoading": "vleugelbelasting",
   "subscription": {
-    "becomePatron": "Word een beschermheer"
+    "becomePatron": "Word een beschermheer",
+    "hdSatelliteUpgrade": "HD-satellietkaarten ophalen"
   },
   "plansHeadline": ""
 }

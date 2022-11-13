@@ -286,7 +286,8 @@
   "takeoffWeight": "Peso al decollo in {unit} (opzionale)",
   "wingLoading": "carico alare",
   "subscription": {
-    "becomePatron": "Diventa un mecenate"
+    "becomePatron": "Diventa un mecenate",
+    "hdSatelliteUpgrade": "Ottieni mappe satellitari HD"
   },
   "plansHeadline": ""
 }

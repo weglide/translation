@@ -891,7 +891,8 @@
   "takeoffWeight": "Kilimo svoris {unit} (neprivaloma)",
   "wingLoading": "sparno apkrova",
   "subscription": {
-    "becomePatron": "Tapk mecenatu"
+    "becomePatron": "Tapk mecenatu",
+    "hdSatelliteUpgrade": "Gaukite HD palydovinius žemėlapius"
   },
   "plansHeadline": ""
 }

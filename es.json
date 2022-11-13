@@ -891,7 +891,8 @@
   "takeoffWeight": "Peso de despegue en {unit} (opcional)",
   "wingLoading": "ala cargando",
   "subscription": {
-    "becomePatron": "Conviértete en un mecenas"
+    "becomePatron": "Conviértete en un mecenas",
+    "hdSatelliteUpgrade": "Obtener mapas satelitales HD"
   },
   "plansHeadline": ""
 }

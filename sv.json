@@ -891,7 +891,8 @@
   "takeoffWeight": "Startvikt i {unit} (tillval)",
   "wingLoading": "vinglastning",
   "subscription": {
-    "becomePatron": "Bli en beskyddare"
+    "becomePatron": "Bli en beskyddare",
+    "hdSatelliteUpgrade": "Få HD-satellitkartor"
   },
   "plansHeadline": ""
 }

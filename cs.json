@@ -891,7 +891,8 @@
   "takeoffWeight": "Vzletová hmotnost v {unit} (volitelné)",
   "wingLoading": "zatížení křídla",
   "subscription": {
-    "becomePatron": "Staňte se patronem"
+    "becomePatron": "Staňte se patronem",
+    "hdSatelliteUpgrade": "Získejte HD satelitní mapy"
   },
   "plansHeadline": ""
 }

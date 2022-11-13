@@ -891,7 +891,8 @@
   "takeoffWeight": "Взлетная масса в {unit} (опционально)",
   "wingLoading": "нагрузка на крыло",
   "subscription": {
-    "becomePatron": "Стать покровителем"
+    "becomePatron": "Стать покровителем",
+    "hdSatelliteUpgrade": "Получить спутниковые карты HD"
   },
   "plansHeadline": ""
 }

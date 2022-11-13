@@ -891,7 +891,8 @@
   "takeoffWeight": "Злітна маса в {unit} (опціонально)",
   "wingLoading": "навантаження на крило",
   "subscription": {
-    "becomePatron": "Стати патроном"
+    "becomePatron": "Стати патроном",
+    "hdSatelliteUpgrade": "Отримайте супутникові карти HD"
   },
   "plansHeadline": ""
 }

@@ -891,7 +891,8 @@
   "takeoffWeight": "Peso de decolagem em {unit} (opcional)",
   "wingLoading": "carregamento de asa",
   "subscription": {
-    "becomePatron": "Torne-se um Patrono"
+    "becomePatron": "Torne-se um Patrono",
+    "hdSatelliteUpgrade": "Obtenha mapas de satélite HD"
   },
   "plansHeadline": ""
 }

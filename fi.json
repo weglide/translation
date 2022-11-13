@@ -891,7 +891,8 @@
   "takeoffWeight": "Lähtöpaino {unit} (valinnainen)",
   "wingLoading": "siipien lastaus",
   "subscription": {
-    "becomePatron": "Ryhdy suojelijaksi"
+    "becomePatron": "Ryhdy suojelijaksi",
+    "hdSatelliteUpgrade": "Hanki HD-satelliittikartat"
   },
   "plansHeadline": ""
 }

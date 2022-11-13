@@ -891,7 +891,8 @@
   "takeoffWeight": "Masa startowa w {unit} (opcjonalnie)",
   "wingLoading": "ładowanie skrzydła",
   "subscription": {
-    "becomePatron": "Zostań Patronem"
+    "becomePatron": "Zostań Patronem",
+    "hdSatelliteUpgrade": "Uzyskaj mapy satelitarne HD"
   },
   "plansHeadline": ""
 }
