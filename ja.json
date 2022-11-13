@@ -814,7 +814,7 @@
   "noCertificatesYet": "証明書はまだありません。最初の証明書を取得するには、フライトのアップロードを開始してください。",
   "offline": "オフライン",
   "startTaskPlanning": "地図上で開始場所を選択します",
-  "afterTrialInfo": "その後は月額{price}、毎年請求",
+  "afterTrialInfo": "",
   "startFreeTrial": "無料トライアル",
   "trialPeriod": "14日間無料",
   "featuresExplanation": "説明された機能",

@@ -816,7 +816,7 @@
   "noCertificatesYet": "Inga certifikat än, börja ladda upp flyg för att få ditt första.",
   "offline": "Off-line",
   "startTaskPlanning": "Välj en startplats på kartan",
-  "afterTrialInfo": "{price} per månad efteråt, faktureras årligen",
+  "afterTrialInfo": "",
   "startFreeTrial": "Gratis provperiod",
   "trialPeriod": "14 dagar gratis",
   "featuresExplanation": "Funktionerna förklaras",

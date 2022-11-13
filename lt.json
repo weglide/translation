@@ -816,7 +816,7 @@
   "noCertificatesYet": "Dar nėra sertifikatų, pradėkite įkelti skrydžius, kad uždirbtumėte pirmąjį.",
   "offline": "Neprisijungus",
   "startTaskPlanning": "Žemėlapyje pasirinkite pradžios vietą",
-  "afterTrialInfo": "Vėliau {price} per mėnesį, apmokestinama kasmet",
+  "afterTrialInfo": "",
   "startFreeTrial": "Nemokamas bandymas",
   "trialPeriod": "14 dienų nemokamai",
   "featuresExplanation": "Paaiškintos savybės",

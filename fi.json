@@ -816,7 +816,7 @@
   "noCertificatesYet": "Ei vielä todistuksia. Aloita lentojen lataaminen ansaitaksesi ensimmäisen.",
   "offline": "Offline-tilassa",
   "startTaskPlanning": "Valitse aloituspaikka kartalta",
-  "afterTrialInfo": "{price} kuukaudessa sen jälkeen, laskutetaan vuosittain",
+  "afterTrialInfo": "",
   "startFreeTrial": "Ilmainen kokeilu",
   "trialPeriod": "14 päivää ilmaiseksi",
   "featuresExplanation": "Ominaisuudet selitetty",
