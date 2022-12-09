@@ -892,5 +892,7 @@
     "becomePatron": "パトロンになる",
     "hdSatelliteUpgrade": "HD 衛星地図を入手する"
   },
-  "plansHeadline": ""
+  "plansHeadline": "",
+  "mostFlownBy": "ほとんどの場合、{name} によって飛行されました",
+  "timesFlown": "飛んだ"
 }

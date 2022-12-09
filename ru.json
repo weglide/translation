@@ -894,5 +894,7 @@
     "becomePatron": "Стать покровителем",
     "hdSatelliteUpgrade": "Получить спутниковые карты HD"
   },
-  "plansHeadline": ""
+  "plansHeadline": "",
+  "mostFlownBy": "чаще всего летает {name}",
+  "timesFlown": "летал"
 }

@@ -894,5 +894,7 @@
     "becomePatron": "Torne-se um Patrono",
     "hdSatelliteUpgrade": "Obtenha mapas de satélite HD"
   },
-  "plansHeadline": ""
+  "plansHeadline": "",
+  "mostFlownBy": "voado com mais frequência por {name}",
+  "timesFlown": "voado"
 }

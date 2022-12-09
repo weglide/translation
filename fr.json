@@ -964,5 +964,7 @@
   "takeoffWeight": "Masse au décollage en {unit} (facultatif)",
   "wingLoading": "chargement alaire",
   "plansHeadline": "Amenez vos compétences de vol au niveau supérieur",
-  "trialPeriodInfo": "14 jours, annulez à tout moment"
+  "trialPeriodInfo": "14 jours, annulez à tout moment",
+  "mostFlownBy": "le plus souvent piloté par {name}",
+  "timesFlown": "volé"
 }

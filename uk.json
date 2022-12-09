@@ -894,5 +894,7 @@
     "becomePatron": "Стати патроном",
     "hdSatelliteUpgrade": "Отримайте супутникові карти HD"
   },
-  "plansHeadline": ""
+  "plansHeadline": "",
+  "mostFlownBy": "найчастіше літав {name}",
+  "timesFlown": "літав"
 }

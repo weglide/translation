@@ -289,5 +289,7 @@
     "becomePatron": "Diventa un mecenate",
     "hdSatelliteUpgrade": "Ottieni mappe satellitari HD"
   },
-  "plansHeadline": ""
+  "plansHeadline": "",
+  "mostFlownBy": "più spesso volato da {nome}",
+  "timesFlown": "volato"
 }
