@@ -48,3 +48,6 @@ Polish:
 
 Ukrainian:
 * @muravitskiy
+
+Spanish:
+* @pgomez-redsauce
