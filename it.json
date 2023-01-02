@@ -1,4 +1,609 @@
 {
+  "FR": "Libero",
+  "FR4": "3 Svolte",
+  "GL": "Obiettivo",
+  "MRT": "Multi Rettangolo",
+  "MTR": "Multi Triangolo",
+  "OR": "Ritorno",
+  "RT": "Rettangolo",
+  "TR": "Triangolo",
+  "addVideo": "Aggiungi video",
+  "administrative": "Città e Paesi",
+  "afterLanding": "Dopo l'atterraggio",
+  "aircraft": "Aereo",
+  "airport": "Aereoporto",
+  "airports": "Aereoporti",
+  "airspaces": "Spazi aerei",
+  "airtime": "Tempo totale di volo",
+  "all": "Tutti",
+  "altitude": "Altitudine",
+  "attempts": "Tentative",
+  "attention": "Attenzione",
+  "auDescription": "Campionati australiani",
+  "avgGlideDetour": "Deviazione media per planata",
+  "avgGlideSpeed": "Velocità media di planata",
+  "avgSpeed": "Velocità media",
+  "bank": "Banca",
+  "beforeTakeoff": "Prima del decollo",
+  "betaText": "Tieni presente che potrebbe essere necessario eliminare i dati o interrompere alcune funzionalità",
+  "betaTitle": "Prerelease",
+  "biDescription": "Campionati polacchi",
+  "birthdate": "Data di nascita",
+  "bothDirections": "Entrambe le direzioni",
+  "calculation": "Calcolo",
+  "cancel": "Cancella",
+  "cancelSubscription": "Annullare l'iscrizione",
+  "carolinDescription": "Avvocato del volo a vela",
+  "category": "Categoria",
+  "certificates": "Certificati",
+  "changePassword": "Cambia password",
+  "changeProfileImage": "Cambia immagine del profilo",
+  "choosePassword": "Scegli una nuova password",
+  "circling": "Girando",
+  "class": "Classe",
+  "climb": "Scalata",
+  "closed": "Chiuso",
+  "clouds": "Nuvole",
+  "club": "Club",
+  "coPilotDateOfBirth": "Data di nascita del copilota",
+  "coPilotName": "Nome copilota",
+  "comments": "Commenti",
+  "commentsAllowed": "Consenti ad altri di commentare i miei voli",
+  "compare": "Confronta",
+  "competitionId": "ID Concorenza (opzionale)",
+  "competitionIdFormat": "Sono accettati sono caratteri alfanumerici per l' ID Concorenza",
+  "competitions": "Competizioni",
+  "connectWeatherProviders": "Collega i servizi meteorologici",
+  "contestNames": {
+    "au": "IRC",
+    "bi": "Bitner",
+    "declaration": "Task",
+    "dmst": "DMSt",
+    "free": "Free",
+    "nsfw": "NSFW",
+    "out": "Out",
+    "out_return": "O&R",
+    "sprint": "Sprint",
+    "triangle": "Triangle",
+    "za": "BC"
+  },
+  "contestRules": "Regole del concorso",
+  "convex_hull": "Scafo convesso",
+  "coordinates": "Coordinate",
+  "countAbbrev": "Numero",
+  "cuBasis": "Base CU",
+  "cuVerticalExpansion": "Espansione verticale CU",
+  "cupDragText": "Trascina un file .cup qui o clicca per selezionarlo",
+  "cupDropText": "Rilascia il file .cup per caricarlo",
+  "currentCompetitions": "Concorsi in corso",
+  "customize": "Personalizzare",
+  "dailyBest": "Migliore del giorno",
+  "date": "Data",
+  "day": "Giorno",
+  "days": "Giorni",
+  "declaration": "Dichiarato",
+  "declare": "Dichiara",
+  "declareFor": "Dichiara questa attività per",
+  "declaredTask": "Incarichi dichiarati",
+  "delete": "Elimina",
+  "deleteConfirm": "Eliminare davvero?",
+  "description": "Descrizione",
+  "detourAbbrev": "Deviazione",
+  "developer": "Sviluppatori",
+  "discard": "Scartare",
+  "distance": "Distanza",
+  "distanceAbbrev": "Dist.",
+  "dmstDescription": "Campionato tedesco",
+  "download": "Scarica",
+  "duration": "Durata",
+  "earliest": "Più presto",
+  "edit": "Modifica",
+  "editFlight": "Modifica volo",
+  "edited": "modificato",
+  "electric": "Elettricità",
+  "electricDescription": "WeGlide Electric Cup",
+  "elevation": "Elevazione",
+  "email": "Email",
+  "embed": "Embed",
+  "enableOpenInSeeYou": "Consenti l'apertura con SeeYou per i miei voli",
+  "encourage": "Decolliamo insieme e unisciti alla nuova piattaforma di volo.",
+  "engine": "Motore",
+  "error": "Errore",
+  "errorAuth": "Per favore fai prima il log in",
+  "errorAuthTitle": "Sessione scaduta",
+  "errorCaptcha": "Si prega di risolvere il captcha per verificare che non sei un robot",
+  "errorForm": "Si prega di controllare gli input del modulo",
+  "errorServer": "Per favore, riprova più tardi o contattaci",
+  "errorServerTitle": "Server temporaneamente non disponibile",
+  "errorTerms": "Per favore accetta i termini.",
+  "explore": "Esplorare",
+  "exploreDescription": "WeGlide Explore Cup",
+  "family": "Famiglia",
+  "faq": "FAQ",
+  "favoriteFilter": "Filtro preferito",
+  "favoriteFilterShortcut": "Seleziona fino a quattro filtri preferiti come scorciatoia per la home page:",
+  "feed": "Feed",
+  "female": "Femmine",
+  "fes": "FES",
+  "fileIgcValid": "IGC valido",
+  "fileInvalid": "File non valido",
+  "filePending": "File in attesa",
+  "fileValid": "Nessuna osservazione analizzando questo volo.",
+  "fileWeGlideValid": "WeGlide valido",
+  "filterPlaceholder": "Cerca",
+  "findFriends": "Trova amici",
+  "findNewFriends": "Trova nuovi amici",
+  "flight": "Volo",
+  "flightDeleted": "Volo Cancellato",
+  "flightDetail": "Dettagli del volo",
+  "flightEditLockedNotice": "Periodo di modifica delle voci rilevanti già finito.",
+  "flightErrors": {
+    "AVG_GNSS_ALT_CHANGE": "La variazione di altitudine GNSS media tra le correzioni nel file è {0}, il minimo è {1}.",
+    "AVG_PRESS_ALT_CHANGE": "La variazione media dell'altitudine della pressione tra le correzioni nel file è {0}, il minimo è {1}.",
+    "A_RECORD_TOO_SHORT": "Il record A è troppo corto.",
+    "C_RECORD_TOO_LONG": "I record C contengono più di 20 righe, non sono in grado di analizzare l'attività.",
+    "FIXES_BEFORE_TAKEOFF": "Trovate {0} correzioni prima del decollo, obbligatorie sono {1}.",
+    "FUTURE_FLIGHT": "La data del volo è nel futuro.",
+    "GNSS_ALT_VIOLATIONS": "L'intervallo di altitudine GNSS da {0} a {1} è stato superato in {2} correzioni GNSS.",
+    "HIGH_CHANGE_GNSS_ALT": "{0} variazioni elevate dell'altitudine GNSS (più di {1} m / s).",
+    "HIGH_CHANGE_PRESS_ALT": "{0} variazioni elevate dell'altitudine-pressione (più di {1} m / s).",
+    "H_RECORD_NO_DATE": "Nessuna data in H record fornito",
+    "INVALID_H_RECORD": "Record H non valido: {0}",
+    "INVALID_QNH_VALUE": "Il QNH determinato di {0} hPa (in base all'altitudine fornita) non è compreso tra i limiti di {1} hPa e {2} hPa.",
+    "MAX_GNSS_ALT_REACHED": "L'altitudine massima del sensore GNSS è: {0}, hai raggiunto: {1}",
+    "MAX_GROUND_SPEED_WARNING": "La velocità al suolo di {0} km / h a {1} supera il massimo di {2} km / h, i rilevamenti GPS pertinenti vengono filtrati.",
+    "MAX_PRESS_ALT_REACHED": "L'altitudine massima del sensore di pressione è: {0}, raggiunta: {1}",
+    "MULTIPLE_A_RECORDS": "Più record A forniti.",
+    "MULTIPLE_I_RECORDS": "Più record I forniti.",
+    "NON_INCREASING_TIMES": "Il tempo salta indietro da {0} a {1}.",
+    "NON_VALID_FIXES": "Il file contiene {0} non validi",
+    "NO_AIRCRAFT_SELECTED": "Nessun aereo è stato selezionato.",
+    "NO_A_RECORD": "Nessun record A fornito.",
+    "NO_ENGINE_SENSOR": "Nessun sensore del motore trovato, sensori del motore consentiti: {0}.",
+    "NO_FES_SENSOR": "Nessun sensore FES trovato, sensori FES consentiti: {0}.",
+    "NO_H_RECORD": "Nessun record H fornito.",
+    "NO_I_RECORD": "Nessun record I fornito.",
+    "NO_LANDING": "Non è stato rilevato un atterraggio.",
+    "NO_SCORING_WINDOWS": "Nessuna finestra di punteggio è stata trovata.",
+    "NO_TAKEOFF": "Decollo non rilevato.",
+    "PRESS_ALT_NOT_VALID": "L'altitudine della pressione nel file non è valida, il valore massimo è {0} metri.",
+    "PRESS_ALT_VIOLATIONS": "L'intervallo dell'altitudine di pressione da {0} a {1} è stato superato in {2} correzioni.",
+    "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Vincolo di tempo rigido ({0} secondi) tra le correzioni quasi superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
+    "RAW_TIME_HARD_LIMIT_EXCEEDED": "Vincolo di tempo rigido ({0} secondi) tra le correzioni superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
+    "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Vincolo di tempo rigido ({0} secondi) tra le correzioni superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "Gli intervalli {0} superano il limite di tempo flessibile tra le correzioni ({1}), gli intervalli {2} consentiti."
+  },
+  "flightFilterPlaceholder": "Regione, Pilota, Club, Aeroporto …",
+  "flightInvalid": "Volo non valido",
+  "flightList": "Elenco dei voli",
+  "flightOfTheMonth": "Volo del mese",
+  "flightOverview": "Panoramica",
+  "flightPending": "Volo in attesa",
+  "flightSaved": "Volo salvato",
+  "flightStories": "Storie di volo",
+  "flightValid": "Volo valido",
+  "flights": "Voli",
+  "flightsAsList": "Voli come elenco",
+  "flightsAsMap": "Voli come mappa",
+  "flightsOfMyFriends": "Voli dei miei amici",
+  "follow": "Segui",
+  "followed": "Segui",
+  "followers": "Follower",
+  "following": "Seguiti",
+  "forever": "Per sempre",
+  "forgotPassword": "Password dimenticata?",
+  "frDescription": "Campionati francesi",
+  "free": "Gratuito",
+  "freeDescription": "WeGlide Distance Cup",
+  "frequency": "Frequenza",
+  "friends": "Amici",
+  "fullName": "Nome e Cognome",
+  "general": "Generale",
+  "glide": "Planare",
+  "glider": "Aliante",
+  "glidingAirspaces": "Spazi aerei plananti",
+  "glidingUsage": "Piano di volo",
+  "hangGlider": "Deltaplano",
+  "hello": "Ciao",
+  "help": "Aiuto",
+  "highest": "Massimo",
+  "historySatellite": "Immagini satellitari",
+  "historySatelliteDescription": "Seleziona qui e sposta l'aereo",
+  "home": "Avvia",
+  "igc": "IGC",
+  "igcDragText": "Trascina i file .igc qua per effettuare l'upload o clicca per selezionarli",
+  "igcDropText": "Rilascia il file .igc",
+  "imageDragText": "Trascina l'immagine qui per caricarla o clicca per selezionarla",
+  "imageDropText": "Rilascia l'immagine per caricarla",
+  "imprint": "Impronta",
+  "index": "Index",
+  "info": "Informazioni",
+  "instructions": "Istruzioni",
+  "instructionsEmailed": "Email inviata, segui le istruzioni al suo interno",
+  "integrateCopilot": "Collega il tuo profilo COPILOT in WeGlide",
+  "integrateSkysight": "Integra i dati meteorologici SkySight in WeGlide",
+  "integrations": "Integrazioni",
+  "invalid": "Non valido",
+  "invalidFlight": "Il volo è stato richiesto troppo tardi per questo concorso",
+  "isNotRegistered": "non è registrato, non è richiesta alcuna ulteriore autenticazione.",
+  "isRegistered": "è registrato, la data di nascita è richiesta come autenticazione",
+  "johannesDescription": "Pilota da competizione",
+  "joinCommunity": "Unisciti alla community!",
+  "joinThanks": "Grazie per esserti unito a WeGilde!",
+  "joined": "Unito a WeGilde",
+  "junior": "Bambini",
+  "juniorFemale": "Bambini",
+  "juniorMale": "Bambini",
+  "kind": "Tipo",
+  "landcover": "Copertura del suolo",
+  "landing": "Atterraggio",
+  "landingFields": "Campi di atterraggio",
+  "latest": "Più recente",
+  "latitudeAbbrev": "Lat.",
+  "launches": "Decolli di alianti",
+  "league": "Lega",
+  "learnMore": "Per saperne di più",
+  "length": "Lunghezza",
+  "likes": "Piace",
+  "linkCopied": "Link copiato!",
+  "list": "Lista",
+  "live": "Tempo reale",
+  "liveCompetition": "Competizione dal vivo",
+  "liveConnect": "Connessione live",
+  "liveConnectHelp": "Collega il tuo aliante per presentarti nel monitoraggio dal vivo con il tuo profilo e l'attività dichiarata.",
+  "liveDetail": "Live dettagli",
+  "liveFilterPlaceholder": "Regione, aeroporto, pilota, aereo …",
+  "liveOverview": "Panoramica volo",
+  "loadMore": "Carica di più",
+  "location": "Posizione",
+  "locations": {
+    "AR": {
+      "name": "Argentina"
+    },
+    "AT": {
+      "name": "Austria",
+      "regions": {
+        "AT-1": "Burgenland",
+        "AT-2": "Carinzia",
+        "AT-3": "Bassa Austria",
+        "AT-4": "Alta Austria",
+        "AT-5": "Salisburgo",
+        "AT-6": "Stiria",
+        "AT-7": "Tirol",
+        "AT-8": "Vorarlberg",
+        "AT-9": "Vienna"
+      }
+    },
+    "AU": {
+      "name": "Australia",
+      "regions": {
+        "AU-NSW": "Nuovo Galles del Sud",
+        "AU-NT": "Territori del Nord",
+        "AU-QLD": "Queensland",
+        "AU-SA": "sud dell'Australia",
+        "AU-TAS": "Tasmania",
+        "AU-VIC": "Victoria",
+        "AU-WA": "Australia Occidentale"
+      }
+    },
+    "BA": {
+      "name": "Bosnia Erzegovina"
+    },
+    "BE": {
+      "name": "Belgio",
+      "regions": {
+        "BE-VLG": "Fiandre",
+        "BE-WAL": "Vallonia"
+      }
+    },
+    "BG": {
+      "name": "Bulgaria"
+    },
+    "BR": {
+      "name": "Brasile"
+    },
+    "CA": {
+      "name": "Canada",
+      "regions": {
+        "CA-AB": "Alberta",
+        "CA-BC": "Colombia britannica",
+        "CA-MB": "Manitoba",
+        "CA-ON": "Ontario",
+        "CA-QC": "Québec",
+        "CA-SK": "Saskatchewan"
+      }
+    },
+    "CH": {
+      "name": "Svizzera"
+    },
+    "CL": {
+      "name": "Chile"
+    },
+    "CN": {
+      "name": "Cina"
+    },
+    "CO": {
+      "name": "Colombia"
+    },
+    "CZ": {
+      "name": "Repubblica Ceca"
+    },
+    "DE": {
+      "name": "Germania",
+      "regions": {
+        "DE-BB": "Brandeburgo",
+        "DE-BE": "Berlino",
+        "DE-BW": "Baden-Württemberg",
+        "DE-BY": "Baviera",
+        "DE-HB": "Brema",
+        "DE-HE": "Assia",
+        "DE-HH": "Amburgo",
+        "DE-MV": "Meclemburgo-Pomerania occidentale",
+        "DE-NI": "Bassa Sassonia",
+        "DE-NW": "Renania settentrionale-Vestfalia",
+        "DE-RP": "Renania-Palatinato",
+        "DE-SH": "Schleswig-Holstein",
+        "DE-SL": "Saarland",
+        "DE-SN": "Sassonia",
+        "DE-ST": "Sassonia-Anhalt",
+        "DE-TH": "Turingia"
+      }
+    },
+    "DK": {
+      "name": "Danimarca"
+    },
+    "EC": {
+      "name": "Ecuador"
+    },
+    "ES": {
+      "name": "Spagna"
+    },
+    "FI": {
+      "name": "Finlandia"
+    },
+    "FR": {
+      "name": "Francia",
+      "regions": {
+        "FR-20R": "Corsica",
+        "FR-ARA": "Auvergne-Rhône-Alpes",
+        "FR-BFC": "Bourgogne-Franche-Comté",
+        "FR-BRE": "Bretagna",
+        "FR-CVL": "Centre-Val de Loire",
+        "FR-GES": "Grand-Est",
+        "FR-HDF": "Hauts-de-France",
+        "FR-IDF": "Île-de-France",
+        "FR-NAQ": "Nuova Aquitania",
+        "FR-NOR": "Normandia",
+        "FR-OCC": "Occitania",
+        "FR-PAC": "Provence-Alpes-Côte-d’Azur",
+        "FR-PDL": "Pays-de-la-Loire"
+      }
+    },
+    "GB": {
+      "name": "Regno Unito"
+    },
+    "GR": {
+      "name": "Grecia"
+    },
+    "HR": {
+      "name": "Croazia"
+    },
+    "HU": {
+      "name": "Ungheria"
+    },
+    "IE": {
+      "name": "Irlanda"
+    },
+    "IL": {
+      "name": "Israele"
+    },
+    "IS": {
+      "name": "Islanda"
+    },
+    "IT": {
+      "name": "Italia"
+    },
+    "JP": {
+      "name": "Giappone"
+    },
+    "LT": {
+      "name": "Lituania"
+    },
+    "LU": {
+      "name": "Lussemburgo"
+    },
+    "MA": {
+      "name": "Marocco"
+    },
+    "ME": {
+      "name": "Montenegro"
+    },
+    "MK": {
+      "name": "Macedonia del Nord"
+    },
+    "MX": {
+      "name": "Messico"
+    },
+    "NA": {
+      "name": "Namibia"
+    },
+    "NL": {
+      "name": "Olanda"
+    },
+    "NO": {
+      "name": "Norvegia"
+    },
+    "NZ": {
+      "name": "Nuova Zelanda",
+      "regions": {
+        "NZ-N": "Isola del nord",
+        "NZ-S": "Isola del Sud"
+      }
+    },
+    "PL": {
+      "name": "Polonia"
+    },
+    "PT": {
+      "name": "Portogallo"
+    },
+    "RO": {
+      "name": "Romania"
+    },
+    "RS": {
+      "name": "Serbia"
+    },
+    "RU": {
+      "name": "Russia"
+    },
+    "SE": {
+      "name": "Svezia"
+    },
+    "SI": {
+      "name": "Slovenia"
+    },
+    "SK": {
+      "name": "Slovacchia"
+    },
+    "TR": {
+      "name": "Tacchino"
+    },
+    "UA": {
+      "name": "Ucraina"
+    },
+    "US": {
+      "name": "Stati Uniti",
+      "regions": {
+        "US-AK": "Alaska",
+        "US-AL": "Alabama",
+        "US-AR": "Arkansas",
+        "US-AZ": "Arizona",
+        "US-CA": "California",
+        "US-CO": "Colorado",
+        "US-CT": "Connecticut",
+        "US-DE": "Delaware",
+        "US-FL": "Florida",
+        "US-GA": "Georgia",
+        "US-HI": "Hawaii",
+        "US-IA": "Iowa",
+        "US-ID": "Idaho",
+        "US-IL": "Illinois",
+        "US-IN": "Indiana",
+        "US-KS": "Kansas",
+        "US-KY": "Kentucky",
+        "US-LA": "Louisiana",
+        "US-MA": "Massachusetts",
+        "US-MD": "Maryland",
+        "US-ME": "Maine",
+        "US-MI": "Michigan",
+        "US-MN": "Minnesota",
+        "US-MO": "Missouri",
+        "US-MS": "Mississippi",
+        "US-MT": "Montana",
+        "US-NC": "Carolina del Nord",
+        "US-ND": "Nord Dakota",
+        "US-NE": "Nebraska",
+        "US-NH": "New Hampshire",
+        "US-NJ": "New Jersey",
+        "US-NM": "Nuovo Messico",
+        "US-NV": "Nevada",
+        "US-NY": "New York",
+        "US-OH": "Ohio",
+        "US-OK": "Oklahoma",
+        "US-OR": "Oregon",
+        "US-PA": "Pennsylvania",
+        "US-RI": "Rhode Island",
+        "US-SC": "Carolina del Sud",
+        "US-SD": "Sud Dakota",
+        "US-TN": "Tennessee",
+        "US-TX": "Texas",
+        "US-UT": "Utah",
+        "US-VA": "Virginia",
+        "US-VT": "Vermont",
+        "US-WA": "Washington",
+        "US-WI": "Wisconsin",
+        "US-WV": "Virginia dell'ovest",
+        "US-WY": "Wyoming"
+      }
+    },
+    "ZA": {
+      "name": "Sud Africa"
+    }
+  },
+  "logIn": "Accedi",
+  "logOut": "Esci",
+  "loggerInformation": "Registro informazioni",
+  "loggers": "Logger",
+  "longitudeAbbrev": "Lon.",
+  "male": "Maschi",
+  "manufacturer": "Produttore",
+  "map": "Mappa",
+  "mapLayer": "Livello mappa",
+  "media": "Media",
+  "metric": "Metrico",
+  "mine": "Mio",
+  "month": "Mese",
+  "more": "Altro",
+  "moritzDescription": "Esploratore di nuovi mondi",
+  "mountains": "Montagne",
+  "myProfile": "Il mio profilo",
+  "name": "Nome",
+  "national": "Nazionale",
+  "navigation": "Navigare",
+  "newPassword": "Vecchia password",
+  "newTask": "Nuovi obiettivi",
+  "noAirspaceViolations": "Nessuno spazio aereo incrociato",
+  "noCompetitions": "Nessuna competizione",
+  "noFlightsMapYet": "Non ci sono ancora voli in questa sezione della mappa.",
+  "noFlightsYet": "Ancora nessun volo.",
+  "noNotifications": "Nessuna notifica.",
+  "noOneYet": "Nessuno ancora.",
+  "noSegments": "Nessun segmento in quest'area",
+  "noTaskDeclared": "Ancora nessun obbiettivo dichiarato",
+  "noTaskInFile": "Nessuna attività valida nel file trovata",
+  "noTasks": "Nessun obbiettivo, provvedi a selezionarne uno",
+  "noTrackingConnected": "Nessun tracciamento connesso.",
+  "notVerified": "Verifica prima la tua email",
+  "notifications": "Notifiche",
+  "now": "adesso",
+  "nsfwDescription": "Campionati Svizzeri",
+  "oldPassword": "Nuova password",
+  "open": "Aperto",
+  "openFlight": "Apri il volo",
+  "openInSeeYou": "Apri con SeeYou",
+  "other": "Altro",
+  "outReturnDescription": "WeGlide Ritorn Cup",
+  "out_return": "Ritorno",
+  "outlanding": "outlanding",
+  "outstart": "outstart",
+  "ownFlightCommented": "risposto al tuo commento.",
+  "pageNotFound": "Pagina non trovata.",
+  "paraglider": "Parapendio",
+  "partner": "Partner",
+  "password": "Password",
+  "payments": "Pagamenti",
+  "philosophy": "Filosofia",
+  "pickMeUp": "Torna indietro",
+  "pilot": "Pilota",
+  "pilots": "Piloti",
+  "pleaseReload": "Per favore ricarica la pagina.",
+  "points": "Punti",
+  "predictedFlightDistance": "Distanza di volo prevista",
+  "press": "Stampa",
+  "privacyPolicy": "Politica sulla Privacy",
+  "private": "Visibile solo a te",
+  "prize": "Premio",
+  "processing": "In elaborazione",
+  "profile": "Profilo",
+  "profileImageDragText": "Trascina qui la tua nuova immagine del profilo per caricarla o fai clic per selezionarla",
+  "profileImageDropText": "Rilascia la tua immagine del profilo per caricarla",
+  "publish": "Pubblicare",
+  "radio": "Radio",
+  "radius": "Raggio",
+  "rainRadar": "Radar pioggia",
+  "range": "Gamma",
+  "rank": "Rango",
+  "ranking": "Classifica",
+  "rankingFilterPlaceholder": "Regione, Club, Aeroporto",
   "rankingOptions": {
     "15": "15",
     "18": "18",
@@ -291,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "più spesso volato da {nome}",
-  "timesFlown": "volato"
+  "timesFlown": "volato",
+  "launch": "Lanciare",
+  "self": "Auto",
+  "tow": "Trainare",
+  "winch": "Verricello"
 }
