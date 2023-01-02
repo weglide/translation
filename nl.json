@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "meest gevlogen door {name}",
-  "timesFlown": "gevlogen"
+  "timesFlown": "gevlogen",
+  "launch": "Lancering",
+  "self": "Zelf",
+  "tow": "Slepen",
+  "winch": "Lier"
 }

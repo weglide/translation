@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "чаще всего летает {name}",
-  "timesFlown": "летал"
+  "timesFlown": "летал",
+  "launch": "Запуск",
+  "self": "Себя",
+  "tow": "Буксировка",
+  "winch": "лебедка"
 }

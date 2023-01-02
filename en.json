@@ -967,5 +967,9 @@
   "wingLoading": "wing loading",
   "plansHeadline": "Bring your flying skills to the next level",
   "timesFlown": "flown",
-  "mostFlownBy": "most often flown by {name} "
+  "mostFlownBy": "most often flown by {name} ",
+  "launch": "Launch",
+  "winch": "Winch",
+  "tow": "Tow",
+  "self": "Self"
 }

@@ -894,5 +894,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "ほとんどの場合、{name} によって飛行されました",
-  "timesFlown": "飛んだ"
+  "timesFlown": "飛んだ",
+  "launch": "発売",
+  "self": "自己",
+  "tow": "牽引",
+  "winch": "ウインチ"
 }

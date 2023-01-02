@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "useimmiten lentänyt {name}",
-  "timesFlown": "lentänyt"
+  "timesFlown": "lentänyt",
+  "launch": "Tuoda markkinoille",
+  "self": "Itse",
+  "tow": "Hinaus",
+  "winch": "Vinssi"
 }

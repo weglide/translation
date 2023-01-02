@@ -966,5 +966,9 @@
   "plansHeadline": "Amenez vos compétences de vol au niveau supérieur",
   "trialPeriodInfo": "14 jours, annulez à tout moment",
   "mostFlownBy": "le plus souvent piloté par {name}",
-  "timesFlown": "volé"
+  "timesFlown": "volé",
+  "launch": "Lancer",
+  "self": "Auto",
+  "tow": "Remorquer",
+  "winch": "Treuil"
 }

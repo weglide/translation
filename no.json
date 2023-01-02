@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "oftest fløyet av {name}",
-  "timesFlown": "fløyet"
+  "timesFlown": "fløyet",
+  "launch": "Lansering",
+  "self": "Selv",
+  "tow": "Slepe",
+  "winch": "Vinsj"
 }

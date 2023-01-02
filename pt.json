@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "voado com mais frequência por {name}",
-  "timesFlown": "voado"
+  "timesFlown": "voado",
+  "launch": "Lançar",
+  "self": "Auto",
+  "tow": "Rebocar",
+  "winch": "Guincho"
 }

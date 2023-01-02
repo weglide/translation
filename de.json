@@ -967,5 +967,9 @@
   "plansHeadline": "Bringe deine fliegerischen Fähigkeiten auf das nächste Level",
   "trialPeriodInfo": "14 Tage, jederzeit kündbar",
   "mostFlownBy": "am häufigsten geflogen von {name}",
-  "timesFlown": "geflogen"
+  "timesFlown": "geflogen",
+  "launch": "Start",
+  "self": "Eigen",
+  "tow": "Schleppen",
+  "winch": "Winde"
 }

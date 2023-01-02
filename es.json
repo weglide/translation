@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "volado con mayor frecuencia por {name}",
-  "timesFlown": "volado"
+  "timesFlown": "volado",
+  "launch": "Lanzar",
+  "self": "Auto",
+  "tow": "Remolcar",
+  "winch": "Cabrestante"
 }

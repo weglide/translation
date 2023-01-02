@@ -896,5 +896,9 @@
   },
   "plansHeadline": "",
   "mostFlownBy": "nejčastěji létá {name}",
-  "timesFlown": "létal"
+  "timesFlown": "létal",
+  "launch": "Zahájení",
+  "self": "Já",
+  "tow": "Vlek",
+  "winch": "Naviják"
 }
