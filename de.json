@@ -969,7 +969,7 @@
   "mostFlownBy": "am häufigsten geflogen von {name}",
   "timesFlown": "geflogen",
   "launch": "Start",
-  "self": "Eigen",
+  "self": "Eigenstart",
   "tow": "F-Schlepp",
   "winch": "Winde"
 }
