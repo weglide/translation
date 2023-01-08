@@ -898,7 +898,7 @@
   "mostFlownBy": "meest gevlogen door {name}",
   "timesFlown": "gevlogen",
   "launch": "Lancering",
-  "self": "Zelf",
+  "self": "Zelf-lancering",
   "tow": "Slepen",
   "winch": "Lier"
 }

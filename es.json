@@ -898,7 +898,7 @@
   "mostFlownBy": "volado con mayor frecuencia por {name}",
   "timesFlown": "volado",
   "launch": "Lanzar",
-  "self": "Auto",
+  "self": "Autolanzamiento",
   "tow": "Remolcar",
   "winch": "Cabrestante"
 }

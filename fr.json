@@ -968,7 +968,7 @@
   "mostFlownBy": "le plus souvent piloté par {name}",
   "timesFlown": "volé",
   "launch": "Lancer",
-  "self": "Auto",
+  "self": "Lancement automatique",
   "tow": "Remorquer",
   "winch": "Treuil"
 }
