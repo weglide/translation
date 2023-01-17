@@ -971,5 +971,6 @@
   "launch": "Start",
   "self": "Eigenstart",
   "tow": "F-Schlepp",
-  "winch": "Winde"
+  "winch": "Winde",
+  "sponsoredByWeGlide": "Gesponsert von WeGlide"
 }

@@ -971,5 +971,6 @@
   "launch": "Launch",
   "winch": "Winch",
   "tow": "Tow",
-  "self": "Self-Launch"
+  "self": "Self-Launch",
+  "sponsoredByWeGlide": "Sponsored by WeGlide"
 }

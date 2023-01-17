@@ -900,5 +900,6 @@
   "launch": "Запуск",
   "self": "Себя",
   "tow": "Буксировка",
-  "winch": "лебедка"
+  "winch": "лебедка",
+  "sponsoredByWeGlide": "При поддержке WeGlide"
 }
