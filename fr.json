@@ -910,7 +910,7 @@
     "3dFlightView": "Vue de vol 3D",
     "3dFlightViewCamera": "Contrôle total de la caméra",
     "3dFlightViewDescription": "Détendez-vous et vivez chaque vol en 3D.",
-    "3dFlightViewSpeed": "1x, 5x et 10x vitesse de lecture",
+    "3dFlightViewSpeed": "1x, 5x et 20x vitesse de lecture",
     "requestSponsorMaterial": "demander du matériel de parrainage",
     "hdSatelliteUpgrade": "Obtenez des cartes satellites HD"
   },
