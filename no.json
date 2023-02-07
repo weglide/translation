@@ -901,5 +901,13 @@
   "self": "Selv",
   "tow": "Slepe",
   "winch": "Vinsj",
-  "sponsoredByWeGlide": "Sponset av WeGlide"
+  "sponsoredByWeGlide": "Sponset av WeGlide",
+  "earlier": "Tidligere",
+  "later": "Seinere",
+  "today": "I dag",
+  "yesterday": "I går",
+  "lastWeekend": "Forrige helg",
+  "thisMonth": "Denne måneden",
+  "thisSeason": "Denne sesongen",
+  "thisWeek": "Denne uka"
 }

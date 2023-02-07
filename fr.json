@@ -971,5 +971,13 @@
   "self": "Lancement automatique",
   "tow": "Remorquer",
   "winch": "Treuil",
-  "sponsoredByWeGlide": "Sponsorisé par WeGlide"
+  "sponsoredByWeGlide": "Sponsorisé par WeGlide",
+  "earlier": "Plus tôt",
+  "later": "Plus tard",
+  "today": "Aujourd'hui",
+  "yesterday": "Hier",
+  "lastWeekend": "Le weekend dernier",
+  "thisMonth": "Ce mois-ci",
+  "thisSeason": "Cette saison",
+  "thisWeek": "Cette semaine"
 }

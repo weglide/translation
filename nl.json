@@ -901,5 +901,13 @@
   "self": "Zelf-lancering",
   "tow": "Slepen",
   "winch": "Lier",
-  "sponsoredByWeGlide": "Gesponsord door WeGlide"
+  "sponsoredByWeGlide": "Gesponsord door WeGlide",
+  "earlier": "Eerder",
+  "later": "Later",
+  "today": "Vandaag",
+  "yesterday": "Gisteren",
+  "lastWeekend": "Vorig weekend",
+  "thisMonth": "Deze maand",
+  "thisSeason": "Dit seizoen",
+  "thisWeek": "Deze week"
 }

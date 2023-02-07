@@ -972,5 +972,13 @@
   "self": "Eigenstart",
   "tow": "F-Schlepp",
   "winch": "Winde",
-  "sponsoredByWeGlide": "Gesponsert von WeGlide"
+  "sponsoredByWeGlide": "Gesponsert von WeGlide",
+  "earlier": "Früher",
+  "later": "Später",
+  "today": "Heute",
+  "yesterday": "Gestern",
+  "lastWeekend": "Vergangenes Wochenende",
+  "thisMonth": "Diesen Monat",
+  "thisSeason": "Diese Saison",
+  "thisWeek": "Diese Woche"
 }

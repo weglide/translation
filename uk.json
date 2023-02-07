@@ -901,5 +901,13 @@
   "self": "себе",
   "tow": "буксирування",
   "winch": "Лебідка",
-  "sponsoredByWeGlide": "Спонсор WeGlide"
+  "sponsoredByWeGlide": "Спонсор WeGlide",
+  "earlier": "Раніше",
+  "later": "Пізніше",
+  "today": "Сьогодні",
+  "yesterday": "вчора",
+  "lastWeekend": "Минулі вихідні",
+  "thisMonth": "Цього місяця",
+  "thisSeason": "Цей сезон",
+  "thisWeek": "Цього тижня"
 }

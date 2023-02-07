@@ -901,5 +901,13 @@
   "self": "Autolanzamiento",
   "tow": "Remolcar",
   "winch": "Cabrestante",
-  "sponsoredByWeGlide": "Patrocinado por WeGlide"
+  "sponsoredByWeGlide": "Patrocinado por WeGlide",
+  "earlier": "Más temprano",
+  "later": "Más tarde",
+  "today": "Hoy",
+  "yesterday": "Ayer",
+  "lastWeekend": "Fin de semana pasado",
+  "thisMonth": "Este mes",
+  "thisSeason": "Esta temporada",
+  "thisWeek": "Esta semana"
 }

@@ -901,5 +901,13 @@
   "self": "Savarankiškai",
   "tow": "Vilkimas",
   "winch": "Gervė",
-  "sponsoredByWeGlide": "Rėmėja WeGlide"
+  "sponsoredByWeGlide": "Rėmėja WeGlide",
+  "earlier": "Anksčiau",
+  "later": "Vėliau",
+  "today": "Šiandien",
+  "yesterday": "vakar",
+  "lastWeekend": "Praėjusį savaitgalį",
+  "thisMonth": "Šį mėnesį",
+  "thisSeason": "Šis sezonas",
+  "thisWeek": "Šią savaitę"
 }

@@ -972,5 +972,13 @@
   "winch": "Winch",
   "tow": "Tow",
   "self": "Self-Launch",
-  "sponsoredByWeGlide": "Sponsored by WeGlide"
+  "sponsoredByWeGlide": "Sponsored by WeGlide",
+  "earlier": "Earlier",
+  "later": "Later",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "lastWeekend": "Last weekend",
+  "thisWeek": "This week",
+  "thisMonth": "This month",
+  "thisSeason": "This season"
 }

@@ -901,5 +901,13 @@
   "self": "Auto-lancio",
   "tow": "Trainare",
   "winch": "Verricello",
-  "sponsoredByWeGlide": "Sponsorizzato da WeGlide"
+  "sponsoredByWeGlide": "Sponsorizzato da WeGlide",
+  "earlier": "Prima",
+  "later": "Dopo",
+  "today": "Oggi",
+  "yesterday": "Ieri",
+  "lastWeekend": "Lo scorso fine settimana",
+  "thisMonth": "Questo mese",
+  "thisSeason": "Questa stagione",
+  "thisWeek": "Questa settimana"
 }

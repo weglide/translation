@@ -901,5 +901,13 @@
   "self": "Auto",
   "tow": "Rebocar",
   "winch": "Guincho",
-  "sponsoredByWeGlide": "Patrocinado por WeGlide"
+  "sponsoredByWeGlide": "Patrocinado por WeGlide",
+  "earlier": "Mais cedo",
+  "later": "Mais tarde",
+  "today": "Hoje",
+  "yesterday": "Ontem",
+  "lastWeekend": "Fim-de-semana passado",
+  "thisMonth": "Este mês",
+  "thisSeason": "Esta estação",
+  "thisWeek": "Essa semana"
 }

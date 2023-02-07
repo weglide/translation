@@ -901,5 +901,13 @@
   "self": "Itse",
   "tow": "Hinaus",
   "winch": "Vinssi",
-  "sponsoredByWeGlide": "WeGlide sponsoroima"
+  "sponsoredByWeGlide": "WeGlide sponsoroima",
+  "earlier": "Aikaisemmin",
+  "later": "Myöhemmin",
+  "today": "Tänään",
+  "yesterday": "Eilen",
+  "lastWeekend": "Viime viikonloppu",
+  "thisMonth": "Tässä kuussa",
+  "thisSeason": "Tällä kaudella",
+  "thisWeek": "Tämä viikko"
 }

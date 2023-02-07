@@ -901,5 +901,13 @@
   "self": "Себя",
   "tow": "Буксировка",
   "winch": "лебедка",
-  "sponsoredByWeGlide": "При поддержке WeGlide"
+  "sponsoredByWeGlide": "При поддержке WeGlide",
+  "earlier": "Ранее",
+  "later": "Позже",
+  "today": "Сегодня",
+  "yesterday": "Вчера",
+  "lastWeekend": "В минувшие выходные",
+  "thisMonth": "Этот месяц",
+  "thisSeason": "Этот сезон",
+  "thisWeek": "На этой неделе"
 }

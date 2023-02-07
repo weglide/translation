@@ -901,5 +901,13 @@
   "self": "Samospuštění",
   "tow": "Vlek",
   "winch": "Naviják",
-  "sponsoredByWeGlide": "Sponzorováno WeGlide"
+  "sponsoredByWeGlide": "Sponzorováno WeGlide",
+  "earlier": "Dříve",
+  "later": "Později",
+  "today": "Dnes",
+  "yesterday": "Včera",
+  "lastWeekend": "Minulý víkend",
+  "thisMonth": "Tento měsíc",
+  "thisSeason": "Tuto sezónu",
+  "thisWeek": "Tento týden"
 }

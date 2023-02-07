@@ -901,5 +901,13 @@
   "self": "Samego siebie",
   "tow": "Holowniczy",
   "winch": "Wciągarka",
-  "sponsoredByWeGlide": "Sponsorowane przez WeGlide"
+  "sponsoredByWeGlide": "Sponsorowane przez WeGlide",
+  "earlier": "Wcześniej",
+  "later": "Później",
+  "today": "Dzisiaj",
+  "yesterday": "Wczoraj",
+  "lastWeekend": "Ostatni weekend",
+  "thisMonth": "Ten miesiąc",
+  "thisSeason": "Ten sezon",
+  "thisWeek": "W tym tygodniu"
 }
