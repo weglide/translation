@@ -909,5 +909,8 @@
   "lastWeekend": "В минувшие выходные",
   "thisMonth": "Этот месяц",
   "thisSeason": "Этот сезон",
-  "thisWeek": "На этой неделе"
+  "thisWeek": "На этой неделе",
+  "apply": "Применять",
+  "noPropulsion": "Нет движения",
+  "propulsion": "Движение"
 }

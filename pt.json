@@ -909,5 +909,8 @@
   "lastWeekend": "Fim-de-semana passado",
   "thisMonth": "Este mês",
   "thisSeason": "Esta estação",
-  "thisWeek": "Essa semana"
+  "thisWeek": "Essa semana",
+  "apply": "Aplicar",
+  "noPropulsion": "sem propulsão",
+  "propulsion": "Propulsão"
 }

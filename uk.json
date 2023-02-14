@@ -909,5 +909,8 @@
   "lastWeekend": "Минулі вихідні",
   "thisMonth": "Цього місяця",
   "thisSeason": "Цей сезон",
-  "thisWeek": "Цього тижня"
+  "thisWeek": "Цього тижня",
+  "apply": "Застосувати",
+  "noPropulsion": "Без руху",
+  "propulsion": "Привід"
 }

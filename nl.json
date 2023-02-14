@@ -909,5 +909,8 @@
   "lastWeekend": "Vorig weekend",
   "thisMonth": "Deze maand",
   "thisSeason": "Dit seizoen",
-  "thisWeek": "Deze week"
+  "thisWeek": "Deze week",
+  "apply": "Toepassen",
+  "noPropulsion": "Geen voortstuwing",
+  "propulsion": "Voortstuwing"
 }

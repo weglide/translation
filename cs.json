@@ -909,5 +909,8 @@
   "lastWeekend": "Minulý víkend",
   "thisMonth": "Tento měsíc",
   "thisSeason": "Tuto sezónu",
-  "thisWeek": "Tento týden"
+  "thisWeek": "Tento týden",
+  "apply": "Aplikovat",
+  "noPropulsion": "Žádný pohon",
+  "propulsion": "Pohon"
 }

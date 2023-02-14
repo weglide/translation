@@ -980,5 +980,8 @@
   "lastWeekend": "Vergangenes Wochenende",
   "thisMonth": "Diesen Monat",
   "thisSeason": "Diese Saison",
-  "thisWeek": "Diese Woche"
+  "thisWeek": "Diese Woche",
+  "apply": "Anwenden",
+  "noPropulsion": "Kein Antrieb",
+  "propulsion": "Antrieb"
 }

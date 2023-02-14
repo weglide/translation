@@ -907,5 +907,8 @@
   "lastWeekend": "先週",
   "thisMonth": "今月",
   "thisSeason": "今シーズン",
-  "thisWeek": "今週"
+  "thisWeek": "今週",
+  "apply": "申し込み",
+  "noPropulsion": "推進力なし",
+  "propulsion": "推進"
 }

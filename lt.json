@@ -909,5 +909,8 @@
   "lastWeekend": "Praėjusį savaitgalį",
   "thisMonth": "Šį mėnesį",
   "thisSeason": "Šis sezonas",
-  "thisWeek": "Šią savaitę"
+  "thisWeek": "Šią savaitę",
+  "apply": "Taikyti",
+  "noPropulsion": "Nėra varomosios jėgos",
+  "propulsion": "Varomoji jėga"
 }

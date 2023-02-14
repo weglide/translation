@@ -980,5 +980,8 @@
   "lastWeekend": "Last weekend",
   "thisWeek": "This week",
   "thisMonth": "This month",
-  "thisSeason": "This season"
+  "thisSeason": "This season",
+  "apply": "Apply",
+  "propulsion": "Propulsion",
+  "noPropulsion": "No Propulsion"
 }

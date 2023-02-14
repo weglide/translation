@@ -909,5 +909,8 @@
   "lastWeekend": "Forrige helg",
   "thisMonth": "Denne måneden",
   "thisSeason": "Denne sesongen",
-  "thisWeek": "Denne uka"
+  "thisWeek": "Denne uka",
+  "apply": "Søke om",
+  "noPropulsion": "Ingen fremdrift",
+  "propulsion": "Fremdrift"
 }

@@ -909,5 +909,8 @@
   "lastWeekend": "Viime viikonloppu",
   "thisMonth": "Tässä kuussa",
   "thisSeason": "Tällä kaudella",
-  "thisWeek": "Tämä viikko"
+  "thisWeek": "Tämä viikko",
+  "apply": "Käytä",
+  "noPropulsion": "Ei propulsiota",
+  "propulsion": "Propulsio"
 }

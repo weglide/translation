@@ -909,5 +909,8 @@
   "lastWeekend": "Ostatni weekend",
   "thisMonth": "Ten miesiąc",
   "thisSeason": "Ten sezon",
-  "thisWeek": "W tym tygodniu"
+  "thisWeek": "W tym tygodniu",
+  "apply": "Stosować",
+  "noPropulsion": "Brak napędu",
+  "propulsion": "Napęd"
 }
