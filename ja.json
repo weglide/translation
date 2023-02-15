@@ -910,5 +910,7 @@
   "thisWeek": "今週",
   "apply": "申し込み",
   "noPropulsion": "推進力なし",
-  "propulsion": "推進"
+  "propulsion": "推進",
+  "circumnavigation": "周航",
+  "internationalAirport": "国際空港"
 }

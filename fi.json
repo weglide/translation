@@ -912,5 +912,7 @@
   "thisWeek": "Tämä viikko",
   "apply": "Käytä",
   "noPropulsion": "Ei propulsiota",
-  "propulsion": "Propulsio"
+  "propulsion": "Propulsio",
+  "circumnavigation": "Kiertopurjehdus",
+  "internationalAirport": "Kansainvälinen lentokenttä"
 }

@@ -930,7 +930,6 @@
   "centerMap": "Karte zentrieren",
   "competitionNotAvailable": "Wettbewerb pausiert oder beendet.",
   "tryPremium": "Teste Premium kostenlos",
-  "becomeBetter": "Für alle, die besser werden wollen",
   "learnMoreAboutPossibilities": "Erfahre mehr über die Möglichkeiten",
   "userGroup": "Nutzergruppe",
   "taskDeclarationWarning": "Dadurch werden alle Deklarationen in deinem Logger und auf WeGlide überschrieben.",
@@ -983,5 +982,7 @@
   "thisWeek": "Diese Woche",
   "apply": "Anwenden",
   "noPropulsion": "Kein Antrieb",
-  "propulsion": "Antrieb"
+  "propulsion": "Antrieb",
+  "circumnavigation": "Umrundung",
+  "internationalAirport": "Internationaler Flughafen"
 }

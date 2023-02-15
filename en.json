@@ -932,7 +932,6 @@
   "centerMap": "Center map",
   "competitionNotAvailable": "Competition paused or finished.",
   "tryPremium": "Try Premium for free",
-  "becomeBetter": "For everyone who wants to get better",
   "learnMoreAboutPossibilities": "Learn more about the possibilities",
   "userGroup": "User group",
   "taskDeclarationWarning": "This will overwrite all declarations in your logger and on WeGlide.",
@@ -983,5 +982,7 @@
   "thisSeason": "This season",
   "apply": "Apply",
   "propulsion": "Propulsion",
-  "noPropulsion": "No Propulsion"
+  "noPropulsion": "No Propulsion",
+  "circumnavigation": "Circumnavigation",
+  "internationalAirport": "International Airport"
 }

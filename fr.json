@@ -930,7 +930,6 @@
   "centerMap": "Centrer la carte",
   "competitionNotAvailable": "Compétition interrompue ou terminée.",
   "tryPremium": "Essayez Premium gratuitement",
-  "becomeBetter": "Pour tous ceux qui veulent s'améliorer",
   "learnMoreAboutPossibilities": "En savoir plus au sujet des possibilités",
   "userGroup": "Groupe d'utilisateurs",
   "taskDeclarationWarning": "Cela écrasera toutes les déclarations dans votre enregistreur et sur WeGlide.",
@@ -982,5 +981,7 @@
   "thisWeek": "Cette semaine",
   "apply": "Appliquer",
   "noPropulsion": "Pas de motorisation",
-  "propulsion": "Propulsion"
+  "propulsion": "Propulsion",
+  "circumnavigation": "Circonnavigation",
+  "internationalAirport": "Aéroport international"
 }
