@@ -892,5 +892,7 @@
   "internationalAirport": "Kansainvälinen lentokenttä",
   "registrationOptional": "Ilmoittautuminen (valinnainen)",
   "registration": "Ilmoittautuminen",
-  "gallery": "Galleria"
+  "gallery": "Galleria",
+  "pictures": "Kuvia",
+  "teamFlight": "Joukkueen lento"
 }

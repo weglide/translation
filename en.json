@@ -958,5 +958,7 @@
   "internationalAirport": "International Airport",
   "registrationOptional": "Registration (optional)",
   "registration": "Registration",
-  "gallery": "Gallery"
+  "gallery": "Gallery",
+  "teamFlight": "Team flight",
+  "pictures": "Pictures"
 }
