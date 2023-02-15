@@ -618,7 +618,6 @@
   "recoverPassword": "Восстановить пароль",
   "rectangle": "Прямоугольник",
   "region": "Область",
-  "registration": "Регистрация (необязательно)",
   "registrationFormat": "Для регистрации разрешены только заглавные буквы, цифры и «-».",
   "reign": "Царствовать",
   "remove": "Удалять",
@@ -890,5 +889,7 @@
   "noPropulsion": "Нет движения",
   "propulsion": "Движение",
   "circumnavigation": "Кругосветное плавание",
-  "internationalAirport": "Международный аэропорт"
+  "internationalAirport": "Международный аэропорт",
+  "registrationOptional": "Регистрация (необязательно)",
+  "registration": "Регистрация"
 }

@@ -618,7 +618,6 @@
   "recoverPassword": "Passwort Wiederherstellen",
   "rectangle": "Viereck",
   "region": "Region",
-  "registration": "Registrierung (optional)",
   "registrationFormat": "Nur Großbuchstaben, Ziffern und '-' sind die Registrierung erlaubt.",
   "reign": "Einflussgebiet",
   "remove": "Entfernen",
@@ -956,5 +955,7 @@
   "noPropulsion": "Kein Antrieb",
   "propulsion": "Antrieb",
   "circumnavigation": "Umrundung",
-  "internationalAirport": "Internationaler Flughafen"
+  "internationalAirport": "Internationaler Flughafen",
+  "registrationOptional": "Registrierung (optional)",
+  "registration": "Registrierung"
 }

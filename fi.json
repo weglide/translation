@@ -618,7 +618,6 @@
   "recoverPassword": "Palauta salasana",
   "rectangle": "Suorakulmio",
   "region": "Alue",
-  "registration": "Ilmoittautuminen (valinnainen)",
   "registrationFormat": "Vain isot kirjaimet, numerot ja '-' ovat sallittuja rekisteröinnissä.",
   "reign": "Hallitus",
   "remove": "Poista",
@@ -890,5 +889,7 @@
   "noPropulsion": "Ei propulsiota",
   "propulsion": "Propulsio",
   "circumnavigation": "Kiertopurjehdus",
-  "internationalAirport": "Kansainvälinen lentokenttä"
+  "internationalAirport": "Kansainvälinen lentokenttä",
+  "registrationOptional": "Ilmoittautuminen (valinnainen)",
+  "registration": "Ilmoittautuminen"
 }

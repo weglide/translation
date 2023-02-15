@@ -618,7 +618,6 @@
   "recoverPassword": "Recuperar contraseña",
   "rectangle": "Rectángulo",
   "region": "Región",
-  "registration": "Registro (opcional)",
   "registrationFormat": "Solo se permiten letras mayúsculas, números y '-' para el registro.",
   "reign": "Área de influencia",
   "remove": "Eliminar",
@@ -890,5 +889,7 @@
   "noPropulsion": "sin propulsión",
   "propulsion": "Propulsión",
   "circumnavigation": "Circunnavegación",
-  "internationalAirport": "Aeropuerto Internacional"
+  "internationalAirport": "Aeropuerto Internacional",
+  "registrationOptional": "Registro (opcional)",
+  "registration": "Registro"
 }

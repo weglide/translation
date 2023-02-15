@@ -618,7 +618,6 @@
   "recoverPassword": "Відновити пароль",
   "rectangle": "Прямокутник",
   "region": "Регіон",
-  "registration": "Реєстрація (опціонально)",
   "registrationFormat": "Дозволено лише великі літери, цифри та '-'",
   "reign": "Зона впливу",
   "remove": "Видалити",
@@ -890,5 +889,7 @@
   "noPropulsion": "Без руху",
   "propulsion": "Привід",
   "circumnavigation": "Навколосвітнє плавання",
-  "internationalAirport": "Міжнародний аеропорт"
+  "internationalAirport": "Міжнародний аеропорт",
+  "registrationOptional": "Реєстрація (опціонально)",
+  "registration": "Реєстрація"
 }

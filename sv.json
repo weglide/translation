@@ -618,7 +618,6 @@
   "recoverPassword": "Återställa lösenord",
   "rectangle": "Rektangel",
   "region": "Område",
-  "registration": "Registrering (valfritt)",
   "registrationFormat": "Endast versaler, siffror och \"-\" är tillåtna för registrering.",
   "reign": "Regera",
   "remove": "Avlägsna",
@@ -890,5 +889,7 @@
   "noPropulsion": "Ingen framdrivning",
   "propulsion": "Framdrivning",
   "circumnavigation": "Circumnavigation",
-  "internationalAirport": "Internationell flygplats"
+  "internationalAirport": "Internationell flygplats",
+  "registrationOptional": "Registrering (valfritt)",
+  "registration": "Registrering"
 }

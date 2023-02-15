@@ -618,7 +618,6 @@
   "recoverPassword": "Récupérer mon mot de passe",
   "rectangle": "Rectangle",
   "region": "Région",
-  "registration": "Immatriculation (optionnel)",
   "registrationFormat": "Seuls les lettres majuscules, les chiffres et '-' sont permis pour l'immatriculation.",
   "reign": "Zone d'influence",
   "remove": "Supprimer",
@@ -955,5 +954,7 @@
   "noPropulsion": "Pas de motorisation",
   "propulsion": "Propulsion",
   "circumnavigation": "Circonnavigation",
-  "internationalAirport": "Aéroport international"
+  "internationalAirport": "Aéroport international",
+  "registrationOptional": "Immatriculation (optionnel)",
+  "registration": "Immatriculation"
 }

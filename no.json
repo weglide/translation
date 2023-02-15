@@ -618,7 +618,6 @@
   "recoverPassword": "Gjenopprett passord",
   "rectangle": "Rektangel",
   "region": "Region",
-  "registration": "Registrering (valgfritt)",
   "registrationFormat": "Kun store bokstaver, tall og '-' er tillatt for registrering.",
   "reign": "Regjere",
   "remove": "Fjerne",
@@ -890,5 +889,7 @@
   "noPropulsion": "Ingen fremdrift",
   "propulsion": "Fremdrift",
   "circumnavigation": "Jordomseiling",
-  "internationalAirport": "Internasjonal flyplass"
+  "internationalAirport": "Internasjonal flyplass",
+  "registrationOptional": "Registrering (valgfritt)",
+  "registration": "Registrering"
 }

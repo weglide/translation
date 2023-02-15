@@ -618,7 +618,6 @@
   "recoverPassword": "Recuperar senha",
   "rectangle": "Retângulo",
   "region": "Região",
-  "registration": "Cadastro (opcional)",
   "registrationFormat": "Somente letras maiúsculas, números e '-' são permitidos para registro.",
   "reign": "Reinado",
   "remove": "Remover",
@@ -890,5 +889,7 @@
   "noPropulsion": "sem propulsão",
   "propulsion": "Propulsão",
   "circumnavigation": "Circunavegação",
-  "internationalAirport": "Aeroporto Internacional"
+  "internationalAirport": "Aeroporto Internacional",
+  "registrationOptional": "Cadastro (opcional)",
+  "registration": "Cadastro"
 }

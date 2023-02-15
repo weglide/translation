@@ -618,7 +618,6 @@
   "recoverPassword": "Vytvořit nové heslo",
   "rectangle": "Obdelník",
   "region": "Region",
-  "registration": "Registrace (opce)",
   "registrationFormat": "V registraci jsou povoleny pouze velká písmena, čísla a '-'",
   "reign": "Oblast využití",
   "remove": "Odstranit",
@@ -890,5 +889,7 @@
   "noPropulsion": "Žádný pohon",
   "propulsion": "Pohon",
   "circumnavigation": "Obeplutí",
-  "internationalAirport": "Mezinárodní letiště"
+  "internationalAirport": "Mezinárodní letiště",
+  "registrationOptional": "Registrace (opce)",
+  "registration": "Registrace"
 }

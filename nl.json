@@ -618,7 +618,6 @@
   "recoverPassword": "Wachtwoord herstellen",
   "rectangle": "Vierhoek",
   "region": "Regio",
-  "registration": "Registreren (niet verplicht)",
   "registrationFormat": "Alleen hoofdletters, nummers en '-' zijn toegestaan voor registratie.",
   "reign": "Invloedgebied",
   "remove": "Verwijderen",
@@ -890,5 +889,7 @@
   "noPropulsion": "Geen voortstuwing",
   "propulsion": "Voortstuwing",
   "circumnavigation": "Omvaart",
-  "internationalAirport": "Internationaal vliegveld"
+  "internationalAirport": "Internationaal vliegveld",
+  "registrationOptional": "Registreren (niet verplicht)",
+  "registration": "Registreren"
 }

@@ -618,7 +618,6 @@
   "recoverPassword": "Atstatyti slaptažodį",
   "rectangle": "Stačiakampis",
   "region": "Regionas",
-  "registration": "Registracija (neprivaloma)",
   "registrationFormat": "Registruojant leidžiama tik didžiosiomis raidėmis, skaičiais ir „-“.",
   "reign": "Karaliauti",
   "remove": "Pašalinti",
@@ -890,5 +889,7 @@
   "noPropulsion": "Nėra varomosios jėgos",
   "propulsion": "Varomoji jėga",
   "circumnavigation": "Aplinkplaukimas",
-  "internationalAirport": "Tarptautinis oro uostas"
+  "internationalAirport": "Tarptautinis oro uostas",
+  "registrationOptional": "Registracija (neprivaloma)",
+  "registration": "Registracija"
 }
