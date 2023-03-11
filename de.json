@@ -961,5 +961,12 @@
   "gallery": "Galerie",
   "pictures": "Bilder",
   "teamFlight": "Teamflug",
-  "followsYou": "folgt dir jetzt."
+  "followsYou": "folgt dir jetzt.",
+  "installation": {
+    "addToHomeScreen": "Zum Home-Bildschirm",
+    "androidHeadline": "Android App Installieren",
+    "install": "Installieren",
+    "iosHeadline": "iOS App Installieren",
+    "tap": "Antippen"
+  }
 }

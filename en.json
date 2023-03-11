@@ -961,5 +961,12 @@
   "gallery": "Gallery",
   "teamFlight": "Team flight",
   "pictures": "Pictures",
-  "followsYou": "follows you now."
+  "followsYou": "follows you now.",
+  "installation": {
+    "iosHeadline": "Install iOS App",
+    "androidHeadline": "Install Android App",
+    "tap": "Tap",
+    "addToHomeScreen": "Add to Home Screen",
+    "install": "Install"
+  }
 }

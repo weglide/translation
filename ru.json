@@ -895,5 +895,12 @@
   "gallery": "Галерея",
   "pictures": "Картинки",
   "teamFlight": "Командный полет",
-  "followsYou": "следует за вами сейчас."
+  "followsYou": "следует за вами сейчас.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Установить Android-приложение",
+    "install": "Установить",
+    "iosHeadline": "Установить iOS-приложение",
+    "tap": "Выбирать"
+  }
 }

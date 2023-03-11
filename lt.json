@@ -895,5 +895,12 @@
   "gallery": "Galerija",
   "pictures": "Paveikslėliai",
   "teamFlight": "Komandinis skrydis",
-  "followsYou": "seka tave dabar."
+  "followsYou": "seka tave dabar.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Įdiekite „Android“ programą",
+    "install": "Diegti",
+    "iosHeadline": "Įdiekite „iOS“ programą",
+    "tap": "Pasirinkite"
+  }
 }

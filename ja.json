@@ -893,5 +893,12 @@
   "gallery": "ギャラリー",
   "pictures": "ピクチャー",
   "teamFlight": "チームフライト",
-  "followsYou": "今あなたに従います。"
+  "followsYou": "今あなたに従います。",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Android アプリをインストールする",
+    "install": "インストール",
+    "iosHeadline": "iOS アプリをインストールする",
+    "tap": "選択する"
+  }
 }

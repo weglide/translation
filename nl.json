@@ -895,5 +895,12 @@
   "gallery": "Galerij",
   "pictures": "Afbeeldingen",
   "teamFlight": "Team vlucht",
-  "followsYou": "volgt je nu."
+  "followsYou": "volgt je nu.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Android-app installeren",
+    "install": "Installeren",
+    "iosHeadline": "Installeer de iOS-app",
+    "tap": "Selecteer"
+  }
 }

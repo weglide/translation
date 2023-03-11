@@ -895,5 +895,12 @@
   "gallery": "Галерея",
   "pictures": "Картинки",
   "teamFlight": "Командний політ",
-  "followsYou": "стежить за вами зараз."
+  "followsYou": "стежить за вами зараз.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Встановіть додаток для Android",
+    "install": "встановити",
+    "iosHeadline": "Встановіть додаток для iOS",
+    "tap": "Виберіть"
+  }
 }

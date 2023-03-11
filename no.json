@@ -895,5 +895,12 @@
   "gallery": "Galleri",
   "pictures": "Bilder",
   "teamFlight": "Teamflukt",
-  "followsYou": "følger deg nå."
+  "followsYou": "følger deg nå.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Installer Android-appen",
+    "install": "Installere",
+    "iosHeadline": "Installer iOS-appen",
+    "tap": "Plukke ut"
+  }
 }

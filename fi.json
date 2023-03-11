@@ -895,5 +895,12 @@
   "gallery": "Galleria",
   "pictures": "Kuvia",
   "teamFlight": "Joukkueen lento",
-  "followsYou": "seuraa sinua nyt."
+  "followsYou": "seuraa sinua nyt.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Asenna Android-sovellus",
+    "install": "Asentaa",
+    "iosHeadline": "Asenna iOS-sovellus",
+    "tap": "Valitse"
+  }
 }

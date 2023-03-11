@@ -895,5 +895,12 @@
   "gallery": "Galerie",
   "pictures": "obrázky",
   "teamFlight": "Týmový let",
-  "followsYou": "teď tě sleduje."
+  "followsYou": "teď tě sleduje.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Nainstalujte aplikaci pro Android",
+    "install": "Nainstalujte",
+    "iosHeadline": "Nainstalujte aplikaci pro iOS",
+    "tap": "Vybrat"
+  }
 }

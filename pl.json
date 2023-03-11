@@ -895,5 +895,12 @@
   "gallery": "Galeria",
   "pictures": "Kino",
   "teamFlight": "Lot drużynowy",
-  "followsYou": "podąża za tobą teraz."
+  "followsYou": "podąża za tobą teraz.",
+  "installation": {
+    "addToHomeScreen": "",
+    "androidHeadline": "Zainstaluj aplikację na Androida",
+    "install": "zainstalować",
+    "iosHeadline": "Zainstaluj aplikację na iOS",
+    "tap": "Wybierać"
+  }
 }

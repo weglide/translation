@@ -960,5 +960,12 @@
   "gallery": "Galerie",
   "pictures": "Des photos",
   "teamFlight": "Vol en équipe",
-  "followsYou": "vous suit maintenant."
+  "followsYou": "vous suit maintenant.",
+  "installation": {
+    "addToHomeScreen": "Sur l'écran d'accueil",
+    "androidHeadline": "Installer l'application Android",
+    "install": "Installer",
+    "iosHeadline": "Installer l'application iOS",
+    "tap": "Sélectionner"
+  }
 }
