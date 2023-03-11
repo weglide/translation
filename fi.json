@@ -902,5 +902,11 @@
     "install": "Asentaa",
     "iosHeadline": "Asenna iOS-sovellus",
     "tap": "Valitse"
-  }
+  },
+  "enablePushNotifications": "Ota Push-ilmoitukset käyttöön",
+  "flightsFromFriends": "Lennot ystäviltä",
+  "magazineArticles": "Lehden artikkelit",
+  "newComments": "Uusia kommentteja",
+  "newFollowers": "Uusia seuraajia",
+  "pushNotifications": "Push-ilmoitukset:"
 }

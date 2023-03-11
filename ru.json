@@ -902,5 +902,11 @@
     "install": "Установить",
     "iosHeadline": "Установить iOS-приложение",
     "tap": "Выбирать"
-  }
+  },
+  "enablePushNotifications": "Включить push-уведомления",
+  "flightsFromFriends": "Рейсы от друзей",
+  "magazineArticles": "Журнальные статьи",
+  "newComments": "Новые комментарии",
+  "newFollowers": "Новые подписчики",
+  "pushNotifications": "Всплывающее уведомление:"
 }

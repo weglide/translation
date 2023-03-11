@@ -902,5 +902,11 @@
     "install": "Diegti",
     "iosHeadline": "Įdiekite „iOS“ programą",
     "tap": "Pasirinkite"
-  }
+  },
+  "enablePushNotifications": "Įgalinti tiesioginius pranešimus",
+  "flightsFromFriends": "Skrydžiai iš draugų",
+  "magazineArticles": "Žurnalų straipsniai",
+  "newComments": "Nauji komentarai",
+  "newFollowers": "Nauji sekėjai",
+  "pushNotifications": "Push pranešimai:"
 }

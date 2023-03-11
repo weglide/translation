@@ -902,5 +902,11 @@
     "install": "zainstalować",
     "iosHeadline": "Zainstaluj aplikację na iOS",
     "tap": "Wybierać"
-  }
+  },
+  "enablePushNotifications": "Włącz powiadomienia push",
+  "flightsFromFriends": "Loty od znajomych",
+  "magazineArticles": "Artykuły z czasopism",
+  "newComments": "Nowe komentarze",
+  "newFollowers": "Nowi obserwujący",
+  "pushNotifications": "Powiadomienia push:"
 }

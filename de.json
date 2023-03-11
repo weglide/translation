@@ -968,5 +968,11 @@
     "install": "Installieren",
     "iosHeadline": "iOS App Installieren",
     "tap": "Antippen"
-  }
+  },
+  "enablePushNotifications": "Aktiviere Push-Benachrichtigungen",
+  "flightsFromFriends": "Flüge von Freunden",
+  "magazineArticles": "Magazinartikel",
+  "newComments": "Neue Kommentare",
+  "newFollowers": "Neue Follower",
+  "pushNotifications": "Push-Benachrichtigungen:"
 }

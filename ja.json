@@ -900,5 +900,11 @@
     "install": "インストール",
     "iosHeadline": "iOS アプリをインストールする",
     "tap": "選択する"
-  }
+  },
+  "enablePushNotifications": "プッシュ通知を有効にする",
+  "flightsFromFriends": "友達からのフライト",
+  "magazineArticles": "雑誌記事",
+  "newComments": "新しいコメント",
+  "newFollowers": "新しいフォロワー",
+  "pushNotifications": "プッシュ通知："
 }

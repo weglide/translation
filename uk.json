@@ -902,5 +902,11 @@
     "install": "встановити",
     "iosHeadline": "Встановіть додаток для iOS",
     "tap": "Виберіть"
-  }
+  },
+  "enablePushNotifications": "Увімкнути Push-сповіщення",
+  "flightsFromFriends": "Перельоти від друзів",
+  "magazineArticles": "Журнальні статті",
+  "newComments": "Нові коментарі",
+  "newFollowers": "Нові підписники",
+  "pushNotifications": "Push-сповіщення:"
 }

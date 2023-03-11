@@ -902,5 +902,11 @@
     "install": "Nainstalujte",
     "iosHeadline": "Nainstalujte aplikaci pro iOS",
     "tap": "Vybrat"
-  }
+  },
+  "enablePushNotifications": "Povolit Push Notifications",
+  "flightsFromFriends": "Lety od přátel",
+  "magazineArticles": "Články v časopisech",
+  "newComments": "Nové komentáře",
+  "newFollowers": "Noví sledující",
+  "pushNotifications": "Push oznámení:"
 }

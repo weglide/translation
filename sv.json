@@ -902,5 +902,11 @@
     "install": "Installera",
     "iosHeadline": "Installera iOS-appen",
     "tap": "Välj"
-  }
+  },
+  "enablePushNotifications": "Aktivera push-meddelanden",
+  "flightsFromFriends": "Flyg från vänner",
+  "magazineArticles": "Tidskriftsartiklar",
+  "newComments": "Nya kommentarer",
+  "newFollowers": "Nya följare",
+  "pushNotifications": "Pushmeddelanden:"
 }

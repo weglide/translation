@@ -902,5 +902,11 @@
     "install": "Installeren",
     "iosHeadline": "Installeer de iOS-app",
     "tap": "Selecteer"
-  }
+  },
+  "enablePushNotifications": "Schakel pushmeldingen in",
+  "flightsFromFriends": "Vluchten van vrienden",
+  "magazineArticles": "Tijdschrift artikelen",
+  "newComments": "Nieuwe opmerkingen",
+  "newFollowers": "Nieuwe volgers",
+  "pushNotifications": "Pushmeldingen:"
 }

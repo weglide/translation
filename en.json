@@ -968,5 +968,11 @@
     "tap": "Tap",
     "addToHomeScreen": "Add to Home Screen",
     "install": "Install"
-  }
+  },
+  "pushNotifications": "Push Notifications:",
+  "enablePushNotifications": "Enable Push Notifications",
+  "newComments": "New comments",
+  "newFollowers": "New followers",
+  "flightsFromFriends": "Flights from friends",
+  "magazineArticles": "Magazine articles"
 }
