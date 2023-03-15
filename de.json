@@ -987,5 +987,6 @@
   "filterWaypoints": "Wegpunkte filtern",
   "waypointCreated": "Wendepunkt erstellt",
   "waypointDeleted": "Wendepunkt gelöscht",
-  "waypointUpdated": "Wendepunkt aktualisiert"
+  "waypointUpdated": "Wendepunkt aktualisiert",
+  "createCustomWaypointCollections": "Erstelle deine eigenen Sammlungen:"
 }

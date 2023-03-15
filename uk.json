@@ -921,5 +921,6 @@
   "filterWaypoints": "Фільтр шляхових точок",
   "waypointCreated": "Пункт створено",
   "waypointDeleted": "Пункт видалено",
-  "waypointUpdated": "Маршрутна точка оновлена"
+  "waypointUpdated": "Маршрутна точка оновлена",
+  "createCustomWaypointCollections": "Створюйте власні колекції:"
 }

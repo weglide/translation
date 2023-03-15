@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtruj punkty trasy",
   "waypointCreated": "Utworzono punkt trasy",
   "waypointDeleted": "Usunięto punkt trasy",
-  "waypointUpdated": "Zaktualizowano punkt trasy"
+  "waypointUpdated": "Zaktualizowano punkt trasy",
+  "createCustomWaypointCollections": "Twórz własne kolekcje:"
 }

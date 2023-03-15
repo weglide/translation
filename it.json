@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtra i waypoint",
   "waypointCreated": "Punto di passaggio creato",
   "waypointDeleted": "Punto di passaggio eliminato",
-  "waypointUpdated": "Waypoint aggiornato"
+  "waypointUpdated": "Waypoint aggiornato",
+  "createCustomWaypointCollections": "Crea le tue raccolte:"
 }

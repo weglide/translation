@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtrer veipunkter",
   "waypointCreated": "Veipunkt opprettet",
   "waypointDeleted": "Veipunkt slettet",
-  "waypointUpdated": "Veipunkt oppdatert"
+  "waypointUpdated": "Veipunkt oppdatert",
+  "createCustomWaypointCollections": "Lag dine egne samlinger:"
 }

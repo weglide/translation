@@ -921,5 +921,6 @@
   "filterWaypoints": "Waypoints filteren",
   "waypointCreated": "Waypoint gemaakt",
   "waypointDeleted": "Waypoint verwijderd",
-  "waypointUpdated": "Waypoint bijgewerkt"
+  "waypointUpdated": "Waypoint bijgewerkt",
+  "createCustomWaypointCollections": "Maak je eigen collecties:"
 }

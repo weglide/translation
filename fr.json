@@ -986,5 +986,6 @@
   "filterWaypoints": "Filtrer les waypoints",
   "waypointCreated": "Waypoint créé",
   "waypointDeleted": "Waypoint supprimé",
-  "waypointUpdated": "Waypoint mis à jour"
+  "waypointUpdated": "Waypoint mis à jour",
+  "createCustomWaypointCollections": "Créez vos propres collections :"
 }

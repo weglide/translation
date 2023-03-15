@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtrera waypoints",
   "waypointCreated": "Waypoint skapad",
   "waypointDeleted": "Waypoint raderad",
-  "waypointUpdated": "Waypoint uppdaterad"
+  "waypointUpdated": "Waypoint uppdaterad",
+  "createCustomWaypointCollections": "Skapa dina egna samlingar:"
 }

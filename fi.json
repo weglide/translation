@@ -921,5 +921,6 @@
   "filterWaypoints": "Suodata reittipisteet",
   "waypointCreated": "Reittipiste luotu",
   "waypointDeleted": "Reittipiste poistettu",
-  "waypointUpdated": "Reittipiste päivitetty"
+  "waypointUpdated": "Reittipiste päivitetty",
+  "createCustomWaypointCollections": "Luo omat kokoelmat:"
 }

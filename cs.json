@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtrujte trasové body",
   "waypointCreated": "Trasový bod vytvořen",
   "waypointDeleted": "Trasový bod byl smazán",
-  "waypointUpdated": "Trasový bod aktualizován"
+  "waypointUpdated": "Trasový bod aktualizován",
+  "createCustomWaypointCollections": "Vytvořte si vlastní sbírky:"
 }

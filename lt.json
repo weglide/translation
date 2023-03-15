@@ -921,5 +921,6 @@
   "filterWaypoints": "Filtruoti kelio taškus",
   "waypointCreated": "Sukurtas kelio taškas",
   "waypointDeleted": "Kelio taškas ištrintas",
-  "waypointUpdated": "Kelio taškas atnaujintas"
+  "waypointUpdated": "Kelio taškas atnaujintas",
+  "createCustomWaypointCollections": "Sukurkite savo kolekcijas:"
 }
