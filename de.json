@@ -974,5 +974,18 @@
   "magazineArticles": "Magazinartikel",
   "newComments": "Neue Kommentare",
   "newFollowers": "Neue Follower",
-  "pushNotifications": "Push-Benachrichtigungen:"
+  "pushNotifications": "Push-Benachrichtigungen:",
+  "addWaypoint": "Wendepunkt hinzufügen",
+  "closeTask": "Aufgabe schließen",
+  "defaultWaypointCollectionDescription": "Weltweite Wendepunkte und Flugplätze",
+  "defaultWaypointCollectionName": "Standard Wendepunkte",
+  "flightCollections": "Flugsammlungen",
+  "searchWaypointCollection": "Durchsuche Sammlungen von dir und anderen",
+  "waypointCollections": "Wendepunktsammlungen",
+  "addWaypointInstructions": "...oder wähle den Ort für einen neuen Wegpunkt auf der Karte aus und gebe einen Namen ein.",
+  "editOrAddWaypoints": "Wendepunkte bearbeiten oder hinzufügen",
+  "filterWaypoints": "Wegpunkte filtern",
+  "waypointCreated": "Wendepunkt erstellt",
+  "waypointDeleted": "Wendepunkt gelöscht",
+  "waypointUpdated": "Wendepunkt aktualisiert"
 }

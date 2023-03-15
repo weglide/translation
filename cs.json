@@ -908,5 +908,18 @@
   "magazineArticles": "Články v časopisech",
   "newComments": "Nové komentáře",
   "newFollowers": "Noví sledující",
-  "pushNotifications": "Push oznámení:"
+  "pushNotifications": "Push oznámení:",
+  "addWaypoint": "Přidat průjezdní bod",
+  "closeTask": "Zavřít úkol",
+  "defaultWaypointCollectionDescription": "Celosvětové trasové body a letiště",
+  "defaultWaypointCollectionName": "Výchozí trasové body",
+  "flightCollections": "Letecké sbírky",
+  "searchWaypointCollection": "Vyhledávejte sbírky od vás a ostatních",
+  "waypointCollections": "Kolekce navigačních bodů",
+  "addWaypointInstructions": "...nebo vyberte místo pro nový trasový bod na mapě a zadejte název.",
+  "editOrAddWaypoints": "Upravit nebo přidat trasové body",
+  "filterWaypoints": "Filtrujte trasové body",
+  "waypointCreated": "Trasový bod vytvořen",
+  "waypointDeleted": "Trasový bod byl smazán",
+  "waypointUpdated": "Trasový bod aktualizován"
 }

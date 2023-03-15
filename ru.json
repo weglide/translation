@@ -908,5 +908,18 @@
   "magazineArticles": "Журнальные статьи",
   "newComments": "Новые комментарии",
   "newFollowers": "Новые подписчики",
-  "pushNotifications": "Всплывающее уведомление:"
+  "pushNotifications": "Всплывающее уведомление:",
+  "addWaypoint": "Добавить путевую точку",
+  "closeTask": "Закрыть задачу",
+  "defaultWaypointCollectionDescription": "Путевые точки и аэропорты мира",
+  "defaultWaypointCollectionName": "Путевые точки по умолчанию",
+  "flightCollections": "Коллекции полетов",
+  "searchWaypointCollection": "Поиск коллекций от вас и других",
+  "waypointCollections": "Коллекции путевых точек",
+  "addWaypointInstructions": "...или выберите место для новой путевой точки на карте и введите имя.",
+  "editOrAddWaypoints": "Изменить или добавить путевые точки",
+  "filterWaypoints": "Фильтровать путевые точки",
+  "waypointCreated": "Путевая точка создана",
+  "waypointDeleted": "Путевая точка удалена",
+  "waypointUpdated": "Путевая точка обновлена"
 }

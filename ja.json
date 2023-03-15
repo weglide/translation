@@ -906,5 +906,18 @@
   "magazineArticles": "雑誌記事",
   "newComments": "新しいコメント",
   "newFollowers": "新しいフォロワー",
-  "pushNotifications": "プッシュ通知："
+  "pushNotifications": "プッシュ通知：",
+  "addWaypoint": "ウェイポイントを追加",
+  "closeTask": "タスクを閉じる",
+  "defaultWaypointCollectionDescription": "世界中のウェイポイントと空港",
+  "defaultWaypointCollectionName": "デフォルトのウェイポイント",
+  "flightCollections": "フライトコレクション",
+  "searchWaypointCollection": "自分や他のユーザーのコレクションを検索",
+  "waypointCollections": "ウェイポイント コレクション",
+  "addWaypointInstructions": "...またはマップ上で新しいウェイポイントの場所を選択し、名前を入力します。",
+  "editOrAddWaypoints": "ウェイポイントを編集または追加する",
+  "filterWaypoints": "ウェイポイントのフィルタリング",
+  "waypointCreated": "ウェイポイントが作成されました",
+  "waypointDeleted": "ウェイポイントが削除されました",
+  "waypointUpdated": "ウェイポイントが更新されました"
 }

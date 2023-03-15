@@ -908,5 +908,18 @@
   "magazineArticles": "Artigos de revistas",
   "newComments": "Novos comentários",
   "newFollowers": "Novos seguidores",
-  "pushNotifications": "Notificações via push:"
+  "pushNotifications": "Notificações via push:",
+  "addWaypoint": "Adicionar ponto de passagem",
+  "closeTask": "Fechar tarefa",
+  "defaultWaypointCollectionDescription": "Pontos de passagem e aeroportos em todo o mundo",
+  "defaultWaypointCollectionName": "Pontos de referência padrão",
+  "flightCollections": "Coleções de voos",
+  "searchWaypointCollection": "Pesquise coleções suas e de outras pessoas",
+  "waypointCollections": "Coleções de pontos de referência",
+  "addWaypointInstructions": "...ou selecione a localização de um novo waypoint no mapa e digite um nome.",
+  "editOrAddWaypoints": "Editar ou adicionar pontos de referência",
+  "filterWaypoints": "Filtrar pontos de passagem",
+  "waypointCreated": "Ponto de passagem criado",
+  "waypointDeleted": "Ponto de referência excluído",
+  "waypointUpdated": "Waypoint atualizado"
 }

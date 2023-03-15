@@ -908,5 +908,18 @@
   "magazineArticles": "Tidskriftsartiklar",
   "newComments": "Nya kommentarer",
   "newFollowers": "Nya följare",
-  "pushNotifications": "Pushmeddelanden:"
+  "pushNotifications": "Pushmeddelanden:",
+  "addWaypoint": "Lägg till waypoint",
+  "closeTask": "Stäng uppgift",
+  "defaultWaypointCollectionDescription": "Worldwide waypoints och flygplatser",
+  "defaultWaypointCollectionName": "Standardvägpunkter",
+  "flightCollections": "Flygsamlingar",
+  "searchWaypointCollection": "Sök efter samlingar från dig och andra",
+  "waypointCollections": "Waypointsamlingar",
+  "addWaypointInstructions": "...eller välj platsen för en ny waypoint på kartan och ange ett namn.",
+  "editOrAddWaypoints": "Redigera eller lägg till waypoints",
+  "filterWaypoints": "Filtrera waypoints",
+  "waypointCreated": "Waypoint skapad",
+  "waypointDeleted": "Waypoint raderad",
+  "waypointUpdated": "Waypoint uppdaterad"
 }

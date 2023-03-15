@@ -974,5 +974,18 @@
   "newComments": "New comments",
   "newFollowers": "New followers",
   "flightsFromFriends": "Flights from friends",
-  "magazineArticles": "Magazine articles"
+  "magazineArticles": "Magazine articles",
+  "waypointCollections": "Waypoint Collections",
+  "flightCollections": "Flight Collections",
+  "closeTask": "Close task",
+  "addWaypoint": "Add waypoint",
+  "defaultWaypointCollectionName": "Default Waypoints",
+  "defaultWaypointCollectionDescription": "Worldwide waypoints and airports",
+  "searchWaypointCollection": "Search collections from you and others",
+  "editOrAddWaypoints": "Edit or add waypoints",
+  "addWaypointInstructions": "...or select the location for a new waypoint on the map and enter a name.",
+  "filterWaypoints": "Filter waypoints",
+  "waypointCreated": "Waypoint created",
+  "waypointUpdated": "Waypoint updated",
+  "waypointDeleted": "Waypoint deleted"
 }

@@ -908,5 +908,18 @@
   "magazineArticles": "Artykuły z czasopism",
   "newComments": "Nowe komentarze",
   "newFollowers": "Nowi obserwujący",
-  "pushNotifications": "Powiadomienia push:"
+  "pushNotifications": "Powiadomienia push:",
+  "addWaypoint": "Dodaj punkt trasy",
+  "closeTask": "Zamknij zadanie",
+  "defaultWaypointCollectionDescription": "Punkty nawigacyjne i lotniska na całym świecie",
+  "defaultWaypointCollectionName": "Domyślne punkty trasy",
+  "flightCollections": "Kolekcje lotów",
+  "searchWaypointCollection": "Przeszukuj kolekcje należące do Ciebie i innych osób",
+  "waypointCollections": "Kolekcje punktów trasy",
+  "addWaypointInstructions": "...lub wybierz lokalizację nowego punktu na mapie i wprowadź nazwę.",
+  "editOrAddWaypoints": "Edytuj lub dodaj punkty trasy",
+  "filterWaypoints": "Filtruj punkty trasy",
+  "waypointCreated": "Utworzono punkt trasy",
+  "waypointDeleted": "Usunięto punkt trasy",
+  "waypointUpdated": "Zaktualizowano punkt trasy"
 }

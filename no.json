@@ -908,5 +908,18 @@
   "magazineArticles": "Magasinartikler",
   "newComments": "Nye kommentarer",
   "newFollowers": "Nye følgere",
-  "pushNotifications": "Push-varsler:"
+  "pushNotifications": "Push-varsler:",
+  "addWaypoint": "Legg til veipunkt",
+  "closeTask": "Lukk oppgave",
+  "defaultWaypointCollectionDescription": "Verdensomspennende veipunkter og flyplasser",
+  "defaultWaypointCollectionName": "Standard veipunkter",
+  "flightCollections": "Flysamlinger",
+  "searchWaypointCollection": "Søk i samlinger fra deg og andre",
+  "waypointCollections": "Veipunktsamlinger",
+  "addWaypointInstructions": "...eller velg plasseringen for et nytt veipunkt på kartet og skriv inn et navn.",
+  "editOrAddWaypoints": "Rediger eller legg til veipunkter",
+  "filterWaypoints": "Filtrer veipunkter",
+  "waypointCreated": "Veipunkt opprettet",
+  "waypointDeleted": "Veipunkt slettet",
+  "waypointUpdated": "Veipunkt oppdatert"
 }

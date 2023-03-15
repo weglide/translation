@@ -908,5 +908,18 @@
   "magazineArticles": "Tijdschrift artikelen",
   "newComments": "Nieuwe opmerkingen",
   "newFollowers": "Nieuwe volgers",
-  "pushNotifications": "Pushmeldingen:"
+  "pushNotifications": "Pushmeldingen:",
+  "addWaypoint": "Tussenpunt toevoegen",
+  "closeTask": "Taak sluiten",
+  "defaultWaypointCollectionDescription": "Wereldwijde waypoints en luchthavens",
+  "defaultWaypointCollectionName": "Standaard waypoints",
+  "flightCollections": "Vlucht collecties",
+  "searchWaypointCollection": "Zoek collecties van jou en anderen",
+  "waypointCollections": "Waypoint-collecties",
+  "addWaypointInstructions": "...of selecteer de locatie voor een nieuw waypoint op de kaart en voer een naam in.",
+  "editOrAddWaypoints": "Waypoints bewerken of toevoegen",
+  "filterWaypoints": "Waypoints filteren",
+  "waypointCreated": "Waypoint gemaakt",
+  "waypointDeleted": "Waypoint verwijderd",
+  "waypointUpdated": "Waypoint bijgewerkt"
 }

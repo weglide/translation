@@ -908,5 +908,18 @@
   "magazineArticles": "Журнальні статті",
   "newComments": "Нові коментарі",
   "newFollowers": "Нові підписники",
-  "pushNotifications": "Push-сповіщення:"
+  "pushNotifications": "Push-сповіщення:",
+  "addWaypoint": "Додати маршрутну точку",
+  "closeTask": "Закрити завдання",
+  "defaultWaypointCollectionDescription": "Пункти та аеропорти по всьому світу",
+  "defaultWaypointCollectionName": "Пункти за замовчуванням",
+  "flightCollections": "Колекції польотів",
+  "searchWaypointCollection": "Пошук колекцій у вас та інших",
+  "waypointCollections": "Колекції шляхових точок",
+  "addWaypointInstructions": "...або виберіть місце для нової маршрутної точки на карті та введіть назву.",
+  "editOrAddWaypoints": "Відредагуйте або додайте маршрутні точки",
+  "filterWaypoints": "Фільтр шляхових точок",
+  "waypointCreated": "Пункт створено",
+  "waypointDeleted": "Пункт видалено",
+  "waypointUpdated": "Маршрутна точка оновлена"
 }

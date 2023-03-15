@@ -908,5 +908,18 @@
   "magazineArticles": "Lehden artikkelit",
   "newComments": "Uusia kommentteja",
   "newFollowers": "Uusia seuraajia",
-  "pushNotifications": "Push-ilmoitukset:"
+  "pushNotifications": "Push-ilmoitukset:",
+  "addWaypoint": "Lisää reittipiste",
+  "closeTask": "Sulje tehtävä",
+  "defaultWaypointCollectionDescription": "Maailmanlaajuiset reittipisteet ja lentokentät",
+  "defaultWaypointCollectionName": "Oletusreittipisteet",
+  "flightCollections": "Lentokokoelmat",
+  "searchWaypointCollection": "Hae kokoelmia sinulta ja muilta",
+  "waypointCollections": "Reittipistekokoelmat",
+  "addWaypointInstructions": "...tai valitse uuden reittipisteen sijainti kartalta ja anna nimi.",
+  "editOrAddWaypoints": "Muokkaa tai lisää reittipisteitä",
+  "filterWaypoints": "Suodata reittipisteet",
+  "waypointCreated": "Reittipiste luotu",
+  "waypointDeleted": "Reittipiste poistettu",
+  "waypointUpdated": "Reittipiste päivitetty"
 }
