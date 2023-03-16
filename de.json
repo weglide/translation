@@ -889,7 +889,11 @@
     "3dFlightViewDescription": "Lehne dich zurück und erlebe jeden Flug in 3D.",
     "3dFlightViewSpeed": "1x, 5x und 20x Wiedergabegeschwindigkeit",
     "requestSponsorMaterial": "Sponsormaterial anfordern",
-    "hdSatelliteUpgrade": "Hole dir HD Satellitenkarten"
+    "hdSatelliteUpgrade": "Hole dir HD Satellitenkarten",
+    "waypointCollectionsDescription": "Organisiere eigene Wendepunkte in Sammlungen für eine individuelle Aufgabenplanung.",
+    "waypointCollectionsKeyboard": "Plane Aufgaben schneller indem du Wendepunktnamen eintippst",
+    "waypointCollectionsManage": "Bearbeite, lösche oder lade Wendepunkte in deine Sammlungen hoch",
+    "waypointCollectionsPublic": "Schalte eine Sammlung für alle Nutzer*innen frei"
   },
   "currentPlanTest": "Du probierst {plan} aus.",
   "testNewFeatures": "Teste neue Funktionen",
@@ -983,7 +987,7 @@
   "waypointCollections": "Wendepunktsammlungen",
   "addWaypointInstructions": "...oder wähle den Ort für einen neuen Wegpunkt auf der Karte aus und gebe einen Namen ein.",
   "editOrAddWaypoints": "Wendepunkte bearbeiten oder hinzufügen",
-  "filterWaypoints": "Wegpunkte filtern",
+  "filterWaypoints": "Wendepunkte filtern",
   "waypointCreated": "Wendepunkt erstellt",
   "waypointDeleted": "Wendepunkt gelöscht",
   "waypointUpdated": "Wendepunkt aktualisiert",

@@ -889,7 +889,11 @@
     "3dFlightViewDescription": "Détendez-vous et vivez chaque vol en 3D.",
     "3dFlightViewSpeed": "1x, 5x et 20x vitesse de lecture",
     "requestSponsorMaterial": "demander du matériel de parrainage",
-    "hdSatelliteUpgrade": "Obtenez des cartes satellites HD"
+    "hdSatelliteUpgrade": "Obtenez des cartes satellites HD",
+    "waypointCollectionsDescription": "Organisez vos propres waypoints en collections pour la planification de tâches individuelles.",
+    "waypointCollectionsKeyboard": "Planifiez rapidement des tâches en tapant les noms des waypoints",
+    "waypointCollectionsManage": "Modifier, télécharger ou supprimer des waypoints de vos collections",
+    "waypointCollectionsPublic": "Publier une collection pour tous les utilisateurs"
   },
   "send": "Envoyer",
   "testNewFeatures": "Nouvelle fonctionnalité",
