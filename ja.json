@@ -923,5 +923,6 @@
   "searchOrDragOnMap": "地図上で検索またはドラッグ",
   "searchOrSelectOnMap": "地図上で検索または選択",
   "localCompetitions": "地方大会",
-  "openDeclarations": "宣言を開く"
+  "openDeclarations": "宣言を開く",
+  "whatAreOthersPlanning": "他の人は何を宣言しましたか？"
 }
