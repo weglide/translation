@@ -922,5 +922,7 @@
   "waypointCreated": "Trasový bod vytvořen",
   "waypointDeleted": "Trasový bod byl smazán",
   "waypointUpdated": "Trasový bod aktualizován",
-  "createCustomWaypointCollections": "Vytvořte si vlastní sbírky:"
+  "createCustomWaypointCollections": "Vytvořte si vlastní sbírky:",
+  "searchOrDragOnMap": "Vyhledejte nebo přetáhněte na mapě",
+  "searchOrSelectOnMap": "Vyhledejte nebo vyberte na mapě"
 }

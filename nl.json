@@ -922,5 +922,7 @@
   "waypointCreated": "Waypoint gemaakt",
   "waypointDeleted": "Waypoint verwijderd",
   "waypointUpdated": "Waypoint bijgewerkt",
-  "createCustomWaypointCollections": "Maak je eigen collecties:"
+  "createCustomWaypointCollections": "Maak je eigen collecties:",
+  "searchOrDragOnMap": "Zoek of sleep op de kaart",
+  "searchOrSelectOnMap": "Zoek of selecteer op de kaart"
 }

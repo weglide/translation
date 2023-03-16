@@ -922,5 +922,7 @@
   "waypointCreated": "Punto di passaggio creato",
   "waypointDeleted": "Punto di passaggio eliminato",
   "waypointUpdated": "Waypoint aggiornato",
-  "createCustomWaypointCollections": "Crea le tue raccolte:"
+  "createCustomWaypointCollections": "Crea le tue raccolte:",
+  "searchOrDragOnMap": "Cerca o trascina sulla mappa",
+  "searchOrSelectOnMap": "Cerca o seleziona sulla mappa"
 }

@@ -922,5 +922,7 @@
   "waypointCreated": "Punto de ruta creado",
   "waypointDeleted": "Punto de ruta eliminado",
   "waypointUpdated": "Punto de ruta actualizado",
-  "createCustomWaypointCollections": "Crea tus propias colecciones:"
+  "createCustomWaypointCollections": "Crea tus propias colecciones:",
+  "searchOrDragOnMap": "Buscar o arrastrar en el mapa",
+  "searchOrSelectOnMap": "Busca o selecciona en el mapa"
 }

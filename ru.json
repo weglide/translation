@@ -922,5 +922,7 @@
   "waypointCreated": "Путевая точка создана",
   "waypointDeleted": "Путевая точка удалена",
   "waypointUpdated": "Путевая точка обновлена",
-  "createCustomWaypointCollections": "Создавайте собственные коллекции:"
+  "createCustomWaypointCollections": "Создавайте собственные коллекции:",
+  "searchOrDragOnMap": "Найдите или перетащите на карту",
+  "searchOrSelectOnMap": "Найдите или выберите на карте"
 }

@@ -922,5 +922,7 @@
   "waypointCreated": "Sukurtas kelio taškas",
   "waypointDeleted": "Kelio taškas ištrintas",
   "waypointUpdated": "Kelio taškas atnaujintas",
-  "createCustomWaypointCollections": "Sukurkite savo kolekcijas:"
+  "createCustomWaypointCollections": "Sukurkite savo kolekcijas:",
+  "searchOrDragOnMap": "Ieškokite arba vilkite žemėlapyje",
+  "searchOrSelectOnMap": "Ieškokite arba pasirinkite žemėlapyje"
 }

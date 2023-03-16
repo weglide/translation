@@ -922,5 +922,7 @@
   "waypointCreated": "Waypoint skapad",
   "waypointDeleted": "Waypoint raderad",
   "waypointUpdated": "Waypoint uppdaterad",
-  "createCustomWaypointCollections": "Skapa dina egna samlingar:"
+  "createCustomWaypointCollections": "Skapa dina egna samlingar:",
+  "searchOrDragOnMap": "Sök eller dra på kartan",
+  "searchOrSelectOnMap": "Sök eller välj på kartan"
 }

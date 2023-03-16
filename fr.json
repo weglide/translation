@@ -987,5 +987,7 @@
   "waypointCreated": "Waypoint créé",
   "waypointDeleted": "Waypoint supprimé",
   "waypointUpdated": "Waypoint mis à jour",
-  "createCustomWaypointCollections": "Créez vos propres collections :"
+  "createCustomWaypointCollections": "Créez vos propres collections :",
+  "searchOrDragOnMap": "Rechercher ou faire glisser sur la carte",
+  "searchOrSelectOnMap": "Rechercher ou sélectionner sur la carte"
 }

@@ -920,5 +920,7 @@
   "waypointCreated": "ウェイポイントが作成されました",
   "waypointDeleted": "ウェイポイントが削除されました",
   "waypointUpdated": "ウェイポイントが更新されました",
-  "createCustomWaypointCollections": "独自のコレクションを作成します。"
+  "createCustomWaypointCollections": "独自のコレクションを作成します。",
+  "searchOrDragOnMap": "地図上で検索またはドラッグ",
+  "searchOrSelectOnMap": "地図上で検索または選択"
 }

@@ -922,5 +922,7 @@
   "waypointCreated": "Пункт створено",
   "waypointDeleted": "Пункт видалено",
   "waypointUpdated": "Маршрутна точка оновлена",
-  "createCustomWaypointCollections": "Створюйте власні колекції:"
+  "createCustomWaypointCollections": "Створюйте власні колекції:",
+  "searchOrDragOnMap": "Знайдіть або перетягніть на карті",
+  "searchOrSelectOnMap": "Знайдіть або виберіть на карті"
 }

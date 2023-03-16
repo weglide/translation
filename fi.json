@@ -922,5 +922,7 @@
   "waypointCreated": "Reittipiste luotu",
   "waypointDeleted": "Reittipiste poistettu",
   "waypointUpdated": "Reittipiste päivitetty",
-  "createCustomWaypointCollections": "Luo omat kokoelmat:"
+  "createCustomWaypointCollections": "Luo omat kokoelmat:",
+  "searchOrDragOnMap": "Hae tai vedä kartalla",
+  "searchOrSelectOnMap": "Hae tai valitse kartalta"
 }
