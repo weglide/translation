@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Hae tai valitse kartalta",
   "localCompetitions": "Paikalliset kilpailut",
   "openDeclarations": "Avoimet ilmoitukset",
-  "whatAreOthersPlanning": "Mitä muut ovat ilmoittaneet?"
+  "whatAreOthersPlanning": "Mitä muut ovat ilmoittaneet?",
+  "noLocalCompetitions": "Ei vielä paikallisia kilpailuja, luo uusi yhdestä tehtävästäsi."
 }

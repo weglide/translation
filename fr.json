@@ -991,5 +991,6 @@
   "searchOrSelectOnMap": "Rechercher ou sélectionner sur la carte",
   "localCompetitions": "Compétitions locales",
   "openDeclarations": "Déclarations ouvertes",
-  "whatAreOthersPlanning": "Qu'est-ce que d'autres ont déclaré?"
+  "whatAreOthersPlanning": "Qu'est-ce que d'autres ont déclaré?",
+  "noLocalCompetitions": "Pas encore de compétitions locales, créez-en une nouvelle à partir de l'une de vos tâches."
 }

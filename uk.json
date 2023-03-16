@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Знайдіть або виберіть на карті",
   "localCompetitions": "Місцеві змагання",
   "openDeclarations": "Відкрити декларації",
-  "whatAreOthersPlanning": "Що задекларували інші?"
+  "whatAreOthersPlanning": "Що задекларували інші?",
+  "noLocalCompetitions": "Ще немає локальних змагань, створіть нове з одного зі своїх завдань."
 }

@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Zoek of selecteer op de kaart",
   "localCompetitions": "Lokale competities",
   "openDeclarations": "Declaraties openen",
-  "whatAreOthersPlanning": "Wat hebben anderen verklaard?"
+  "whatAreOthersPlanning": "Wat hebben anderen verklaard?",
+  "noLocalCompetitions": "Nog geen lokale competities, maak een nieuwe aan vanuit een van je taken."
 }

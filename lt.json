@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Ieškokite arba pasirinkite žemėlapyje",
   "localCompetitions": "Vietiniai konkursai",
   "openDeclarations": "Atviros deklaracijos",
-  "whatAreOthersPlanning": "Ką deklaravo kiti?"
+  "whatAreOthersPlanning": "Ką deklaravo kiti?",
+  "noLocalCompetitions": "Dar nėra vietinių konkursų, sukurkite naują iš vienos iš savo užduočių."
 }

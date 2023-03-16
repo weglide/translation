@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Søk eller velg på kartet",
   "localCompetitions": "Lokale konkurranser",
   "openDeclarations": "Åpne erklæringer",
-  "whatAreOthersPlanning": "Hva har andre erklært?"
+  "whatAreOthersPlanning": "Hva har andre erklært?",
+  "noLocalCompetitions": "Ingen lokale konkurranser ennå, lag en ny fra en av oppgavene dine."
 }

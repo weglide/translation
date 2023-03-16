@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Pesquise ou selecione no mapa",
   "localCompetitions": "Competições locais",
   "openDeclarations": "Declarações Abertas",
-  "whatAreOthersPlanning": "O que outros declararam?"
+  "whatAreOthersPlanning": "O que outros declararam?",
+  "noLocalCompetitions": "Ainda não há competições locais, crie uma nova a partir de uma de suas tarefas."
 }

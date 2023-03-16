@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Wyszukaj lub wybierz na mapie",
   "localCompetitions": "Lokalne zawody",
   "openDeclarations": "Deklaracje otwarte",
-  "whatAreOthersPlanning": "Co zadeklarowali inni?"
+  "whatAreOthersPlanning": "Co zadeklarowali inni?",
+  "noLocalCompetitions": "Nie ma jeszcze żadnych lokalnych konkursów, utwórz nowy na podstawie jednego ze swoich zadań."
 }

@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Vyhledejte nebo vyberte na mapě",
   "localCompetitions": "Místní soutěže",
   "openDeclarations": "Otevřená prohlášení",
-  "whatAreOthersPlanning": "Co prohlásili ostatní?"
+  "whatAreOthersPlanning": "Co prohlásili ostatní?",
+  "noLocalCompetitions": "Zatím žádné místní soutěže, vytvořte si novou z jednoho ze svých úkolů."
 }

@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Sök eller välj på kartan",
   "localCompetitions": "Lokala tävlingar",
   "openDeclarations": "Öppna deklarationer",
-  "whatAreOthersPlanning": "Vad har andra deklarerat?"
+  "whatAreOthersPlanning": "Vad har andra deklarerat?",
+  "noLocalCompetitions": "Inga lokala tävlingar än, skapa en ny från en av dina uppgifter."
 }

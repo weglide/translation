@@ -926,5 +926,6 @@
   "searchOrSelectOnMap": "Найдите или выберите на карте",
   "localCompetitions": "Местные соревнования",
   "openDeclarations": "Открытые декларации",
-  "whatAreOthersPlanning": "Что заявили другие?"
+  "whatAreOthersPlanning": "Что заявили другие?",
+  "noLocalCompetitions": "Локальных соревнований пока нет, создайте новое из одного из своих заданий."
 }

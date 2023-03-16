@@ -924,5 +924,6 @@
   "searchOrSelectOnMap": "地図上で検索または選択",
   "localCompetitions": "地方大会",
   "openDeclarations": "宣言を開く",
-  "whatAreOthersPlanning": "他の人は何を宣言しましたか？"
+  "whatAreOthersPlanning": "他の人は何を宣言しましたか？",
+  "noLocalCompetitions": "ローカル コンテストはまだありません。タスクの 1 つから新しいコンテストを作成してください。"
 }
