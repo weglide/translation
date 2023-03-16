@@ -997,5 +997,6 @@
   "localCompetitions": "Local Competitions",
   "openDeclarations": "Open Declarations",
   "whatAreOthersPlanning": "What have others declared?",
-  "noLocalCompetitions": "No local competitions yet, create a new one from one of your tasks."
+  "noLocalCompetitions": "No local competitions yet, create a new one from one of your tasks.",
+  "noWaypoints": "No waypoints yet, edit this collection and add some."
 }

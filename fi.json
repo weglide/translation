@@ -927,5 +927,6 @@
   "localCompetitions": "Paikalliset kilpailut",
   "openDeclarations": "Avoimet ilmoitukset",
   "whatAreOthersPlanning": "Mitä muut ovat ilmoittaneet?",
-  "noLocalCompetitions": "Ei vielä paikallisia kilpailuja, luo uusi yhdestä tehtävästäsi."
+  "noLocalCompetitions": "Ei vielä paikallisia kilpailuja, luo uusi yhdestä tehtävästäsi.",
+  "noWaypoints": "Ei vielä reittipisteitä, muokkaa tätä kokoelmaa ja lisää/lähetä niitä."
 }

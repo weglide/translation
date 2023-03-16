@@ -927,5 +927,6 @@
   "localCompetitions": "Concorsi locali",
   "openDeclarations": "Dichiarazioni aperte",
   "whatAreOthersPlanning": "Cosa hanno dichiarato gli altri?",
-  "noLocalCompetitions": "Non ci sono ancora concorsi locali, creane uno nuovo da uno dei tuoi compiti."
+  "noLocalCompetitions": "Non ci sono ancora concorsi locali, creane uno nuovo da uno dei tuoi compiti.",
+  "noWaypoints": "Ancora nessun waypoint, modifica questa raccolta e aggiungine/caricane alcuni."
 }
