@@ -922,7 +922,6 @@
   "scoringDistance": "Scoring distance",
   "multiCircumnavigation": "Multi circumnavigation",
   "youLikeLive": "You like the live tracking?",
-  "declarations": "Declarations",
   "noDeclarations": "Currently no open declarations.",
   "startTime": "Start time (UTC, 24h)",
   "listShortenedZoom": "List shortened, zoom closer to display more flights.",
@@ -990,5 +989,7 @@
   "waypointDeleted": "Waypoint deleted",
   "createCustomWaypointCollections": "Create your own collections:",
   "searchOrSelectOnMap": "Search or select on the map",
-  "searchOrDragOnMap": "Search or drag on the map"
+  "searchOrDragOnMap": "Search or drag on the map",
+  "localCompetitions": "Local Competitions",
+  "openDeclarations": "Open Declarations"
 }

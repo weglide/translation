@@ -850,7 +850,6 @@
   "scoringDistance": "Scoren afstand",
   "taskPointCalculation": "Puntenberekening voor nationale competities",
   "youLikeLive": "Vind je het live volgen leuk?",
-  "declarations": "Verklaringen",
   "noDeclarations": "Momenteel geen openstaande declaraties.",
   "satSupporter": "5 min weersatelliet en HD-kaarten",
   "upgradeNow": "Waardeer nu op",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Waypoint bijgewerkt",
   "createCustomWaypointCollections": "Maak je eigen collecties:",
   "searchOrDragOnMap": "Zoek of sleep op de kaart",
-  "searchOrSelectOnMap": "Zoek of selecteer op de kaart"
+  "searchOrSelectOnMap": "Zoek of selecteer op de kaart",
+  "localCompetitions": "Lokale competities",
+  "openDeclarations": "Declaraties openen"
 }

@@ -850,7 +850,6 @@
   "scoringDistance": "Odległość punktowana",
   "taskPointCalculation": "Obliczanie punktów za zawody krajowe",
   "youLikeLive": "Lubisz śledzenie na żywo?",
-  "declarations": "Deklaracje",
   "noDeclarations": "Obecnie brak otwartych deklaracji.",
   "satSupporter": "5min pogoda i mapy HD",
   "upgradeNow": "Ulepsz teraz",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Zaktualizowano punkt trasy",
   "createCustomWaypointCollections": "Twórz własne kolekcje:",
   "searchOrDragOnMap": "Wyszukaj lub przeciągnij na mapę",
-  "searchOrSelectOnMap": "Wyszukaj lub wybierz na mapie"
+  "searchOrSelectOnMap": "Wyszukaj lub wybierz na mapie",
+  "localCompetitions": "Lokalne zawody",
+  "openDeclarations": "Deklaracje otwarte"
 }

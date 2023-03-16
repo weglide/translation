@@ -849,7 +849,6 @@
   "scoringDistance": "Зачетное расстояние",
   "taskPointCalculation": "Подсчет очков на национальных соревнованиях",
   "youLikeLive": "Вам нравится живое отслеживание?",
-  "declarations": "Декларации",
   "noDeclarations": "В настоящее время нет открытых объявлений.",
   "taskDeclarationWarning": "Это перезапишет все объявления в вашем регистраторе и на WeGlide.",
   "satSupporter": "5-минутная погода и карты HD",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Путевая точка обновлена",
   "createCustomWaypointCollections": "Создавайте собственные коллекции:",
   "searchOrDragOnMap": "Найдите или перетащите на карту",
-  "searchOrSelectOnMap": "Найдите или выберите на карте"
+  "searchOrSelectOnMap": "Найдите или выберите на карте",
+  "localCompetitions": "Местные соревнования",
+  "openDeclarations": "Открытые декларации"
 }

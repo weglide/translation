@@ -849,7 +849,6 @@
   "scoringDistance": "Distanza di punteggio",
   "taskPointCalculation": "Calcolo dei punti per le competizioni nazionali",
   "youLikeLive": "Ti piace il monitoraggio in tempo reale?",
-  "declarations": "Dichiarazioni",
   "noDeclarations": "Al momento nessuna dichiarazione aperta.",
   "taskDeclarationWarning": "Questo sovrascriverà tutte le dichiarazioni nel tuo logger e su WeGlide.",
   "satSupporter": "5 minuti meteo sat e mappe HD",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Waypoint aggiornato",
   "createCustomWaypointCollections": "Crea le tue raccolte:",
   "searchOrDragOnMap": "Cerca o trascina sulla mappa",
-  "searchOrSelectOnMap": "Cerca o seleziona sulla mappa"
+  "searchOrSelectOnMap": "Cerca o seleziona sulla mappa",
+  "localCompetitions": "Concorsi locali",
+  "openDeclarations": "Dichiarazioni aperte"
 }

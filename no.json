@@ -849,7 +849,6 @@
   "scoringDistance": "Scoringsavstand",
   "taskPointCalculation": "Poengberegning for nasjonale konkurranser",
   "youLikeLive": "Liker du livesporingen?",
-  "declarations": "Erklæringer",
   "noDeclarations": "Foreløpig ingen åpne erklæringer.",
   "taskDeclarationWarning": "Dette vil overskrive alle erklæringer i loggeren din og på WeGlide.",
   "satSupporter": "5min værsat og HD-kart",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Veipunkt oppdatert",
   "createCustomWaypointCollections": "Lag dine egne samlinger:",
   "searchOrDragOnMap": "Søk eller dra på kartet",
-  "searchOrSelectOnMap": "Søk eller velg på kartet"
+  "searchOrSelectOnMap": "Søk eller velg på kartet",
+  "localCompetitions": "Lokale konkurranser",
+  "openDeclarations": "Åpne erklæringer"
 }

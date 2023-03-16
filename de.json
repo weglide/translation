@@ -918,7 +918,6 @@
   "scoringDistance": "Wertungsdistanz",
   "taskPointCalculation": "Punkterechnung für nationale Wettbewerbe",
   "youLikeLive": "Dir gefällt das Live-Tracking?",
-  "declarations": "Deklarationen",
   "noDeclarations": "Derzeit keine offenen Deklarationen.",
   "satSupporter": "5min Wetter Sat und HD Karten",
   "upgradeNow": "Jetzt upgraden",
@@ -990,5 +989,7 @@
   "waypointUpdated": "Wendepunkt aktualisiert",
   "createCustomWaypointCollections": "Erstelle deine eigenen Sammlungen:",
   "searchOrDragOnMap": "Suchen oder auf der Karte ziehen",
-  "searchOrSelectOnMap": "Suchen oder auf der Karte wählen"
+  "searchOrSelectOnMap": "Suchen oder auf der Karte wählen",
+  "localCompetitions": "Lokale Wettbewerbe",
+  "openDeclarations": "Offene Deklarationen"
 }

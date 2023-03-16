@@ -847,7 +847,6 @@
   "scoringDistance": "得点距離",
   "taskPointCalculation": "全国大会のポイント計算",
   "youLikeLive": "あなたはライブトラッキングが好きですか？",
-  "declarations": "宣言",
   "noDeclarations": "現在、オープン宣言はありません。",
   "taskDeclarationWarning": "これにより、ロガーとWeGlideのすべての宣言が上書きされます。",
   "satSupporter": "5分の天気予報とHDマップ",
@@ -922,5 +921,7 @@
   "waypointUpdated": "ウェイポイントが更新されました",
   "createCustomWaypointCollections": "独自のコレクションを作成します。",
   "searchOrDragOnMap": "地図上で検索またはドラッグ",
-  "searchOrSelectOnMap": "地図上で検索または選択"
+  "searchOrSelectOnMap": "地図上で検索または選択",
+  "localCompetitions": "地方大会",
+  "openDeclarations": "宣言を開く"
 }

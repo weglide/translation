@@ -849,7 +849,6 @@
   "scoringDistance": "Maalintekoetäisyys",
   "taskPointCalculation": "Pisteiden laskeminen kansallisissa kilpailuissa",
   "youLikeLive": "Pidätkö live-seurannasta?",
-  "declarations": "julistukset",
   "noDeclarations": "Tällä hetkellä ei avoimia ilmoituksia.",
   "taskDeclarationWarning": "Tämä korvaa kaikki ilmoitukset loggerissasi ja WeGlidessa.",
   "satSupporter": "5 minuutin sää- ja HD-kartat",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Reittipiste päivitetty",
   "createCustomWaypointCollections": "Luo omat kokoelmat:",
   "searchOrDragOnMap": "Hae tai vedä kartalla",
-  "searchOrSelectOnMap": "Hae tai valitse kartalta"
+  "searchOrSelectOnMap": "Hae tai valitse kartalta",
+  "localCompetitions": "Paikalliset kilpailut",
+  "openDeclarations": "Avoimet ilmoitukset"
 }

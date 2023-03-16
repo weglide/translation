@@ -849,7 +849,6 @@
   "scoringDistance": "įmušimo atstumas",
   "taskPointCalculation": "Nacionalinių varžybų taškų skaičiavimas",
   "youLikeLive": "Ar jums patinka tiesioginis stebėjimas?",
-  "declarations": "Deklaracijos",
   "noDeclarations": "Šiuo metu atvirų deklaracijų nėra.",
   "taskDeclarationWarning": "Taip bus perrašytos visos deklaracijos jūsų registratoriuje ir „WeGlide“.",
   "satSupporter": "5 min. oras ir HD žemėlapiai",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Kelio taškas atnaujintas",
   "createCustomWaypointCollections": "Sukurkite savo kolekcijas:",
   "searchOrDragOnMap": "Ieškokite arba vilkite žemėlapyje",
-  "searchOrSelectOnMap": "Ieškokite arba pasirinkite žemėlapyje"
+  "searchOrSelectOnMap": "Ieškokite arba pasirinkite žemėlapyje",
+  "localCompetitions": "Vietiniai konkursai",
+  "openDeclarations": "Atviros deklaracijos"
 }

@@ -918,7 +918,6 @@
   "scoringDistance": "Distance de notation",
   "taskPointCalculation": "Calcul des points pour les compétitions nationales",
   "youLikeLive": "Vous aimez le suivi en direct?",
-  "declarations": "Déclarations",
   "noDeclarations": "Actuellement aucune déclaration ouverte.",
   "satSupporter": "5min météo sat et cartes HD",
   "upgradeNow": "Mettre à jour maintenant",
@@ -989,5 +988,7 @@
   "waypointUpdated": "Waypoint mis à jour",
   "createCustomWaypointCollections": "Créez vos propres collections :",
   "searchOrDragOnMap": "Rechercher ou faire glisser sur la carte",
-  "searchOrSelectOnMap": "Rechercher ou sélectionner sur la carte"
+  "searchOrSelectOnMap": "Rechercher ou sélectionner sur la carte",
+  "localCompetitions": "Compétitions locales",
+  "openDeclarations": "Déclarations ouvertes"
 }

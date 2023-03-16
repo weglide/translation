@@ -849,7 +849,6 @@
   "scoringDistance": "Оцінка дистанції",
   "taskPointCalculation": "Підрахунок балів за національні змагання",
   "youLikeLive": "Вам подобається відстеження в прямому ефірі?",
-  "declarations": "Декларації",
   "noDeclarations": "Наразі відкритих декларацій немає.",
   "taskDeclarationWarning": "Це перезапише всі оголошення у вашому реєстраторі та в WeGlide.",
   "satSupporter": "5 хвилин погоди та карти HD",
@@ -924,5 +923,7 @@
   "waypointUpdated": "Маршрутна точка оновлена",
   "createCustomWaypointCollections": "Створюйте власні колекції:",
   "searchOrDragOnMap": "Знайдіть або перетягніть на карті",
-  "searchOrSelectOnMap": "Знайдіть або виберіть на карті"
+  "searchOrSelectOnMap": "Знайдіть або виберіть на карті",
+  "localCompetitions": "Місцеві змагання",
+  "openDeclarations": "Відкрити декларації"
 }
