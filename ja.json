@@ -898,7 +898,7 @@
     "androidHeadline": "Android アプリをインストールする",
     "install": "インストール",
     "iosHeadline": "iOS アプリをインストールする",
-    "tap": "選択する"
+    "tap": "ブラウザでタップ"
   },
   "enablePushNotifications": "プッシュ通知を有効にする",
   "flightsFromFriends": "友達からのフライト",

@@ -968,7 +968,7 @@
   "installation": {
     "iosHeadline": "Install iOS App",
     "androidHeadline": "Install Android App",
-    "tap": "Tap",
+    "tap": "Tap in the browser",
     "addToHomeScreen": "Add to Home Screen",
     "install": "Install"
   },

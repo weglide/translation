@@ -900,7 +900,7 @@
     "androidHeadline": "Asenna Android-sovellus",
     "install": "Asentaa",
     "iosHeadline": "Asenna iOS-sovellus",
-    "tap": "Valitse"
+    "tap": "Napauta selaimessa"
   },
   "enablePushNotifications": "Ota Push-ilmoitukset käyttöön",
   "flightsFromFriends": "Lennot ystäviltä",
