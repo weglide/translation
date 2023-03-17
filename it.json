@@ -928,5 +928,6 @@
   "openDeclarations": "Dichiarazioni aperte",
   "whatAreOthersPlanning": "Cosa hanno dichiarato gli altri?",
   "noLocalCompetitions": "Non ci sono ancora concorsi locali, creane uno nuovo da uno dei tuoi compiti.",
-  "noWaypoints": "Ancora nessun waypoint, modifica questa raccolta e aggiungine/caricane alcuni."
+  "noWaypoints": "Ancora nessun waypoint, modifica questa raccolta e aggiungine/caricane alcuni.",
+  "notificationDescription": "Nuovi commenti o voli dai tuoi amici direttamente su questo dispositivo."
 }

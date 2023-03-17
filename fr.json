@@ -997,5 +997,6 @@
   "openDeclarations": "Déclarations ouvertes",
   "whatAreOthersPlanning": "Qu'est-ce que d'autres ont déclaré?",
   "noLocalCompetitions": "Pas encore de compétitions locales, créez-en une nouvelle à partir de l'une de vos tâches.",
-  "noWaypoints": "Aucun waypoint pour le moment, modifiez cette collection et ajoutez-en/téléchargez-en."
+  "noWaypoints": "Aucun waypoint pour le moment, modifiez cette collection et ajoutez-en/téléchargez-en.",
+  "notificationDescription": "Nouveaux commentaires ou vols de vos amis directement sur cet appareil."
 }
