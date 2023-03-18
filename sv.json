@@ -929,5 +929,6 @@
   "whatAreOthersPlanning": "Vad har andra deklarerat?",
   "noLocalCompetitions": "Inga lokala tävlingar än, skapa en ny från en av dina uppgifter.",
   "noWaypoints": "Inga waypoints ännu, redigera den här samlingen och lägg till/ladda upp några.",
-  "notificationDescription": "Nya kommentarer eller flyg från dina vänner direkt till den här enheten."
+  "notificationDescription": "Nya kommentarer eller flyg från dina vänner direkt till den här enheten.",
+  "react": "Reagera"
 }

@@ -927,5 +927,6 @@
   "whatAreOthersPlanning": "他の人は何を宣言しましたか？",
   "noLocalCompetitions": "ローカル コンテストはまだありません。タスクの 1 つから新しいコンテストを作成してください。",
   "noWaypoints": "ウェイポイントはまだありません。このコレクションを編集して追加/アップロードしてください。",
-  "notificationDescription": "友だちからこのデバイスに直接送信された新しいコメントまたはフライト。"
+  "notificationDescription": "友だちからこのデバイスに直接送信された新しいコメントまたはフライト。",
+  "react": "反応する"
 }

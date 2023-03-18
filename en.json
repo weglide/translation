@@ -999,5 +999,6 @@
   "whatAreOthersPlanning": "What have others declared?",
   "noLocalCompetitions": "No local competitions yet, create a new one from one of your tasks.",
   "noWaypoints": "No waypoints yet, edit this collection and add some.",
-  "notificationDescription": "New comments or flights from your friends directly to this device."
+  "notificationDescription": "New comments or flights from your friends directly to this device.",
+  "react": "React"
 }
