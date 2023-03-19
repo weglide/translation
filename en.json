@@ -1003,5 +1003,6 @@
   "react": "React",
   "pushUnsupported": "This browser does not support push notifications.",
   "pushDenied": "This browser does not allow WeGlide to send push notifications.",
-  "pushEnabling": "...enabling, please wait"
+  "pushEnabling": "Push notifications are being activated, this may take some seconds...",
+  "pushUnsupportedIOS": "Push notifications require iOS 16.4 or higher and adding WeGlide to your Home Screen."
 }

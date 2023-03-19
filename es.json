@@ -933,5 +933,6 @@
   "react": "Reaccionar",
   "pushDenied": "Este navegador no permite que WeGlide envíe notificaciones automáticas.",
   "pushUnsupported": "Este navegador no admite notificaciones automáticas.",
-  "pushEnabling": "... habilitando, espere"
+  "pushEnabling": "Las notificaciones push se están activando, esto puede tardar unos segundos...",
+  "pushUnsupportedIOS": "Las notificaciones automáticas requieren iOS 16.4 o superior y agregar WeGlide a su pantalla de inicio."
 }

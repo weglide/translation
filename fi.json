@@ -933,5 +933,6 @@
   "react": "Reagoi",
   "pushDenied": "Tämä selain ei salli WeGliden lähettää push-ilmoituksia.",
   "pushUnsupported": "Tämä selain ei tue push-ilmoituksia.",
-  "pushEnabling": "...ota käyttöön, odota"
+  "pushEnabling": "Push-ilmoituksia aktivoidaan, tämä voi kestää muutaman sekunnin...",
+  "pushUnsupportedIOS": "Push-ilmoitukset vaativat iOS 16.4:n tai uudemman ja WeGliden lisäämisen aloitusnäyttöön."
 }

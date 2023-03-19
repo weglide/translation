@@ -933,5 +933,6 @@
   "react": "Reageer",
   "pushDenied": "Deze browser staat WeGlide niet toe om pushmeldingen te verzenden.",
   "pushUnsupported": "Deze browser ondersteunt geen pushmeldingen.",
-  "pushEnabling": "...inschakelen, even geduld"
+  "pushEnabling": "Pushmeldingen worden geactiveerd, dit kan enkele seconden duren...",
+  "pushUnsupportedIOS": "Voor pushmeldingen is iOS 16.4 of hoger vereist en moet WeGlide aan uw startscherm worden toegevoegd."
 }

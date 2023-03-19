@@ -1002,5 +1002,6 @@
   "react": "Réagir",
   "pushDenied": "Ce navigateur ne permet pas à WeGlide d'envoyer des notifications push.",
   "pushUnsupported": "Ce navigateur ne prend pas en charge les notifications push.",
-  "pushEnabling": "...activation, patienter"
+  "pushEnabling": "Les notifications push sont en cours d'activation, cela peut prendre quelques secondes...",
+  "pushUnsupportedIOS": "Les notifications push nécessitent iOS 16.4 ou supérieur et l'ajout de WeGlide à votre écran d'accueil."
 }

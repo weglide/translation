@@ -933,5 +933,6 @@
   "react": "Reagovat",
   "pushDenied": "Tento prohlížeč neumožňuje WeGlide odesílat oznámení push.",
   "pushUnsupported": "Tento prohlížeč nepodporuje oznámení push.",
-  "pushEnabling": "...aktivace, čekejte prosím"
+  "pushEnabling": "Aktivují se push notifikace, může to trvat několik sekund...",
+  "pushUnsupportedIOS": "Push notifikace vyžadují iOS 16.4 nebo vyšší a přidání WeGlide na domovskou obrazovku."
 }

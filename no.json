@@ -933,5 +933,6 @@
   "react": "Reagere",
   "pushDenied": "Denne nettleseren tillater ikke WeGlide å sende push-varsler.",
   "pushUnsupported": "Denne nettleseren støtter ikke push-varsler.",
-  "pushEnabling": "...aktiverer, vennligst vent"
+  "pushEnabling": "Push-varsler aktiveres, dette kan ta noen sekunder...",
+  "pushUnsupportedIOS": "Push-varsler krever iOS 16.4 eller nyere og legger til WeGlide på startskjermen."
 }

@@ -933,5 +933,6 @@
   "react": "Reagować",
   "pushDenied": "Ta przeglądarka nie pozwala WeGlide na wysyłanie powiadomień push.",
   "pushUnsupported": "Ta przeglądarka nie obsługuje powiadomień push.",
-  "pushEnabling": "...włączanie, proszę czekać"
+  "pushEnabling": "Powiadomienia push są aktywowane, może to potrwać kilka sekund...",
+  "pushUnsupportedIOS": "Powiadomienia push wymagają systemu iOS 16.4 lub nowszego i dodania WeGlide do ekranu głównego."
 }
