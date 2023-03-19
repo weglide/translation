@@ -930,5 +930,7 @@
   "noLocalCompetitions": "Zatím žádné místní soutěže, vytvořte si novou z jednoho ze svých úkolů.",
   "noWaypoints": "Zatím žádné navigační body, upravte tuto sbírku a přidejte/nahrajte nějaké.",
   "notificationDescription": "Nové komentáře nebo lety od vašich přátel přímo do tohoto zařízení.",
-  "react": "Reagovat"
+  "react": "Reagovat",
+  "pushDenied": "Tento prohlížeč neumožňuje WeGlide odesílat oznámení push.",
+  "pushUnsupported": "Tento prohlížeč nepodporuje oznámení push."
 }

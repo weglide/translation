@@ -930,5 +930,7 @@
   "noLocalCompetitions": "Ei vielä paikallisia kilpailuja, luo uusi yhdestä tehtävästäsi.",
   "noWaypoints": "Ei vielä reittipisteitä, muokkaa tätä kokoelmaa ja lisää/lähetä niitä.",
   "notificationDescription": "Uusia kommentteja tai lentoja ystäviltäsi suoraan tähän laitteeseen.",
-  "react": "Reagoi"
+  "react": "Reagoi",
+  "pushDenied": "Tämä selain ei salli WeGliden lähettää push-ilmoituksia.",
+  "pushUnsupported": "Tämä selain ei tue push-ilmoituksia."
 }

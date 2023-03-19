@@ -930,5 +930,7 @@
   "noLocalCompetitions": "Ainda não há competições locais, crie uma nova a partir de uma de suas tarefas.",
   "noWaypoints": "Ainda não há pontos de passagem, edite esta coleção e adicione/carregue alguns.",
   "notificationDescription": "Novos comentários ou voos de seus amigos diretamente para este dispositivo.",
-  "react": "Reagir"
+  "react": "Reagir",
+  "pushDenied": "Este navegador não permite que o WeGlide envie notificações push.",
+  "pushUnsupported": "Este navegador não suporta notificações push."
 }

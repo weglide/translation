@@ -930,5 +930,7 @@
   "noLocalCompetitions": "Inga lokala tävlingar än, skapa en ny från en av dina uppgifter.",
   "noWaypoints": "Inga waypoints ännu, redigera den här samlingen och lägg till/ladda upp några.",
   "notificationDescription": "Nya kommentarer eller flyg från dina vänner direkt till den här enheten.",
-  "react": "Reagera"
+  "react": "Reagera",
+  "pushDenied": "Den här webbläsaren tillåter inte att WeGlide skickar push-meddelanden.",
+  "pushUnsupported": "Den här webbläsaren stöder inte push-meddelanden."
 }

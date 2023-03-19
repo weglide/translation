@@ -930,5 +930,7 @@
   "noLocalCompetitions": "Dar nėra vietinių konkursų, sukurkite naują iš vienos iš savo užduočių.",
   "noWaypoints": "Dar nėra tarpinių taškų, redaguokite šią kolekciją ir pridėkite / įkelkite keletą.",
   "notificationDescription": "Nauji draugų komentarai arba skrydžiai tiesiai į šį įrenginį.",
-  "react": "Reaguoti"
+  "react": "Reaguoti",
+  "pushDenied": "Ši naršyklė neleidžia WeGlide siųsti tiesioginių pranešimų.",
+  "pushUnsupported": "Ši naršyklė nepalaiko tiesioginių pranešimų."
 }
