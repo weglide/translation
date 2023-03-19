@@ -932,5 +932,6 @@
   "notificationDescription": "Nuevos comentarios o vuelos de tus amigos directamente a este dispositivo.",
   "react": "Reaccionar",
   "pushDenied": "Este navegador no permite que WeGlide envíe notificaciones automáticas.",
-  "pushUnsupported": "Este navegador no admite notificaciones automáticas."
+  "pushUnsupported": "Este navegador no admite notificaciones automáticas.",
+  "pushEnabling": "... habilitando, espere"
 }

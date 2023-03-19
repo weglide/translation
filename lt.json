@@ -932,5 +932,6 @@
   "notificationDescription": "Nauji draugų komentarai arba skrydžiai tiesiai į šį įrenginį.",
   "react": "Reaguoti",
   "pushDenied": "Ši naršyklė neleidžia WeGlide siųsti tiesioginių pranešimų.",
-  "pushUnsupported": "Ši naršyklė nepalaiko tiesioginių pranešimų."
+  "pushUnsupported": "Ši naršyklė nepalaiko tiesioginių pranešimų.",
+  "pushEnabling": "...įjungiama, palaukite"
 }

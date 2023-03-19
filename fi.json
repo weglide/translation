@@ -932,5 +932,6 @@
   "notificationDescription": "Uusia kommentteja tai lentoja ystäviltäsi suoraan tähän laitteeseen.",
   "react": "Reagoi",
   "pushDenied": "Tämä selain ei salli WeGliden lähettää push-ilmoituksia.",
-  "pushUnsupported": "Tämä selain ei tue push-ilmoituksia."
+  "pushUnsupported": "Tämä selain ei tue push-ilmoituksia.",
+  "pushEnabling": "...ota käyttöön, odota"
 }

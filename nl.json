@@ -932,5 +932,6 @@
   "notificationDescription": "Nieuwe opmerkingen of vluchten van je vrienden rechtstreeks naar dit apparaat.",
   "react": "Reageer",
   "pushDenied": "Deze browser staat WeGlide niet toe om pushmeldingen te verzenden.",
-  "pushUnsupported": "Deze browser ondersteunt geen pushmeldingen."
+  "pushUnsupported": "Deze browser ondersteunt geen pushmeldingen.",
+  "pushEnabling": "...inschakelen, even geduld"
 }

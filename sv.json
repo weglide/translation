@@ -932,5 +932,6 @@
   "notificationDescription": "Nya kommentarer eller flyg från dina vänner direkt till den här enheten.",
   "react": "Reagera",
   "pushDenied": "Den här webbläsaren tillåter inte att WeGlide skickar push-meddelanden.",
-  "pushUnsupported": "Den här webbläsaren stöder inte push-meddelanden."
+  "pushUnsupported": "Den här webbläsaren stöder inte push-meddelanden.",
+  "pushEnabling": "...aktiverar, vänligen vänta"
 }

@@ -1002,5 +1002,6 @@
   "notificationDescription": "New comments or flights from your friends directly to this device.",
   "react": "React",
   "pushUnsupported": "This browser does not support push notifications.",
-  "pushDenied": "This browser does not allow WeGlide to send push notifications."
+  "pushDenied": "This browser does not allow WeGlide to send push notifications.",
+  "pushEnabling": "...enabling, please wait"
 }

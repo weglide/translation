@@ -932,5 +932,6 @@
   "notificationDescription": "Nuovi commenti o voli dai tuoi amici direttamente su questo dispositivo.",
   "react": "Reagire",
   "pushDenied": "Questo browser non consente a WeGlide di inviare notifiche push.",
-  "pushUnsupported": "Questo browser non supporta le notifiche push."
+  "pushUnsupported": "Questo browser non supporta le notifiche push.",
+  "pushEnabling": "...abilitazione, attendere"
 }

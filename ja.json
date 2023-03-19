@@ -930,5 +930,6 @@
   "notificationDescription": "友だちからこのデバイスに直接送信された新しいコメントまたはフライト。",
   "react": "反応する",
   "pushDenied": "このブラウザは、WeGlide がプッシュ通知を送信することを許可していません。",
-  "pushUnsupported": "このブラウザはプッシュ通知をサポートしていません。"
+  "pushUnsupported": "このブラウザはプッシュ通知をサポートしていません。",
+  "pushEnabling": "...有効にしています。お待ちください"
 }

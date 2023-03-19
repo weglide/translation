@@ -932,5 +932,6 @@
   "notificationDescription": "Nye kommentarer eller flyreiser fra vennene dine direkte til denne enheten.",
   "react": "Reagere",
   "pushDenied": "Denne nettleseren tillater ikke WeGlide å sende push-varsler.",
-  "pushUnsupported": "Denne nettleseren støtter ikke push-varsler."
+  "pushUnsupported": "Denne nettleseren støtter ikke push-varsler.",
+  "pushEnabling": "...aktiverer, vennligst vent"
 }

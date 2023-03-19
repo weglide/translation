@@ -1001,5 +1001,6 @@
   "notificationDescription": "Nouveaux commentaires ou vols de vos amis directement sur cet appareil.",
   "react": "Réagir",
   "pushDenied": "Ce navigateur ne permet pas à WeGlide d'envoyer des notifications push.",
-  "pushUnsupported": "Ce navigateur ne prend pas en charge les notifications push."
+  "pushUnsupported": "Ce navigateur ne prend pas en charge les notifications push.",
+  "pushEnabling": "...activation, patienter"
 }

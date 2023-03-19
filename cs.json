@@ -932,5 +932,6 @@
   "notificationDescription": "Nové komentáře nebo lety od vašich přátel přímo do tohoto zařízení.",
   "react": "Reagovat",
   "pushDenied": "Tento prohlížeč neumožňuje WeGlide odesílat oznámení push.",
-  "pushUnsupported": "Tento prohlížeč nepodporuje oznámení push."
+  "pushUnsupported": "Tento prohlížeč nepodporuje oznámení push.",
+  "pushEnabling": "...aktivace, čekejte prosím"
 }
