@@ -892,7 +892,7 @@
     "hdSatelliteUpgrade": "Obtenez des cartes satellites HD",
     "waypointCollectionsDescription": "Organisez vos propres waypoints en collections pour la planification de tâches individuelles.",
     "waypointCollectionsKeyboard": "Planifiez rapidement des tâches en tapant les noms des waypoints",
-    "waypointCollectionsManage": "Modifier, télécharger ou supprimer des waypoints de vos collections",
+    "waypointCollectionsManage": "Téléchargez des fichiers CUP existants ou créez des waypoints manuellement",
     "waypointCollectionsPublic": "Publier une collection pour tous les utilisateurs"
   },
   "send": "Envoyer",

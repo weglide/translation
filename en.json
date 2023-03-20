@@ -869,7 +869,7 @@
     "hostLocalCompetitionsRules": "Choose your rules: Classic, AAT, or Grand Prix",
     "hostLocalCompetitionsStatistics": "Compare your task performance with the statistics list",
     "waypointCollectionsDescription": "Organize your own waypoints into collections for individual task planning.",
-    "waypointCollectionsManage": "Edit, upload or delete waypoints from your collections",
+    "waypointCollectionsManage": "Upload existing CUP-files or create waypoints manually",
     "waypointCollectionsKeyboard": "Plan tasks quicker by typing waypoint names",
     "waypointCollectionsPublic": "Release a collection for all users",
     "collectionsDescription": "Bundle flights to beautiful, sharable collections. How about collecting:",
