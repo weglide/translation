@@ -892,7 +892,7 @@
     "hdSatelliteUpgrade": "Hole dir HD Satellitenkarten",
     "waypointCollectionsDescription": "Organisiere eigene Wendepunkte in Sammlungen für eine individuelle Aufgabenplanung.",
     "waypointCollectionsKeyboard": "Plane Aufgaben schneller, indem du Wendepunktnamen eintippst",
-    "waypointCollectionsManage": "Lade vorhandene CUP-Dateien hoch order erstelle Wendepunkte manuell",
+    "waypointCollectionsManage": "Lade vorhandene CUP-Dateien hoch oder erstelle Wendepunkte manuell",
     "waypointCollectionsPublic": "Schalte eine Sammlung für alle Nutzer*innen frei"
   },
   "currentPlanTest": "Du probierst {plan} aus.",
