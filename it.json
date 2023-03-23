@@ -933,6 +933,6 @@
   "react": "Reagire",
   "pushDenied": "Questo browser non consente a WeGlide di inviare notifiche push.",
   "pushUnsupported": "Questo browser non supporta le notifiche push.",
-  "pushEnabling": "Le notifiche push sono in fase di attivazione, potrebbero volerci alcuni secondi...",
+  "pushEnabling": "Le notifiche push sono in fase di attivazione, attendere. L'operazione potrebbe richiedere fino a un minuto.",
   "pushUnsupportedIOS": "Le notifiche push richiedono iOS 16.4 o versioni successive e l'aggiunta di WeGlide alla schermata Home."
 }

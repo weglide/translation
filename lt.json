@@ -933,6 +933,6 @@
   "react": "Reaguoti",
   "pushDenied": "Ši naršyklė neleidžia WeGlide siųsti tiesioginių pranešimų.",
   "pushUnsupported": "Ši naršyklė nepalaiko tiesioginių pranešimų.",
-  "pushEnabling": "Suaktyvinami tiesioginiai pranešimai, tai gali užtrukti kelias sekundes...",
+  "pushEnabling": "Push pranešimai aktyvinami, palaukite. Tai gali užtrukti iki minutės.",
   "pushUnsupportedIOS": "„Push“ pranešimams reikalinga 16.4 ar naujesnė „iOS“ versija ir „WeGlide“ įtraukimas į pagrindinį ekraną."
 }

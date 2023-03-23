@@ -933,6 +933,6 @@
   "react": "Reagera",
   "pushDenied": "Den här webbläsaren tillåter inte att WeGlide skickar push-meddelanden.",
   "pushUnsupported": "Den här webbläsaren stöder inte push-meddelanden.",
-  "pushEnabling": "Push-meddelanden aktiveras, detta kan ta några sekunder...",
+  "pushEnabling": "Push-meddelanden aktiveras, vänta. Detta kan ta upp till en minut.",
   "pushUnsupportedIOS": "Push-meddelanden kräver iOS 16.4 eller högre och lägger till WeGlide på din startskärm."
 }
