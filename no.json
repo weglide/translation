@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Hard tidsbegrensning ( {0} sekunder) mellom reparasjoner nesten overskredet ved {1} , intervall uten logging er {2} sekunder.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hard tidsbegrensning ( {0} sekunder) mellom rettelser overskredet ved {1} , intervall uten logging er {2} sekunder.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hard tidsbegrensning ( {0} sekunder) mellom rettinger overskredet utenfor poengintervallene ved {1} , intervall uten logging er {2} sekunder.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervaller overskrider myk tidsgrense mellom rettelser ( {1} s), tillatte {2} intervaller."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervaller overskrider myk tidsgrense mellom rettelser ( {1} s), tillatte {2} intervaller.",
+    "OLC_FILE": "Filen er endret av OLC. Last opp den opprinnelige filen på nytt.",
+    "LXV_DOUBLE_SEATER": "Filer fra LXNav bakre enhet er alltid ugyldige. Les opp LX foran og last den opp igjen.",
+    "NO_G_RECORD": "Ingen G-post tilgjengelig."
   },
   "flightFilterPlaceholder": "Region, pilot, klubb, flyplass …",
   "flightInvalid": "Fly ugyldig",

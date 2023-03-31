@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Pevné časové omezení ( {0} sekund) mezi opravami bylo téměř překročeno v {1} , interval bez protokolování je {2} sekund.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Pevné časové omezení ( {0} sekund) mezi opravami bylo překročeno v {1} , interval bez protokolování je {2} sekund.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Pevné časové omezení ( {0} sekund) mezi opravami bylo překročeno mimo intervaly hodnocení v {1} , interval bez protokolování je {2} sekund.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalů překračuje měkký časový limit mezi opravami ( {1} s), povolených {2} intervalů."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalů překračuje měkký časový limit mezi opravami ( {1} s), povolených {2} intervalů.",
+    "OLC_FILE": "Soubor byl změněn OLC, nahrajte prosím původní soubor znovu.",
+    "LXV_DOUBLE_SEATER": "Soubory ze zadního zařízení LXNav jsou vždy neplatné. Přečtěte si prosím přední LX a nahrajte jej znovu.",
+    "NO_G_RECORD": "Nebyl nalezen žádný záznam G (kontrola integrity)."
   },
   "flightFilterPlaceholder": "Region, pilot, klub, přistávací …",
   "flightInvalid": "Let je neplatný",

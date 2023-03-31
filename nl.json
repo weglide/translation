@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Limiet tijdsinterval ({0} seconden) tussen fixes bijna overschreden om {1}, interval zonder log is {2} seconden.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Limiet tijdsinterval ({0} seconden) tussen fixes overschreden om {1}, interval zonder log is {2} seconden.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Limiet tijdsinterval ({0} seconden) tussen fixes overschreden om {1}, interval zonder log is {2} seconden.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} tijdsinterval overschrijd de zachte tijdslimiet tussen fixes ({1}s), {2} intervallen toegestaan."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} tijdsinterval overschrijd de zachte tijdslimiet tussen fixes ({1}s), {2} intervallen toegestaan.",
+    "OLC_FILE": "Bestand is gewijzigd door de OLC, upload het originele bestand opnieuw.",
+    "LXV_DOUBLE_SEATER": "Bestanden van het LXNav-achterapparaat zijn altijd ongeldig. Lees de voorkant LX voor en upload deze opnieuw.",
+    "NO_G_RECORD": "Geen G-record beschikbaar."
   },
   "flightFilterPlaceholder": "Regio, piloot, club, vliegveld …",
   "flightInvalid": "Ongeldige vlucht",

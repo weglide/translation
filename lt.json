@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Sunkaus laiko apribojimas ( {0} sek.) tarp pataisymų beveik viršytas {1} , intervalas be registravimo yra {2} sek.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Sunkaus laiko apribojimas ( {0} sek.) tarp pataisymų viršytas {1} , intervalas be registravimo yra {2} sek.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Sunkaus laiko apribojimas ( {0} sek.) tarp pataisymų viršytas už vertinimo intervalų ribų {1} , intervalas be registravimo yra {2} sek.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalai viršija švelnų laiko limitą tarp pataisymų ( {1} s), leidžiami {2} intervalai."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalai viršija švelnų laiko limitą tarp pataisymų ( {1} s), leidžiami {2} intervalai.",
+    "OLC_FILE": "Failą pakeitė OLC, dar kartą įkelkite originalų failą.",
+    "LXV_DOUBLE_SEATER": "Failai iš LXNav galinio įrenginio visada negalioja. Perskaitykite priekinį LX ir įkelkite dar kartą.",
+    "NO_G_RECORD": "Nėra G įrašo."
   },
   "flightFilterPlaceholder": "Regionas, pilotas, klubas, aerodromas…",
   "flightInvalid": "Skrydis negalioja",

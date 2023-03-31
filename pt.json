@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Restrição de tempo difícil ( {0} segundos) entre as correções quase excedida em {1} , o intervalo sem registro é de {2} segundos.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Restrição de tempo difícil ( {0} segundos) entre correções excedida em {1} , intervalo sem registro é de {2} segundos.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "A restrição de tempo difícil ( {0} segundos) entre as correções excedeu os intervalos de pontuação em {1} , o intervalo sem registro é de {2} segundos.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalos excedem o limite de tempo flexível entre correções ( {1} s), permitidos {2} intervalos."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalos excedem o limite de tempo flexível entre correções ( {1} s), permitidos {2} intervalos.",
+    "OLC_FILE": "O arquivo foi alterado pelo OLC, faça o upload do arquivo original novamente.",
+    "LXV_DOUBLE_SEATER": "Os arquivos do dispositivo traseiro LXNav são sempre inválidos. Leia o LX frontal e faça o upload novamente.",
+    "NO_G_RECORD": "Nenhum registro G disponível."
   },
   "flightFilterPlaceholder": "Região, piloto, clube, aeródromo…",
   "flightInvalid": "Voo inválido",

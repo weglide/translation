@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Hård tidsbegränsning ( {0} sekunder) mellan korrigeringar nästan överskrids vid {1} , intervallet utan loggning är {2} sekunder.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hård tidsbegränsning ( {0} sekunder) mellan korrigeringar överskrids vid {1} , intervallet utan loggning är {2} sekunder.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hård tidsbegränsning ( {0} sekunder) mellan korrigeringar överskrids utanför poängintervallen vid {1} , intervall utan loggning är {2} sekunder.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervaller överskrider mjuk tidsgräns mellan fixar ( {1} s), tillåtna {2} intervall."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervaller överskrider mjuk tidsgräns mellan fixar ( {1} s), tillåtna {2} intervall.",
+    "OLC_FILE": "Filen har ändrats av OLC, ladda upp originalfilen igen.",
+    "LXV_DOUBLE_SEATER": "Filer från LXNavs bakre enhet är alltid ogiltiga. Läs upp den främre LX och ladda upp den igen.",
+    "NO_G_RECORD": "Ingen G-post tillgänglig."
   },
   "flightFilterPlaceholder": "Region, pilot, klubb, flygfält …",
   "flightInvalid": "Flygningen är ogiltig",

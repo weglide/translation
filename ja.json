@@ -163,7 +163,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "修正間のハードタイム制約（ {0} {1}でほぼ超過し、ロギングなしの間隔は{2}秒です。",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "修正間のハードタイム制約（ {0} {1}で超過し、ログなしの間隔は{2}秒です。",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "修正間のハードタイム制約（ {0} {1}スコアリング間隔の外側を超え、ロギングなしの間隔は{2}秒です。",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0}間隔が修正間のソフト時間制限（ {1} {2}間隔が許可されています。"
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0}間隔が修正間のソフト時間制限（ {1} {2}間隔が許可されています。",
+    "OLC_FILE": "ファイルは OLC によって変更されています。元のファイルを再度アップロードしてください。",
+    "LXV_DOUBLE_SEATER": "LXNav リア デバイスからのファイルは常に無効です。 前のLXを読み上げて、再度アップロードしてください。",
+    "NO_G_RECORD": "Gレコードはありません。"
   },
   "flightFilterPlaceholder": "地域、パイロット、クラブ、飛行場…",
   "flightInvalid": "フライトが無効です",

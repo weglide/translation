@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Kova aikarajoitus ( {0} sekuntia) korjausten välillä melkein ylitetty klo {1} , väli ilman kirjaamista on {2} sekuntia.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Kova aikarajoitus ( {0} sekuntia) korjausten välillä ylitetty klo {1} , väli ilman kirjaamista on {2} sekuntia.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Kova aikarajoitus ( {0} sekuntia) korjausten välillä ylittyi pisteytysvälien ulkopuolella klo {1} , väli ilman kirjaamista on {2} sekuntia.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} aikaväliä ylittää pehmeän aikarajan korjausten välillä ( {1} s), sallitut välit {2}"
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} aikaväliä ylittää pehmeän aikarajan korjausten välillä ( {1} s), sallitut välit {2}",
+    "OLC_FILE": "OLC on muuttanut tiedostoa, lähetä alkuperäinen tiedosto uudelleen.",
+    "LXV_DOUBLE_SEATER": "LXNav-takalaitteen tiedostot ovat aina virheellisiä. Lue etuosan LX ja lataa se uudelleen.",
+    "NO_G_RECORD": "G-tietuetta ei ole saatavilla."
   },
   "flightFilterPlaceholder": "Alue, lentäjä, klubi, lentokenttä…",
   "flightInvalid": "Lento ei kelpaa",

@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Twarde ograniczenia czasowe ({0} sekund) pomiędzy pomiarami prawie przekroczone w {1}, interwał bez logowania wynosi {2} sekund.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Twarde ograniczenia czasowe ({0} sekund) pomiędzy pomiarami przekroczone w {1}, interwał bez logowania wynosi {2} sekund.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Twarde ograniczenia czasowe ({0} sekund) pomiędzy pomiarami przekroczone w {1}, interwał bez logowania wynosi {2} sekund.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} interwały przekraczają miękki limit czasu pomiędzy pomiarami ({1}s), dozwolone {2} interwały."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} interwały przekraczają miękki limit czasu pomiędzy pomiarami ({1}s), dozwolone {2} interwały.",
+    "OLC_FILE": "Plik został zmieniony przez OLC, prześlij ponownie oryginalny plik.",
+    "LXV_DOUBLE_SEATER": "Pliki z tylnego urządzenia LXNav są zawsze nieprawidłowe. Przeczytaj przednią część LX i prześlij ją ponownie.",
+    "NO_G_RECORD": "Brak dostępnych rekordów G."
   },
   "flightFilterPlaceholder": "Region, pilota, klub, lotnisko …",
   "flightInvalid": "Lot nieważny",

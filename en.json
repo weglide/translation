@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Hard time constraint ({0} seconds) between fixes almost exceeded at {1}, interval without logging is {2} seconds.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hard time constraint ({0} seconds) between fixes exceeded  at {1}, interval without logging is {2} seconds.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hard time constraint ({0} seconds) between fixes exceeded outside scoring intervals at {1}, interval without logging is {2} seconds.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervals exceed soft time limit between fixes ({1}s), allowed {2} intervals."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervals exceed soft time limit between fixes ({1}s), allowed {2} intervals.",
+    "OLC_FILE": "File was changed by OLC, please reupload original file.",
+    "LXV_DOUBLE_SEATER": "Files from a backseat LXNAV device can't be validated. Please reupload the file from the frontseat device.",
+    "NO_G_RECORD": "No G-Record found."
   },
   "flightFilterPlaceholder": "Region, pilot, club, airfield …",
   "flightInvalid": "Flight invalid",

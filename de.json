@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Hartes Zeitlimit ({0} Sekunden) zwischen GPS-Werten beinahe überschritten um {1}, Spanne ohne Aufzeichnung sind {2} Sekunden.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Hartes Zeitlimit ({0} Sekunden) zwischen GPS-Werten überschritten um {1}, Spanne ohne Aufzeichnung sind {2} Sekunden.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Hartes Zeitlimit ({0} Sekunden) zwischen GPS-Werten außerhalb der Wertungsfenster überschritten um {1}, Spanne ohne Aufzeichnung sind {2} Sekunden.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} Zeitintervalle zwischen Aufzeichnungen überschreiten das weiche Limit von {1} Sekunden, erlaubt sind {2} Intervalle."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} Zeitintervalle zwischen Aufzeichnungen überschreiten das weiche Limit von {1} Sekunden, erlaubt sind {2} Intervalle.",
+    "OLC_FILE": "Datei ist vom OLC geändert worden, bitte erneut die originale Datei hochladen.",
+    "LXV_DOUBLE_SEATER": "Dateien vom hinteren LXNav Gerät sind immer ungültig. Bitte das vordere LX auslesen und neu hochladen.",
+    "NO_G_RECORD": "Kein G Record vorhanden."
   },
   "flightFilterPlaceholder": "Land, Person, Verein, Flugplatz …",
   "flightInvalid": "Flug ungültig",

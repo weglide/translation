@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Limite de temps 'dure' ({0} secondes) entre les données de trace GPS presque dépassée de {1}, la période de temps sans enregistrement de trace GPS est de {2} secondes.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Limite de temps 'dure' ({0} secondes) entre les données de trace GPS dépassée de {1}, la période de temps sans enregistrement de trace GPS est de {2} secondes.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Limite de temps 'dure' ({0} secondes) entre les données de trace GPS dépassée de {1}, la période de temps sans enregistrement de trace GPS est de {2} secondes.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "Les intervalles {0} dépassent la limite de temps douce entre les corrections ({1}s), intervalles {2} autorisés."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "Les intervalles {0} dépassent la limite de temps douce entre les corrections ({1}s), intervalles {2} autorisés.",
+    "OLC_FILE": "Le fichier a été modifié par l'OLC, veuillez télécharger à nouveau le fichier d'origine.",
+    "LXV_DOUBLE_SEATER": "Les fichiers du périphérique arrière LXNav sont toujours invalides. Veuillez lire le LX avant et le télécharger à nouveau.",
+    "NO_G_RECORD": "Aucun enregistrement G disponible."
   },
   "flightFilterPlaceholder": "Région, Pilote, Club, Aérodrome …",
   "flightInvalid": "Vol invalide",

@@ -165,7 +165,10 @@
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Vincolo di tempo rigido ({0} secondi) tra le correzioni quasi superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Vincolo di tempo rigido ({0} secondi) tra le correzioni superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Vincolo di tempo rigido ({0} secondi) tra le correzioni superato in {1}, l'intervallo senza registrazione è di {2} secondi.",
-    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "Gli intervalli {0} superano il limite di tempo flessibile tra le correzioni ({1}), gli intervalli {2} consentiti."
+    "RAW_TIME_SOFT_LIMIT_EXCEEDED": "Gli intervalli {0} superano il limite di tempo flessibile tra le correzioni ({1}), gli intervalli {2} consentiti.",
+    "OLC_FILE": "Il file è stato modificato dall'OLC, carica di nuovo il file originale.",
+    "LXV_DOUBLE_SEATER": "I file dal dispositivo posteriore LXNav non sono sempre validi. Si prega di leggere l'LX anteriore e caricarlo di nuovo.",
+    "NO_G_RECORD": "Nessun record G disponibile."
   },
   "flightFilterPlaceholder": "Regione, Pilota, Club, Aeroporto …",
   "flightInvalid": "Volo non valido",
