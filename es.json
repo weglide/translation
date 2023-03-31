@@ -937,5 +937,6 @@
   "pushDenied": "Este navegador no permite que WeGlide envíe notificaciones automáticas.",
   "pushUnsupported": "Este navegador no admite notificaciones automáticas.",
   "pushEnabling": "Las notificaciones automáticas se están activando, por favor espere. Esto puede tardar hasta un minuto.",
-  "pushUnsupportedIOS": "Las notificaciones automáticas requieren iOS 16.4 o superior y agregar WeGlide a su pantalla de inicio."
+  "pushUnsupportedIOS": "Las notificaciones automáticas requieren iOS 16.4 o superior y agregar WeGlide a su pantalla de inicio.",
+  "listApprovedLoggers": "Lista de todos los madereros certificados"
 }

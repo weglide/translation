@@ -937,5 +937,6 @@
   "pushDenied": "Este navegador não permite que o WeGlide envie notificações push.",
   "pushUnsupported": "Este navegador não suporta notificações push.",
   "pushEnabling": "As notificações push estão sendo ativadas, aguarde. Isso pode levar até um minuto.",
-  "pushUnsupportedIOS": "As notificações por push requerem o iOS 16.4 ou superior e a adição do WeGlide à sua tela inicial."
+  "pushUnsupportedIOS": "As notificações por push requerem o iOS 16.4 ou superior e a adição do WeGlide à sua tela inicial.",
+  "listApprovedLoggers": "Lista de todos os madeireiros aprovados"
 }

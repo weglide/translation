@@ -935,5 +935,6 @@
   "pushDenied": "このブラウザは、WeGlide がプッシュ通知を送信することを許可していません。",
   "pushUnsupported": "このブラウザはプッシュ通知をサポートしていません。",
   "pushEnabling": "プッシュ通知を有効にしています。お待ちください。これには 1 分ほどかかる場合があります。",
-  "pushUnsupportedIOS": "プッシュ通知には、iOS 16.4 以降とホーム画面への WeGlide の追加が必要です。"
+  "pushUnsupportedIOS": "プッシュ通知には、iOS 16.4 以降とホーム画面への WeGlide の追加が必要です。",
+  "listApprovedLoggers": "承認されたすべてのロガーのリスト"
 }

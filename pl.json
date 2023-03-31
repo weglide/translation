@@ -937,5 +937,6 @@
   "pushDenied": "Ta przeglądarka nie pozwala WeGlide na wysyłanie powiadomień push.",
   "pushUnsupported": "Ta przeglądarka nie obsługuje powiadomień push.",
   "pushEnabling": "Powiadomienia push są aktywowane, proszę czekać. Może to potrwać do minuty.",
-  "pushUnsupportedIOS": "Powiadomienia push wymagają systemu iOS 16.4 lub nowszego i dodania WeGlide do ekranu głównego."
+  "pushUnsupportedIOS": "Powiadomienia push wymagają systemu iOS 16.4 lub nowszego i dodania WeGlide do ekranu głównego.",
+  "listApprovedLoggers": "Lista wszystkich zatwierdzonych rejestratorów"
 }
