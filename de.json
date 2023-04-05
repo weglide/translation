@@ -1008,5 +1008,9 @@
   "pushUnsupported": "Dieser Browser unterstützt keine Push-Benachrichtigungen.",
   "pushEnabling": "Bitte warten, Push-Benachrichtigungen werden aktiviert. Dies kann bis zu einer Minute dauern.",
   "pushUnsupportedIOS": "Push-Benachrichtigungen erfordern mindestens iOS 16.4 und das Hinzufügen von WeGlide zum Home-Bildschirm.",
-  "listApprovedLoggers": "Liste aller zertifizierten Logger"
+  "listApprovedLoggers": "Liste aller zertifizierten Logger",
+  "badgeToNextLevel": "{count} Badge mehr bis zum nächsten Level",
+  "badges": "Badges",
+  "badgesToNextLevel": "{count} Badges bis zum nächsten Level",
+  "level": "Level"
 }

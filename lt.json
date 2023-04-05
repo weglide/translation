@@ -938,5 +938,8 @@
   "pushUnsupported": "Ši naršyklė nepalaiko tiesioginių pranešimų.",
   "pushEnabling": "Push pranešimai aktyvinami, palaukite. Tai gali užtrukti iki minutės.",
   "pushUnsupportedIOS": "„Push“ pranešimams reikalinga 16.4 ar naujesnė „iOS“ versija ir „WeGlide“ įtraukimas į pagrindinį ekraną.",
-  "listApprovedLoggers": "Visų patvirtintų miško kirtėjų sąrašas"
+  "listApprovedLoggers": "Visų patvirtintų miško kirtėjų sąrašas",
+  "badgeToNextLevel": "",
+  "badges": "Badges",
+  "level": "Lygis"
 }

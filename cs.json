@@ -938,5 +938,8 @@
   "pushUnsupported": "Tento prohlížeč nepodporuje oznámení push.",
   "pushEnabling": "Oznámení push se aktivují, čekejte prosím. \nTo může trvat až minutu.",
   "pushUnsupportedIOS": "Push notifikace vyžadují iOS 16.4 nebo vyšší a přidání WeGlide na domovskou obrazovku.",
-  "listApprovedLoggers": "Seznam všech schválených loggerů"
+  "listApprovedLoggers": "Seznam všech schválených loggerů",
+  "badgeToNextLevel": "",
+  "badges": "Badges",
+  "level": "Úroveň"
 }

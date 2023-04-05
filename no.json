@@ -938,5 +938,8 @@
   "pushUnsupported": "Denne nettleseren støtter ikke push-varsler.",
   "pushEnabling": "Push-varsler aktiveres, vennligst vent. Dette kan ta opptil ett minutt.",
   "pushUnsupportedIOS": "Push-varsler krever iOS 16.4 eller nyere og legger til WeGlide på startskjermen.",
-  "listApprovedLoggers": "Liste over alle godkjente loggere"
+  "listApprovedLoggers": "Liste over alle godkjente loggere",
+  "badgeToNextLevel": "",
+  "badges": "Badges",
+  "level": "Nivå"
 }

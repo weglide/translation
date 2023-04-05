@@ -938,5 +938,8 @@
   "pushUnsupported": "Tämä selain ei tue push-ilmoituksia.",
   "pushEnabling": "Push-ilmoituksia aktivoidaan, odota. Tämä voi kestää minuutin.",
   "pushUnsupportedIOS": "Push-ilmoitukset vaativat iOS 16.4:n tai uudemman ja WeGliden lisäämisen aloitusnäyttöön.",
-  "listApprovedLoggers": "Luettelo kaikista hyväksytyistä metsästäjistä"
+  "listApprovedLoggers": "Luettelo kaikista hyväksytyistä metsästäjistä",
+  "badgeToNextLevel": "",
+  "badges": "Badges",
+  "level": "Taso"
 }

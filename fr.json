@@ -1007,5 +1007,9 @@
   "pushUnsupported": "Ce navigateur ne prend pas en charge les notifications push.",
   "pushEnabling": "Les notifications push sont en cours d'activation, veuillez patienter. Cela peut prendre jusqu'à une minute.",
   "pushUnsupportedIOS": "Les notifications push nécessitent iOS 16.4 ou supérieur et l'ajout de WeGlide à votre écran d'accueil.",
-  "listApprovedLoggers": "Liste de tous les loggers certifiés"
+  "listApprovedLoggers": "Liste de tous les loggers certifiés",
+  "badgeToNextLevel": "{count} badge de plus au niveau suivant",
+  "badges": "Badges",
+  "badgesToNextLevel": "{count} autres badges au niveau suivant",
+  "level": "Niveau"
 }

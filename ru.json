@@ -938,5 +938,8 @@
   "pushUnsupported": "Этот браузер не поддерживает push-уведомления.",
   "pushEnabling": "Активируются push-уведомления, подождите. Это может занять до минуты.",
   "pushUnsupportedIOS": "Для push-уведомлений требуется iOS 16.4 или выше и добавление WeGlide на главный экран.",
-  "listApprovedLoggers": "Список всех одобренных регистраторов"
+  "listApprovedLoggers": "Список всех одобренных регистраторов",
+  "badgeToNextLevel": "",
+  "badges": "Значки",
+  "level": "Уровень"
 }

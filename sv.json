@@ -938,5 +938,8 @@
   "pushUnsupported": "Den här webbläsaren stöder inte push-meddelanden.",
   "pushEnabling": "Push-meddelanden aktiveras, vänta. Detta kan ta upp till en minut.",
   "pushUnsupportedIOS": "Push-meddelanden kräver iOS 16.4 eller högre och lägger till WeGlide på din startskärm.",
-  "listApprovedLoggers": "Lista över alla godkända loggare"
+  "listApprovedLoggers": "Lista över alla godkända loggare",
+  "badgeToNextLevel": "",
+  "badges": "Badges",
+  "level": "Nivå"
 }
