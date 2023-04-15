@@ -823,7 +823,7 @@
     "energy": "FES energy used until now",
     "msl": "Altitude above mean sea level",
     "agl": "Altitude above ground level",
-    "vario": "Smoothed variometer climb rate",
+    "vario": "Variometer climb rate",
     "speed": "Cruise speed",
     "speed1h": "Average one hour competition speed"
   },
