@@ -942,5 +942,6 @@
   "badgeToNextLevel": "{count} badge más para el siguiente nivel",
   "badges": "Badges",
   "badgesToNextLevel": "{count} badges más para el siguiente nivel",
-  "level": "Nivel"
+  "level": "Nivel",
+  "unsavedChangesWarning": "Estás a punto de salir de esta página. \nLos cambios no guardados serán descartados."
 }

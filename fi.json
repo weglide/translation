@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Luettelo kaikista hyväksytyistä metsästäjistä",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Taso"
+  "level": "Taso",
+  "unsavedChangesWarning": "Olet poistumassa tältä sivulta. \nTallentamattomat muutokset hylätään."
 }

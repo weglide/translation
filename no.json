@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Liste over alle godkjente loggere",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Nivå"
+  "level": "Nivå",
+  "unsavedChangesWarning": "Du er i ferd med å forlate denne siden. \nUlagrede endringer vil bli forkastet."
 }

@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Visų patvirtintų miško kirtėjų sąrašas",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Lygis"
+  "level": "Lygis",
+  "unsavedChangesWarning": "Jūs ruošiatės išeiti iš šio puslapio. \nNeišsaugoti pakeitimai bus atmesti."
 }

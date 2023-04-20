@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Seznam všech schválených loggerů",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Úroveň"
+  "level": "Úroveň",
+  "unsavedChangesWarning": "Chystáte se opustit tuto stránku. \nNeuložené změny budou zahozeny."
 }

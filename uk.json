@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Список усіх затверджених реєстраторів",
   "badgeToNextLevel": "",
   "badges": "Значки",
-  "level": "Рівень"
+  "level": "Рівень",
+  "unsavedChangesWarning": "Ви збираєтеся залишити цю сторінку. \nНезбережені зміни буде відхилено."
 }

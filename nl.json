@@ -942,5 +942,6 @@
   "badgeToNextLevel": "{count} badge naar het volgende niveau",
   "badges": "Badges",
   "badgesToNextLevel": "{count} meer badges naar het volgende niveau",
-  "level": "Niveau"
+  "level": "Niveau",
+  "unsavedChangesWarning": "U staat op het punt deze pagina te verlaten. \nNiet-opgeslagen wijzigingen worden verwijderd."
 }

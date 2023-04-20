@@ -939,5 +939,6 @@
   "listApprovedLoggers": "承認されたすべてのロガーのリスト",
   "badgeToNextLevel": "",
   "badges": "バッジ",
-  "level": "レベル"
+  "level": "レベル",
+  "unsavedChangesWarning": "このページを離れようとしています。\n保存されていない変更は破棄されます。"
 }

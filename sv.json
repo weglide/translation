@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Lista över alla godkända loggare",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Nivå"
+  "level": "Nivå",
+  "unsavedChangesWarning": "Du är på väg att lämna denna sida. \nOsparade ändringar kommer att kasseras."
 }

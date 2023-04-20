@@ -941,5 +941,6 @@
   "listApprovedLoggers": "Lista wszystkich zatwierdzonych rejestratorów",
   "badgeToNextLevel": "",
   "badges": "Badges",
-  "level": "Poziom"
+  "level": "Poziom",
+  "unsavedChangesWarning": "Zamierzasz opuścić tę stronę. \nNiezapisane zmiany zostaną odrzucone."
 }

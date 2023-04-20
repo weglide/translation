@@ -1012,5 +1012,6 @@
   "badgeToNextLevel": "{count} Badge mehr bis zum nächsten Level",
   "badges": "Badges",
   "badgesToNextLevel": "{count} Badges bis zum nächsten Level",
-  "level": "Level"
+  "level": "Level",
+  "unsavedChangesWarning": "Sie sind dabei, diese Seite zu verlassen. \nNicht gespeicherte Änderungen werden verworfen."
 }
