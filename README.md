@@ -51,3 +51,6 @@ Ukrainian:
 
 Spanish:
 * @pgomez-redsauce
+
+Japanese:
+* @steramoto
