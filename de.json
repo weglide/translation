@@ -1013,5 +1013,6 @@
   "badges": "Badges",
   "badgesToNextLevel": "{count} Badges bis zum nächsten Level",
   "level": "Level",
-  "unsavedChangesWarning": "Sie sind dabei, diese Seite zu verlassen. \nNicht gespeicherte Änderungen werden verworfen."
+  "unsavedChangesWarning": "Sie sind dabei, diese Seite zu verlassen. \nNicht gespeicherte Änderungen werden verworfen.",
+  "taskNotClosed": "Aufgabe nicht richtig geschlossen"
 }

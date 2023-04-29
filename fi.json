@@ -942,5 +942,6 @@
   "badgeToNextLevel": "",
   "badges": "Badges",
   "level": "Taso",
-  "unsavedChangesWarning": "Olet poistumassa tältä sivulta. \nTallentamattomat muutokset hylätään."
+  "unsavedChangesWarning": "Olet poistumassa tältä sivulta. \nTallentamattomat muutokset hylätään.",
+  "taskNotClosed": "Tehtävää ei ole suljettu kunnolla"
 }

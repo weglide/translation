@@ -1013,5 +1013,6 @@
   "level": "Level",
   "badgesToNextLevel": "{count} more badges to next level",
   "badgeToNextLevel": "{count} more badge to next level",
-  "unsavedChangesWarning": "You are about to leave this page. Unsaved changes will be discarded."
+  "unsavedChangesWarning": "You are about to leave this page. Unsaved changes will be discarded.",
+  "taskNotClosed": "Task not closed properly"
 }

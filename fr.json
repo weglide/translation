@@ -1012,5 +1012,6 @@
   "badges": "Badges",
   "badgesToNextLevel": "{count} autres badges au niveau suivant",
   "level": "Niveau",
-  "unsavedChangesWarning": "Vous êtes sur le point de quitter cette page. \nLes modifications non enregistrées seront ignorées."
+  "unsavedChangesWarning": "Vous êtes sur le point de quitter cette page. \nLes modifications non enregistrées seront ignorées.",
+  "taskNotClosed": "Tâche mal fermée"
 }

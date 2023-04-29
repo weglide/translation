@@ -942,5 +942,6 @@
   "badgeToNextLevel": "",
   "badges": "バッジ",
   "level": "レベル",
-  "unsavedChangesWarning": "このページを離れようとしています。\n保存されていない変更は破棄されます。"
+  "unsavedChangesWarning": "このページを離れようとしています。\n保存されていない変更は破棄されます。",
+  "taskNotClosed": "タスクが正しく閉じられていません"
 }

@@ -943,5 +943,6 @@
   "badges": "Badges",
   "badgesToNextLevel": "{count} altri badge al livello successivo",
   "level": "Livello",
-  "unsavedChangesWarning": "Stai per lasciare questa pagina. \nLe modifiche non salvate verranno eliminate."
+  "unsavedChangesWarning": "Stai per lasciare questa pagina. \nLe modifiche non salvate verranno eliminate.",
+  "taskNotClosed": "Attività non chiusa correttamente"
 }

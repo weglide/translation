@@ -943,5 +943,6 @@
   "badges": "Badges",
   "badgesToNextLevel": "{count} badges a mais para o próximo nível",
   "level": "Nível",
-  "unsavedChangesWarning": "Você está prestes a sair desta página. \nAlterações não salvas serão descartadas."
+  "unsavedChangesWarning": "Você está prestes a sair desta página. \nAlterações não salvas serão descartadas.",
+  "taskNotClosed": "Tarefa não fechada corretamente"
 }

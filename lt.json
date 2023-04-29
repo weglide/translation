@@ -942,5 +942,6 @@
   "badgeToNextLevel": "",
   "badges": "Badges",
   "level": "Lygis",
-  "unsavedChangesWarning": "Jūs ruošiatės išeiti iš šio puslapio. \nNeišsaugoti pakeitimai bus atmesti."
+  "unsavedChangesWarning": "Jūs ruošiatės išeiti iš šio puslapio. \nNeišsaugoti pakeitimai bus atmesti.",
+  "taskNotClosed": "Užduotis netinkamai uždaryta"
 }
