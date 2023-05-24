@@ -943,5 +943,6 @@
   "badges": "Badges",
   "level": "Úroveň",
   "unsavedChangesWarning": "Chystáte se opustit tuto stránku. \nNeuložené změny budou zahozeny.",
-  "taskNotClosed": "Úloha není správně uzavřena"
+  "taskNotClosed": "Úloha není správně uzavřena",
+  "noTaskStart": ""
 }

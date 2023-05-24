@@ -1016,5 +1016,6 @@
   "unsavedChangesWarning": "Sie sind dabei, diese Seite zu verlassen. \nNicht gespeicherte Änderungen werden verworfen.",
   "taskNotClosed": "Aufgabe nicht richtig geschlossen",
   "competitionGroups": "Wettbewerbsgruppen",
-  "groupName": "Gruppenname"
+  "groupName": "Gruppenname",
+  "noTaskStart": "kein Abflug"
 }

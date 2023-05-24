@@ -944,5 +944,6 @@
   "badgesToNextLevel": "{count} meer badges naar het volgende niveau",
   "level": "Niveau",
   "unsavedChangesWarning": "U staat op het punt deze pagina te verlaten. \nNiet-opgeslagen wijzigingen worden verwijderd.",
-  "taskNotClosed": "Taak niet goed afgesloten"
+  "taskNotClosed": "Taak niet goed afgesloten",
+  "noTaskStart": "geen taakstart"
 }

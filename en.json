@@ -1016,5 +1016,6 @@
   "unsavedChangesWarning": "You are about to leave this page. Unsaved changes will be discarded.",
   "taskNotClosed": "Task not closed properly",
   "groupName": "Group name",
-  "competitionGroups": "Competition groups"
+  "competitionGroups": "Competition groups",
+  "noTaskStart": "no task start"
 }
