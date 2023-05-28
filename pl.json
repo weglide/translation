@@ -944,5 +944,6 @@
   "level": "Poziom",
   "unsavedChangesWarning": "Zamierzasz opuścić tę stronę. \nNiezapisane zmiany zostaną odrzucone.",
   "taskNotClosed": "Zadanie nie zostało poprawnie zamknięte",
-  "noTaskStart": ""
+  "noTaskStart": "",
+  "copy": "Kopiuj"
 }

@@ -945,5 +945,6 @@
   "level": "Nível",
   "unsavedChangesWarning": "Você está prestes a sair desta página. \nAlterações não salvas serão descartadas.",
   "taskNotClosed": "Tarefa não fechada corretamente",
-  "noTaskStart": ""
+  "noTaskStart": "",
+  "copy": "cópia de"
 }

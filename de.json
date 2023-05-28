@@ -1017,5 +1017,6 @@
   "taskNotClosed": "Aufgabe nicht richtig geschlossen",
   "competitionGroups": "Wettbewerbsgruppen",
   "groupName": "Gruppenname",
-  "noTaskStart": "kein Abflug"
+  "noTaskStart": "kein Abflug",
+  "copy": "Kopieren"
 }

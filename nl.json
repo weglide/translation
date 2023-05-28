@@ -945,5 +945,6 @@
   "level": "Niveau",
   "unsavedChangesWarning": "U staat op het punt deze pagina te verlaten. \nNiet-opgeslagen wijzigingen worden verwijderd.",
   "taskNotClosed": "Taak niet goed afgesloten",
-  "noTaskStart": "geen taakstart"
+  "noTaskStart": "geen taakstart",
+  "copy": "Kopiëren"
 }

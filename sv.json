@@ -944,5 +944,6 @@
   "level": "Nivå",
   "unsavedChangesWarning": "Du är på väg att lämna denna sida. \nOsparade ändringar kommer att kasseras.",
   "taskNotClosed": "Uppgiften stängdes inte ordentligt",
-  "noTaskStart": ""
+  "noTaskStart": "",
+  "copy": "Kopiera"
 }

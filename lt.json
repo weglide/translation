@@ -944,5 +944,6 @@
   "level": "Lygis",
   "unsavedChangesWarning": "Jūs ruošiatės išeiti iš šio puslapio. \nNeišsaugoti pakeitimai bus atmesti.",
   "taskNotClosed": "Užduotis netinkamai uždaryta",
-  "noTaskStart": ""
+  "noTaskStart": "",
+  "copy": "Kopijuoti"
 }
