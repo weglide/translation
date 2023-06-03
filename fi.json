@@ -945,5 +945,7 @@
   "unsavedChangesWarning": "Olet poistumassa tältä sivulta. \nTallentamattomat muutokset hylätään.",
   "taskNotClosed": "Tehtävää ei ole suljettu kunnolla",
   "noTaskStart": "",
-  "copy": "Kopio"
+  "copy": "Kopio",
+  "area": "Alue",
+  "weight": "Paino"
 }

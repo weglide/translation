@@ -1018,5 +1018,7 @@
   "competitionGroups": "Wettbewerbsgruppen",
   "groupName": "Gruppenname",
   "noTaskStart": "kein Abflug",
-  "copy": "Kopieren"
+  "copy": "Kopieren",
+  "area": "Fläche",
+  "weight": "Gewicht"
 }

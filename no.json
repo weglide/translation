@@ -945,5 +945,7 @@
   "unsavedChangesWarning": "Du er i ferd med å forlate denne siden. \nUlagrede endringer vil bli forkastet.",
   "taskNotClosed": "Oppgaven er ikke lukket ordentlig",
   "noTaskStart": "",
-  "copy": "Kopiere"
+  "copy": "Kopiere",
+  "area": "Område",
+  "weight": "Vekt"
 }

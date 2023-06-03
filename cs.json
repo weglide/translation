@@ -945,5 +945,7 @@
   "unsavedChangesWarning": "Chystáte se opustit tuto stránku. \nNeuložené změny budou zahozeny.",
   "taskNotClosed": "Úloha není správně uzavřena",
   "noTaskStart": "",
-  "copy": "kopírovat"
+  "copy": "kopírovat",
+  "area": "Plocha",
+  "weight": "Hmotnost"
 }

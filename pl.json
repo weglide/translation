@@ -945,5 +945,7 @@
   "unsavedChangesWarning": "Zamierzasz opuścić tę stronę. \nNiezapisane zmiany zostaną odrzucone.",
   "taskNotClosed": "Zadanie nie zostało poprawnie zamknięte",
   "noTaskStart": "",
-  "copy": "Kopiuj"
+  "copy": "Kopiuj",
+  "area": "Obszar",
+  "weight": "Waga"
 }

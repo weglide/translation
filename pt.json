@@ -946,5 +946,7 @@
   "unsavedChangesWarning": "Você está prestes a sair desta página. \nAlterações não salvas serão descartadas.",
   "taskNotClosed": "Tarefa não fechada corretamente",
   "noTaskStart": "",
-  "copy": "cópia de"
+  "copy": "cópia de",
+  "area": "Área",
+  "weight": "Peso"
 }

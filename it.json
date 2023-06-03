@@ -946,5 +946,7 @@
   "unsavedChangesWarning": "Stai per lasciare questa pagina. \nLe modifiche non salvate verranno eliminate.",
   "taskNotClosed": "Attività non chiusa correttamente",
   "noTaskStart": "",
-  "copy": "copia"
+  "copy": "copia",
+  "area": "La zona",
+  "weight": "Peso"
 }

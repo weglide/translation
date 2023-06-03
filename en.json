@@ -1018,5 +1018,7 @@
   "groupName": "Group name",
   "competitionGroups": "Competition groups",
   "noTaskStart": "no task start",
-  "copy": "Copy"
+  "copy": "Copy",
+  "area": "Area",
+  "weight": "Weight"
 }

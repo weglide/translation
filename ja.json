@@ -945,5 +945,7 @@
   "unsavedChangesWarning": "このページを離れようとしています。\n保存されていない変更は破棄されます。",
   "taskNotClosed": "タスクが正しく閉じられていません",
   "noTaskStart": "",
-  "copy": "コピー"
+  "copy": "コピー",
+  "area": "エリア",
+  "weight": "重さ"
 }

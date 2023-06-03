@@ -8,7 +8,8 @@ interface UnitSystem {
   cruiseSpeed: Unit
   XCSpeed: Unit
   XCSpeed1h: Unit
-  distance: Unit
+  cruiseDistance: Unit
+  XCDistance: Unit
   altitude: Unit
   pressure: Unit
   weight: Unit
@@ -41,7 +42,11 @@ export const units: Units = {
       abbreviation: 'km/1h',
       factorToMetric: 1
     },
-    distance: {
+    cruiseDistance: {
+      abbreviation: 'km',
+      factorToMetric: 1
+    },
+    XCDistance: {
       abbreviation: 'km',
       factorToMetric: 1
     },
@@ -66,7 +71,7 @@ export const units: Units = {
       factorToMetric: 1
     }
   },
-  // USA, CA?
+  // USA non competition, CA?
   U: {
     climbRate: {
       abbreviation: 'fpm',
@@ -77,16 +82,20 @@ export const units: Units = {
       factorToMetric: 0.539957
     },
     XCSpeed: {
-      abbreviation: 'kn', // kn?, kph?
-      factorToMetric: 0.539957
+      abbreviation: 'mph',
+      factorToMetric: 0.621371
     },
     XCSpeed1h: {
-      abbreviation: 'nm/1h', // kn?, kph?
-      factorToMetric: 0.539957
+      abbreviation: 'mp1h',
+      factorToMetric: 0.621371
     },
-    distance: {
+    cruiseDistance: {
       abbreviation: 'nm',
       factorToMetric: 0.539957
+    },
+    XCDistance: {
+      abbreviation: 'mi',
+      factorToMetric: 0.621371
     },
     altitude: {
       abbreviation: 'ft',
@@ -127,7 +136,11 @@ export const units: Units = {
       abbreviation: 'kp1h',
       factorToMetric: 1
     },
-    distance: {
+    cruiseDistance: {
+      abbreviation: 'nm',
+      factorToMetric: 0.539957
+    },
+    XCDistance: {
       abbreviation: 'km',
       factorToMetric: 1
     },
