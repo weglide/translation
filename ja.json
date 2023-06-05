@@ -948,5 +948,6 @@
   "copy": "コピー",
   "area": "エリア",
   "weight": "重さ",
-  "untilTomorrow": "明日まで"
+  "tomorrow": "明日",
+  "week": "週"
 }

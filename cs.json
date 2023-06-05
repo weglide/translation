@@ -948,5 +948,6 @@
   "copy": "kopírovat",
   "area": "Plocha",
   "weight": "Hmotnost",
-  "untilTomorrow": "Do zítřka"
+  "tomorrow": "Zítra",
+  "week": "Týden"
 }

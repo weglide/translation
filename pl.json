@@ -948,5 +948,6 @@
   "copy": "Kopiuj",
   "area": "Obszar",
   "weight": "Waga",
-  "untilTomorrow": "Do jutra"
+  "tomorrow": "Jutro",
+  "week": "Tydzień"
 }

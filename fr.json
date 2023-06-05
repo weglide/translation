@@ -1018,5 +1018,6 @@
   "copy": "Copie",
   "area": "Zone",
   "weight": "Lester",
-  "untilTomorrow": "Jusqu'à demain"
+  "tomorrow": "Demain",
+  "week": "Semaine"
 }

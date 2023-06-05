@@ -948,5 +948,6 @@
   "copy": "Kopiere",
   "area": "Område",
   "weight": "Vekt",
-  "untilTomorrow": "Til i morgen"
+  "tomorrow": "I morgen",
+  "week": "Uke"
 }

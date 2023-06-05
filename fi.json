@@ -948,5 +948,6 @@
   "copy": "Kopio",
   "area": "Alue",
   "weight": "Paino",
-  "untilTomorrow": "Huomiseen asti"
+  "tomorrow": "Huomenna",
+  "week": "Viikko"
 }

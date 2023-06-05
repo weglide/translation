@@ -949,5 +949,6 @@
   "copy": "Kopiëren",
   "area": "Gebied",
   "weight": "Gewicht",
-  "untilTomorrow": "Tot morgen"
+  "tomorrow": "Morgen",
+  "week": "Week"
 }

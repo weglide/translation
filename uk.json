@@ -948,5 +948,6 @@
   "copy": "Копія",
   "area": "Площа",
   "weight": "вага",
-  "untilTomorrow": "до завтра"
+  "tomorrow": "завтра",
+  "week": "тиждень"
 }

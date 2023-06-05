@@ -1021,5 +1021,6 @@
   "copy": "Copy",
   "area": "Area",
   "weight": "Weight",
-  "untilTomorrow": "Until tomorrow"
+  "tomorrow": "Tomorrow",
+  "week": "Week"
 }

@@ -949,5 +949,6 @@
   "copy": "Copiar",
   "area": "Área",
   "weight": "Peso",
-  "untilTomorrow": "Hasta mañana"
+  "tomorrow": "Mañana",
+  "week": "Semana"
 }

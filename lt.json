@@ -948,5 +948,6 @@
   "copy": "Kopijuoti",
   "area": "Plotas",
   "weight": "Svoris",
-  "untilTomorrow": "Iki rytojaus"
+  "tomorrow": "Rytoj",
+  "week": "Savaitė"
 }

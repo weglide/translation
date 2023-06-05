@@ -1021,5 +1021,6 @@
   "copy": "Kopieren",
   "area": "Fläche",
   "weight": "Gewicht",
-  "untilTomorrow": "Bis morgen"
+  "tomorrow": "Morgen",
+  "week": "Woche"
 }
