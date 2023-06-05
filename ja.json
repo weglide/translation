@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "コピー",
   "area": "エリア",
-  "weight": "重さ"
+  "weight": "重さ",
+  "untilTomorrow": "明日まで"
 }

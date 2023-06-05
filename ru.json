@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Копировать",
   "area": "Область",
-  "weight": "Масса"
+  "weight": "Масса",
+  "untilTomorrow": "до завтра"
 }

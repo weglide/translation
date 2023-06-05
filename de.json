@@ -1020,5 +1020,6 @@
   "noTaskStart": "kein Abflug",
   "copy": "Kopieren",
   "area": "Fläche",
-  "weight": "Gewicht"
+  "weight": "Gewicht",
+  "untilTomorrow": "Bis morgen"
 }

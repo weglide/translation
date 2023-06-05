@@ -948,5 +948,6 @@
   "noTaskStart": "",
   "copy": "copia",
   "area": "La zona",
-  "weight": "Peso"
+  "weight": "Peso",
+  "untilTomorrow": "Fino a domani"
 }

@@ -948,5 +948,6 @@
   "noTaskStart": "",
   "copy": "Copiar",
   "area": "Área",
-  "weight": "Peso"
+  "weight": "Peso",
+  "untilTomorrow": "Hasta mañana"
 }

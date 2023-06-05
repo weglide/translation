@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Kopiera",
   "area": "Område",
-  "weight": "Vikt"
+  "weight": "Vikt",
+  "untilTomorrow": "Tills imorgon"
 }

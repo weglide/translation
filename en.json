@@ -1020,5 +1020,6 @@
   "noTaskStart": "no task start",
   "copy": "Copy",
   "area": "Area",
-  "weight": "Weight"
+  "weight": "Weight",
+  "untilTomorrow": "Until tomorrow"
 }

@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "kopírovat",
   "area": "Plocha",
-  "weight": "Hmotnost"
+  "weight": "Hmotnost",
+  "untilTomorrow": "Do zítřka"
 }

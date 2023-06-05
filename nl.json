@@ -948,5 +948,6 @@
   "noTaskStart": "geen taakstart",
   "copy": "Kopiëren",
   "area": "Gebied",
-  "weight": "Gewicht"
+  "weight": "Gewicht",
+  "untilTomorrow": "Tot morgen"
 }

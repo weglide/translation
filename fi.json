@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Kopio",
   "area": "Alue",
-  "weight": "Paino"
+  "weight": "Paino",
+  "untilTomorrow": "Huomiseen asti"
 }

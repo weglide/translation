@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Kopijuoti",
   "area": "Plotas",
-  "weight": "Svoris"
+  "weight": "Svoris",
+  "untilTomorrow": "Iki rytojaus"
 }

@@ -1017,5 +1017,6 @@
   "noTaskStart": "pas de départ",
   "copy": "Copie",
   "area": "Zone",
-  "weight": "Lester"
+  "weight": "Lester",
+  "untilTomorrow": "Jusqu'à demain"
 }

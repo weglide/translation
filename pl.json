@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Kopiuj",
   "area": "Obszar",
-  "weight": "Waga"
+  "weight": "Waga",
+  "untilTomorrow": "Do jutra"
 }

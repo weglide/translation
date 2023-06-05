@@ -947,5 +947,6 @@
   "noTaskStart": "",
   "copy": "Копія",
   "area": "Площа",
-  "weight": "вага"
+  "weight": "вага",
+  "untilTomorrow": "до завтра"
 }
