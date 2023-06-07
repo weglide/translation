@@ -949,5 +949,10 @@
   "area": "Plocha",
   "weight": "Hmotnost",
   "tomorrow": "Zítra",
-  "week": "Týden"
+  "week": "Týden",
+  "contactSomeone": "Kontaktujte {name}",
+  "userMessageDeliveryExplanation": "Tato zpráva bude doručena soukromě e-mailem. \nDruhá osoba se pak může rozhodnout, že s vámi bude sdílet svou e-mailovou adresu.",
+  "message": "Zpráva",
+  "messageSend": "Odeslat zprávu.",
+  "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide"
 }

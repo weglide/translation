@@ -950,5 +950,10 @@
   "area": "La zona",
   "weight": "Peso",
   "tomorrow": "Domani",
-  "week": "Settimana"
+  "week": "Settimana",
+  "contactSomeone": "Contatta {name}",
+  "userMessageDeliveryExplanation": "Questo messaggio verrà recapitato privatamente via e-mail. \nL'altra persona può quindi decidere di condividere il proprio indirizzo e-mail con te.",
+  "message": "Messaggio",
+  "messageSend": "Invia messaggio.",
+  "userMessagesAllowed": "Consenti ad altri di contattarmi tramite WeGlide"
 }

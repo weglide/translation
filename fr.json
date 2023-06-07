@@ -1019,5 +1019,10 @@
   "area": "Zone",
   "weight": "Lester",
   "tomorrow": "Demain",
-  "week": "Semaine"
+  "week": "Semaine",
+  "contactSomeone": "Contacter {name}",
+  "userMessageDeliveryExplanation": "Ce message sera envoyé en privé par e-mail. \nL'autre personne peut alors décider de partager son adresse e-mail avec vous.",
+  "message": "Message",
+  "messageSend": "Message envoyé.",
+  "userMessagesAllowed": "Autoriser les autres à me contacter via WeGlide"
 }

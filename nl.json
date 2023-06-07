@@ -950,5 +950,10 @@
   "area": "Gebied",
   "weight": "Gewicht",
   "tomorrow": "Morgen",
-  "week": "Week"
+  "week": "Week",
+  "contactSomeone": "Neem contact op met {name}",
+  "userMessageDeliveryExplanation": "Dit bericht wordt privé per e-mail afgeleverd. \nDe andere persoon kan dan beslissen om zijn e-mailadres met jou te delen.",
+  "message": "Bericht",
+  "messageSend": "Bericht verzonden.",
+  "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide"
 }

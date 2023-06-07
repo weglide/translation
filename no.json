@@ -949,5 +949,10 @@
   "area": "Område",
   "weight": "Vekt",
   "tomorrow": "I morgen",
-  "week": "Uke"
+  "week": "Uke",
+  "contactSomeone": "Ta kontakt med {name}",
+  "userMessageDeliveryExplanation": "Denne meldingen vil bli levert privat på e-post. \nDen andre personen kan da bestemme seg for å dele e-postadressen sin med deg.",
+  "message": "Beskjed",
+  "messageSend": "Send melding.",
+  "userMessagesAllowed": "La andre kontakte meg via WeGlide"
 }

@@ -47,7 +47,7 @@
   "coPilotDateOfBirth": "Co-Pilot Geburtsdatum",
   "coPilotName": "Name Co-Pilot*in",
   "comments": "Kommentare",
-  "commentsAllowed": "Erlaube anderen meine Flüge zu kommentieren",
+  "commentsAllowed": "Erlaube anderen, meine Flüge zu kommentieren",
   "compare": "Vergleichen",
   "competitionId": "Wettbewerbs-ID (optional)",
   "competitionIdFormat": "Nur Alphanumerische Zeichen sind für die Wettbewerbs-ID erlaubt.",
@@ -1022,5 +1022,10 @@
   "area": "Fläche",
   "weight": "Gewicht",
   "tomorrow": "Morgen",
-  "week": "Woche"
+  "week": "Woche",
+  "contactSomeone": "Kontaktiere {name}",
+  "userMessageDeliveryExplanation": "Diese Nachricht wird vertraulich per E-Mail zugestellt. \nDie andere Person kann dann entscheiden, ihre E-Mail Adresse mit dir zu teilen.",
+  "message": "Nachricht",
+  "messageSend": "Nachricht gesendet.",
+  "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren"
 }

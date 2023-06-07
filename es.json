@@ -950,5 +950,10 @@
   "area": "Área",
   "weight": "Peso",
   "tomorrow": "Mañana",
-  "week": "Semana"
+  "week": "Semana",
+  "contactSomeone": "Contactar con {name}",
+  "userMessageDeliveryExplanation": "Este mensaje se entregará de forma privada por correo electrónico. \nLa otra persona puede entonces decidir compartir su dirección de correo electrónico contigo.",
+  "message": "Mensaje",
+  "messageSend": "Mensaje enviado.",
+  "userMessagesAllowed": "Permitir que otros se comuniquen conmigo a través de WeGlide"
 }

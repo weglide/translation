@@ -1022,5 +1022,10 @@
   "area": "Area",
   "weight": "Weight",
   "tomorrow": "Tomorrow",
-  "week": "Week"
+  "week": "Week",
+  "contactSomeone": "Contact {name}",
+  "userMessageDeliveryExplanation": "This message will be delivered privately by email. The other person can then decide to share their email address with you.",
+  "messageSend": "Message send.",
+  "message": "Message",
+  "userMessagesAllowed": "Allow others to contact me via WeGlide"
 }

@@ -949,5 +949,10 @@
   "area": "Alue",
   "weight": "Paino",
   "tomorrow": "Huomenna",
-  "week": "Viikko"
+  "week": "Viikko",
+  "contactSomeone": "Ota yhteyttä {name}",
+  "userMessageDeliveryExplanation": "Tämä viesti toimitetaan yksityisesti sähköpostitse. \nToinen henkilö voi sitten päättää jakaa sähköpostiosoitteensa kanssasi.",
+  "message": "Viesti",
+  "messageSend": "Viestin lähetys.",
+  "userMessagesAllowed": "Anna muiden ottaa minuun yhteyttä WeGliden kautta"
 }
