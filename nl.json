@@ -955,5 +955,6 @@
   "userMessageDeliveryExplanation": "Dit bericht wordt privé per e-mail afgeleverd. \nDe andere persoon kan dan beslissen om zijn e-mailadres met jou te delen.",
   "message": "Bericht",
   "messageSend": "Bericht verzonden.",
-  "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide"
+  "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide",
+  "notEnoughFlights": "Upload een vlucht en probeer het opnieuw."
 }

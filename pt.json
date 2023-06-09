@@ -955,5 +955,6 @@
   "userMessageDeliveryExplanation": "Esta mensagem será entregue em particular por e-mail. \nA outra pessoa pode decidir compartilhar seu endereço de e-mail com você.",
   "message": "Mensagem",
   "messageSend": "Mensagem enviada.",
-  "userMessagesAllowed": "Permitir que outras pessoas entrem em contato comigo via WeGlide"
+  "userMessagesAllowed": "Permitir que outras pessoas entrem em contato comigo via WeGlide",
+  "notEnoughFlights": "Carregue um voo e tente novamente."
 }

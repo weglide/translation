@@ -954,5 +954,6 @@
   "userMessageDeliveryExplanation": "Denne meldingen vil bli levert privat på e-post. \nDen andre personen kan da bestemme seg for å dele e-postadressen sin med deg.",
   "message": "Beskjed",
   "messageSend": "Send melding.",
-  "userMessagesAllowed": "La andre kontakte meg via WeGlide"
+  "userMessagesAllowed": "La andre kontakte meg via WeGlide",
+  "notEnoughFlights": "Last opp et fly og prøv på nytt."
 }

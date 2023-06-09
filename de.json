@@ -1027,5 +1027,6 @@
   "userMessageDeliveryExplanation": "Diese Nachricht wird vertraulich per E-Mail zugestellt. \nDie andere Person kann dann entscheiden, ihre E-Mail Adresse mit dir zu teilen.",
   "message": "Nachricht",
   "messageSend": "Nachricht gesendet.",
-  "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren"
+  "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren",
+  "notEnoughFlights": "Bitte lade einen Flug hoch und versuche es erneut."
 }

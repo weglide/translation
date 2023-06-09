@@ -954,5 +954,6 @@
   "userMessageDeliveryExplanation": "Ta wiadomość zostanie dostarczona prywatnie pocztą elektroniczną. \nDruga osoba może wtedy zdecydować o udostępnieniu Ci swojego adresu e-mail.",
   "message": "Wiadomość",
   "messageSend": "Wyślij wiadomość.",
-  "userMessagesAllowed": "Pozwól innym kontaktować się ze mną przez WeGlide"
+  "userMessagesAllowed": "Pozwól innym kontaktować się ze mną przez WeGlide",
+  "notEnoughFlights": "Prześlij lot i spróbuj ponownie."
 }

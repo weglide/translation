@@ -954,5 +954,6 @@
   "userMessageDeliveryExplanation": "Ši žinutė bus išsiųsta privačiai el. \nTada kitas asmuo gali nuspręsti pasidalinti su jumis savo el. pašto adresu.",
   "message": "Pranešimas",
   "messageSend": "Pranešimo siuntimas.",
-  "userMessagesAllowed": "Leiskite kitiems susisiekti su manimi per WeGlide"
+  "userMessagesAllowed": "Leiskite kitiems susisiekti su manimi per WeGlide",
+  "notEnoughFlights": "Įkelkite skrydį ir bandykite dar kartą."
 }

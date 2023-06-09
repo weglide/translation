@@ -954,5 +954,6 @@
   "userMessageDeliveryExplanation": "Tato zpráva bude doručena soukromě e-mailem. \nDruhá osoba se pak může rozhodnout, že s vámi bude sdílet svou e-mailovou adresu.",
   "message": "Zpráva",
   "messageSend": "Odeslat zprávu.",
-  "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide"
+  "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide",
+  "notEnoughFlights": "Nahrajte let a zkuste to znovu."
 }

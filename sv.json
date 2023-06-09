@@ -954,5 +954,6 @@
   "userMessageDeliveryExplanation": "Detta meddelande kommer att levereras privat via e-post. \nDen andra personen kan sedan bestämma sig för att dela sin e-postadress med dig.",
   "message": "Meddelande",
   "messageSend": "Meddelande skicka.",
-  "userMessagesAllowed": "Tillåt andra att kontakta mig via WeGlide"
+  "userMessagesAllowed": "Tillåt andra att kontakta mig via WeGlide",
+  "notEnoughFlights": "Ladda upp ett flyg och försök igen."
 }

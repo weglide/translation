@@ -1027,5 +1027,6 @@
   "userMessageDeliveryExplanation": "This message will be delivered privately by email. The other person can then decide to share their email address with you.",
   "messageSend": "Message send.",
   "message": "Message",
-  "userMessagesAllowed": "Allow others to contact me via WeGlide"
+  "userMessagesAllowed": "Allow others to contact me via WeGlide",
+  "notEnoughFlights": "Please upload a flight and try again."
 }

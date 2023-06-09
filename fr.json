@@ -1024,5 +1024,6 @@
   "userMessageDeliveryExplanation": "Ce message sera envoyé en privé par e-mail. \nL'autre personne peut alors décider de partager son adresse e-mail avec vous.",
   "message": "Message",
   "messageSend": "Message envoyé.",
-  "userMessagesAllowed": "Autoriser les autres à me contacter via WeGlide"
+  "userMessagesAllowed": "Autoriser les autres à me contacter via WeGlide",
+  "notEnoughFlights": "Veuillez télécharger un vol et réessayer."
 }
