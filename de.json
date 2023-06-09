@@ -1024,7 +1024,7 @@
   "tomorrow": "Morgen",
   "week": "Woche",
   "contactSomeone": "Kontaktiere {name}",
-  "userMessageDeliveryExplanation": "Diese Nachricht wird vertraulich per E-Mail zugestellt. \nDie andere Person kann dann entscheiden, ihre E-Mail Adresse mit dir zu teilen.",
+  "userMessageDeliveryExplanation": "Diese Nachricht wird per E-Mail an die andere Person gesendet und deine E-Mail-Adresse wird für sie sichtbar. \nDie andere Person kann dann entscheiden, ihre E-Mail Adresse mit dir zu teilen, indem sie antwortet.",
   "message": "Nachricht",
   "messageSend": "Nachricht gesendet.",
   "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren",

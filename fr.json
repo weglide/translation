@@ -1021,7 +1021,7 @@
   "tomorrow": "Demain",
   "week": "Semaine",
   "contactSomeone": "Contacter {name}",
-  "userMessageDeliveryExplanation": "Ce message sera envoyé en privé par e-mail. \nL'autre personne peut alors décider de partager son adresse e-mail avec vous.",
+  "userMessageDeliveryExplanation": "Ce message sera envoyé au destinataire par e-mail et votre adresse e-mail deviendra visible. \nL'autre personne peut alors décider de partager son adresse e-mail avec vous en répondant.",
   "message": "Message",
   "messageSend": "Message envoyé.",
   "userMessagesAllowed": "Autoriser les autres à me contacter via WeGlide",

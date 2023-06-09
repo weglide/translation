@@ -951,7 +951,7 @@
   "tomorrow": "Zítra",
   "week": "Týden",
   "contactSomeone": "Kontaktujte {name}",
-  "userMessageDeliveryExplanation": "Tato zpráva bude doručena soukromě e-mailem. \nDruhá osoba se pak může rozhodnout, že s vámi bude sdílet svou e-mailovou adresu.",
+  "userMessageDeliveryExplanation": "Tato zpráva bude odeslána příjemci e-mailem a vaše e-mailová adresa bude viditelná. \nDruhá osoba se pak může rozhodnout, že vám odpoví na svou e-mailovou adresu.",
   "message": "Zpráva",
   "messageSend": "Odeslat zprávu.",
   "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide",

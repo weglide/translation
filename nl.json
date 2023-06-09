@@ -952,7 +952,7 @@
   "tomorrow": "Morgen",
   "week": "Week",
   "contactSomeone": "Neem contact op met {name}",
-  "userMessageDeliveryExplanation": "Dit bericht wordt privé per e-mail afgeleverd. \nDe andere persoon kan dan beslissen om zijn e-mailadres met jou te delen.",
+  "userMessageDeliveryExplanation": "Dit bericht wordt via e-mail naar de ontvanger verzonden en uw e-mailadres wordt zichtbaar. \nDe andere persoon kan dan beslissen om zijn e-mailadres met u te delen door te antwoorden.",
   "message": "Bericht",
   "messageSend": "Bericht verzonden.",
   "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide",

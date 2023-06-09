@@ -951,7 +951,7 @@
   "tomorrow": "Rytoj",
   "week": "Savaitė",
   "contactSomeone": "Susisiekite su {name}",
-  "userMessageDeliveryExplanation": "Ši žinutė bus išsiųsta privačiai el. \nTada kitas asmuo gali nuspręsti pasidalinti su jumis savo el. pašto adresu.",
+  "userMessageDeliveryExplanation": "Šis pranešimas bus išsiųstas gavėjui el. paštu ir jūsų el. pašto adresas taps matomas. \nTada kitas asmuo gali nuspręsti pasidalinti savo el. pašto adresu su jumis atsakydamas.",
   "message": "Pranešimas",
   "messageSend": "Pranešimo siuntimas.",
   "userMessagesAllowed": "Leiskite kitiems susisiekti su manimi per WeGlide",

@@ -1024,7 +1024,7 @@
   "tomorrow": "Tomorrow",
   "week": "Week",
   "contactSomeone": "Contact {name}",
-  "userMessageDeliveryExplanation": "This message will be delivered privately by email. The other person can then decide to share their email address with you.",
+  "userMessageDeliveryExplanation": "This message will be sent to the recipient via email and your email address becomes visible. The other person can then decide to share their email address with you by replying.",
   "messageSend": "Message send.",
   "message": "Message",
   "userMessagesAllowed": "Allow others to contact me via WeGlide",
