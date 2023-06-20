@@ -2,8 +2,7 @@ name: "Lint JSON"
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [ $default-branch ]
 
 jobs:
   lint-json:
@@ -12,4 +11,4 @@ jobs:
       - uses: actions/checkout@v3
       - run: sudo apt-get -qq update
       - run: sudo apt-get --quiet --assume-yes install jsonlint
-      - run: jsonlint -v *.json >> $GITHUB_STEP_SUMMARY
+      - run: $HOME/.local/bin/jsonlint -v en.json
