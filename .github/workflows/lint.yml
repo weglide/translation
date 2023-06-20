@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: sudo apt-get -qq update
-      - run: sudo apt-get --quiet --assume-yes install jsonlint
-      - run: jsonlint-php -v *.json
+      - run: sudo apt-get --quiet --assume-yes install curl
+      - run: jsonlint-php *.json
