@@ -1,0 +1,15 @@
+name: "Lint JSON"
+
+on:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: sudo apt-get -qq update
+      - run: sudo apt-get --quiet --assume-yes install jsonlint
+      - run: jsonlint -v *.json >> $GITHUB_STEP_SUMMARY
