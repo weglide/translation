@@ -137,8 +137,8 @@ export const units: Units = {
       factorToMetric: 1
     },
     cruiseDistance: {
-      abbreviation: 'nm',
-      factorToMetric: 0.539957
+      abbreviation: 'km',
+      factorToMetric: 1
     },
     XCDistance: {
       abbreviation: 'km',
