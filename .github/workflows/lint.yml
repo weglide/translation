@@ -3,10 +3,10 @@ name: "Lint JSON"
 on:
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
-  Explore-GitHub-Actions:
+  lint-json:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
