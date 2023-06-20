@@ -1,4 +1,4 @@
-name: "Lint JSON"
+name: "CI"
 
 on:
   pull_request:
@@ -7,9 +7,10 @@ on:
 
 jobs:
   lint-json:
+    name: "Lint JSON"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - run: sudo apt-get -qq update
-      - run: sudo apt-get --quiet --assume-yes install curl
+      - run: sudo apt-get --quiet --assume-yes install jsonlint
       - run: jsonlint-php *.json
