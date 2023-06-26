@@ -952,7 +952,7 @@
   "tomorrow": "Amanhã",
   "week": "Semana",
   "contactSomeone": "Entre em contato com {name}",
-  "userMessageDeliveryExplanation": "Esta mensagem será enviada ao destinatário por e-mail e seu endereço de e-mail ficará visível. \nA outra pessoa pode decidir compartilhar seu endereço de e-mail com você respondendo.",
+  "userMessageDeliveryExplanation": "Entendo que meu endereço de e-mail será compartilhado com o destinatário e reconheço que li e concordo com o seguinte documento:",
   "message": "Mensagem",
   "messageSend": "Mensagem enviada.",
   "userMessagesAllowed": "Permitir que outras pessoas entrem em contato comigo via WeGlide",

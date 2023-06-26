@@ -951,7 +951,7 @@
   "tomorrow": "明日",
   "week": "週",
   "contactSomeone": "コンタクト {name}",
-  "userMessageDeliveryExplanation": "このメッセージは電子メールで受信者に送信され、あなたの電子メール アドレスが表示されるようになります。\n相手は返信することで自分の電子メール アドレスをあなたと共有するかどうかを決定できます。",
+  "userMessageDeliveryExplanation": "私の電子メール アドレスが受信者と共有されることを理解し、次の文書を読んで同意したことを認めます。",
   "message": "メッセージ",
   "messageSend": "メッセージを送信します。",
   "userMessagesAllowed": "他の人が WeGlide 経由で私に連絡できるようにする",

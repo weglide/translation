@@ -951,7 +951,7 @@
   "tomorrow": "Jutro",
   "week": "Tydzień",
   "contactSomeone": "Skontaktuj się z {name}",
-  "userMessageDeliveryExplanation": "Ta wiadomość zostanie wysłana do odbiorcy pocztą e-mail, a Twój adres e-mail stanie się widoczny. \nDruga osoba może wtedy zdecydować, że udostępni Ci swój adres e-mail, odpowiadając.",
+  "userMessageDeliveryExplanation": "Rozumiem, że mój adres e-mail zostanie udostępniony odbiorcy i potwierdzam, że przeczytałem i akceptuję następujący dokument:",
   "message": "Wiadomość",
   "messageSend": "Wyślij wiadomość.",
   "userMessagesAllowed": "Pozwól innym kontaktować się ze mną przez WeGlide",

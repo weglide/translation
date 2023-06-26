@@ -951,7 +951,7 @@
   "tomorrow": "Huomenna",
   "week": "Viikko",
   "contactSomeone": "Ota yhteyttä {name}",
-  "userMessageDeliveryExplanation": "Tämä viesti lähetetään vastaanottajalle sähköpostitse ja sähköpostiosoitteesi tulee näkyviin. \nToinen henkilö voi sitten päättää jakaa sähköpostiosoitteensa sinulle vastaamalla.",
+  "userMessageDeliveryExplanation": "Ymmärrän, että sähköpostiosoitteeni jaetaan vastaanottajan kanssa, ja vahvistan lukeneeni ja hyväksyneeni seuraavan asiakirjan:",
   "message": "Viesti",
   "messageSend": "Viestin lähetys.",
   "userMessagesAllowed": "Anna muiden ottaa minuun yhteyttä WeGliden kautta",

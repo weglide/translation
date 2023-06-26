@@ -951,7 +951,7 @@
   "tomorrow": "I morgon",
   "week": "Vecka",
   "contactSomeone": "Kontakta {name}",
-  "userMessageDeliveryExplanation": "Detta meddelande kommer att skickas till mottagaren via e-post och din e-postadress blir synlig. \nDen andra personen kan sedan bestämma sig för att dela sin e-postadress med dig genom att svara.",
+  "userMessageDeliveryExplanation": "Jag förstår att min e-postadress kommer att delas med mottagaren och jag bekräftar att jag har läst och godkänner följande dokument:",
   "message": "Meddelande",
   "messageSend": "Meddelande skicka.",
   "userMessagesAllowed": "Tillåt andra att kontakta mig via WeGlide",

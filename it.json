@@ -952,7 +952,7 @@
   "tomorrow": "Domani",
   "week": "Settimana",
   "contactSomeone": "Contatta {name}",
-  "userMessageDeliveryExplanation": "Questo messaggio verrà inviato al destinatario via e-mail e il tuo indirizzo e-mail diventa visibile. \nL'altra persona può quindi decidere di condividere il proprio indirizzo e-mail con te rispondendo.",
+  "userMessageDeliveryExplanation": "Comprendo che il mio indirizzo e-mail sarà condiviso con il destinatario e riconosco di aver letto e accettato il seguente documento:",
   "message": "Messaggio",
   "messageSend": "Invia messaggio.",
   "userMessagesAllowed": "Consenti ad altri di contattarmi tramite WeGlide",
