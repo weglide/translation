@@ -1024,7 +1024,7 @@
   "tomorrow": "Morgen",
   "week": "Woche",
   "contactSomeone": "Kontaktiere {name}",
-  "userMessageDeliveryExplanation": "Ich bin mir bewusst, dass meine E-Mail Adresse mit der Empfangsperson geteilt wird und ich bestätige, dass ich das folgende Dokument gelesen habe und ihm zustimme:",
+  "userMessageDeliveryExplanation": "Ich bin mir bewusst, dass meine E-Mail Adresse mit der Empfangsperson geteilt wird und ich bestätige, dass ich folgende Dokumente gelesen habe und ihnen zustimme:",
   "message": "Nachricht",
   "messageSend": "Nachricht gesendet.",
   "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren",
