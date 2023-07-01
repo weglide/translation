@@ -1028,5 +1028,9 @@
   "message": "Nachricht",
   "messageSend": "Nachricht gesendet.",
   "userMessagesAllowed": "Erlaube anderen, mich über WeGlide zu kontaktieren",
-  "notEnoughFlights": "Bitte lade einen Flug hoch und versuche es erneut."
+  "notEnoughFlights": "Bitte lade einen Flug hoch und versuche es erneut.",
+  "account": "Konto",
+  "deleteMyAccount": "Mein Konto löschen",
+  "emailUs": "Bitte sende uns eine E-Mail",
+  "languageAndUnits": "Sprache und Einheiten"
 }

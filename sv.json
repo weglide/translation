@@ -955,5 +955,9 @@
   "message": "Meddelande",
   "messageSend": "Meddelande skicka.",
   "userMessagesAllowed": "Tillåt andra att kontakta mig via WeGlide",
-  "notEnoughFlights": "Ladda upp ett flyg och försök igen."
+  "notEnoughFlights": "Ladda upp ett flyg och försök igen.",
+  "account": "konto",
+  "deleteMyAccount": "Ta bort mitt konto",
+  "emailUs": "Vänligen maila oss",
+  "languageAndUnits": "Språk och enheter"
 }

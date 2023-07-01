@@ -1028,5 +1028,9 @@
   "messageSend": "Message send.",
   "message": "Message",
   "userMessagesAllowed": "Allow others to contact me via WeGlide",
-  "notEnoughFlights": "Please upload a flight and try again."
+  "notEnoughFlights": "Please upload a flight and try again.",
+  "languageAndUnits": "Language and units",
+  "emailUs": "Please email us",
+  "deleteMyAccount": "Delete my account",
+  "account": "Account"
 }

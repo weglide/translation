@@ -955,5 +955,9 @@
   "message": "Pranešimas",
   "messageSend": "Pranešimo siuntimas.",
   "userMessagesAllowed": "Leiskite kitiems susisiekti su manimi per WeGlide",
-  "notEnoughFlights": "Įkelkite skrydį ir bandykite dar kartą."
+  "notEnoughFlights": "Įkelkite skrydį ir bandykite dar kartą.",
+  "account": "sąskaita",
+  "deleteMyAccount": "Ištrinti mano paskyrą",
+  "emailUs": "Prašome parašyti mums el",
+  "languageAndUnits": "Kalba ir vienetai"
 }

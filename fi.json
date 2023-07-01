@@ -955,5 +955,9 @@
   "message": "Viesti",
   "messageSend": "Viestin lähetys.",
   "userMessagesAllowed": "Anna muiden ottaa minuun yhteyttä WeGliden kautta",
-  "notEnoughFlights": "Lataa lento ja yritä uudelleen."
+  "notEnoughFlights": "Lataa lento ja yritä uudelleen.",
+  "account": "Tili",
+  "deleteMyAccount": "Poista minun tilini",
+  "emailUs": "Lähetä meille sähköpostia",
+  "languageAndUnits": "Kieli ja yksiköt"
 }

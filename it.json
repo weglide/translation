@@ -956,5 +956,9 @@
   "message": "Messaggio",
   "messageSend": "Invia messaggio.",
   "userMessagesAllowed": "Consenti ad altri di contattarmi tramite WeGlide",
-  "notEnoughFlights": "Carica un volo e riprova."
+  "notEnoughFlights": "Carica un volo e riprova.",
+  "account": "Account",
+  "deleteMyAccount": "Cancella il mio account",
+  "emailUs": "Inviaci un'e-mail",
+  "languageAndUnits": "Lingua e Unità"
 }

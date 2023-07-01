@@ -955,5 +955,9 @@
   "message": "Wiadomość",
   "messageSend": "Wyślij wiadomość.",
   "userMessagesAllowed": "Pozwól innym kontaktować się ze mną przez WeGlide",
-  "notEnoughFlights": "Prześlij lot i spróbuj ponownie."
+  "notEnoughFlights": "Prześlij lot i spróbuj ponownie.",
+  "account": "Konto",
+  "deleteMyAccount": "Usuń moje konto",
+  "emailUs": "Napisz do nas",
+  "languageAndUnits": "Język i jednostki"
 }

@@ -955,5 +955,9 @@
   "message": "メッセージ",
   "messageSend": "メッセージを送信します。",
   "userMessagesAllowed": "他の人が WeGlide 経由で私に連絡できるようにする",
-  "notEnoughFlights": "フライトをアップロードして、もう一度お試しください。"
+  "notEnoughFlights": "フライトをアップロードして、もう一度お試しください。",
+  "account": "アカウント",
+  "deleteMyAccount": "アカウントを削除します",
+  "emailUs": "私達に電子メールを送り",
+  "languageAndUnits": "言語と単位"
 }

@@ -956,5 +956,9 @@
   "message": "Bericht",
   "messageSend": "Bericht verzonden.",
   "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide",
-  "notEnoughFlights": "Upload een vlucht en probeer het opnieuw."
+  "notEnoughFlights": "Upload een vlucht en probeer het opnieuw.",
+  "account": "Rekening",
+  "deleteMyAccount": "Verwijder mijn account",
+  "emailUs": "Stuur ons een e-mail",
+  "languageAndUnits": "Taal en eenheden"
 }

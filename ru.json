@@ -955,5 +955,9 @@
   "message": "Сообщение",
   "messageSend": "Сообщение отправить.",
   "userMessagesAllowed": "Разрешить другим связываться со мной через WeGlide",
-  "notEnoughFlights": "Пожалуйста, загрузите рейс и повторите попытку."
+  "notEnoughFlights": "Пожалуйста, загрузите рейс и повторите попытку.",
+  "account": "Счет",
+  "deleteMyAccount": "Удалите мой аккаунт",
+  "emailUs": "Пожалуйста, напишите нам",
+  "languageAndUnits": "Язык и единицы"
 }

@@ -955,5 +955,9 @@
   "message": "Beskjed",
   "messageSend": "Send melding.",
   "userMessagesAllowed": "La andre kontakte meg via WeGlide",
-  "notEnoughFlights": "Last opp et fly og prøv på nytt."
+  "notEnoughFlights": "Last opp et fly og prøv på nytt.",
+  "account": "Regnskap",
+  "deleteMyAccount": "Slett kontoen min",
+  "emailUs": "Send oss ​​en e-post",
+  "languageAndUnits": "Språk og enheter"
 }
