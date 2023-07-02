@@ -641,7 +641,7 @@
   "scoreProcessing": "Pisteytys käynnissä",
   "scoringEngineNotice": "Ilma-alus, jonka moottori on valittu. Varmista, että moottorin käynti (keltainen) on havaittu oikein.",
   "scoringFesNotice": "Sähkökäyttöinen lentokone valittu. Varmista, että moottorin käynti (keltainen) on havaittu oikein.",
-  "scoringGliderNotice": "Lentokone ilman moottoria valittuna, vaihda moottorilla varustettuun lentokoneeseen nähdäksesi mahdolliset moottorin käynnit.",
+  "scoringGliderNotice": "Ilma-alus ilman moottoria valittuna, vaihda moottorilla varustettuun ilma-alukseen nähdäksesi moottorin käyntiä.",
   "season": "Kausi",
   "seats": "Istuimet",
   "security": "Turvallisuus",

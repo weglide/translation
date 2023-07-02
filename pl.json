@@ -641,7 +641,7 @@
   "scoreProcessing": "Trwają obliczenia",
   "scoringEngineNotice": "Samolot z wybranym silnikiem. Upewnij się, że praca silnika (żółty) została prawidłowo wykryta.",
   "scoringFesNotice": "Wybrano statek powietrzny z napędem elektrycznym. Upewnij się, że praca silnika (kolor żółty) została prawidłowo wykryta.",
-  "scoringGliderNotice": "Samolot bez wybranego silnika, przełącz się na samolot z silnikiem, aby zobaczyć potencjalną pracę silnika.",
+  "scoringGliderNotice": "Samolot bez wybranego silnika, przełącz się na samolot z silnikiem, aby zobaczyć pracę silnika.",
   "season": "Sezon",
   "seats": "Siedzenia",
   "security": "Bezpieczeństwo",

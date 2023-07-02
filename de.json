@@ -641,7 +641,7 @@
   "scoreProcessing": "Punkte werden berechnet,",
   "scoringEngineNotice": "Flugzeug mit Motor ausgewählt. Bitte prüfe, dass Motorläufe (gelb) ordnungsgemäß erkannt wurden.",
   "scoringFesNotice": "Flugzeug mit elektrischem Antrieb ausgewählt. Bitte prüfe, dass Motorläufe (gelb) ordnungsgemäß erkannt wurden.",
-  "scoringGliderNotice": "Flugzeug ohne Motor ausgewählt, wechsel zu einem Flugzeug mit Motor um potentielle Motorläufe zu sehen.",
+  "scoringGliderNotice": "Flugzeug ohne Motor ausgewählt, wechsel zu einem Flugzeug mit Motor um Motorläufe zu sehen.",
   "season": "Saison",
   "seats": "Sitze",
   "security": "Sicherheit",

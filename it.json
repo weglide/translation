@@ -641,7 +641,7 @@
   "scoreProcessing": "Calcondo i punti",
   "scoringEngineNotice": "Velivolo con motore selezionato. Assicurarsi che le corse del motore (giallo) siano state rilevate correttamente.",
   "scoringFesNotice": "Velivolo con propulsione elettrica selezionato. Assicurarsi che le corse del motore (giallo) siano state rilevate correttamente.",
-  "scoringGliderNotice": "Aereo senza motore selezionato, passare a un aereo con motore per vedere i potenziali motori in funzione.",
+  "scoringGliderNotice": "Aereo senza motore selezionato, passare a un aereo con motore per vedere i motori in funzione.",
   "season": "Season",
   "seats": "Posti a sedere",
   "security": "Sicurezza",

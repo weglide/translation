@@ -641,7 +641,7 @@
   "scoreProcessing": "Scoring i prosess",
   "scoringEngineNotice": "Fly med motor valgt. Forsikre deg om at motorkjøringer (gul) er korrekt registrert.",
   "scoringFesNotice": "Fly med elektrisk fremdrift valgt. Forsikre deg om at motorkjøring (gul) er korrekt registrert.",
-  "scoringGliderNotice": "Fly uten motor valgt, bytt til fly med motor for å se potensielle motorganger.",
+  "scoringGliderNotice": "Fly uten motor valgt, bytt til fly med motor for å se motorganger.",
   "season": "Årstid",
   "seats": "Seter",
   "security": "Sikkerhet",

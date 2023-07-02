@@ -641,7 +641,7 @@
   "scoreProcessing": "Probíhá výpočet",
   "scoringEngineNotice": "Letadlo s vybraným motorem. Ujistěte se, že byl správně detekován chod motoru (žlutá barva).",
   "scoringFesNotice": "Vybraná letadla s elektrickým pohonem. Ujistěte se, že byl správně detekován chod motoru (žlutá barva).",
-  "scoringGliderNotice": "Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli potenciální běhy motoru.",
+  "scoringGliderNotice": "Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli běhy motoru.",
   "season": "Sezóna",
   "seats": "Sedadel",
   "security": "Bezpečnostní",

@@ -641,7 +641,7 @@
   "scoreProcessing": "Calcul des points en cours,",
   "scoringEngineNotice": "Avion avec moteur sélectionné. Veuillez vous assurer que les passages du moteur (jaune) ont été correctement détectés.",
   "scoringFesNotice": "Tu as choisi un planeur avec moteur électrique. Veuillez vous assurer que les arrêts moteur (jaune) ont été correctement détectés.",
-  "scoringGliderNotice": "Planeur sans moteur sélectionné, choisis un planeur avec moteur pour voir les temps moteur potentiels.",
+  "scoringGliderNotice": "Planeur sans moteur sélectionné, choisis un planeur avec moteur pour voir les temps moteur.",
   "season": "Saison",
   "seats": "Places",
   "security": "Sécurité",

@@ -641,7 +641,7 @@
   "scoreProcessing": "Poäng pågår",
   "scoringEngineNotice": "Flygplan med motor vald. Se till att motorn som är igång (gul) har detekterats korrekt.",
   "scoringFesNotice": "Flygplan med elektrisk framdrivning vald. Kontrollera att motorkörningar (gul) har detekterats korrekt.",
-  "scoringGliderNotice": "Flygplan utan motor vald, byt till flygplan med motor för att se potentiella motorer.",
+  "scoringGliderNotice": "Flygplan utan motor vald, byt till flygplan med motor för att se motorer.",
   "season": "Säsong",
   "seats": "Säten",
   "security": "säkerhet",

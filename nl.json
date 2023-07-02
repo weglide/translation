@@ -641,7 +641,7 @@
   "scoreProcessing": "Bezig met scoren",
   "scoringEngineNotice": "Vliegtuig met motor geselecteerd. Controleer of de motorloop (geel) correct is gedetecteerd.",
   "scoringFesNotice": "Vliegtuig met elektrische motor geselecteerd. Controleer of de motor (geel) correct is gedetecteerd.",
-  "scoringGliderNotice": "Vliegtuig zonder motor geselecteerd, wijzig naar vliegtuig met motor om potentiële motorlooptijd te zien.",
+  "scoringGliderNotice": "Vliegtuig zonder motor geselecteerd, wijzig naar vliegtuig met motor om motorlooptijd te zien.",
   "season": "Seizoen",
   "seats": "Zitplaatsen",
   "security": "Veiligheid",

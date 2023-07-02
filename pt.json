@@ -641,7 +641,7 @@
   "scoreProcessing": "Pontuação em processo",
   "scoringEngineNotice": "Aeronave com motor selecionado. Certifique-se de que o funcionamento do motor (amarelo) foi corretamente detectado.",
   "scoringFesNotice": "Aeronave com propulsão eléctrica selecionada. Certifique-se de que o funcionamento do motor (amarelo) foi corretamente detectado.",
-  "scoringGliderNotice": "Avião sem motor selecionado, mude para aeronave com motor para ver possíveis funcionamentos do motor.",
+  "scoringGliderNotice": "Avião sem motor selecionado, mude para aeronave com motor para ver funcionamentos do motor.",
   "season": "Temporada",
   "seats": "Assentos",
   "security": "Segurança",

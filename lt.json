@@ -641,7 +641,7 @@
   "scoreProcessing": "Balų skaičiavimas vyksta",
   "scoringEngineNotice": "Orlaivis su pasirinktu varikliu. Įsitikinkite, kad variklio veikimas (geltona spalva) buvo tinkamai aptiktas.",
   "scoringFesNotice": "Pasirinkti orlaiviai su elektrine pavara. Įsitikinkite, kad variklio veikimas (geltona spalva) buvo tinkamai aptiktas.",
-  "scoringGliderNotice": "Lėktuvas be pasirinkto variklio, perjunkite į orlaivį su varikliu, kad pamatytumėte galimą variklio darbą.",
+  "scoringGliderNotice": "Pasirinktas orlaivis be variklio, pereikite prie orlaivio su varikliu, kad pamatytumėte, kaip veikia variklis.",
   "season": "Sezonas",
   "seats": "Sėdynės",
   "security": "Saugumas",

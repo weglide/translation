@@ -641,7 +641,7 @@
   "scoreProcessing": "Scoring in process",
   "scoringEngineNotice": "Aircraft with engine selected. Please make sure that engine runs (yellow) have been properly detected.",
   "scoringFesNotice": "Aircraft with electric propulsion selected. Please make sure that engine runs (yellow) have been properly detected.",
-  "scoringGliderNotice": "Airplane without engine selected, switch to aircraft with engine to see potential engine runs.",
+  "scoringGliderNotice": "Airplane without engine selected, switch to aircraft with engine to see engine runs.",
   "season": "Season",
   "seats": "Seats",
   "security": "Security",
