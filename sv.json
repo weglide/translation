@@ -188,7 +188,7 @@
   "followers": "Följare",
   "following": "Följande",
   "forever": "Evigt",
-  "forgotPassword": "Glömt ditt lösenord",
+  "forgotPassword": "Glömt ditt lösenord?",
   "free": "Fri",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Frekvens",
@@ -961,5 +961,5 @@
   "towRelease": "Bogserkoppling",
   "winchRelease": "Vinschkoppling",
   "hasAccount": "Jag är redan anmäld",
-  "hasNoAccount": "Jag är inte anmäld än"
+  "createNewAccount": "Skapa nytt konto"
 }

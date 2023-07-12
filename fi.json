@@ -188,7 +188,7 @@
   "followers": "Seuraajia",
   "following": "Seurata",
   "forever": "Ikuisesti",
-  "forgotPassword": "Unohtuiko salasana",
+  "forgotPassword": "Unohtuiko salasana?",
   "free": "Vapaa",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Taajuus",
@@ -961,5 +961,5 @@
   "towRelease": "Lentokoneen vapauttaminen",
   "winchRelease": "Lentokoneen vapauttaminen",
   "hasAccount": "Olen jo ilmoittautunut",
-  "hasNoAccount": "En ole vielä ilmoittautunut"
+  "createNewAccount": "Luo uusi tili"
 }

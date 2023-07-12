@@ -188,7 +188,7 @@
   "followers": "Follower",
   "following": "Folgt",
   "forever": "Für immer",
-  "forgotPassword": "Passwort vergessen",
+  "forgotPassword": "Passwort vergessen?",
   "free": "Frei",
   "freeDescription": "WeGlide Distanz Cup",
   "frequency": "Frequenz",
@@ -520,8 +520,8 @@
       "name": "Südafrika"
     }
   },
-  "logIn": "Einloggen",
-  "logOut": "Ausloggen",
+  "logIn": "Anmelden",
+  "logOut": "Abmelden",
   "loggerInformation": "Logger Informationen",
   "loggers": "Logger",
   "longitudeAbbrev": "Lon.",
@@ -1034,5 +1034,5 @@
   "towRelease": "Ausklinken",
   "winchRelease": "Ausklinken",
   "hasAccount": "Ich bin bereits registriert",
-  "hasNoAccount": "Ich bin noch nicht registriert"
+  "createNewAccount": "Neuen Account erstellen"
 }

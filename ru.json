@@ -188,7 +188,7 @@
   "followers": "Последователи",
   "following": "Следующий",
   "forever": "Навсегда",
-  "forgotPassword": "Забыли пароль",
+  "forgotPassword": "Забыли пароль?",
   "free": "Бесплатно",
   "freeDescription": "Дистанционный кубок WeGlide",
   "frequency": "Частота",
@@ -961,5 +961,5 @@
   "towRelease": "Выпуск самолета",
   "winchRelease": "Выпуск самолета",
   "hasAccount": "я уже подписан",
-  "hasNoAccount": "я еще не зарегистрирован"
+  "createNewAccount": "Создать новый аккаунт"
 }

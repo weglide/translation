@@ -188,7 +188,7 @@
   "followers": "Sekėjai",
   "following": "Sekant",
   "forever": "Amžinai",
-  "forgotPassword": "Pamiršote slaptažodį",
+  "forgotPassword": "Pamiršote slaptažodį?",
   "free": "Laisvas",
   "freeDescription": "„WeGlide“ distancijos taurė",
   "frequency": "Dažnis",
@@ -961,5 +961,5 @@
   "towRelease": "Lėktuvo išleidimas",
   "winchRelease": "Lėktuvo išleidimas",
   "hasAccount": "Aš jau užsiregistravau",
-  "hasNoAccount": "Dar nesu užsiregistravęs"
+  "createNewAccount": "Sukurti naują paskyrą"
 }

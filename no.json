@@ -188,7 +188,7 @@
   "followers": "Følgere",
   "following": "Følgende",
   "forever": "For alltid",
-  "forgotPassword": "Glemt passord",
+  "forgotPassword": "Glemt passord?",
   "free": "Gratis",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Frekvens",
@@ -961,5 +961,5 @@
   "towRelease": "Utgivelse av fly",
   "winchRelease": "Utgivelse av fly",
   "hasAccount": "Jeg er allerede påmeldt",
-  "hasNoAccount": "Jeg er ikke registrert ennå"
+  "createNewAccount": "Opprette ny konto"
 }

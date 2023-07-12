@@ -188,7 +188,7 @@
   "followers": "Seguidores",
   "following": "Siguiendo",
   "forever": "Para siempre",
-  "forgotPassword": "Has olvidado tu contraseña",
+  "forgotPassword": "¿Has olvidado tu contraseña?",
   "free": "Libre",
   "freeDescription": "Copa de distancia WeGlide",
   "frequency": "Frecuencia",
@@ -962,5 +962,5 @@
   "towRelease": "Lanzamiento de aeronaves",
   "winchRelease": "Lanzamiento de aeronaves",
   "hasAccount": "ya estoy registrado",
-  "hasNoAccount": "todavía no estoy registrado"
+  "createNewAccount": "Crear una nueva cuenta"
 }

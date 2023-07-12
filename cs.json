@@ -188,7 +188,7 @@
   "followers": "Stoupenci",
   "following": "Následující",
   "forever": "Navždy",
-  "forgotPassword": "Zapomenuté heslo",
+  "forgotPassword": "Zapomenuté heslo?",
   "free": "Volný",
   "freeDescription": "WeGlide Cup - vzdálenost",
   "frequency": "Frekvence",
@@ -961,5 +961,5 @@
   "towRelease": "Uvolnění letadla",
   "winchRelease": "Uvolnění letadla",
   "hasAccount": "Už jsem přihlášený",
-  "hasNoAccount": "Ještě nejsem přihlášený"
+  "createNewAccount": "Vytvořit nový účet"
 }
