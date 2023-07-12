@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Zuid-Afrika"
+    },
+    "EE": {
+      "name": "Estland"
     }
   },
   "logIn": "Inloggen",
@@ -962,5 +965,13 @@
   "towRelease": "Vliegtuig vrijgeven",
   "winchRelease": "Vliegtuig vrijgeven",
   "hasAccount": "Ik ben al aangemeld",
-  "createNewAccount": "Creëer een nieuw account"
+  "createNewAccount": "Creëer een nieuw account",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azië",
+    "EU": "Europa",
+    "NA": "Noord Amerika",
+    "OC": "Oceanië",
+    "SA": "Zuid-Amerika"
+  }
 }

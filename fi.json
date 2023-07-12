@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Etelä-Afrikka"
+    },
+    "EE": {
+      "name": "Viro"
     }
   },
   "logIn": "Kirjaudu sisään",
@@ -961,5 +964,13 @@
   "towRelease": "Lentokoneen vapauttaminen",
   "winchRelease": "Lentokoneen vapauttaminen",
   "hasAccount": "Olen jo ilmoittautunut",
-  "createNewAccount": "Luo uusi tili"
+  "createNewAccount": "Luo uusi tili",
+  "continents": {
+    "AF": "Afrikka",
+    "AS": "Aasia",
+    "EU": "Euroopassa",
+    "NA": "Pohjois-Amerikka",
+    "OC": "Oseania",
+    "SA": "Etelä-Amerikka"
+  }
 }

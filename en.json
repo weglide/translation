@@ -44,6 +44,14 @@
   "closed": "Closed",
   "clouds": "Clouds",
   "club": "Club",
+  "continents": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "EU": "Europe",
+    "OC": "Oceania", 
+    "NA": "North America",
+    "SA": "South America"
+  },
   "coPilotDateOfBirth": "Co-Pilot date of birth",
   "coPilotName": "Co-Pilot name",
   "comments": "Comments",
@@ -345,6 +353,9 @@
     },
     "EC": {
       "name": "Ecuador"
+    },
+    "EE": {
+      "name": "Estonia"
     },
     "ES": {
       "name": "Spain"

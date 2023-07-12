@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Sudáfrica"
+    },
+    "EE": {
+      "name": "Estonia"
     }
   },
   "logIn": "Acceso",
@@ -962,5 +965,13 @@
   "towRelease": "Lanzamiento de aeronaves",
   "winchRelease": "Lanzamiento de aeronaves",
   "hasAccount": "ya estoy registrado",
-  "createNewAccount": "Crear una nueva cuenta"
+  "createNewAccount": "Crear una nueva cuenta",
+  "continents": {
+    "AF": "África",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "América del norte",
+    "OC": "Oceanía",
+    "SA": "Sudamerica"
+  }
 }

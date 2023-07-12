@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Afryka Południowa"
+    },
+    "EE": {
+      "name": "Estonia"
     }
   },
   "logIn": "Zaloguj",
@@ -961,5 +964,13 @@
   "towRelease": "Wydanie samolotu",
   "winchRelease": "Wydanie samolotu",
   "hasAccount": "Jestem już zapisany",
-  "createNewAccount": "Stwórz nowe konto"
+  "createNewAccount": "Stwórz nowe konto",
+  "continents": {
+    "AF": "Afryka",
+    "AS": "Azja",
+    "EU": "Europa",
+    "NA": "Ameryka północna",
+    "OC": "Oceania",
+    "SA": "Ameryka Południowa"
+  }
 }

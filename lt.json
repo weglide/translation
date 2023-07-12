@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "pietų Afrika"
+    },
+    "EE": {
+      "name": "Estija"
     }
   },
   "logIn": "Prisijungti",
@@ -961,5 +964,13 @@
   "towRelease": "Lėktuvo išleidimas",
   "winchRelease": "Lėktuvo išleidimas",
   "hasAccount": "Aš jau užsiregistravau",
-  "createNewAccount": "Sukurti naują paskyrą"
+  "createNewAccount": "Sukurti naują paskyrą",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azija",
+    "EU": "Europa",
+    "NA": "Šiaurės Amerika",
+    "OC": "Okeanija",
+    "SA": "Pietų Amerika"
+  }
 }

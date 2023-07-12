@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Sydafrika"
+    },
+    "EE": {
+      "name": "Estland"
     }
   },
   "logIn": "Logga in",
@@ -961,5 +964,13 @@
   "towRelease": "Bogserkoppling",
   "winchRelease": "Vinschkoppling",
   "hasAccount": "Jag är redan anmäld",
-  "createNewAccount": "Skapa nytt konto"
+  "createNewAccount": "Skapa nytt konto",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asien",
+    "EU": "Europa",
+    "NA": "Nordamerika",
+    "OC": "Oceanien",
+    "SA": "Sydamerika"
+  }
 }

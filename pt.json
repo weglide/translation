@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "África do Sul"
+    },
+    "EE": {
+      "name": "Estônia"
     }
   },
   "logIn": "Conecte-se",
@@ -962,5 +965,13 @@
   "towRelease": "Liberação de aeronave",
   "winchRelease": "Liberação de aeronave",
   "hasAccount": "já estou inscrito",
-  "createNewAccount": "Criar nova conta"
+  "createNewAccount": "Criar nova conta",
+  "continents": {
+    "AF": "África",
+    "AS": "Ásia",
+    "EU": "Europa",
+    "NA": "América do Norte",
+    "OC": "Oceânia",
+    "SA": "América do Sul"
+  }
 }

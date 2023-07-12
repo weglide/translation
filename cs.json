@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Jižní Afrika"
+    },
+    "EE": {
+      "name": "Estonsko"
     }
   },
   "logIn": "Přihlásit se",
@@ -961,5 +964,13 @@
   "towRelease": "Uvolnění letadla",
   "winchRelease": "Uvolnění letadla",
   "hasAccount": "Už jsem přihlášený",
-  "createNewAccount": "Vytvořit nový účet"
+  "createNewAccount": "Vytvořit nový účet",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asie",
+    "EU": "Evropa",
+    "NA": "Severní Amerika",
+    "OC": "Oceánie",
+    "SA": "Jižní Amerika"
+  }
 }

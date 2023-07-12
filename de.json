@@ -518,6 +518,9 @@
     },
     "ZA": {
       "name": "Südafrika"
+    },
+    "EE": {
+      "name": "Estland"
     }
   },
   "logIn": "Anmelden",
@@ -1034,5 +1037,13 @@
   "towRelease": "Ausklinken",
   "winchRelease": "Ausklinken",
   "hasAccount": "Ich bin bereits registriert",
-  "createNewAccount": "Neuen Account erstellen"
+  "createNewAccount": "Neuen Account erstellen",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asien",
+    "EU": "Europa",
+    "NA": "Nordamerika",
+    "OC": "Ozeanien",
+    "SA": "Südamerika"
+  }
 }
