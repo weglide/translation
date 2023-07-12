@@ -54,3 +54,6 @@ Spanish:
 
 Japanese:
 * @steramoto
+
+Japanese:
+* Kjell Folkesson
