@@ -188,7 +188,7 @@
   "followers": "Відстежують",
   "following": "Відстежує",
   "forever": "Назавжди",
-  "forgotPassword": "Забули пароль?",
+  "forgotPassword": "Забули пароль",
   "free": "Вільний",
   "freeDescription": "Кубок Дистанції WeGlide",
   "frequency": "Частота",
@@ -959,5 +959,7 @@
   "reset": "Скинути",
   "selfLaunchEnd": "Кінець самостійного запуску",
   "towRelease": "Випуск літака",
-  "winchRelease": "Випуск літака"
+  "winchRelease": "Випуск літака",
+  "hasAccount": "Я вже зареєстрований",
+  "hasNoAccount": "Я ще не зареєстрований"
 }

@@ -188,7 +188,7 @@
   "followers": "Follower",
   "following": "Folgt",
   "forever": "Für immer",
-  "forgotPassword": "Passwort vergessen?",
+  "forgotPassword": "Passwort vergessen",
   "free": "Frei",
   "freeDescription": "WeGlide Distanz Cup",
   "frequency": "Frequenz",
@@ -1032,5 +1032,7 @@
   "reset": "Zurücksetzen",
   "selfLaunchEnd": "Eigenstart Ende",
   "towRelease": "Ausklinken",
-  "winchRelease": "Ausklinken"
+  "winchRelease": "Ausklinken",
+  "hasAccount": "Ich bin bereits registriert",
+  "hasNoAccount": "Ich bin noch nicht registriert"
 }

@@ -188,7 +188,7 @@
   "followers": "Followers",
   "following": "Following",
   "forever": "Forever",
-  "forgotPassword": "Forgot Password?",
+  "forgotPassword": "Forgot Password",
   "free": "Free",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Frequency",
@@ -1032,5 +1032,7 @@
   "engineRun": "Engine run",
   "addEngineRun": "Add engine run",
   "reset": "Reset",
-  "winchRelease": "Winch release"
+  "winchRelease": "Winch release",
+  "hasAccount": "I am already signed up",
+  "hasNoAccount": "I am not signed up yet"
 }

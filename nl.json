@@ -188,7 +188,7 @@
   "followers": "Volgers",
   "following": "Volgend",
   "forever": "Voor altijd",
-  "forgotPassword": "Wachtwoord vergeten?",
+  "forgotPassword": "Wachtwoord vergeten",
   "free": "Vrije",
   "freeDescription": "WeGlide afstandscup",
   "frequency": "Frequentie",
@@ -960,5 +960,7 @@
   "reset": "Resetten",
   "selfLaunchEnd": "Einde zelflancering",
   "towRelease": "Vliegtuig vrijgeven",
-  "winchRelease": "Vliegtuig vrijgeven"
+  "winchRelease": "Vliegtuig vrijgeven",
+  "hasAccount": "Ik ben al aangemeld",
+  "hasNoAccount": "Ik ben nog niet aangemeld"
 }

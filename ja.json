@@ -188,7 +188,7 @@
   "followers": "フォロワー",
   "following": "フォロー中",
   "forever": "永遠に",
-  "forgotPassword": "パスワードをお忘れですか？",
+  "forgotPassword": "パスワードをお忘れですか",
   "free": "無料",
   "freeDescription": "WeGlideディスタンスカップ",
   "frequency": "周波数",
@@ -959,5 +959,7 @@
   "reset": "リセット",
   "selfLaunchEnd": "自己起動終了",
   "towRelease": "航空機のリリース",
-  "winchRelease": "航空機のリリース"
+  "winchRelease": "航空機のリリース",
+  "hasAccount": "すでにサインアップしています",
+  "hasNoAccount": "まだ登録していません"
 }

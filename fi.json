@@ -188,7 +188,7 @@
   "followers": "Seuraajia",
   "following": "Seurata",
   "forever": "Ikuisesti",
-  "forgotPassword": "Unohtuiko salasana?",
+  "forgotPassword": "Unohtuiko salasana",
   "free": "Vapaa",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Taajuus",
@@ -959,5 +959,7 @@
   "reset": "Nollaa",
   "selfLaunchEnd": "Itsekäynnistys loppu",
   "towRelease": "Lentokoneen vapauttaminen",
-  "winchRelease": "Lentokoneen vapauttaminen"
+  "winchRelease": "Lentokoneen vapauttaminen",
+  "hasAccount": "Olen jo ilmoittautunut",
+  "hasNoAccount": "En ole vielä ilmoittautunut"
 }

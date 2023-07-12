@@ -188,7 +188,7 @@
   "followers": "Seguidores",
   "following": "Segue",
   "forever": "Para todo sempre",
-  "forgotPassword": "Esqueceu a senha?",
+  "forgotPassword": "Esqueceu sua senha",
   "free": "Livre",
   "freeDescription": "Copa de Distância WeGlide",
   "frequency": "Frequência",
@@ -960,5 +960,7 @@
   "reset": "Reiniciar",
   "selfLaunchEnd": "Fim de lançamento automático",
   "towRelease": "Liberação de aeronave",
-  "winchRelease": "Liberação de aeronave"
+  "winchRelease": "Liberação de aeronave",
+  "hasAccount": "já estou inscrito",
+  "hasNoAccount": "ainda não sou inscrito"
 }

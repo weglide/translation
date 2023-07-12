@@ -188,7 +188,7 @@
   "followers": "Obserwujący",
   "following": "Następny",
   "forever": "Na zawsze",
-  "forgotPassword": "Zapomniałeś hasła?",
+  "forgotPassword": "Zapomniałeś hasła",
   "free": "Wolny",
   "freeDescription": "Puchar odległości WeGlide",
   "frequency": "Częstotliwośc",
@@ -959,5 +959,7 @@
   "reset": "Resetowanie",
   "selfLaunchEnd": "Koniec samodzielnego uruchamiania",
   "towRelease": "Wydanie samolotu",
-  "winchRelease": "Wydanie samolotu"
+  "winchRelease": "Wydanie samolotu",
+  "hasAccount": "Jestem już zapisany",
+  "hasNoAccount": "Nie jestem jeszcze zarejestrowany"
 }
