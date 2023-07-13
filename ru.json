@@ -976,5 +976,6 @@
     "OC": "Океания",
     "SA": "Южная Америка"
   },
-  "analysis": "Анализ"
+  "analysis": "Анализ",
+  "registrationForPointCalculation": "Регистрация для расчета баллов"
 }

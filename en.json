@@ -1049,5 +1049,6 @@
   "winchRelease": "Winch release",
   "hasAccount": "I am already signed up",
   "createNewAccount": "Create new account",
-  "analysis": "Analysis"
+  "analysis": "Analysis",
+  "registrationForPointCalculation": "Registration for point calculation"
 }

@@ -976,5 +976,6 @@
     "OC": "Oseania",
     "SA": "Etelä-Amerikka"
   },
-  "analysis": "Analyysi"
+  "analysis": "Analyysi",
+  "registrationForPointCalculation": "Ilmoittautuminen pisteiden laskemiseen"
 }
