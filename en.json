@@ -48,7 +48,7 @@
     "AF": "Africa",
     "AS": "Asia",
     "EU": "Europe",
-    "OC": "Oceania", 
+    "OC": "Oceania",
     "NA": "North America",
     "SA": "South America"
   },
@@ -1048,5 +1048,6 @@
   "reset": "Reset",
   "winchRelease": "Winch release",
   "hasAccount": "I am already signed up",
-  "createNewAccount": "Create new account"
+  "createNewAccount": "Create new account",
+  "analysis": "Analysis"
 }
