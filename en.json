@@ -1050,5 +1050,7 @@
   "hasAccount": "I am already signed up",
   "createNewAccount": "Create new account",
   "analysis": "Analysis",
-  "registrationForPointCalculation": "Registration for point calculation"
+  "liveConnectTo": "Connect to {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connect to {name}, disconnect from {oldName}",
+  "liveConnectDone": "Already connected to {name} in WeGlide Live"
 }

@@ -977,5 +977,7 @@
     "SA": "Sydamerika"
   },
   "analysis": "Analys",
-  "registrationForPointCalculation": "Anmälan för poängberäkning"
+  "liveConnectDone": "Redan ansluten till {name} i WeGlide Live",
+  "liveConnectOverwrite": "Anslut till {name}, koppla från {oldName}",
+  "liveConnectTo": "Anslut till {name} i WeGlide Live"
 }

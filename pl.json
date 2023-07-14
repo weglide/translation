@@ -977,5 +977,7 @@
     "SA": "Ameryka Południowa"
   },
   "analysis": "Analiza",
-  "registrationForPointCalculation": "Rejestracja do obliczania punktów"
+  "liveConnectDone": "Już połączono z {name} w WeGlide Live",
+  "liveConnectOverwrite": "Połącz się z {name}, odłącz się od {oldName}",
+  "liveConnectTo": "Połącz się z {name} w WeGlide Live"
 }

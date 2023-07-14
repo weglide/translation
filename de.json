@@ -963,7 +963,7 @@
   "circumnavigation": "Umrundung",
   "internationalAirport": "Internationaler Flughafen",
   "registrationOptional": "Registrierung (optional)",
-  "registration": "Registrierung",
+  "registration": "Kennzeichen",
   "gallery": "Galerie",
   "pictures": "Bilder",
   "teamFlight": "Teamflug",
@@ -1050,5 +1050,7 @@
     "SA": "Südamerika"
   },
   "analysis": "Analyse",
-  "registrationForPointCalculation": "Registrierung zur Punkteberechnung"
+  "liveConnectDone": "Bereits mit {name} in WeGlide Live verbunden",
+  "liveConnectOverwrite": "Mit {name} verbinden, {oldName} trennen",
+  "liveConnectTo": "Verbinde mit {name} in WeGlide Live"
 }

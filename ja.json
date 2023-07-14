@@ -977,5 +977,7 @@
     "SA": "南アメリカ"
   },
   "analysis": "分析",
-  "registrationForPointCalculation": "ポイント計算の登録"
+  "liveConnectDone": "WeGlide Live ですでに {name} に接続しています",
+  "liveConnectOverwrite": "{name} に接続し、{oldName} から切断します",
+  "liveConnectTo": "WeGlide Live で {name} に接続します"
 }

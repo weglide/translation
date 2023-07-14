@@ -977,5 +977,7 @@
     "SA": "Pietų Amerika"
   },
   "analysis": "Analizė",
-  "registrationForPointCalculation": "Registracija taškų skaičiavimui"
+  "liveConnectDone": "Jau prisijungėte prie {name} „WeGlide Live“.",
+  "liveConnectOverwrite": "Prisijunkite prie {name}, atsijunkite nuo {oldName}",
+  "liveConnectTo": "Prisijunkite prie {name} „WeGlide Live“."
 }

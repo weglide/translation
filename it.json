@@ -978,5 +978,7 @@
     "SA": "Sud America"
   },
   "analysis": "Analisi",
-  "registrationForPointCalculation": "Registrazione per il calcolo del punteggio"
+  "liveConnectDone": "Già connesso a {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connettiti a {name}, disconnettiti da {oldName}",
+  "liveConnectTo": "Connettiti a {name} in WeGlide Live"
 }

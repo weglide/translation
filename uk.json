@@ -977,5 +977,7 @@
     "SA": "Південна Америка"
   },
   "analysis": "Аналіз",
-  "registrationForPointCalculation": "Реєстрація для нарахування балів"
+  "liveConnectDone": "Уже підключено до {name} у WeGlide Live",
+  "liveConnectOverwrite": "Підключитися до {name}, від’єднатися від {oldName}",
+  "liveConnectTo": "Підключіться до {name} у WeGlide Live"
 }

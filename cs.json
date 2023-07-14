@@ -977,5 +977,7 @@
     "SA": "Jižní Amerika"
   },
   "analysis": "Analýza",
-  "registrationForPointCalculation": "Registrace pro výpočet bodů"
+  "liveConnectDone": "Již jste připojeni k {name} ve WeGlide Live",
+  "liveConnectOverwrite": "Připojte se k {name}, odpojte se od {oldName}",
+  "liveConnectTo": "Připojte se k {name} ve WeGlide Live"
 }

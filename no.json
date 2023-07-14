@@ -977,5 +977,7 @@
     "SA": "Sør Amerika"
   },
   "analysis": "Analyse",
-  "registrationForPointCalculation": "Påmelding til poengberegning"
+  "liveConnectDone": "Allerede koblet til {name} i WeGlide Live",
+  "liveConnectOverwrite": "Koble til {name}, koble fra {oldName}",
+  "liveConnectTo": "Koble til {name} i WeGlide Live"
 }

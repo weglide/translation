@@ -977,5 +977,7 @@
     "SA": "Южная Америка"
   },
   "analysis": "Анализ",
-  "registrationForPointCalculation": "Регистрация для расчета баллов"
+  "liveConnectDone": "Уже подключено к {name} в WeGlide Live",
+  "liveConnectOverwrite": "Подключиться к {name}, отключиться от {oldName}",
+  "liveConnectTo": "Подключиться к {name} в WeGlide Live"
 }
