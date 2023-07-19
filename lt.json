@@ -979,5 +979,6 @@
   "analysis": "Analizė",
   "liveConnectDone": "Jau prisijungėte prie {name} „WeGlide Live“.",
   "liveConnectOverwrite": "Prisijunkite prie {name}, atsijunkite nuo {oldName}",
-  "liveConnectTo": "Prisijunkite prie {name} „WeGlide Live“."
+  "liveConnectTo": "Prisijunkite prie {name} „WeGlide Live“.",
+  "subscribeMagazine": "Prenumeruokite pasirinktas žurnalo istorijas"
 }

@@ -979,5 +979,6 @@
   "analysis": "Analiza",
   "liveConnectDone": "Już połączono z {name} w WeGlide Live",
   "liveConnectOverwrite": "Połącz się z {name}, odłącz się od {oldName}",
-  "liveConnectTo": "Połącz się z {name} w WeGlide Live"
+  "liveConnectTo": "Połącz się z {name} w WeGlide Live",
+  "subscribeMagazine": "Subskrybuj wybrane historie z czasopism"
 }

@@ -979,5 +979,6 @@
   "analysis": "Analýza",
   "liveConnectDone": "Již jste připojeni k {name} ve WeGlide Live",
   "liveConnectOverwrite": "Připojte se k {name}, odpojte se od {oldName}",
-  "liveConnectTo": "Připojte se k {name} ve WeGlide Live"
+  "liveConnectTo": "Připojte se k {name} ve WeGlide Live",
+  "subscribeMagazine": "Přihlaste se k odběru vybraných článků z časopisu"
 }

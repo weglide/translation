@@ -979,5 +979,6 @@
   "analysis": "Analys",
   "liveConnectDone": "Redan ansluten till {name} i WeGlide Live",
   "liveConnectOverwrite": "Anslut till {name}, koppla från {oldName}",
-  "liveConnectTo": "Anslut till {name} i WeGlide Live"
+  "liveConnectTo": "Anslut till {name} i WeGlide Live",
+  "subscribeMagazine": "Prenumerera på utvalda tidningsartiklar"
 }

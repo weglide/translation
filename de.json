@@ -1052,5 +1052,6 @@
   "analysis": "Analyse",
   "liveConnectDone": "Bereits mit {name} in WeGlide Live verbunden",
   "liveConnectOverwrite": "Mit {name} verbinden, {oldName} trennen",
-  "liveConnectTo": "Verbinde mit {name} in WeGlide Live"
+  "liveConnectTo": "Verbinde mit {name} in WeGlide Live",
+  "subscribeMagazine": "Abonniere ausgewählte Magazinbeiträge"
 }

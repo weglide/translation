@@ -979,5 +979,6 @@
   "analysis": "Analyysi",
   "liveConnectDone": "Yhdistetty jo käyttäjään {name} WeGlide Livessä",
   "liveConnectOverwrite": "Yhdistä kohteeseen {name}, katkaise yhteys kohteeseen {oldName}",
-  "liveConnectTo": "Yhdistä verkkoon {name} WeGlide Livessä"
+  "liveConnectTo": "Yhdistä verkkoon {name} WeGlide Livessä",
+  "subscribeMagazine": "Tilaa valitut lehden tarinat"
 }

@@ -979,5 +979,6 @@
   "analysis": "分析",
   "liveConnectDone": "WeGlide Live ですでに {name} に接続しています",
   "liveConnectOverwrite": "{name} に接続し、{oldName} から切断します",
-  "liveConnectTo": "WeGlide Live で {name} に接続します"
+  "liveConnectTo": "WeGlide Live で {name} に接続します",
+  "subscribeMagazine": "選択した雑誌の記事を購読する"
 }

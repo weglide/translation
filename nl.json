@@ -732,7 +732,7 @@
   "verifying": "Email wordt geverifieerd",
   "waiting": "In wachtrij",
   "weather": "Weer",
-  "wholeLeague": "Ganse competitie",
+  "wholeLeague": "Volledige competitie",
   "width": "Breedte",
   "wind": "Wind",
   "windAbbrev": "Wind",
@@ -980,5 +980,6 @@
   "analysis": "Analyse",
   "liveConnectDone": "Al verbonden met {name} in WeGlide Live",
   "liveConnectOverwrite": "Verbinding maken met {name}, verbinding met {oldName} verbreken",
-  "liveConnectTo": "Maak verbinding met {name} in WeGlide Live"
+  "liveConnectTo": "Maak verbinding met {name} in WeGlide Live",
+  "subscribeMagazine": "Abonneer u op geselecteerde tijdschriftverhalen"
 }
