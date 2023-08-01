@@ -980,5 +980,6 @@
   "liveConnectDone": "Allerede koblet til {name} i WeGlide Live",
   "liveConnectOverwrite": "Koble til {name}, koble fra {oldName}",
   "liveConnectTo": "Koble til {name} i WeGlide Live",
-  "subscribeMagazine": "Abonner på utvalgte magasinhistorier"
+  "subscribeMagazine": "Abonner på utvalgte magasinhistorier",
+  "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen"
 }

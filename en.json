@@ -1053,5 +1053,6 @@
   "liveConnectTo": "Connect to {name} in WeGlide Live",
   "liveConnectOverwrite": "Connect to {name}, disconnect from {oldName}",
   "liveConnectDone": "Already connected to {name} in WeGlide Live",
-  "subscribeMagazine": "Subscribe to selected magazine stories"
+  "subscribeMagazine": "Subscribe to selected magazine stories",
+  "compareAnyPilot": "Compare with any pilot from the day"
 }

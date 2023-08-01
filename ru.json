@@ -980,5 +980,6 @@
   "liveConnectDone": "Уже подключено к {name} в WeGlide Live",
   "liveConnectOverwrite": "Подключиться к {name}, отключиться от {oldName}",
   "liveConnectTo": "Подключиться к {name} в WeGlide Live",
-  "subscribeMagazine": "Подпишитесь на избранные истории журнала"
+  "subscribeMagazine": "Подпишитесь на избранные истории журнала",
+  "compareAnyPilot": "Сравните с любым пилотом того дня"
 }

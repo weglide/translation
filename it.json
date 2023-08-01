@@ -981,5 +981,6 @@
   "liveConnectDone": "Già connesso a {name} in WeGlide Live",
   "liveConnectOverwrite": "Connettiti a {name}, disconnettiti da {oldName}",
   "liveConnectTo": "Connettiti a {name} in WeGlide Live",
-  "subscribeMagazine": "Abbonati alle storie di riviste selezionate"
+  "subscribeMagazine": "Abbonati alle storie di riviste selezionate",
+  "compareAnyPilot": "Confronta con qualsiasi pilota del giorno"
 }

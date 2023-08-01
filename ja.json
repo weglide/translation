@@ -980,5 +980,6 @@
   "liveConnectDone": "WeGlide Live ですでに {name} に接続しています",
   "liveConnectOverwrite": "{name} に接続し、{oldName} から切断します",
   "liveConnectTo": "WeGlide Live で {name} に接続します",
-  "subscribeMagazine": "選択した雑誌の記事を購読する"
+  "subscribeMagazine": "選択した雑誌の記事を購読する",
+  "compareAnyPilot": "その日のパイロットと比較してください"
 }

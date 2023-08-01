@@ -1053,5 +1053,6 @@
   "liveConnectDone": "Bereits mit {name} in WeGlide Live verbunden",
   "liveConnectOverwrite": "Mit {name} verbinden, {oldName} trennen",
   "liveConnectTo": "Verbinde mit {name} in WeGlide Live",
-  "subscribeMagazine": "Abonniere ausgewählte Magazinbeiträge"
+  "subscribeMagazine": "Abonniere ausgewählte Magazinbeiträge",
+  "compareAnyPilot": "Vergleiche mit jeder PilotIn des Tages"
 }
