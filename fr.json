@@ -1051,5 +1051,6 @@
   "liveConnectOverwrite": "Connectez-vous à {name}, déconnectez-vous de {oldName}",
   "liveConnectTo": "Connectez-vous à {name} dans WeGlide Live",
   "subscribeMagazine": "Abonnez-vous à des articles de magazines sélectionnés",
-  "compareAnyPilot": "Comparez avec n'importe quel pilote de la journée"
+  "compareAnyPilot": "Comparez avec n'importe quel pilote de la journée",
+  "competitionAbbrev": "Conc."
 }

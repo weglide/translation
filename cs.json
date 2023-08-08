@@ -981,5 +981,6 @@
   "liveConnectOverwrite": "Připojte se k {name}, odpojte se od {oldName}",
   "liveConnectTo": "Připojte se k {name} ve WeGlide Live",
   "subscribeMagazine": "Přihlaste se k odběru vybraných článků z časopisu",
-  "compareAnyPilot": "Porovnejte s jakýmkoli pilotem ze dne"
+  "compareAnyPilot": "Porovnejte s jakýmkoli pilotem ze dne",
+  "competitionAbbrev": "Soutěž"
 }

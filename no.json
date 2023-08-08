@@ -981,5 +981,6 @@
   "liveConnectOverwrite": "Koble til {name}, koble fra {oldName}",
   "liveConnectTo": "Koble til {name} i WeGlide Live",
   "subscribeMagazine": "Abonner på utvalgte magasinhistorier",
-  "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen"
+  "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen",
+  "competitionAbbrev": "Konk."
 }

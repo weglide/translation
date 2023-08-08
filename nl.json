@@ -982,5 +982,6 @@
   "liveConnectOverwrite": "Verbinding maken met {name}, verbinding met {oldName} verbreken",
   "liveConnectTo": "Maak verbinding met {name} in WeGlide Live",
   "subscribeMagazine": "Abonneer u op geselecteerde tijdschriftverhalen",
-  "compareAnyPilot": "Vergelijk met elke piloot van de dag"
+  "compareAnyPilot": "Vergelijk met elke piloot van de dag",
+  "competitionAbbrev": "Conc."
 }
