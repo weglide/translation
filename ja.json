@@ -982,5 +982,6 @@
   "liveConnectTo": "WeGlide Live で {name} に接続します",
   "subscribeMagazine": "選択した雑誌の記事を購読する",
   "compareAnyPilot": "その日のパイロットと比較してください",
-  "competitionAbbrev": "コンペ"
+  "competitionAbbrev": "コンペ",
+  "matthiasDescription": "長距離チラシ"
 }

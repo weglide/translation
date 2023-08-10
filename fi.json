@@ -982,5 +982,6 @@
   "liveConnectTo": "Yhdistä verkkoon {name} WeGlide Livessä",
   "subscribeMagazine": "Tilaa valitut lehden tarinat",
   "compareAnyPilot": "Vertaa mihin tahansa tämän päivän lentäjään",
-  "competitionAbbrev": "Kilp."
+  "competitionAbbrev": "Kilp.",
+  "matthiasDescription": "Pitkän matkan lentolehtinen"
 }
