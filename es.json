@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sudáfrica"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "PH": {
+      "name": "Filipinas"
     }
   },
   "logIn": "Acceso",
@@ -960,5 +966,23 @@
   "reset": "Reiniciar",
   "selfLaunchEnd": "Fin de autolanzamiento",
   "towRelease": "Lanzamiento de aeronaves",
-  "winchRelease": "Lanzamiento de aeronaves"
+  "winchRelease": "Lanzamiento de aeronaves",
+  "hasAccount": "ya estoy registrado",
+  "createNewAccount": "Crear una nueva cuenta",
+  "continents": {
+    "AF": "África",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "América del norte",
+    "OC": "Oceanía",
+    "SA": "Sudamerica"
+  },
+  "analysis": "Análisis",
+  "liveConnectDone": "Ya conectado a {name} en WeGlide Live",
+  "liveConnectOverwrite": "Conectarse a {name}, desconectarse de {oldName}",
+  "liveConnectTo": "Conéctese a {nombre} en WeGlide Live",
+  "subscribeMagazine": "Suscríbete a las historias de revistas seleccionadas",
+  "compareAnyPilot": "Comparar con cualquier piloto del día.",
+  "competitionAbbrev": "Comp.",
+  "matthiasDescription": "volante de larga distancia"
 }

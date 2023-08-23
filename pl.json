@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Afryka Południowa"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "PH": {
+      "name": "Filipiny"
     }
   },
   "logIn": "Zaloguj",
@@ -959,5 +965,23 @@
   "reset": "Resetowanie",
   "selfLaunchEnd": "Koniec samodzielnego uruchamiania",
   "towRelease": "Wydanie samolotu",
-  "winchRelease": "Wydanie samolotu"
+  "winchRelease": "Wydanie samolotu",
+  "hasAccount": "Jestem już zapisany",
+  "createNewAccount": "Stwórz nowe konto",
+  "continents": {
+    "AF": "Afryka",
+    "AS": "Azja",
+    "EU": "Europa",
+    "NA": "Ameryka północna",
+    "OC": "Oceania",
+    "SA": "Ameryka Południowa"
+  },
+  "analysis": "Analiza",
+  "liveConnectDone": "Już połączono z {name} w WeGlide Live",
+  "liveConnectOverwrite": "Połącz się z {name}, odłącz się od {oldName}",
+  "liveConnectTo": "Połącz się z {name} w WeGlide Live",
+  "subscribeMagazine": "Subskrybuj wybrane historie z czasopism",
+  "compareAnyPilot": "Porównaj z dowolnym pilotem z tamtego dnia",
+  "competitionAbbrev": "Konk.",
+  "matthiasDescription": "Ulotka długodystansowa"
 }

@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Afrique du Sud"
+    },
+    "EE": {
+      "name": "Estonie"
+    },
+    "PH": {
+      "name": "Philippines"
     }
   },
   "logIn": "Se connecter",
@@ -1011,7 +1017,7 @@
   "noTaskStart": "pas de départ",
   "copy": "Copie",
   "area": "Zone",
-  "weight": "Lester",
+  "weight": "Poids",
   "tomorrow": "Demain",
   "week": "Semaine",
   "contactSomeone": "Contacter {name}",
@@ -1030,4 +1036,22 @@
   "selfLaunchEnd": "Fin du lancement autonome",
   "towRelease": "Largage remorqueur",
   "winchRelease": "Largage treuil"
+  "hasAccount": "je suis déjà inscrit",
+  "createNewAccount": "Créer un nouveau compte",
+  "continents": {
+    "AF": "Afrique",
+    "AS": "Asie",
+    "EU": "Europe",
+    "NA": "Amérique du Nord",
+    "OC": "Océanie",
+    "SA": "Amérique du Sud"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Déjà connecté à {name} dans WeGlide Live",
+  "liveConnectOverwrite": "Connectez-vous à {name}, déconnectez-vous de {oldName}",
+  "liveConnectTo": "Connectez-vous à {name} dans WeGlide Live",
+  "subscribeMagazine": "Abonnez-vous à des articles de magazines sélectionnés",
+  "compareAnyPilot": "Comparez avec n'importe quel pilote de la journée",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "Dépliant longue distance"
 }

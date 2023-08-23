@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Jižní Afrika"
+    },
+    "EE": {
+      "name": "Estonsko"
+    },
+    "PH": {
+      "name": "Filipíny"
     }
   },
   "logIn": "Přihlásit se",
@@ -959,5 +965,23 @@
   "reset": "Resetovat",
   "selfLaunchEnd": "Konec vlastního spuštění",
   "towRelease": "Uvolnění letadla",
-  "winchRelease": "Uvolnění letadla"
+  "winchRelease": "Uvolnění letadla",
+  "hasAccount": "Už jsem přihlášený",
+  "createNewAccount": "Vytvořit nový účet",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asie",
+    "EU": "Evropa",
+    "NA": "Severní Amerika",
+    "OC": "Oceánie",
+    "SA": "Jižní Amerika"
+  },
+  "analysis": "Analýza",
+  "liveConnectDone": "Již jste připojeni k {name} ve WeGlide Live",
+  "liveConnectOverwrite": "Připojte se k {name}, odpojte se od {oldName}",
+  "liveConnectTo": "Připojte se k {name} ve WeGlide Live",
+  "subscribeMagazine": "Přihlaste se k odběru vybraných článků z časopisu",
+  "compareAnyPilot": "Porovnejte s jakýmkoli pilotem ze dne",
+  "competitionAbbrev": "Soutěž",
+  "matthiasDescription": "Leták na dlouhé vzdálenosti"
 }

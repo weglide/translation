@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "南アフリカ"
+    },
+    "EE": {
+      "name": "エストニア"
+    },
+    "PH": {
+      "name": "フィリピン"
     }
   },
   "logIn": "ログイン",
@@ -959,5 +965,23 @@
   "reset": "リセット",
   "selfLaunchEnd": "自己起動終了",
   "towRelease": "航空機のリリース",
-  "winchRelease": "航空機のリリース"
+  "winchRelease": "航空機のリリース",
+  "hasAccount": "すでにサインアップしています",
+  "createNewAccount": "新しいアカウントを作成する",
+  "continents": {
+    "AF": "アフリカ",
+    "AS": "アジア",
+    "EU": "ヨーロッパ",
+    "NA": "北米",
+    "OC": "オセアニア",
+    "SA": "南アメリカ"
+  },
+  "analysis": "分析",
+  "liveConnectDone": "WeGlide Live ですでに {name} に接続しています",
+  "liveConnectOverwrite": "{name} に接続し、{oldName} から切断します",
+  "liveConnectTo": "WeGlide Live で {name} に接続します",
+  "subscribeMagazine": "選択した雑誌の記事を購読する",
+  "compareAnyPilot": "その日のパイロットと比較してください",
+  "competitionAbbrev": "コンペ",
+  "matthiasDescription": "長距離チラシ"
 }

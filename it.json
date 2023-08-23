@@ -188,7 +188,7 @@
   "followers": "Follower",
   "following": "Seguiti",
   "forever": "Per sempre",
-  "forgotPassword": "Password dimenticata?",
+  "forgotPassword": "Ha dimenticato la password?",
   "free": "Gratuito",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Frequenza",
@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sud Africa"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "PH": {
+      "name": "Filippine"
     }
   },
   "logIn": "Accedi",
@@ -960,5 +966,23 @@
   "reset": "Ripristina",
   "selfLaunchEnd": "Fine del lancio automatico",
   "towRelease": "Rilascio dell'aeromobile",
-  "winchRelease": "Rilascio dell'aeromobile"
+  "winchRelease": "Rilascio dell'aeromobile",
+  "hasAccount": "Sono già iscritto",
+  "createNewAccount": "Crea un nuovo account",
+  "continents": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Nord America",
+    "OC": "Oceania",
+    "SA": "Sud America"
+  },
+  "analysis": "Analisi",
+  "liveConnectDone": "Già connesso a {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connettiti a {name}, disconnettiti da {oldName}",
+  "liveConnectTo": "Connettiti a {name} in WeGlide Live",
+  "subscribeMagazine": "Abbonati alle storie di riviste selezionate",
+  "compareAnyPilot": "Confronta con qualsiasi pilota del giorno",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "Volantino a lunga distanza"
 }

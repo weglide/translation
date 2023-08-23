@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Південна Африка"
+    },
+    "EE": {
+      "name": "Естонія"
+    },
+    "PH": {
+      "name": "Філіппіни"
     }
   },
   "logIn": "Увійти",
@@ -959,5 +965,23 @@
   "reset": "Скинути",
   "selfLaunchEnd": "Кінець самостійного запуску",
   "towRelease": "Випуск літака",
-  "winchRelease": "Випуск літака"
+  "winchRelease": "Випуск літака",
+  "hasAccount": "Я вже зареєстрований",
+  "createNewAccount": "Створити новий обліковий запис",
+  "continents": {
+    "AF": "Африка",
+    "AS": "Азії",
+    "EU": "Європа",
+    "NA": "Північна Америка",
+    "OC": "Океанія",
+    "SA": "Південна Америка"
+  },
+  "analysis": "Аналіз",
+  "liveConnectDone": "Уже підключено до {name} у WeGlide Live",
+  "liveConnectOverwrite": "Підключитися до {name}, від’єднатися від {oldName}",
+  "liveConnectTo": "Підключіться до {name} у WeGlide Live",
+  "subscribeMagazine": "Підпишіться на вибрані історії журналу",
+  "compareAnyPilot": "Порівняйте з будь-яким пілотом того дня",
+  "competitionAbbrev": "Конк",
+  "matthiasDescription": "Міжміський флаєр"
 }

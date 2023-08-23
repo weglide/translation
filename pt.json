@@ -188,7 +188,7 @@
   "followers": "Seguidores",
   "following": "Segue",
   "forever": "Para todo sempre",
-  "forgotPassword": "Esqueceu a senha?",
+  "forgotPassword": "Esqueceu sua senha?",
   "free": "Livre",
   "freeDescription": "Copa de Distância WeGlide",
   "frequency": "Frequência",
@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "África do Sul"
+    },
+    "EE": {
+      "name": "Estônia"
+    },
+    "PH": {
+      "name": "Filipinas"
     }
   },
   "logIn": "Conecte-se",
@@ -960,5 +966,23 @@
   "reset": "Reiniciar",
   "selfLaunchEnd": "Fim de lançamento automático",
   "towRelease": "Liberação de aeronave",
-  "winchRelease": "Liberação de aeronave"
+  "winchRelease": "Liberação de aeronave",
+  "hasAccount": "já estou inscrito",
+  "createNewAccount": "Criar nova conta",
+  "continents": {
+    "AF": "África",
+    "AS": "Ásia",
+    "EU": "Europa",
+    "NA": "América do Norte",
+    "OC": "Oceânia",
+    "SA": "América do Sul"
+  },
+  "analysis": "Análise",
+  "liveConnectDone": "Já conectado a {name} no WeGlide Live",
+  "liveConnectOverwrite": "Conecte-se a {name}, desconecte-se de {oldName}",
+  "liveConnectTo": "Conecte-se a {name} no WeGlide Live",
+  "subscribeMagazine": "Assine histórias de revistas selecionadas",
+  "compareAnyPilot": "Compare com qualquer piloto do dia",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "passageiro de longa distância"
 }

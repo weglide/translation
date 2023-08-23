@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Южная Африка"
+    },
+    "EE": {
+      "name": "Эстония"
+    },
+    "PH": {
+      "name": "Филиппины"
     }
   },
   "logIn": "Авторизоваться",
@@ -959,5 +965,23 @@
   "reset": "Перезагрузить",
   "selfLaunchEnd": "Конец самостоятельного запуска",
   "towRelease": "Выпуск самолета",
-  "winchRelease": "Выпуск самолета"
+  "winchRelease": "Выпуск самолета",
+  "hasAccount": "я уже подписан",
+  "createNewAccount": "Создать новый аккаунт",
+  "continents": {
+    "AF": "Африка",
+    "AS": "Азия",
+    "EU": "Европа",
+    "NA": "Северная Америка",
+    "OC": "Океания",
+    "SA": "Южная Америка"
+  },
+  "analysis": "Анализ",
+  "liveConnectDone": "Уже подключено к {name} в WeGlide Live",
+  "liveConnectOverwrite": "Подключиться к {name}, отключиться от {oldName}",
+  "liveConnectTo": "Подключиться к {name} в WeGlide Live",
+  "subscribeMagazine": "Подпишитесь на избранные истории журнала",
+  "compareAnyPilot": "Сравните с любым пилотом того дня",
+  "competitionAbbrev": "Сор",
+  "matthiasDescription": "Летчик на дальние расстояния"
 }

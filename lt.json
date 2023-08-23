@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "pietų Afrika"
+    },
+    "EE": {
+      "name": "Estija"
+    },
+    "PH": {
+      "name": "Filipinai"
     }
   },
   "logIn": "Prisijungti",
@@ -959,5 +965,23 @@
   "reset": "Nustatyti iš naujo",
   "selfLaunchEnd": "Savaiminio paleidimo pabaiga",
   "towRelease": "Lėktuvo išleidimas",
-  "winchRelease": "Lėktuvo išleidimas"
+  "winchRelease": "Lėktuvo išleidimas",
+  "hasAccount": "Aš jau užsiregistravau",
+  "createNewAccount": "Sukurti naują paskyrą",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azija",
+    "EU": "Europa",
+    "NA": "Šiaurės Amerika",
+    "OC": "Okeanija",
+    "SA": "Pietų Amerika"
+  },
+  "analysis": "Analizė",
+  "liveConnectDone": "Jau prisijungėte prie {name} „WeGlide Live“.",
+  "liveConnectOverwrite": "Prisijunkite prie {name}, atsijunkite nuo {oldName}",
+  "liveConnectTo": "Prisijunkite prie {name} „WeGlide Live“.",
+  "subscribeMagazine": "Prenumeruokite pasirinktas žurnalo istorijas",
+  "compareAnyPilot": "Palyginkite su bet kuriuo tos dienos pilotu",
+  "competitionAbbrev": "Varzybos",
+  "matthiasDescription": "Tolimųjų reisų skrajutė"
 }

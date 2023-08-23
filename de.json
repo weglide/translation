@@ -518,10 +518,16 @@
     },
     "ZA": {
       "name": "Südafrika"
+    },
+    "EE": {
+      "name": "Estland"
+    },
+    "PH": {
+      "name": "Philippinen"
     }
   },
   "logIn": "Einloggen",
-  "logOut": "Ausloggen",
+  "logOut": "Abmelden",
   "loggerInformation": "Logger Informationen",
   "loggers": "Logger",
   "longitudeAbbrev": "Lon.",
@@ -957,7 +963,7 @@
   "circumnavigation": "Umrundung",
   "internationalAirport": "Internationaler Flughafen",
   "registrationOptional": "Registrierung (optional)",
-  "registration": "Registrierung",
+  "registration": "Kennzeichen",
   "gallery": "Galerie",
   "pictures": "Bilder",
   "teamFlight": "Teamflug",
@@ -1032,5 +1038,23 @@
   "reset": "Zurücksetzen",
   "selfLaunchEnd": "Eigenstart Ende",
   "towRelease": "Ausklinken",
-  "winchRelease": "Ausklinken"
+  "winchRelease": "Ausklinken",
+  "hasAccount": "Ich bin bereits registriert",
+  "createNewAccount": "Neuen Account erstellen",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asien",
+    "EU": "Europa",
+    "NA": "Nordamerika",
+    "OC": "Ozeanien",
+    "SA": "Südamerika"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Bereits mit {name} in WeGlide Live verbunden",
+  "liveConnectOverwrite": "Mit {name} verbinden, {oldName} trennen",
+  "liveConnectTo": "Verbinde mit {name} in WeGlide Live",
+  "subscribeMagazine": "Abonniere ausgewählte Magazinbeiträge",
+  "compareAnyPilot": "Vergleiche mit beliebigen Flügen des Tages",
+  "competitionAbbrev": "Wettb.",
+  "matthiasDescription": "Streckenmaximierer"
 }

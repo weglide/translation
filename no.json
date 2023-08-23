@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sør-Afrika"
+    },
+    "EE": {
+      "name": "Estland"
+    },
+    "PH": {
+      "name": "Filippinene"
     }
   },
   "logIn": "Logg Inn",
@@ -959,5 +965,23 @@
   "reset": "Nullstille",
   "selfLaunchEnd": "Selvlansering slutt",
   "towRelease": "Utgivelse av fly",
-  "winchRelease": "Utgivelse av fly"
+  "winchRelease": "Utgivelse av fly",
+  "hasAccount": "Jeg er allerede påmeldt",
+  "createNewAccount": "Opprette ny konto",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Nord Amerika",
+    "OC": "Oseania",
+    "SA": "Sør Amerika"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Allerede koblet til {name} i WeGlide Live",
+  "liveConnectOverwrite": "Koble til {name}, koble fra {oldName}",
+  "liveConnectTo": "Koble til {name} i WeGlide Live",
+  "subscribeMagazine": "Abonner på utvalgte magasinhistorier",
+  "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen",
+  "competitionAbbrev": "Konk.",
+  "matthiasDescription": "Langdistanseflyer"
 }

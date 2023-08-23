@@ -44,6 +44,14 @@
   "closed": "Closed",
   "clouds": "Clouds",
   "club": "Club",
+  "continents": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "EU": "Europe",
+    "OC": "Oceania",
+    "NA": "North America",
+    "SA": "South America"
+  },
   "coPilotDateOfBirth": "Co-Pilot date of birth",
   "coPilotName": "Co-Pilot name",
   "comments": "Comments",
@@ -346,6 +354,9 @@
     "EC": {
       "name": "Ecuador"
     },
+    "EE": {
+      "name": "Estonia"
+    },
     "ES": {
       "name": "Spain"
     },
@@ -430,6 +441,9 @@
         "NZ-N": "North Island",
         "NZ-S": "South Island"
       }
+    },
+    "PH": {
+      "name": "Philippines"
     },
     "PL": {
       "name": "Poland"
@@ -718,11 +732,11 @@
   "uploadFlight": "Upload flight",
   "uploadFlights": "Upload flights",
   "urgeLogIn": "Please log in afterwards",
-  "urgeVerify": "Please verify your email by clicking the link in the email you got.",
+  "urgeVerify": "Please verify your email by clicking the link in the email you have received.",
   "usage": "Usage",
   "userAgreement": "User Agreement",
   "verified": "Email verification complete, please log in.",
-  "verifyInstructions": "If you got no email, please wait a minute and check your spam folder or contact us at",
+  "verifyInstructions": "If you have not received an email, please wait a minute and check your spam folder or contact us at",
   "verifying": "Verifying Email",
   "waiting": "Waiting",
   "weather": "Weather",
@@ -1032,5 +1046,15 @@
   "engineRun": "Engine run",
   "addEngineRun": "Add engine run",
   "reset": "Reset",
-  "winchRelease": "Winch release"
+  "winchRelease": "Winch release",
+  "hasAccount": "I am already signed up",
+  "createNewAccount": "Create new account",
+  "analysis": "Analysis",
+  "liveConnectTo": "Connect to {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connect to {name}, disconnect from {oldName}",
+  "liveConnectDone": "Already connected to {name} in WeGlide Live",
+  "subscribeMagazine": "Subscribe to selected magazine stories",
+  "compareAnyPilot": "Compare with any pilot from the day",
+  "competitionAbbrev": "Comp.",
+  "matthiasDescription": "Long Distance Flyer"
 }

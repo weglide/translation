@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Zuid-Afrika"
+    },
+    "EE": {
+      "name": "Estland"
+    },
+    "PH": {
+      "name": "Filippijnen"
     }
   },
   "logIn": "Inloggen",
@@ -726,7 +732,7 @@
   "verifying": "Email wordt geverifieerd",
   "waiting": "In wachtrij",
   "weather": "Weer",
-  "wholeLeague": "Ganse competitie",
+  "wholeLeague": "Volledige competitie",
   "width": "Breedte",
   "wind": "Wind",
   "windAbbrev": "Wind",
@@ -960,5 +966,23 @@
   "reset": "Resetten",
   "selfLaunchEnd": "Einde zelflancering",
   "towRelease": "Vliegtuig vrijgeven",
-  "winchRelease": "Vliegtuig vrijgeven"
+  "winchRelease": "Vliegtuig vrijgeven",
+  "hasAccount": "Ik ben al aangemeld",
+  "createNewAccount": "Creëer een nieuw account",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azië",
+    "EU": "Europa",
+    "NA": "Noord Amerika",
+    "OC": "Oceanië",
+    "SA": "Zuid-Amerika"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Al verbonden met {name} in WeGlide Live",
+  "liveConnectOverwrite": "Verbinding maken met {name}, verbinding met {oldName} verbreken",
+  "liveConnectTo": "Maak verbinding met {name} in WeGlide Live",
+  "subscribeMagazine": "Abonneer u op geselecteerde tijdschriftverhalen",
+  "compareAnyPilot": "Vergelijk met elke piloot van de dag",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "Langeafstandsvlieger"
 }
