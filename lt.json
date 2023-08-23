@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "pietų Afrika"
+    },
+    "EE": {
+      "name": "Estija"
+    },
+    "PH": {
+      "name": "Filipinai"
     }
   },
   "logIn": "Prisijungti",
@@ -639,15 +645,9 @@
   "save": "Sutaupyti",
   "scoreClubClass": "Taškinis skrydis klubinėje klasėje",
   "scoreProcessing": "Balų skaičiavimas vyksta",
-  "scoringAdd": "Pridėti taškų skaičiavimo langą",
-  "scoringEnd": "Taškų pabaiga",
-  "scoringEngineNotice": "Lėktuvas su pasirinktu varikliu. Įsitikinkite, kad laiko intervalai, kai variklis veikia (geltona spalva), neįtraukiami į balus.",
-  "scoringFesNotice": "Pasirinktas lėktuvas su elektriniu varikliu. Įsitikinkite, kad laiko intervalai, kai variklis veikia (geltona spalva), neįtraukiami į balus.",
-  "scoringGliderNotice": "Lėktuvas be pasirinkto variklio, perjunkite į orlaivį su varikliu, kad pamatytumėte galimą variklio darbą.",
-  "scoringReset": "Iš naujo nustatyti balų skaičiavimo langus",
-  "scoringStart": "Taškų skaičiavimo pradžia",
-  "scoringTowingNotice": "Įsitikinkite, kad į įkaltus langus neįeina vilkimas.",
-  "scoringWindows": "Taškiniai langai",
+  "scoringEngineNotice": "Orlaivis su pasirinktu varikliu. Įsitikinkite, kad variklio veikimas (geltona spalva) buvo tinkamai aptiktas.",
+  "scoringFesNotice": "Pasirinkti orlaiviai su elektrine pavara. Įsitikinkite, kad variklio veikimas (geltona spalva) buvo tinkamai aptiktas.",
+  "scoringGliderNotice": "Pasirinktas orlaivis be variklio, pereikite prie orlaivio su varikliu, kad pamatytumėte, kaip veikia variklis.",
   "season": "Sezonas",
   "seats": "Sėdynės",
   "security": "Saugumas",
@@ -951,9 +951,37 @@
   "tomorrow": "Rytoj",
   "week": "Savaitė",
   "contactSomeone": "Susisiekite su {name}",
-  "userMessageDeliveryExplanation": "Šis pranešimas bus išsiųstas gavėjui el. paštu ir jūsų el. pašto adresas taps matomas. \nTada kitas asmuo gali nuspręsti pasidalinti savo el. pašto adresu su jumis atsakydamas.",
+  "userMessageDeliveryExplanation": "Suprantu, kad mano el. pašto adresas bus bendrinamas su gavėju, ir patvirtinu, kad perskaičiau ir sutinku su šiais dokumentais:",
   "message": "Pranešimas",
   "messageSend": "Pranešimo siuntimas.",
   "userMessagesAllowed": "Leiskite kitiems susisiekti su manimi per WeGlide",
-  "notEnoughFlights": "Įkelkite skrydį ir bandykite dar kartą."
+  "notEnoughFlights": "Įkelkite skrydį ir bandykite dar kartą.",
+  "account": "sąskaita",
+  "deleteMyAccount": "Ištrinti mano paskyrą",
+  "emailUs": "Prašome parašyti mums el",
+  "languageAndUnits": "Kalba ir vienetai",
+  "addEngineRun": "Pridėti variklio veikimą",
+  "engineRun": "Variklio veikimas",
+  "reset": "Nustatyti iš naujo",
+  "selfLaunchEnd": "Savaiminio paleidimo pabaiga",
+  "towRelease": "Lėktuvo išleidimas",
+  "winchRelease": "Lėktuvo išleidimas",
+  "hasAccount": "Aš jau užsiregistravau",
+  "createNewAccount": "Sukurti naują paskyrą",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azija",
+    "EU": "Europa",
+    "NA": "Šiaurės Amerika",
+    "OC": "Okeanija",
+    "SA": "Pietų Amerika"
+  },
+  "analysis": "Analizė",
+  "liveConnectDone": "Jau prisijungėte prie {name} „WeGlide Live“.",
+  "liveConnectOverwrite": "Prisijunkite prie {name}, atsijunkite nuo {oldName}",
+  "liveConnectTo": "Prisijunkite prie {name} „WeGlide Live“.",
+  "subscribeMagazine": "Prenumeruokite pasirinktas žurnalo istorijas",
+  "compareAnyPilot": "Palyginkite su bet kuriuo tos dienos pilotu",
+  "competitionAbbrev": "Varzybos",
+  "matthiasDescription": "Tolimųjų reisų skrajutė"
 }

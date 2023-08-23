@@ -188,7 +188,7 @@
   "followers": "Follower",
   "following": "Seguiti",
   "forever": "Per sempre",
-  "forgotPassword": "Password dimenticata?",
+  "forgotPassword": "Ha dimenticato la password?",
   "free": "Gratuito",
   "freeDescription": "WeGlide Distance Cup",
   "frequency": "Frequenza",
@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sud Africa"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "PH": {
+      "name": "Filippine"
     }
   },
   "logIn": "Accedi",
@@ -639,15 +645,9 @@
   "save": "Salva",
   "scoreClubClass": "Punteggio del volo in classe club",
   "scoreProcessing": "Calcondo i punti",
-  "scoringAdd": "Aggiungi punteggio",
-  "scoringEnd": "Fine punteggio",
-  "scoringEngineNotice": "Aereo con motore selezionato, Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio",
-  "scoringFesNotice": "Aereo con propulsione elettrica selezionato. Assicurati che i periodi di tempo con il motore in funzione (giallo) siano escusi dal punteggio",
-  "scoringGliderNotice": "Aereo senza motore selezionato, passare a un aereo con motore per vedere i potenziali motori in funzione.",
-  "scoringReset": "Resetta punteggi",
-  "scoringStart": "Inizio punteggio",
-  "scoringTowingNotice": "Assicurati che la valutazione non includa un volo in traino aereo",
-  "scoringWindows": "Finestra punteggi",
+  "scoringEngineNotice": "Velivolo con motore selezionato. Assicurarsi che le corse del motore (giallo) siano state rilevate correttamente.",
+  "scoringFesNotice": "Velivolo con propulsione elettrica selezionato. Assicurarsi che le corse del motore (giallo) siano state rilevate correttamente.",
+  "scoringGliderNotice": "Aereo senza motore selezionato, passare a un aereo con motore per vedere i motori in funzione.",
   "season": "Season",
   "seats": "Posti a sedere",
   "security": "Sicurezza",
@@ -952,9 +952,37 @@
   "tomorrow": "Domani",
   "week": "Settimana",
   "contactSomeone": "Contatta {name}",
-  "userMessageDeliveryExplanation": "Questo messaggio verrà inviato al destinatario via e-mail e il tuo indirizzo e-mail diventa visibile. \nL'altra persona può quindi decidere di condividere il proprio indirizzo e-mail con te rispondendo.",
+  "userMessageDeliveryExplanation": "Comprendo che il mio indirizzo e-mail sarà condiviso con il destinatario e riconosco di aver letto e accettato i seguenti documenti:",
   "message": "Messaggio",
   "messageSend": "Invia messaggio.",
   "userMessagesAllowed": "Consenti ad altri di contattarmi tramite WeGlide",
-  "notEnoughFlights": "Carica un volo e riprova."
+  "notEnoughFlights": "Carica un volo e riprova.",
+  "account": "Account",
+  "deleteMyAccount": "Cancella il mio account",
+  "emailUs": "Inviaci un'e-mail",
+  "languageAndUnits": "Lingua e Unità",
+  "addEngineRun": "Aggiungi motore acceso",
+  "engineRun": "Motore in moto",
+  "reset": "Ripristina",
+  "selfLaunchEnd": "Fine del lancio automatico",
+  "towRelease": "Rilascio dell'aeromobile",
+  "winchRelease": "Rilascio dell'aeromobile",
+  "hasAccount": "Sono già iscritto",
+  "createNewAccount": "Crea un nuovo account",
+  "continents": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Nord America",
+    "OC": "Oceania",
+    "SA": "Sud America"
+  },
+  "analysis": "Analisi",
+  "liveConnectDone": "Già connesso a {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connettiti a {name}, disconnettiti da {oldName}",
+  "liveConnectTo": "Connettiti a {name} in WeGlide Live",
+  "subscribeMagazine": "Abbonati alle storie di riviste selezionate",
+  "compareAnyPilot": "Confronta con qualsiasi pilota del giorno",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "Volantino a lunga distanza"
 }

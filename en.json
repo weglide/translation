@@ -44,6 +44,14 @@
   "closed": "Closed",
   "clouds": "Clouds",
   "club": "Club",
+  "continents": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "EU": "Europe",
+    "OC": "Oceania",
+    "NA": "North America",
+    "SA": "South America"
+  },
   "coPilotDateOfBirth": "Co-Pilot date of birth",
   "coPilotName": "Co-Pilot name",
   "comments": "Comments",
@@ -346,6 +354,9 @@
     "EC": {
       "name": "Ecuador"
     },
+    "EE": {
+      "name": "Estonia"
+    },
     "ES": {
       "name": "Spain"
     },
@@ -430,6 +441,9 @@
         "NZ-N": "North Island",
         "NZ-S": "South Island"
       }
+    },
+    "PH": {
+      "name": "Philippines"
     },
     "PL": {
       "name": "Poland"
@@ -639,15 +653,9 @@
   "save": "Save",
   "scoreClubClass": "Score flight in club class",
   "scoreProcessing": "Scoring in process",
-  "scoringAdd": "Add scoring window",
-  "scoringEnd": "Scoring end",
-  "scoringEngineNotice": "Airplane with engine selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
-  "scoringFesNotice": "Airplane with electric propulsion selected. Please make sure time spans with running engine (yellow) are excluded from scoring.",
-  "scoringGliderNotice": "Airplane without engine selected, switch to aircraft with engine to see potential engine runs.",
-  "scoringReset": "Reset scoring windows",
-  "scoringStart": "Scoring start",
-  "scoringTowingNotice": "Please make sure that the scoring windows do not include towing.",
-  "scoringWindows": "Scoring windows",
+  "scoringEngineNotice": "Aircraft with engine selected. Please make sure that engine runs (yellow) have been properly detected.",
+  "scoringFesNotice": "Aircraft with electric propulsion selected. Please make sure that engine runs (yellow) have been properly detected.",
+  "scoringGliderNotice": "Airplane without engine selected, switch to aircraft with engine to see engine runs.",
   "season": "Season",
   "seats": "Seats",
   "security": "Security",
@@ -724,11 +732,11 @@
   "uploadFlight": "Upload flight",
   "uploadFlights": "Upload flights",
   "urgeLogIn": "Please log in afterwards",
-  "urgeVerify": "Please verify your email by clicking the link in the email you got.",
+  "urgeVerify": "Please verify your email by clicking the link in the email you have received.",
   "usage": "Usage",
   "userAgreement": "User Agreement",
   "verified": "Email verification complete, please log in.",
-  "verifyInstructions": "If you got no email, please wait a minute and check your spam folder or contact us at",
+  "verifyInstructions": "If you have not received an email, please wait a minute and check your spam folder or contact us at",
   "verifying": "Verifying Email",
   "waiting": "Waiting",
   "weather": "Weather",
@@ -1024,9 +1032,29 @@
   "tomorrow": "Tomorrow",
   "week": "Week",
   "contactSomeone": "Contact {name}",
-  "userMessageDeliveryExplanation": "This message will be sent to the recipient via email and your email address becomes visible. The other person can then decide to share their email address with you by replying.",
+  "userMessageDeliveryExplanation": "I understand that my email address will be shared with the recipient and I acknowledge that I have read and agree to the following documents:",
   "messageSend": "Message send.",
   "message": "Message",
   "userMessagesAllowed": "Allow others to contact me via WeGlide",
-  "notEnoughFlights": "Please upload a flight and try again."
+  "notEnoughFlights": "Please upload a flight and try again.",
+  "languageAndUnits": "Language and units",
+  "emailUs": "Please email us",
+  "deleteMyAccount": "Delete my account",
+  "account": "Account",
+  "selfLaunchEnd": "Self launch end",
+  "towRelease": "Tow release",
+  "engineRun": "Engine run",
+  "addEngineRun": "Add engine run",
+  "reset": "Reset",
+  "winchRelease": "Winch release",
+  "hasAccount": "I am already signed up",
+  "createNewAccount": "Create new account",
+  "analysis": "Analysis",
+  "liveConnectTo": "Connect to {name} in WeGlide Live",
+  "liveConnectOverwrite": "Connect to {name}, disconnect from {oldName}",
+  "liveConnectDone": "Already connected to {name} in WeGlide Live",
+  "subscribeMagazine": "Subscribe to selected magazine stories",
+  "compareAnyPilot": "Compare with any pilot from the day",
+  "competitionAbbrev": "Comp.",
+  "matthiasDescription": "Long Distance Flyer"
 }

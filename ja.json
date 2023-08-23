@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "南アフリカ"
+    },
+    "EE": {
+      "name": "エストニア"
+    },
+    "PH": {
+      "name": "フィリピン"
     }
   },
   "logIn": "ログイン",
@@ -639,15 +645,9 @@
   "save": "保存する",
   "scoreClubClass": "クラブクラスでのスコアフライト",
   "scoreProcessing": "採点中",
-  "scoringAdd": "スコアリングウィンドウを追加",
-  "scoringEnd": "スコアリング終了",
-  "scoringEngineNotice": "エンジンが選択された飛行機。エンジンが稼働している期間（黄色）がスコアリングから除外されていることを確認してください。",
-  "scoringFesNotice": "電動飛行機が選択されています。エンジンが稼働している期間（黄色）がスコアリングから除外されていることを確認してください。",
-  "scoringGliderNotice": "エンジンが選択されていない飛行機、エンジン付きの航空機に切り替えて、潜在的なエンジンの動作を確認します。",
-  "scoringReset": "スコアリングウィンドウをリセットする",
-  "scoringStart": "スコアリング開始",
-  "scoringTowingNotice": "スコアリングウィンドウにけん引が含まれていないことを確認してください。",
-  "scoringWindows": "スコアリングウィンドウ",
+  "scoringEngineNotice": "エンジンを選択した航空機。エンジンラン（黄色）が正しく検出されていることを確認してください。",
+  "scoringFesNotice": "電気推進を選択した航空機。エンジン始動（黄色）が正しく検出されていることを確認してください。",
+  "scoringGliderNotice": "エンジンのない航空機を選択し、エンジンのある航空機に変更してエンジンの作動を確認する。",
   "season": "シーズン",
   "seats": "座席",
   "security": "セキュリティ",
@@ -951,9 +951,37 @@
   "tomorrow": "明日",
   "week": "週",
   "contactSomeone": "コンタクト {name}",
-  "userMessageDeliveryExplanation": "このメッセージは電子メールで受信者に送信され、あなたの電子メール アドレスが表示されるようになります。\n相手は返信することで自分の電子メール アドレスをあなたと共有するかどうかを決定できます。",
+  "userMessageDeliveryExplanation": "私の電子メール アドレスが受信者と共有されることを理解し、次の文書を読んで同意したことを認めます。",
   "message": "メッセージ",
   "messageSend": "メッセージを送信します。",
   "userMessagesAllowed": "他の人が WeGlide 経由で私に連絡できるようにする",
-  "notEnoughFlights": "フライトをアップロードして、もう一度お試しください。"
+  "notEnoughFlights": "フライトをアップロードして、もう一度お試しください。",
+  "account": "アカウント",
+  "deleteMyAccount": "アカウントを削除します",
+  "emailUs": "私達に電子メールを送り",
+  "languageAndUnits": "言語と単位",
+  "addEngineRun": "エンジン稼働を追加",
+  "engineRun": "エンジン稼働中",
+  "reset": "リセット",
+  "selfLaunchEnd": "自己起動終了",
+  "towRelease": "航空機のリリース",
+  "winchRelease": "航空機のリリース",
+  "hasAccount": "すでにサインアップしています",
+  "createNewAccount": "新しいアカウントを作成する",
+  "continents": {
+    "AF": "アフリカ",
+    "AS": "アジア",
+    "EU": "ヨーロッパ",
+    "NA": "北米",
+    "OC": "オセアニア",
+    "SA": "南アメリカ"
+  },
+  "analysis": "分析",
+  "liveConnectDone": "WeGlide Live ですでに {name} に接続しています",
+  "liveConnectOverwrite": "{name} に接続し、{oldName} から切断します",
+  "liveConnectTo": "WeGlide Live で {name} に接続します",
+  "subscribeMagazine": "選択した雑誌の記事を購読する",
+  "compareAnyPilot": "その日のパイロットと比較してください",
+  "competitionAbbrev": "コンペ",
+  "matthiasDescription": "長距離チラシ"
 }

@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sør-Afrika"
+    },
+    "EE": {
+      "name": "Estland"
+    },
+    "PH": {
+      "name": "Filippinene"
     }
   },
   "logIn": "Logg Inn",
@@ -639,15 +645,9 @@
   "save": "Lagre",
   "scoreClubClass": "Scoreflyging i klubbklassen",
   "scoreProcessing": "Scoring i prosess",
-  "scoringAdd": "Legg til scoringsvindu",
-  "scoringEnd": "Scoring slutt",
-  "scoringEngineNotice": "Fly med valgt motor. Sørg for at tidsspenn med motor i gang (gul) er utelukket fra scoring.",
-  "scoringFesNotice": "Fly med elektrisk fremdrift valgt. Sørg for at tidsspenn med motor i gang (gul) er utelukket fra scoring.",
-  "scoringGliderNotice": "Fly uten motor valgt, bytt til fly med motor for å se potensielle motorganger.",
-  "scoringReset": "Tilbakestill scoringsvinduer",
-  "scoringStart": "Scoringsstart",
-  "scoringTowingNotice": "Sørg for at skårvinduene ikke inkluderer tauing.",
-  "scoringWindows": "Scoringsvinduer",
+  "scoringEngineNotice": "Fly med motor valgt. Forsikre deg om at motorkjøringer (gul) er korrekt registrert.",
+  "scoringFesNotice": "Fly med elektrisk fremdrift valgt. Forsikre deg om at motorkjøring (gul) er korrekt registrert.",
+  "scoringGliderNotice": "Fly uten motor valgt, bytt til fly med motor for å se motorganger.",
   "season": "Årstid",
   "seats": "Seter",
   "security": "Sikkerhet",
@@ -951,9 +951,37 @@
   "tomorrow": "I morgen",
   "week": "Uke",
   "contactSomeone": "Ta kontakt med {name}",
-  "userMessageDeliveryExplanation": "Denne meldingen vil bli sendt til mottakeren via e-post og e-postadressen din blir synlig. \nDen andre personen kan da bestemme seg for å dele e-postadressen sin med deg ved å svare.",
+  "userMessageDeliveryExplanation": "Jeg forstår at e-postadressen min vil bli delt med mottakeren, og jeg erkjenner at jeg har lest og godtar følgende dokumenter:",
   "message": "Beskjed",
   "messageSend": "Send melding.",
   "userMessagesAllowed": "La andre kontakte meg via WeGlide",
-  "notEnoughFlights": "Last opp et fly og prøv på nytt."
+  "notEnoughFlights": "Last opp et fly og prøv på nytt.",
+  "account": "Regnskap",
+  "deleteMyAccount": "Slett kontoen min",
+  "emailUs": "Send oss ​​en e-post",
+  "languageAndUnits": "Språk og enheter",
+  "addEngineRun": "Legg til motorkjøring",
+  "engineRun": "Motoren går",
+  "reset": "Nullstille",
+  "selfLaunchEnd": "Selvlansering slutt",
+  "towRelease": "Utgivelse av fly",
+  "winchRelease": "Utgivelse av fly",
+  "hasAccount": "Jeg er allerede påmeldt",
+  "createNewAccount": "Opprette ny konto",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Nord Amerika",
+    "OC": "Oseania",
+    "SA": "Sør Amerika"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Allerede koblet til {name} i WeGlide Live",
+  "liveConnectOverwrite": "Koble til {name}, koble fra {oldName}",
+  "liveConnectTo": "Koble til {name} i WeGlide Live",
+  "subscribeMagazine": "Abonner på utvalgte magasinhistorier",
+  "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen",
+  "competitionAbbrev": "Konk.",
+  "matthiasDescription": "Langdistanseflyer"
 }

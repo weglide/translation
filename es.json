@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Sudáfrica"
+    },
+    "EE": {
+      "name": "Estonia"
+    },
+    "PH": {
+      "name": "Filipinas"
     }
   },
   "logIn": "Acceso",
@@ -639,15 +645,9 @@
   "save": "Salvar",
   "scoreClubClass": "Anotar vuelo en clase club",
   "scoreProcessing": "Puntuación en proceso",
-  "scoringAdd": "Agregar ventana de puntuación",
-  "scoringEnd": "Puntaje final ",
-  "scoringEngineNotice": "Avión con motor seleccionado. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.",
-  "scoringFesNotice": "Avión con propulsión eléctrica seleccionada. Asegúrese de que los intervalos de tiempo con el motor en marcha (amarillo) estén excluidos de la puntuación.",
-  "scoringGliderNotice": "Avión sin motor seleccionado, cambie a avión con motor para ver el funcionamiento potencial del motor.",
-  "scoringReset": "Restablecer ventanas de puntuación",
-  "scoringStart": "Inicio de puntuación",
-  "scoringTowingNotice": "Asegúrese de que las ventanas de puntuación no incluyan el remolque.",
-  "scoringWindows": "Ventanas de puntuación",
+  "scoringEngineNotice": "Avión con motor seleccionado. Por favor, asegúrese de que las carreras de motor (amarillo) se han detectado correctamente.",
+  "scoringFesNotice": "Avión con propulsión eléctrica seleccionada. Asegúrate de que se han detectado correctamente los recorridos del motor (amarillo).",
+  "scoringGliderNotice": "Avión sin motor seleccionado, cambie a avión con motor para ver el funcionamiento del motor.",
   "season": "Temporada",
   "seats": "Asientos",
   "security": "Seguridad",
@@ -952,9 +952,37 @@
   "tomorrow": "Mañana",
   "week": "Semana",
   "contactSomeone": "Contactar con {name}",
-  "userMessageDeliveryExplanation": "Este mensaje se enviará al destinatario por correo electrónico y su dirección de correo electrónico se hará visible. \nLa otra persona puede decidir compartir su dirección de correo electrónico contigo respondiendo.",
+  "userMessageDeliveryExplanation": "Entiendo que mi dirección de correo electrónico se compartirá con el destinatario y reconozco que he leído y estoy de acuerdo con los siguientes documentos:",
   "message": "Mensaje",
   "messageSend": "Mensaje enviado.",
   "userMessagesAllowed": "Permitir que otros se comuniquen conmigo a través de WeGlide",
-  "notEnoughFlights": "Cargue un vuelo y vuelva a intentarlo."
+  "notEnoughFlights": "Cargue un vuelo y vuelva a intentarlo.",
+  "account": "Cuenta",
+  "deleteMyAccount": "Borrar mi cuenta",
+  "emailUs": "Envíanos un correo electrónico",
+  "languageAndUnits": "Idioma y Unidades",
+  "addEngineRun": "Añadir motor en marcha",
+  "engineRun": "Funcionamiento del motor",
+  "reset": "Reiniciar",
+  "selfLaunchEnd": "Fin de autolanzamiento",
+  "towRelease": "Lanzamiento de aeronaves",
+  "winchRelease": "Lanzamiento de aeronaves",
+  "hasAccount": "ya estoy registrado",
+  "createNewAccount": "Crear una nueva cuenta",
+  "continents": {
+    "AF": "África",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "América del norte",
+    "OC": "Oceanía",
+    "SA": "Sudamerica"
+  },
+  "analysis": "Análisis",
+  "liveConnectDone": "Ya conectado a {name} en WeGlide Live",
+  "liveConnectOverwrite": "Conectarse a {name}, desconectarse de {oldName}",
+  "liveConnectTo": "Conéctese a {nombre} en WeGlide Live",
+  "subscribeMagazine": "Suscríbete a las historias de revistas seleccionadas",
+  "compareAnyPilot": "Comparar con cualquier piloto del día.",
+  "competitionAbbrev": "Comp.",
+  "matthiasDescription": "volante de larga distancia"
 }

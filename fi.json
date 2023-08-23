@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Etelä-Afrikka"
+    },
+    "EE": {
+      "name": "Viro"
+    },
+    "PH": {
+      "name": "Filippiinit"
     }
   },
   "logIn": "Kirjaudu sisään",
@@ -639,15 +645,9 @@
   "save": "Tallentaa",
   "scoreClubClass": "Pistolento seuraluokassa",
   "scoreProcessing": "Pisteytys käynnissä",
-  "scoringAdd": "Lisää pisteytysikkuna",
-  "scoringEnd": "Pisteily loppu",
-  "scoringEngineNotice": "Lentokone, jossa moottori on valittu. Varmista, että aikajaksot moottorin ollessa käynnissä (keltainen) jätetään huomioimatta.",
-  "scoringFesNotice": "Sähkökäyttöinen lentokone valittu. Varmista, että aikajaksot moottorin ollessa käynnissä (keltainen) jätetään huomioimatta.",
-  "scoringGliderNotice": "Lentokone ilman moottoria valittuna, vaihda moottorilla varustettuun lentokoneeseen nähdäksesi mahdolliset moottorin käynnit.",
-  "scoringReset": "Palauta pisteytysikkunat",
-  "scoringStart": "Pisteilyn aloitus",
-  "scoringTowingNotice": "Varmista, että pisteytysikkunat eivät sisällä hinausta.",
-  "scoringWindows": "Ikkunoiden pisteytys",
+  "scoringEngineNotice": "Ilma-alus, jonka moottori on valittu. Varmista, että moottorin käynti (keltainen) on havaittu oikein.",
+  "scoringFesNotice": "Sähkökäyttöinen lentokone valittu. Varmista, että moottorin käynti (keltainen) on havaittu oikein.",
+  "scoringGliderNotice": "Ilma-alus ilman moottoria valittuna, vaihda moottorilla varustettuun ilma-alukseen nähdäksesi moottorin käyntiä.",
   "season": "Kausi",
   "seats": "Istuimet",
   "security": "Turvallisuus",
@@ -951,9 +951,37 @@
   "tomorrow": "Huomenna",
   "week": "Viikko",
   "contactSomeone": "Ota yhteyttä {name}",
-  "userMessageDeliveryExplanation": "Tämä viesti lähetetään vastaanottajalle sähköpostitse ja sähköpostiosoitteesi tulee näkyviin. \nToinen henkilö voi sitten päättää jakaa sähköpostiosoitteensa sinulle vastaamalla.",
+  "userMessageDeliveryExplanation": "Ymmärrän, että sähköpostiosoitteeni jaetaan vastaanottajan kanssa, ja vahvistan lukeneeni ja hyväksyneeni seuraavat asiakirjat:",
   "message": "Viesti",
   "messageSend": "Viestin lähetys.",
   "userMessagesAllowed": "Anna muiden ottaa minuun yhteyttä WeGliden kautta",
-  "notEnoughFlights": "Lataa lento ja yritä uudelleen."
+  "notEnoughFlights": "Lataa lento ja yritä uudelleen.",
+  "account": "Tili",
+  "deleteMyAccount": "Poista minun tilini",
+  "emailUs": "Lähetä meille sähköpostia",
+  "languageAndUnits": "Kieli ja yksiköt",
+  "addEngineRun": "Lisää moottorin käynti",
+  "engineRun": "Moottori käynnissä",
+  "reset": "Nollaa",
+  "selfLaunchEnd": "Itsekäynnistys loppu",
+  "towRelease": "Lentokoneen vapauttaminen",
+  "winchRelease": "Lentokoneen vapauttaminen",
+  "hasAccount": "Olen jo ilmoittautunut",
+  "createNewAccount": "Luo uusi tili",
+  "continents": {
+    "AF": "Afrikka",
+    "AS": "Aasia",
+    "EU": "Euroopassa",
+    "NA": "Pohjois-Amerikka",
+    "OC": "Oseania",
+    "SA": "Etelä-Amerikka"
+  },
+  "analysis": "Analyysi",
+  "liveConnectDone": "Yhdistetty jo käyttäjään {name} WeGlide Livessä",
+  "liveConnectOverwrite": "Yhdistä kohteeseen {name}, katkaise yhteys kohteeseen {oldName}",
+  "liveConnectTo": "Yhdistä verkkoon {name} WeGlide Livessä",
+  "subscribeMagazine": "Tilaa valitut lehden tarinat",
+  "compareAnyPilot": "Vertaa mihin tahansa tämän päivän lentäjään",
+  "competitionAbbrev": "Kilp.",
+  "matthiasDescription": "Pitkän matkan lentolehtinen"
 }

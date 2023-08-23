@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Jižní Afrika"
+    },
+    "EE": {
+      "name": "Estonsko"
+    },
+    "PH": {
+      "name": "Filipíny"
     }
   },
   "logIn": "Přihlásit se",
@@ -639,15 +645,9 @@
   "save": "Uložit",
   "scoreClubClass": "Skóre letu v klubové třídě",
   "scoreProcessing": "Probíhá výpočet",
-  "scoringAdd": "Přidat vyhodnocení",
-  "scoringEnd": "Konec vyhodnocení",
-  "scoringEngineNotice": "Vybrán kluzák s motorem, ujistěte se, že ve vyhodnocení není část letu s během motoru (žlutá)",
-  "scoringFesNotice": "Vybrán kluzák s elektromotorem, ujistěte se, že ve vyhodnocení není část s během motoru (žlutá)",
-  "scoringGliderNotice": "Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli potenciální běhy motoru.",
-  "scoringReset": "Obnovit vyhodnocení",
-  "scoringStart": "Začátek vyhodnocení",
-  "scoringTowingNotice": "Ujistětě se, že ve vyhodnocení neobsahuje let v aerovleku",
-  "scoringWindows": "Vyhodnoceni",
+  "scoringEngineNotice": "Letadlo s vybraným motorem. Ujistěte se, že byl správně detekován chod motoru (žlutá barva).",
+  "scoringFesNotice": "Vybraná letadla s elektrickým pohonem. Ujistěte se, že byl správně detekován chod motoru (žlutá barva).",
+  "scoringGliderNotice": "Letadlo bez zvoleného motoru, přepněte na letadlo s motorem, abyste viděli běhy motoru.",
   "season": "Sezóna",
   "seats": "Sedadel",
   "security": "Bezpečnostní",
@@ -951,9 +951,37 @@
   "tomorrow": "Zítra",
   "week": "Týden",
   "contactSomeone": "Kontaktujte {name}",
-  "userMessageDeliveryExplanation": "Tato zpráva bude odeslána příjemci e-mailem a vaše e-mailová adresa bude viditelná. \nDruhá osoba se pak může rozhodnout, že vám odpoví na svou e-mailovou adresu.",
+  "userMessageDeliveryExplanation": "Beru na vědomí, že moje e-mailová adresa bude sdílena s příjemcem a potvrzuji, že jsem si přečetl a souhlasím s následujícími dokumenty:",
   "message": "Zpráva",
   "messageSend": "Odeslat zprávu.",
   "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide",
-  "notEnoughFlights": "Nahrajte let a zkuste to znovu."
+  "notEnoughFlights": "Nahrajte let a zkuste to znovu.",
+  "account": "Účet",
+  "deleteMyAccount": "Smazat můj účet",
+  "emailUs": "Napište nám prosím",
+  "languageAndUnits": "Jazyk a jednotky",
+  "addEngineRun": "Přidejte běh motoru",
+  "engineRun": "Běžící motor",
+  "reset": "Resetovat",
+  "selfLaunchEnd": "Konec vlastního spuštění",
+  "towRelease": "Uvolnění letadla",
+  "winchRelease": "Uvolnění letadla",
+  "hasAccount": "Už jsem přihlášený",
+  "createNewAccount": "Vytvořit nový účet",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Asie",
+    "EU": "Evropa",
+    "NA": "Severní Amerika",
+    "OC": "Oceánie",
+    "SA": "Jižní Amerika"
+  },
+  "analysis": "Analýza",
+  "liveConnectDone": "Již jste připojeni k {name} ve WeGlide Live",
+  "liveConnectOverwrite": "Připojte se k {name}, odpojte se od {oldName}",
+  "liveConnectTo": "Připojte se k {name} ve WeGlide Live",
+  "subscribeMagazine": "Přihlaste se k odběru vybraných článků z časopisu",
+  "compareAnyPilot": "Porovnejte s jakýmkoli pilotem ze dne",
+  "competitionAbbrev": "Soutěž",
+  "matthiasDescription": "Leták na dlouhé vzdálenosti"
 }

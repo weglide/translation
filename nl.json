@@ -518,6 +518,12 @@
     },
     "ZA": {
       "name": "Zuid-Afrika"
+    },
+    "EE": {
+      "name": "Estland"
+    },
+    "PH": {
+      "name": "Filippijnen"
     }
   },
   "logIn": "Inloggen",
@@ -639,15 +645,9 @@
   "save": "Opslaan",
   "scoreClubClass": "Scoor de vlucht in clubklasse",
   "scoreProcessing": "Bezig met scoren",
-  "scoringAdd": "Scoringsgebied toevoegen",
-  "scoringEnd": "Eind van het scoren",
-  "scoringEngineNotice": "Vliegtuig met motor geselecteerd, het scoringgebied mag geen motorlooptijd bevatten.",
-  "scoringFesNotice": "Vliegtuig met elektrische motor geselecteerd, het scoringsgebied mag geen motorlooptijd bevatten.",
-  "scoringGliderNotice": "Vliegtuig zonder motor geselecteerd, wijzig naar vliegtuig met motor om potentiële motorlooptijd te zien.",
-  "scoringReset": "Scoringsgebied herstellen",
-  "scoringStart": "Begin van het scoren",
-  "scoringTowingNotice": "Sleeptijd mag geen onderdeel zijn van het scoringsgebied.",
-  "scoringWindows": "Scoringsgebied",
+  "scoringEngineNotice": "Vliegtuig met motor geselecteerd. Controleer of de motorloop (geel) correct is gedetecteerd.",
+  "scoringFesNotice": "Vliegtuig met elektrische motor geselecteerd. Controleer of de motor (geel) correct is gedetecteerd.",
+  "scoringGliderNotice": "Vliegtuig zonder motor geselecteerd, wijzig naar vliegtuig met motor om motorlooptijd te zien.",
   "season": "Seizoen",
   "seats": "Zitplaatsen",
   "security": "Veiligheid",
@@ -732,7 +732,7 @@
   "verifying": "Email wordt geverifieerd",
   "waiting": "In wachtrij",
   "weather": "Weer",
-  "wholeLeague": "Ganse competitie",
+  "wholeLeague": "Volledige competitie",
   "width": "Breedte",
   "wind": "Wind",
   "windAbbrev": "Wind",
@@ -952,9 +952,37 @@
   "tomorrow": "Morgen",
   "week": "Week",
   "contactSomeone": "Neem contact op met {name}",
-  "userMessageDeliveryExplanation": "Dit bericht wordt via e-mail naar de ontvanger verzonden en uw e-mailadres wordt zichtbaar. \nDe andere persoon kan dan beslissen om zijn e-mailadres met u te delen door te antwoorden.",
+  "userMessageDeliveryExplanation": "Ik begrijp dat mijn e-mailadres wordt gedeeld met de ontvanger en ik erken dat ik de volgende documenten heb gelezen en hiermee akkoord ga:",
   "message": "Bericht",
   "messageSend": "Bericht verzonden.",
   "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide",
-  "notEnoughFlights": "Upload een vlucht en probeer het opnieuw."
+  "notEnoughFlights": "Upload een vlucht en probeer het opnieuw.",
+  "account": "Rekening",
+  "deleteMyAccount": "Verwijder mijn account",
+  "emailUs": "Stuur ons een e-mail",
+  "languageAndUnits": "Taal en eenheden",
+  "addEngineRun": "Motorloop toevoegen",
+  "engineRun": "Draaiende motor",
+  "reset": "Resetten",
+  "selfLaunchEnd": "Einde zelflancering",
+  "towRelease": "Vliegtuig vrijgeven",
+  "winchRelease": "Vliegtuig vrijgeven",
+  "hasAccount": "Ik ben al aangemeld",
+  "createNewAccount": "Creëer een nieuw account",
+  "continents": {
+    "AF": "Afrika",
+    "AS": "Azië",
+    "EU": "Europa",
+    "NA": "Noord Amerika",
+    "OC": "Oceanië",
+    "SA": "Zuid-Amerika"
+  },
+  "analysis": "Analyse",
+  "liveConnectDone": "Al verbonden met {name} in WeGlide Live",
+  "liveConnectOverwrite": "Verbinding maken met {name}, verbinding met {oldName} verbreken",
+  "liveConnectTo": "Maak verbinding met {name} in WeGlide Live",
+  "subscribeMagazine": "Abonneer u op geselecteerde tijdschriftverhalen",
+  "compareAnyPilot": "Vergelijk met elke piloot van de dag",
+  "competitionAbbrev": "Conc.",
+  "matthiasDescription": "Langeafstandsvlieger"
 }
