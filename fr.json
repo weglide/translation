@@ -1021,7 +1021,7 @@
   "tomorrow": "Demain",
   "week": "Semaine",
   "contactSomeone": "Contacter {name}",
-  "userMessageDeliveryExplanation": "Je comprends que mon adresse e-mail sera partagée avec le destinataire et je reconnais avoir lu et accepté les documents suivants :",
+  "userMessageDeliveryExplanation": "Je comprends que mon adresse e-mail sera partagée avec le destinataire et je reconnais avoir lu et accepté les documents suivants :",
   "message": "Message",
   "messageSend": "Message envoyé.",
   "userMessagesAllowed": "Autoriser les autres à me contacter via WeGlide",
@@ -1035,7 +1035,7 @@
   "reset": "Réinitialiser",
   "selfLaunchEnd": "Fin du lancement autonome",
   "towRelease": "Largage remorqueur",
-  "winchRelease": "Largage treuil"
+  "winchRelease": "Largage treuil",
   "hasAccount": "je suis déjà inscrit",
   "createNewAccount": "Créer un nouveau compte",
   "continents": {
