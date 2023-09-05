@@ -983,5 +983,19 @@
   "subscribeMagazine": "Abonner på utvalgte magasinhistorier",
   "compareAnyPilot": "Sammenlign med hvilken som helst pilot fra dagen",
   "competitionAbbrev": "Konk.",
-  "matthiasDescription": "Langdistanseflyer"
+  "matthiasDescription": "Langdistanseflyer",
+  "less": "mindre",
+  "bonus": "Bonus",
+  "countWingmen": "{count} wingmen",
+  "legStatistics": "",
+  "moreBadges": "{count} merker til",
+  "moreLocalCompetitions": "{count} flere lokale konkurranser",
+  "moreSegments": "{count} segmenter til",
+  "moreWingmen": "{count} flere wingmen",
+  "oneMoreBadge": "ett merke til",
+  "oneMoreLocalCompetition": "enda en lokal konkurranse",
+  "oneMoreSegment": "ett segment til",
+  "oneMoreWingman": "enda en wingman",
+  "oneWingman": "en wingman",
+  "speedAbbrev": "Hastighet"
 }

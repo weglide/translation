@@ -1053,5 +1053,19 @@
   "subscribeMagazine": "Abonnez-vous à des articles de magazines sélectionnés",
   "compareAnyPilot": "Comparez avec n'importe quel pilote de la journée",
   "competitionAbbrev": "Conc.",
-  "matthiasDescription": "Dépliant longue distance"
+  "matthiasDescription": "Dépliant longue distance",
+  "less": "moins",
+  "bonus": "Prime",
+  "countWingmen": "{count} ailiers",
+  "legStatistics": "",
+  "moreBadges": "{count} badges supplémentaires",
+  "moreLocalCompetitions": "{count} compétitions locales supplémentaires",
+  "moreSegments": "{count} segments supplémentaires",
+  "moreWingmen": "{count} ailiers supplémentaires",
+  "oneMoreBadge": "un autre insigne",
+  "oneMoreLocalCompetition": "une autre compétition locale",
+  "oneMoreSegment": "un autre segment",
+  "oneMoreWingman": "un ailier de plus",
+  "oneWingman": "un ailier",
+  "speedAbbrev": "Vitesse"
 }

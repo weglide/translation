@@ -984,5 +984,19 @@
   "subscribeMagazine": "Assine histórias de revistas selecionadas",
   "compareAnyPilot": "Compare com qualquer piloto do dia",
   "competitionAbbrev": "Conc.",
-  "matthiasDescription": "passageiro de longa distância"
+  "matthiasDescription": "passageiro de longa distância",
+  "less": "menos",
+  "bonus": "Bônus",
+  "countWingmen": "{count} alas",
+  "legStatistics": "",
+  "moreBadges": "{count} mais emblemas",
+  "moreLocalCompetitions": "{count} mais competições locais",
+  "moreSegments": "{count} mais segmentos",
+  "moreWingmen": "{count} mais alas",
+  "oneMoreBadge": "mais um distintivo",
+  "oneMoreLocalCompetition": "mais uma competição local",
+  "oneMoreSegment": "mais um segmento",
+  "oneMoreWingman": "mais um ala",
+  "oneWingman": "um ala",
+  "speedAbbrev": "Veloc."
 }

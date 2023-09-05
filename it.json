@@ -984,5 +984,19 @@
   "subscribeMagazine": "Abbonati alle storie di riviste selezionate",
   "compareAnyPilot": "Confronta con qualsiasi pilota del giorno",
   "competitionAbbrev": "Conc.",
-  "matthiasDescription": "Volantino a lunga distanza"
+  "matthiasDescription": "Volantino a lunga distanza",
+  "less": "meno",
+  "bonus": "Bonus",
+  "countWingmen": "{count} gregari",
+  "legStatistics": "",
+  "moreBadges": "{count} altri badge",
+  "moreLocalCompetitions": "{count} altre competizioni locali",
+  "moreSegments": "{count} altri segmenti",
+  "moreWingmen": "{conta} altri gregari",
+  "oneMoreBadge": "un altro distintivo",
+  "oneMoreLocalCompetition": "un'altra competizione locale",
+  "oneMoreSegment": "un altro segmento",
+  "oneMoreWingman": "un altro gregario",
+  "oneWingman": "un gregario",
+  "speedAbbrev": "Velocità"
 }

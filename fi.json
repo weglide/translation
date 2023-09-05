@@ -983,5 +983,19 @@
   "subscribeMagazine": "Tilaa valitut lehden tarinat",
   "compareAnyPilot": "Vertaa mihin tahansa tämän päivän lentäjään",
   "competitionAbbrev": "Kilp.",
-  "matthiasDescription": "Pitkän matkan lentolehtinen"
+  "matthiasDescription": "Pitkän matkan lentolehtinen",
+  "less": "Vähemmän",
+  "bonus": "Bonus",
+  "countWingmen": "{count} siipimiestä",
+  "legStatistics": "",
+  "moreBadges": "{count} merkkiä lisää",
+  "moreLocalCompetitions": "{count} muuta paikallista kilpailua",
+  "moreSegments": "{count} segmenttiä lisää",
+  "moreWingmen": "{count} siipimiestä lisää",
+  "oneMoreBadge": "yksi merkki lisää",
+  "oneMoreLocalCompetition": "vielä yksi paikallinen kilpailu",
+  "oneMoreSegment": "vielä yksi jakso",
+  "oneMoreWingman": "yksi siipimies lisää",
+  "oneWingman": "yksi siipimies",
+  "speedAbbrev": "Nopeus"
 }

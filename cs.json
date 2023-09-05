@@ -983,5 +983,19 @@
   "subscribeMagazine": "Přihlaste se k odběru vybraných článků z časopisu",
   "compareAnyPilot": "Porovnejte s jakýmkoli pilotem ze dne",
   "competitionAbbrev": "Soutěž",
-  "matthiasDescription": "Leták na dlouhé vzdálenosti"
+  "matthiasDescription": "Leták na dlouhé vzdálenosti",
+  "less": "méně",
+  "bonus": "Bonus",
+  "countWingmen": "{count} křídelníků",
+  "legStatistics": "",
+  "moreBadges": "{count} dalších odznaků",
+  "moreLocalCompetitions": "{count} dalších místních soutěží",
+  "moreSegments": "{count} dalších segmentů",
+  "moreWingmen": "{count} dalších křídelníků",
+  "oneMoreBadge": "ještě jeden odznak",
+  "oneMoreLocalCompetition": "ještě jedna místní soutěž",
+  "oneMoreSegment": "ještě jeden segment",
+  "oneMoreWingman": "ještě jeden křídelník",
+  "oneWingman": "jeden křídelník",
+  "speedAbbrev": "Rychlost"
 }

@@ -983,5 +983,19 @@
   "subscribeMagazine": "選択した雑誌の記事を購読する",
   "compareAnyPilot": "その日のパイロットと比較してください",
   "competitionAbbrev": "コンペ",
-  "matthiasDescription": "長距離チラシ"
+  "matthiasDescription": "長距離チラシ",
+  "less": "少ない",
+  "bonus": "ボーナス",
+  "countWingmen": "{count} 人の僚機",
+  "legStatistics": "",
+  "moreBadges": "あと {count} 個のバッジ",
+  "moreLocalCompetitions": "さらに {count} 件のローカル コンテストが開催されます",
+  "moreSegments": "あと {count} 個のセグメント",
+  "moreWingmen": "あと {count} 人の僚機",
+  "oneMoreBadge": "もう一つのバッジ",
+  "oneMoreLocalCompetition": "もう一つのローカル大会",
+  "oneMoreSegment": "もう 1 つのセグメント",
+  "oneMoreWingman": "もう一人の僚機",
+  "oneWingman": "僚機の一人",
+  "speedAbbrev": "スピード"
 }

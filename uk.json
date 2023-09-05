@@ -983,5 +983,19 @@
   "subscribeMagazine": "Підпишіться на вибрані історії журналу",
   "compareAnyPilot": "Порівняйте з будь-яким пілотом того дня",
   "competitionAbbrev": "Конк",
-  "matthiasDescription": "Міжміський флаєр"
+  "matthiasDescription": "Міжміський флаєр",
+  "less": "менше",
+  "bonus": "Бонус",
+  "countWingmen": "{count} супутніх",
+  "legStatistics": "",
+  "moreBadges": "Ще {count} значків",
+  "moreLocalCompetitions": "Ще {count} місцевих змагань",
+  "moreSegments": "Ще {count} сегментів",
+  "moreWingmen": "Ще {count} супутніх",
+  "oneMoreBadge": "ще один значок",
+  "oneMoreLocalCompetition": "ще один місцевий конкурс",
+  "oneMoreSegment": "ще один сегмент",
+  "oneMoreWingman": "ще один ведучий",
+  "oneWingman": "один ведучий",
+  "speedAbbrev": "швидкість"
 }

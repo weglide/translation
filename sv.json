@@ -983,5 +983,19 @@
   "subscribeMagazine": "Prenumerera på utvalda tidningsartiklar",
   "compareAnyPilot": "Jämför med vilken pilot som helst från dagen",
   "competitionAbbrev": "Konk.",
-  "matthiasDescription": "Långdistans flygblad"
+  "matthiasDescription": "Långdistans flygblad",
+  "less": "mindre",
+  "bonus": "Bonus",
+  "countWingmen": "{count} wingmen",
+  "legStatistics": "",
+  "moreBadges": "{count} märken till",
+  "moreLocalCompetitions": "{count} fler lokala tävlingar",
+  "moreSegments": "{count} segment till",
+  "moreWingmen": "{count} fler wingmen",
+  "oneMoreBadge": "ett märke till",
+  "oneMoreLocalCompetition": "ytterligare en lokal tävling",
+  "oneMoreSegment": "ett segment till",
+  "oneMoreWingman": "ytterligare en wingman",
+  "oneWingman": "en wingman",
+  "speedAbbrev": "Fart"
 }

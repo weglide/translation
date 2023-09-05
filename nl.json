@@ -984,5 +984,19 @@
   "subscribeMagazine": "Abonneer u op geselecteerde tijdschriftverhalen",
   "compareAnyPilot": "Vergelijk met elke piloot van de dag",
   "competitionAbbrev": "Conc.",
-  "matthiasDescription": "Langeafstandsvlieger"
+  "matthiasDescription": "Langeafstandsvlieger",
+  "less": "minder",
+  "bonus": "Bonus",
+  "countWingmen": "{count} vleugelmannen",
+  "legStatistics": "",
+  "moreBadges": "{count} meer badges",
+  "moreLocalCompetitions": "{count} meer lokale competities",
+  "moreSegments": "{count} meer segmenten",
+  "moreWingmen": "{count} meer vleugelmannen",
+  "oneMoreBadge": "nog een kenteken",
+  "oneMoreLocalCompetition": "nog een lokale competitie",
+  "oneMoreSegment": "nog een segment",
+  "oneMoreWingman": "nog een vleugelman",
+  "oneWingman": "één vleugelman",
+  "speedAbbrev": "Snelheid"
 }

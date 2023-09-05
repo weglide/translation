@@ -983,5 +983,19 @@
   "subscribeMagazine": "Subskrybuj wybrane historie z czasopism",
   "compareAnyPilot": "Porównaj z dowolnym pilotem z tamtego dnia",
   "competitionAbbrev": "Konk.",
-  "matthiasDescription": "Ulotka długodystansowa"
+  "matthiasDescription": "Ulotka długodystansowa",
+  "less": "mniej",
+  "bonus": "Premia",
+  "countWingmen": "{count} skrzydłowych",
+  "legStatistics": "",
+  "moreBadges": "{count} więcej odznak",
+  "moreLocalCompetitions": "{count} więcej lokalnych konkursów",
+  "moreSegments": "Jeszcze {count} segmentów",
+  "moreWingmen": "{count} więcej skrzydłowych",
+  "oneMoreBadge": "jeszcze jedna odznaka",
+  "oneMoreLocalCompetition": "kolejny lokalny konkurs",
+  "oneMoreSegment": "jeszcze jeden segment",
+  "oneMoreWingman": "jeszcze jeden skrzydłowy",
+  "oneWingman": "jeden skrzydłowy",
+  "speedAbbrev": "Prędkość"
 }

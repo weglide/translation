@@ -983,5 +983,19 @@
   "subscribeMagazine": "Prenumeruokite pasirinktas žurnalo istorijas",
   "compareAnyPilot": "Palyginkite su bet kuriuo tos dienos pilotu",
   "competitionAbbrev": "Varzybos",
-  "matthiasDescription": "Tolimųjų reisų skrajutė"
+  "matthiasDescription": "Tolimųjų reisų skrajutė",
+  "less": "mažiau",
+  "bonus": "Premija",
+  "countWingmen": "{count} sparnuočių",
+  "legStatistics": "",
+  "moreBadges": "Dar {count} ženkleliai",
+  "moreLocalCompetitions": "Dar {count} vietiniai konkursai",
+  "moreSegments": "Dar {count} segmentai",
+  "moreWingmen": "Dar {count} sparnuočių",
+  "oneMoreBadge": "dar vienas ženklelis",
+  "oneMoreLocalCompetition": "dar vienas vietinis konkursas",
+  "oneMoreSegment": "dar vienas segmentas",
+  "oneMoreWingman": "dar vienas sparnuotojas",
+  "oneWingman": "vienas sparnuotojas",
+  "speedAbbrev": "Greitis"
 }

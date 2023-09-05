@@ -983,5 +983,19 @@
   "subscribeMagazine": "Подпишитесь на избранные истории журнала",
   "compareAnyPilot": "Сравните с любым пилотом того дня",
   "competitionAbbrev": "Сор",
-  "matthiasDescription": "Летчик на дальние расстояния"
+  "matthiasDescription": "Летчик на дальние расстояния",
+  "less": "меньше",
+  "bonus": "Бонус",
+  "countWingmen": "{count} ведомых",
+  "legStatistics": "",
+  "moreBadges": "Еще {count} значков",
+  "moreLocalCompetitions": "Еще {count} местных соревнований",
+  "moreSegments": "Еще {count} сегментов",
+  "moreWingmen": "ещё {count} ведомых",
+  "oneMoreBadge": "еще один значок",
+  "oneMoreLocalCompetition": "еще один местный конкурс",
+  "oneMoreSegment": "еще один сегмент",
+  "oneMoreWingman": "еще один ведомый",
+  "oneWingman": "один ведомый",
+  "speedAbbrev": "Скорость"
 }

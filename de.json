@@ -1056,5 +1056,19 @@
   "subscribeMagazine": "Abonniere ausgewählte Magazinbeiträge",
   "compareAnyPilot": "Vergleiche mit beliebigen Flügen des Tages",
   "competitionAbbrev": "Wettb.",
-  "matthiasDescription": "Streckenmaximierer"
+  "matthiasDescription": "Streckenmaximierer",
+  "less": "weniger",
+  "bonus": "Bonus",
+  "countWingmen": "{count} Gefährten",
+  "legStatistics": "Schenkelstatistiken",
+  "moreBadges": "{count} weitere Badges",
+  "moreLocalCompetitions": "{count} weitere lokale Wettbewerbe",
+  "moreSegments": "{count} weitere Segmente",
+  "moreWingmen": "{count} weitere Gefährten",
+  "oneMoreBadge": "ein weiteres Badge",
+  "oneMoreLocalCompetition": "ein weiterer lokaler Wettbewerb",
+  "oneMoreSegment": "ein weiteres Segment",
+  "oneMoreWingman": "ein weiterer Gefährte",
+  "oneWingman": "ein Gefährte",
+  "speedAbbrev": "Geschw."
 }
