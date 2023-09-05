@@ -1056,5 +1056,19 @@
   "subscribeMagazine": "Subscribe to selected magazine stories",
   "compareAnyPilot": "Compare with any pilot from the day",
   "competitionAbbrev": "Comp.",
-  "matthiasDescription": "Long Distance Flyer"
+  "matthiasDescription": "Long Distance Flyer",
+  "oneMoreWingman": "one more wingman",
+  "moreWingmen": "{count} more wingmen",
+  "oneWingman": "one wingman",
+  "countWingmen": "{count} wingmen",
+  "oneMoreSegment": "one more segment",
+  "moreSegments": "{count} more segments",
+  "oneMoreBadge": "one more badge",
+  "moreBadges": "{count} more badges",
+  "oneMoreLocalCompetition": "one more local competition",
+  "moreLocalCompetitions": "{count} more local competitions",
+  "less": "less",
+  "legStatistics": "Leg statistics",
+  "bonus": "Bonus",
+  "speedAbbrev": "Speed"
 }
