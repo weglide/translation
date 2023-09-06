@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Competição pausada ou terminada.",
   "tryPremium": "Experimente o Premium gratuitamente",
   "userGroup": "Grupo de usuários",
-  "landingOpportunities": "Altitude chegada",
   "supportWeGlideNow": "Apoie o WeGlide agora",
   "sort": "Ordenar",
   "scoring": "Pontuação",
@@ -993,10 +992,11 @@
   "moreLocalCompetitions": "{count} mais competições locais",
   "moreSegments": "{count} mais segmentos",
   "moreWingmen": "{count} mais alas",
-  "oneMoreBadge": "mais um distintivo",
-  "oneMoreLocalCompetition": "mais uma competição local",
-  "oneMoreSegment": "mais um segmento",
-  "oneMoreWingman": "mais um ala",
-  "oneWingman": "um ala",
-  "speedAbbrev": "Veloc."
+  "oneMoreBadge": "Mais um distintivo",
+  "oneMoreLocalCompetition": "Mais uma competição local",
+  "oneMoreSegment": "Mais um segmento",
+  "oneMoreWingman": "Mais um ala",
+  "oneWingman": "Um ala",
+  "speedAbbrev": "Veloc.",
+  "arrivalAltitude": "Altitude chegada"
 }

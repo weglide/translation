@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Soutěž pozastavena nebo ukončena.",
   "tryPremium": "Vyzkoušejte Premium zdarma",
   "userGroup": "Uživatelská skupina",
-  "landingOpportunities": "Příletová výška",
   "supportWeGlideNow": "Podpořte WeGlide nyní",
   "sort": "Seřadit",
   "scoring": "Bodování",
@@ -992,10 +991,11 @@
   "moreLocalCompetitions": "{count} dalších místních soutěží",
   "moreSegments": "{count} dalších segmentů",
   "moreWingmen": "{count} dalších křídelníků",
-  "oneMoreBadge": "ještě jeden odznak",
-  "oneMoreLocalCompetition": "ještě jedna místní soutěž",
-  "oneMoreSegment": "ještě jeden segment",
-  "oneMoreWingman": "ještě jeden křídelník",
-  "oneWingman": "jeden křídelník",
-  "speedAbbrev": "Rychlost"
+  "oneMoreBadge": "Ještě jeden odznak",
+  "oneMoreLocalCompetition": "Ještě jedna místní soutěž",
+  "oneMoreSegment": "Ještě jeden segment",
+  "oneMoreWingman": "Ještě jeden křídelník",
+  "oneWingman": "Jeden křídelník",
+  "speedAbbrev": "Rychlost",
+  "arrivalAltitude": "Příletová Výška"
 }

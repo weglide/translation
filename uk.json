@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Змагання призупинено або завершено.",
   "tryPremium": "Спробуйте Premium безкоштовно",
   "userGroup": "Група користувачів",
-  "landingOpportunities": "Висота прибуття",
   "supportWeGlideNow": "Підтримуйте WeGlide зараз",
   "sort": "Сортувати",
   "scoring": "Підрахунок балів",
@@ -997,5 +996,6 @@
   "oneMoreSegment": "ще один сегмент",
   "oneMoreWingman": "ще один ведучий",
   "oneWingman": "один ведучий",
-  "speedAbbrev": "швидкість"
+  "speedAbbrev": "швидкість",
+  "arrivalAltitude": "Висота прибуття"
 }

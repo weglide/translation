@@ -842,7 +842,6 @@
   "tryPremium": "Probeer Premium gratis",
   "userGroup": "Gebruikersgroep",
   "taskDeclarationWarning": "Hiermee worden alle declaraties in uw logger en op WeGlide overschreven.",
-  "landingOpportunities": "Aankomst hoogte",
   "supportWeGlideNow": "Steun WeGlide nu",
   "sort": "Soort",
   "scoring": "Scoren",
@@ -993,10 +992,11 @@
   "moreLocalCompetitions": "{count} meer lokale competities",
   "moreSegments": "{count} meer segmenten",
   "moreWingmen": "{count} meer vleugelmannen",
-  "oneMoreBadge": "nog een kenteken",
-  "oneMoreLocalCompetition": "nog een lokale competitie",
-  "oneMoreSegment": "nog een segment",
-  "oneMoreWingman": "nog een vleugelman",
-  "oneWingman": "één vleugelman",
-  "speedAbbrev": "Snelheid"
+  "oneMoreBadge": "Nog een kenteken",
+  "oneMoreLocalCompetition": "Nog een lokale competitie",
+  "oneMoreSegment": "Nog een segment",
+  "oneMoreWingman": "Nog een vleugelman",
+  "oneWingman": "Één vleugelman",
+  "speedAbbrev": "Snelheid",
+  "arrivalAltitude": "Aankomst hoogte"
 }

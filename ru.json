@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Соревнование приостановлено или завершено.",
   "tryPremium": "Попробуйте Премиум бесплатно",
   "userGroup": "Группа пользователей",
-  "landingOpportunities": "Высота прибытия",
   "supportWeGlideNow": "Поддержите WeGlide сейчас",
   "sort": "Сортировать",
   "scoring": "Подсчет очков",
@@ -997,5 +996,6 @@
   "oneMoreSegment": "еще один сегмент",
   "oneMoreWingman": "еще один ведомый",
   "oneWingman": "один ведомый",
-  "speedAbbrev": "Скорость"
+  "speedAbbrev": "Скорость",
+  "arrivalAltitude": "Высота прибытия"
 }

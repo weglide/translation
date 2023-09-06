@@ -914,7 +914,6 @@
   "tryPremium": "Teste Premium kostenlos",
   "userGroup": "Nutzergruppe",
   "taskDeclarationWarning": "Dadurch werden alle Deklarationen in deinem Logger und auf WeGlide überschrieben.",
-  "landingOpportunities": "Ankunfts Höhe",
   "supportWeGlideNow": "Unterstütze WeGlide jetzt",
   "sort": "Sortieren",
   "scoring": "Wertung",
@@ -1065,10 +1064,11 @@
   "moreLocalCompetitions": "{count} weitere lokale Wettbewerbe",
   "moreSegments": "{count} weitere Segmente",
   "moreWingmen": "{count} weitere Gefährten",
-  "oneMoreBadge": "ein weiteres Badge",
-  "oneMoreLocalCompetition": "ein weiterer lokaler Wettbewerb",
-  "oneMoreSegment": "ein weiteres Segment",
-  "oneMoreWingman": "ein weiterer Gefährte",
-  "oneWingman": "ein Gefährte",
-  "speedAbbrev": "Geschw."
+  "oneMoreBadge": "Ein weiteres Badge",
+  "oneMoreLocalCompetition": "Ein weiterer lokaler Wettbewerb",
+  "oneMoreSegment": "Ein weiteres Segment",
+  "oneMoreWingman": "Ein weiterer Gefährte",
+  "oneWingman": "Ein Gefährte",
+  "speedAbbrev": "Geschw.",
+  "arrivalAltitude": "Ankunfts Höhe"
 }

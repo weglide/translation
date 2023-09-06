@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Varžybos pristabdytos arba baigtos.",
   "tryPremium": "Išbandykite „Premium“ nemokamai",
   "userGroup": "Vartotojų grupė",
-  "landingOpportunities": "Atvykimo aukštis",
   "supportWeGlideNow": "Palaikykite WeGlide dabar",
   "sort": "Rūšiuoti",
   "scoring": "Taškais",
@@ -992,10 +991,11 @@
   "moreLocalCompetitions": "Dar {count} vietiniai konkursai",
   "moreSegments": "Dar {count} segmentai",
   "moreWingmen": "Dar {count} sparnuočių",
-  "oneMoreBadge": "dar vienas ženklelis",
-  "oneMoreLocalCompetition": "dar vienas vietinis konkursas",
-  "oneMoreSegment": "dar vienas segmentas",
-  "oneMoreWingman": "dar vienas sparnuotojas",
-  "oneWingman": "vienas sparnuotojas",
-  "speedAbbrev": "Greitis"
+  "oneMoreBadge": "Dar vienas ženklelis",
+  "oneMoreLocalCompetition": "Dar vienas vietinis konkursas",
+  "oneMoreSegment": "Dar vienas segmentas",
+  "oneMoreWingman": "Dar vienas sparnuotojas",
+  "oneWingman": "Vienas sparnuotojas",
+  "speedAbbrev": "Greitis",
+  "arrivalAltitude": "Atvykimo aukštis"
 }

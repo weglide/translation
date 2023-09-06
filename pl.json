@@ -842,7 +842,6 @@
   "tryPremium": "Wypróbuj Premium za darmo",
   "userGroup": "Grupa użytkowników",
   "taskDeclarationWarning": "To nadpisze wszystkie deklaracje w twoim loggerze i na WeGlide.",
-  "landingOpportunities": "Wysokość przylotu",
   "supportWeGlideNow": "Wesprzyj WeGlide teraz",
   "sort": "Sortować",
   "scoring": "Punktacja",
@@ -992,10 +991,11 @@
   "moreLocalCompetitions": "{count} więcej lokalnych konkursów",
   "moreSegments": "Jeszcze {count} segmentów",
   "moreWingmen": "{count} więcej skrzydłowych",
-  "oneMoreBadge": "jeszcze jedna odznaka",
-  "oneMoreLocalCompetition": "kolejny lokalny konkurs",
-  "oneMoreSegment": "jeszcze jeden segment",
-  "oneMoreWingman": "jeszcze jeden skrzydłowy",
-  "oneWingman": "jeden skrzydłowy",
-  "speedAbbrev": "Prędkość"
+  "oneMoreBadge": "Jeszcze jedna odznaka",
+  "oneMoreLocalCompetition": "Kolejny lokalny konkurs",
+  "oneMoreSegment": "Jeszcze jeden segment",
+  "oneMoreWingman": "Jeszcze jeden skrzydłowy",
+  "oneWingman": "Jeden skrzydłowy",
+  "speedAbbrev": "Prędkość",
+  "arrivalAltitude": "Wysokość przylotu"
 }

@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Konkurransen er stoppet eller avsluttet.",
   "tryPremium": "Prøv Premium gratis",
   "userGroup": "Brukergruppe",
-  "landingOpportunities": "Ankomst høyde",
   "supportWeGlideNow": "Støtt WeGlide nå",
   "sort": "Sortere",
   "scoring": "Scoring",
@@ -992,10 +991,11 @@
   "moreLocalCompetitions": "{count} flere lokale konkurranser",
   "moreSegments": "{count} segmenter til",
   "moreWingmen": "{count} flere wingmen",
-  "oneMoreBadge": "ett merke til",
-  "oneMoreLocalCompetition": "enda en lokal konkurranse",
-  "oneMoreSegment": "ett segment til",
-  "oneMoreWingman": "enda en wingman",
-  "oneWingman": "en wingman",
-  "speedAbbrev": "Hastighet"
+  "oneMoreBadge": "Ett merke til",
+  "oneMoreLocalCompetition": "Enda en lokal konkurranse",
+  "oneMoreSegment": "Ett segment til",
+  "oneMoreWingman": "Enda en wingman",
+  "oneWingman": "En wingman",
+  "speedAbbrev": "Hastighet",
+  "arrivalAltitude": "Ankomst høyde"
 }

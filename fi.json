@@ -841,7 +841,6 @@
   "competitionNotAvailable": "Kilpailu keskeytetty tai päättynyt.",
   "tryPremium": "Kokeile Premiumia ilmaiseksi",
   "userGroup": "Käyttäjäryhmä",
-  "landingOpportunities": "Saapumis korkeus",
   "supportWeGlideNow": "Tue WeGlidea nyt",
   "sort": "Järjestellä",
   "scoring": "Pisteytys",
@@ -992,10 +991,11 @@
   "moreLocalCompetitions": "{count} muuta paikallista kilpailua",
   "moreSegments": "{count} segmenttiä lisää",
   "moreWingmen": "{count} siipimiestä lisää",
-  "oneMoreBadge": "yksi merkki lisää",
-  "oneMoreLocalCompetition": "vielä yksi paikallinen kilpailu",
-  "oneMoreSegment": "vielä yksi jakso",
-  "oneMoreWingman": "yksi siipimies lisää",
-  "oneWingman": "yksi siipimies",
-  "speedAbbrev": "Nopeus"
+  "oneMoreBadge": "Yksi merkki lisää",
+  "oneMoreLocalCompetition": "Vielä yksi paikallinen kilpailu",
+  "oneMoreSegment": "Vielä yksi jakso",
+  "oneMoreWingman": "Yksi siipimies lisää",
+  "oneWingman": "Yksi siipimies",
+  "speedAbbrev": "Nopeus",
+  "arrivalAltitude": "Saapumis korkeus"
 }
