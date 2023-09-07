@@ -997,5 +997,6 @@
   "oneMoreWingman": "Yksi siipimies lisää",
   "oneWingman": "Yksi siipimies",
   "speedAbbrev": "Nopeus",
-  "arrivalAltitude": "Saapumis korkeus"
+  "arrivalAltitude": "Saapumis korkeus",
+  "lastSignal": "Viimeinen signaali"
 }

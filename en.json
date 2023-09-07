@@ -1070,5 +1070,6 @@
   "legStatistics": "More statistics",
   "bonus": "Bonus",
   "speedAbbrev": "Speed",
-  "arrivalAltitude": "Arrival Altitude"
+  "arrivalAltitude": "Arrival Altitude",
+  "lastSignal": "Last signal"
 }
