@@ -998,5 +998,6 @@
   "oneWingman": "僚機の一人",
   "speedAbbrev": "スピード",
   "arrivalAltitude": "到着高度",
-  "lastSignal": "最後の信号"
+  "lastSignal": "最後の信号",
+  "myPosition": "私の立場"
 }

@@ -999,5 +999,6 @@
   "oneWingman": "Un gregario",
   "speedAbbrev": "Velocità",
   "arrivalAltitude": "Altitudine di arrivo",
-  "lastSignal": "Ultimo segnale"
+  "lastSignal": "Ultimo segnale",
+  "myPosition": "La mia posizione"
 }

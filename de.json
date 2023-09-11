@@ -1071,5 +1071,6 @@
   "oneWingman": "Ein Gefährte",
   "speedAbbrev": "Geschw.",
   "arrivalAltitude": "Ankunfts Höhe",
-  "lastSignal": "Letztes Signal"
+  "lastSignal": "Letztes Signal",
+  "myPosition": "Meine Position"
 }

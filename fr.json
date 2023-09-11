@@ -1068,5 +1068,6 @@
   "oneWingman": "Un ailier",
   "speedAbbrev": "Vitesse",
   "arrivalAltitude": "Altitude d'arrivée",
-  "lastSignal": "Dernier signal"
+  "lastSignal": "Dernier signal",
+  "myPosition": "Ma position"
 }

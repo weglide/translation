@@ -998,5 +998,6 @@
   "oneWingman": "En wingman",
   "speedAbbrev": "Hastighet",
   "arrivalAltitude": "Ankomst høyde",
-  "lastSignal": "Siste signal"
+  "lastSignal": "Siste signal",
+  "myPosition": "Min posisjon"
 }

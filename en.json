@@ -1071,5 +1071,6 @@
   "bonus": "Bonus",
   "speedAbbrev": "Speed",
   "arrivalAltitude": "Arrival Altitude",
-  "lastSignal": "Last signal"
+  "lastSignal": "Last signal",
+  "myPosition": "My position"
 }

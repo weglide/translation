@@ -998,5 +998,6 @@
   "oneWingman": "Yksi siipimies",
   "speedAbbrev": "Nopeus",
   "arrivalAltitude": "Saapumis korkeus",
-  "lastSignal": "Viimeinen signaali"
+  "lastSignal": "Viimeinen signaali",
+  "myPosition": "Asemani"
 }

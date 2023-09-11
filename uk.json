@@ -998,5 +998,6 @@
   "oneWingman": "один ведучий",
   "speedAbbrev": "швидкість",
   "arrivalAltitude": "Висота прибуття",
-  "lastSignal": "Останній сигнал"
+  "lastSignal": "Останній сигнал",
+  "myPosition": "Моя позиція"
 }
