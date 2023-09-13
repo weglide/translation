@@ -219,7 +219,6 @@
   "integrateSkysight": "Integriere SkySight Wetter in WeGlide",
   "integrations": "Integrationen",
   "invalid": "Ungültig",
-  "invalidFlight": "Flugmeldung zu spät für diese Wertung",
   "isNotRegistered": "ist nicht registriert, keine Authentifizierung erforderlich.",
   "isRegistered": "ist registriert, Geburtsdatum wird als Authentifizierung benötigt.",
   "johannesDescription": "Wettbewerbspilot",
@@ -1072,5 +1071,6 @@
   "speedAbbrev": "Geschw.",
   "arrivalAltitude": "Ankunfts Höhe",
   "lastSignal": "Letztes Signal",
-  "myPosition": "Meine Position"
+  "myPosition": "Meine Position",
+  "flightClaimedTooLate": "Flugmeldung zu spät für die Wertungen"
 }

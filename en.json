@@ -227,7 +227,6 @@
   "integrateSkysight": "Integrate SkySight weather data into WeGlide",
   "integrations": "Integrations",
   "invalid": "Invalid",
-  "invalidFlight": "Flight claimed too late for this contest",
   "isNotRegistered": "is not registered, no further authentication required.",
   "isRegistered": "is registered, date of birth required as authentication.",
   "johannesDescription": "Competition Pilot",
@@ -1072,5 +1071,6 @@
   "speedAbbrev": "Speed",
   "arrivalAltitude": "Arrival Altitude",
   "lastSignal": "Last signal",
-  "myPosition": "My position"
+  "myPosition": "My position",
+  "flightClaimedTooLate": "Flight claimed too late for the contests"
 }

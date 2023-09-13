@@ -219,7 +219,6 @@
   "integrateSkysight": "Zintegruj dane pogodowe SkySight z WeGlide",
   "integrations": "Integracje",
   "invalid": "Niepoprawny",
-  "invalidFlight": "Lot zgłoszony za późno do tych zawodów",
   "isNotRegistered": "nie jest zarejestrowany, dalsze uwierzytelnienie niewymagane.",
   "isRegistered": "jest zarejestrowany, wymagana data urodzenia do uwierzytelnienia.",
   "johannesDescription": "Konkurencyjny pilot",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Prędkość",
   "arrivalAltitude": "Wysokość przylotu",
   "lastSignal": "Ostatni sygnał",
-  "myPosition": "Moja pozycja"
+  "myPosition": "Moja pozycja",
+  "flightClaimedTooLate": "Lot zgłoszony za późno na konkurs"
 }

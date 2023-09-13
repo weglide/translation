@@ -219,7 +219,6 @@
   "integrateSkysight": "Integruokite SkySight orų duomenis į WeGlide",
   "integrations": "Integracijos",
   "invalid": "Neteisinga",
-  "invalidFlight": "Teigiama, kad skrydis per vėlus šiam konkursui",
   "isNotRegistered": "nėra registruotas, nereikia papildomo autentifikavimo.",
   "isRegistered": "yra registruotas, kaip tapatybę patvirtinanti reikalinga gimimo data.",
   "johannesDescription": "Varžybų pilotas",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Greitis",
   "arrivalAltitude": "Atvykimo aukštis",
   "lastSignal": "Paskutinis signalas",
-  "myPosition": "Mano pozicija"
+  "myPosition": "Mano pozicija",
+  "flightClaimedTooLate": "Pranešama, kad skrydis varžyboms per vėlus"
 }

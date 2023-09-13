@@ -219,7 +219,6 @@
   "integrateSkysight": "Intègre la météo de SkySight sur WeGlide",
   "integrations": "Intégrations",
   "invalid": "Invalide",
-  "invalidFlight": "Déclaration de vol trop tardive pour ce classement",
   "isNotRegistered": "n'est pas enregistré, pas d'authentification nécessaire.",
   "isRegistered": "est enregistré, date de naissance nécessaire pour l'authentification.",
   "johannesDescription": "Pilote de compétition",
@@ -1069,5 +1068,6 @@
   "speedAbbrev": "Vitesse",
   "arrivalAltitude": "Altitude d'arrivée",
   "lastSignal": "Dernier signal",
-  "myPosition": "Ma position"
+  "myPosition": "Ma position",
+  "flightClaimedTooLate": "Vol réclamé trop tard pour les classements"
 }

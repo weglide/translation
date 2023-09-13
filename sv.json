@@ -219,7 +219,6 @@
   "integrateSkysight": "Integrera SkySight väderdata i WeGlide",
   "integrations": "Integrationer",
   "invalid": "Ogiltig",
-  "invalidFlight": "Flygning uppladdad för sent för den här tävlingen",
   "isNotRegistered": "inte är registrerad, ingen ytterligare autentisering krävs.",
   "isRegistered": "är registrerad, det krävs födelsedatum som autentisering.",
   "johannesDescription": "Tävlingspilot",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Fart",
   "arrivalAltitude": "Ankomst höjd",
   "lastSignal": "Sista signalen",
-  "myPosition": "Min position"
+  "myPosition": "Min position",
+  "flightClaimedTooLate": "Flight ansökte för sent för tävlingarna"
 }

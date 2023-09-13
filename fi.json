@@ -219,7 +219,6 @@
   "integrateSkysight": "Integroi SkySight-säätiedot WeGlideen",
   "integrations": "Integraatiot",
   "invalid": "Virheellinen",
-  "invalidFlight": "Lento väitti liian myöhään tähän kilpailuun",
   "isNotRegistered": "ei ole rekisteröity, lisätodennusta ei tarvita.",
   "isRegistered": "on rekisteröity, syntymäaika vaaditaan todennuksena.",
   "johannesDescription": "Kilpailupilotti",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Nopeus",
   "arrivalAltitude": "Saapumis korkeus",
   "lastSignal": "Viimeinen signaali",
-  "myPosition": "Asemani"
+  "myPosition": "Asemani",
+  "flightClaimedTooLate": "Lento väitti liian myöhään kilpailuihin"
 }

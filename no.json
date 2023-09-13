@@ -219,7 +219,6 @@
   "integrateSkysight": "Integrer SkySight-værdata i WeGlide",
   "integrations": "Integrasjoner",
   "invalid": "Ugyldig",
-  "invalidFlight": "Flyet krevd for sent for denne konkurransen",
   "isNotRegistered": "er ikke registrert, ingen ytterligere autentisering kreves.",
   "isRegistered": "er registrert, fødselsdato kreves som autentisering.",
   "johannesDescription": "Konkurransepilot",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Hastighet",
   "arrivalAltitude": "Ankomst høyde",
   "lastSignal": "Siste signal",
-  "myPosition": "Min posisjon"
+  "myPosition": "Min posisjon",
+  "flightClaimedTooLate": "Flight krevd for sent for konkurransene"
 }

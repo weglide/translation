@@ -219,7 +219,6 @@
   "integrateSkysight": "Підключити погодні дані SkySight до WeGlide",
   "integrations": "Інтеграції",
   "invalid": "Недійсний",
-  "invalidFlight": "Політ заявлено занадто пізно для даного змагання",
   "isNotRegistered": "не зареєстровано, подальша аутентифікація не потрібна",
   "isRegistered": "зареєстровано, потрібна дата народження для аутентифікації",
   "johannesDescription": "Пілот-спортсмен",
@@ -999,5 +998,6 @@
   "speedAbbrev": "швидкість",
   "arrivalAltitude": "Висота прибуття",
   "lastSignal": "Останній сигнал",
-  "myPosition": "Моя позиція"
+  "myPosition": "Моя позиція",
+  "flightClaimedTooLate": "Рейс заявлено занадто пізно для змагань"
 }

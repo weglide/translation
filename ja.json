@@ -219,7 +219,6 @@
   "integrateSkysight": "SkySight気象データをWeGlideに統合する",
   "integrations": "連携",
   "invalid": "無効",
-  "invalidFlight": "フライトはこのコンテストには遅すぎます",
   "isNotRegistered": "登録されていないため、それ以上の認証は必要ありません。",
   "isRegistered": "登録されており、生年月日が認証として必要です。",
   "johannesDescription": "Competition Pilot",
@@ -999,5 +998,6 @@
   "speedAbbrev": "スピード",
   "arrivalAltitude": "到着高度",
   "lastSignal": "最後の信号",
-  "myPosition": "私の立場"
+  "myPosition": "私の立場",
+  "flightClaimedTooLate": "申請したフライトがコンテストには遅すぎた"
 }

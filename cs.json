@@ -219,7 +219,6 @@
   "integrateSkysight": "Propojení SkySight s WeGlide",
   "integrations": "Integrace",
   "invalid": "Neplatné",
-  "invalidFlight": "Nahlášení letu příliš pozdě na vyhodnocení soutěže",
   "isNotRegistered": "Není registrován, není požadována autorizace",
   "isRegistered": "Je registrován, pro autorizaci je nutné datum narození",
   "johannesDescription": "Soutěžní pilot",
@@ -999,5 +998,6 @@
   "speedAbbrev": "Rychlost",
   "arrivalAltitude": "Příletová Výška",
   "lastSignal": "Poslední signál",
-  "myPosition": "Moje pozice"
+  "myPosition": "Moje pozice",
+  "flightClaimedTooLate": "Let byl nahlášen příliš pozdě na soutěže"
 }

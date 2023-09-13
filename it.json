@@ -219,7 +219,6 @@
   "integrateSkysight": "Integra i dati meteorologici SkySight in WeGlide",
   "integrations": "Integrazioni",
   "invalid": "Non valido",
-  "invalidFlight": "Il volo è stato richiesto troppo tardi per questo concorso",
   "isNotRegistered": "non è registrato, non è richiesta alcuna ulteriore autenticazione.",
   "isRegistered": "è registrato, la data di nascita è richiesta come autenticazione",
   "johannesDescription": "Pilota da competizione",
@@ -1000,5 +999,6 @@
   "speedAbbrev": "Velocità",
   "arrivalAltitude": "Altitudine di arrivo",
   "lastSignal": "Ultimo segnale",
-  "myPosition": "La mia posizione"
+  "myPosition": "La mia posizione",
+  "flightClaimedTooLate": "Il volo è stato richiesto troppo tardi per i concorsi"
 }

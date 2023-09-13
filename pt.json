@@ -219,7 +219,6 @@
   "integrateSkysight": "Integre os dados meteorológicos do SkySight no WeGlide",
   "integrations": "Integrações",
   "invalid": "Inválido",
-  "invalidFlight": "Voo reivindicado tarde demais para este concurso",
   "isNotRegistered": "não está registrado, nenhuma autenticação adicional é necessária.",
   "isRegistered": "é registrado, data de nascimento exigida como autenticação.",
   "johannesDescription": "Piloto de competição",
@@ -1000,5 +999,6 @@
   "speedAbbrev": "Veloc.",
   "arrivalAltitude": "Altitude chegada",
   "lastSignal": "Último sinal",
-  "myPosition": "Minha posição"
+  "myPosition": "Minha posição",
+  "flightClaimedTooLate": "Voo reivindicado tarde demais para as competições"
 }
