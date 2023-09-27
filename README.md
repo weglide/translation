@@ -57,3 +57,6 @@ Japanese:
 
 Swedish:
 * Kjell Folkesson
+
+Danish:
+* Emil Dalboe
