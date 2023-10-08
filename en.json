@@ -1081,12 +1081,18 @@
     "glideSpeed": "You were flying the glide phase from {start} to {end} with an indicated airspeed of {speed}.",
     "macCreadyAverageClimb": "Based on the {gliderClimb} average climb and the net air mass movement of {airClimb}, the optimal glide speed according to MacCready theory is {speed}.",
     "macCreadyNextClimb": "Based on the {gliderClimb} climb after this glide and the net air mass movement of {airClimb}, the optimal glide speed according to MacCready theory is {speed}.",
-    "weight": "With a takeoff weight of {weight} and your flying style, you would have been {speed} faster.",
+    "contestWeight": "With a takeoff weight of {weight} and your flying style, you would have been {speed} faster on the {contest} contest.",
+    "legWeight": "With a takeoff weight of {weight} and your flying style, you would have been {speed} faster on leg {leg}.",
     "readingExample": "Reading example",
     "tooFast": "Too Fast",
     "fast": "Fast",
     "optimal": "Optimal",
     "slow": "Slow",
-    "tooSlow": "Too Slow"
+    "tooSlow": "Too Slow",
+    "optimalWeight": "Optimal takeoff weight.",
+    "contestVerticalBar": "The vertical bars show the real climb rate distribution for the {contest} contest.",
+    "legVerticalBar": "The vertical bars show the real climb rate distribution for leg {leg}.",
+    "phaseVerticalBar": "The vertical bars show the real climb rate distribution for the thermal at {time}.",
+    "horizontalBar": "There exists an optimal speed for every expected climb rate and net air mass movement. The horizontal bars show which climb rate you anticipated while gliding. The net air mass movement is taken into consideration."
   }
 }
