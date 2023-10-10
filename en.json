@@ -1090,9 +1090,14 @@
     "slow": "Slow",
     "tooSlow": "Too Slow",
     "optimalWeight": "Optimal takeoff weight.",
-    "contestVerticalBar": "The vertical bars show the real climb rate distribution for the {contest} contest.",
+    "contestVerticalBar": "The vertical bars show the optimum speed distribution for the {contest} contest.",
     "legVerticalBar": "The vertical bars show the real climb rate distribution for leg {leg}.",
     "phaseVerticalBar": "The vertical bars show the real climb rate distribution for the thermal at {time}.",
-    "horizontalBar": "There exists an optimal speed for every expected climb rate and net air mass movement. The horizontal bars show which climb rate you anticipated while gliding. The net air mass movement is taken into consideration."
+    "horizontalBarTooMuchBetween": "You spent too much time flying between {tooMuchLow} and {tooMuchHigh}.",
+    "horizontalBarTooMuchAbove": "You spent too much time flying above {tooMuchHigh}.",
+    "horizontalBarTooMuchBelow": "You spent too much time flying below {tooMuchLow}.",
+    "horizontalBarTooLittleBetween": "Try spending more time between {tooLittleLow} and {tooLittleHigh}.",
+    "horizontalBarTooLittleAbove": "Try spending more time above {tooLittleHigh}.",
+    "horizontalBarTooLittleBelow": "Try spending more time below {tooLittleLow}."
   }
 }
