@@ -1108,10 +1108,11 @@
     "climbDistribution": "Climb distribution",
     "glideSpeeds": "Glide speeds",
     "backToContest": "Back to whole contest",
-    "selectPhase": "Select flight phase or leg for details",
+    "selectPhase": "Select flight phase or leg for details.",
     "noMassWarning": "Set aircraft mass or ask pilot to do so for MacCready analysis.",
     "backToLeg": "Back to whole leg",
     "legAnalysis": "Leg {leg} analysis",
-    "contestAnalysis": "{contest} contest analysis"
+    "contestAnalysis": "{contest} contest analysis",
+    "analysisNotPossible": "Analysis not possible"
   }
 }
