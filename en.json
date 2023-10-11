@@ -1094,11 +1094,24 @@
     "legVerticalBar": "The vertical bars show the optimum speed distribution for the {leg}. leg and the horizontal bars show your actual speed.",
     "glideVerticalBar": "The vertical bars show the optimum speed distribution for the glide from {startTime} to {endTime} and the horizontal bars show your actual speed.",
     "phaseVerticalBar": "The bars show the climb rate distribution for the thermal from {startTime} to {endTime}.",
-    "horizontalBarTooMuchBetween": "You spent too much time flying between {tooMuchLow} and {tooMuchHigh}.",
+    "horizontalBarTooLittleAbove": "Try spending more time above {tooLittleHigh}.",
+    "horizontalBarTooLittleBelow": "Try spending more time below {tooLittleLow}.",
+    "horizontalBarTooLittleBetween": "Try spending more time between {tooLittleLow} and {tooLittleHigh}.",
     "horizontalBarTooMuchAbove": "You spent too much time flying above {tooMuchHigh}.",
     "horizontalBarTooMuchBelow": "You spent too much time flying below {tooMuchLow}.",
-    "horizontalBarTooLittleBetween": "Try spending more time between {tooLittleLow} and {tooLittleHigh}.",
-    "horizontalBarTooLittleAbove": "Try spending more time above {tooLittleHigh}.",
-    "horizontalBarTooLittleBelow": "Try spending more time below {tooLittleLow}."
+    "horizontalBarTooMuchBetween": "You spent too much time flying between {tooMuchLow} and {tooMuchHigh}.",
+    "climbAbility": "Climb ability",
+    "glideAbility": "Glide ability",
+    "gross": "Gross",
+    "net": "Net",
+    "ias": "IAS",
+    "climbDistribution": "Climb distribution",
+    "glideSpeeds": "Glide speeds",
+    "backToContest": "Back to whole contest",
+    "selectPhase": "Select flight phase or leg for details",
+    "noMassWarning": "Set aircraft mass or ask pilot to do so for MacCready analysis.",
+    "backToLeg": "Back to whole leg",
+    "legAnalysis": "Leg {leg} analysis",
+    "contestAnalysis": "{contest} contest analysis"
   }
 }
