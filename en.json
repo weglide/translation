@@ -1115,6 +1115,8 @@
     "contestAnalysis": "{contest} Contest Analysis",
     "analysisNotPossible": "Analysis not possible.",
     "glides": "Glides",
-    "weightSaved": "Weight saved"
+    "weightSaved": "Weight saved",
+    "tooLight": "Too light",
+    "tooHeavy": "Too heavy"
   }
 }
