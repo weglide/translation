@@ -945,7 +945,7 @@
   "ok": "Ok!",
   "noClubWarning": "No club selected, uploaded flights will not be assigned to any club.",
   "setClub": "Select club",
-  "takeoffWeight": "Takeoff weight in {unit} (optional)",
+  "takeoffWeight": "Takeoff weight in {unit}",
   "wingLoading": "wing loading",
   "plansHeadline": "Bring your flying skills to the next level",
   "timesFlown": "flown",
@@ -1105,7 +1105,7 @@
     "gross": "Gross",
     "net": "Net",
     "ias": "IAS",
-    "climbDistribution": "Climb distribution",
+    "climbDistribution": "Climb Distribution",
     "glideSpeeds": "Glide Speeds",
     "backToContest": "Back to whole contest",
     "selectPhase": "Select flight phase or leg for details.",
@@ -1114,6 +1114,7 @@
     "legAnalysis": "Leg {leg} Analysis",
     "contestAnalysis": "{contest} Contest Analysis",
     "analysisNotPossible": "Analysis not possible.",
-    "glides": "Glides"
+    "glides": "Glides",
+    "weightSaved": "Weight saved"
   }
 }
