@@ -1091,6 +1091,10 @@
     "optimal": "Optimal",
     "slow": "Slow",
     "tooSlow": "Too Slow",
+    "tooFlat": "Too Flat",
+    "flat": "Flat",
+    "steep": "Steep",
+    "tooSteep": "Too Steep",
     "optimalWeight": "Optimal takeoff weight.",
     "contestVerticalBar": "The vertical bars show the optimal time spent in a given speed range for the {contest} contest and the horizontal bars show your actual time spent.",
     "legVerticalBar": "The vertical bars show the optimal time spent in a given speed range for the {leg}. leg and the horizontal bars show your actual time spent.",
@@ -1115,6 +1119,9 @@
     "contestAnalysis": "{contest} Contest Analysis",
     "analysisNotPossible": "Analysis not possible.",
     "glides": "Glides",
-    "weightSaved": "Weight saved"
+    "weightSaved": "Weight saved",
+    "thermalBank": "You were circling the thermal from {start} to {end} with an average bank angle of {bank}.",
+    "circleFlatter": "Try to circle flatter.",
+    "circleSteeper": "Try to circle steeper."
   }
 }
