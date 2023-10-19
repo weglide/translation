@@ -1121,7 +1121,7 @@
     "glides": "Glides",
     "weightSaved": "Weight saved",
     "thermalBank": "You were circling the thermal from {start} to {end} with an average bank angle of {bank}.",
-    "circleFlatter": "Try to circle flatter.",
-    "circleSteeper": "Try to circle steeper."
+    "circleFlatter": "Try circling less steep.",
+    "circleSteeper": "Try circling steeper."
   }
 }
