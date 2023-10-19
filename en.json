@@ -1107,7 +1107,7 @@
     "horizontalBarTooMuchBelow": "You spent too much time flying below {tooMuchLow}.",
     "horizontalBarTooMuchBetween": "You spent too much time flying between {tooMuchLow} and {tooMuchHigh}.",
     "climbAnalysis": "Climb Analysis",
-    "speedToFlyAnalysis": "Speed to Fly Analysis",
+    "speedToFlyAnalysis": "Speed To Fly Analysis",
     "gross": "Gross",
     "net": "Net",
     "ias": "IAS",
