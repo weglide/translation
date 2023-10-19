@@ -1115,7 +1115,7 @@
     "selectPhase": "Select flight phase or leg for details.",
     "noMassWarning": "Set aircraft mass or ask pilot to do so for MacCready analysis.",
     "backToLeg": "Back to whole leg",
-    "legAnalysis": "Leg {leg} Analysis",
+    "legAnalysis": "{leg}. Leg Analysis",
     "contestAnalysis": "{contest} Contest Analysis",
     "analysisNotPossible": "Analysis not possible.",
     "glides": "Glides",
