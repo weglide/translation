@@ -1131,5 +1131,6 @@
   "low": "Low",
   "moderate": "Moderate",
   "high": "High",
-  "risk": "Risk"
+  "risk": "Risk",
+  "loaded": "Loaded"
 }
