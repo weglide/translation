@@ -1123,5 +1123,10 @@
     "thermalBank": "You were circling the thermal from {start} to {end} with an average bank angle of {bank}.",
     "circleFlatter": "Try circling less steep.",
     "circleSteeper": "Try circling steeper."
-  }
+  },
+  "glideRatio": "Glide Ratio",
+  "low": "Low",
+  "moderate": "Moderate",
+  "high": "High",
+  "risk": "Risk"
 }
