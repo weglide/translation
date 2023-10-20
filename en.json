@@ -1132,5 +1132,8 @@
   "moderate": "Moderate",
   "high": "High",
   "risk": "Risk",
-  "loaded": "Loaded"
+  "loaded": "Loaded",
+  "gliders": "Gliders",
+  "label": "Label",
+  "filter": "Filter"
 }
