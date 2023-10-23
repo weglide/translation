@@ -211,7 +211,7 @@
   "hello": "Hello",
   "help": "Help",
   "highest": "Highest",
-  "historySatellite": "Satellite images",
+  "historySatellite": "Satellite Images",
   "home": "Home",
   "igc": "IGC",
   "igcDragText": "Drag .igc files here to upload or click to select",
@@ -1135,5 +1135,6 @@
   "loaded": "Loaded",
   "gliders": "Gliders",
   "label": "Label",
-  "filter": "Filter"
+  "filter": "Filter",
+  "flightAnalysis": "Flight Analysis"
 }
