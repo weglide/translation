@@ -1119,8 +1119,9 @@
     "analysisNotPossible": "Speed to Fly Analysis unavailable due to a lack of thermals.",
     "glides": "Glides",
     "weightSaved": "Weight saved",
-    "thermalRadius": "The graph shows you were circling the thermal from {start} to {end} with an average radius of {radius}.",
-    "circleTighter": "Try circling with tighter turns.",
+    "thermalRadius": "You were flying the thermal from {start} to {end} with an average turning radius of {radius}.",
+    "thermalOptimalRadius": "Based on the mean thermal altitude, the optimal turning radius is below {radius}.",
+    "circleTighter": "Try to fly tighter turns.",
     "weightAnalysis": "Weight Analysis",
     "flown": "Flown"
   },
