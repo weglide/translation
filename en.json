@@ -1097,7 +1097,7 @@
     "contestVerticalBar": "The vertical bars show the optimal time spent in a given speed range for the {contest} contest and the horizontal bars show your actual time spent.",
     "legVerticalBar": "The vertical bars show the optimal time spent in a given speed range for the {leg}. leg and the horizontal bars show your actual time spent.",
     "glideVerticalBar": "The vertical bars show the optimal time spent in a given speed range for the glide from {startTime} to {endTime} and the horizontal bars show your actual time spent.",
-    "phaseVerticalBar": "The bars show the time spent with a given climb rate for the thermal from {startTime} to {endTime}. More time with a higher climb rate is better.",
+    "phaseVerticalBar": "The bars show the climb rate over different parts of the thermal from {startTime} to {endTime}.",
     "horizontalBarTooLittleAbove": "Try spending more time above {tooLittleHigh} to better match the vertical and horizontal bars.",
     "horizontalBarTooLittleBelow": "Try spending more time below {tooLittleLow} to better match the vertical and horizontal bars.",
     "horizontalBarTooLittleBetween": "Try spending more time between {tooLittleLow} and {tooLittleHigh} to better match the vertical and horizontal bars.",
@@ -1122,6 +1122,7 @@
     "thermalRadius": "You were flying the thermal from {start} to {end} with an average turning radius of {radius}.",
     "thermalOptimalRadius": "Based on the mean thermal altitude, the optimal turning radius is below {radius}.",
     "circleTighter": "Try to fly tighter turns.",
+    "leaveEarlier": "The climb rate near the top of the climb gets weaker. Try to leave thermals earlier.",
     "weightAnalysis": "Weight Analysis",
     "flown": "Flown"
   },
