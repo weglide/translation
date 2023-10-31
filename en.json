@@ -1103,7 +1103,7 @@
     "horizontalBarTooMuchAbove": "You spent too much time flying above {tooMuchHigh}.",
     "horizontalBarTooMuchBelow": "You spent too much time flying below {tooMuchLow}.",
     "horizontalBarTooMuchBetween": "You spent too much time flying between {tooMuchLow} and {tooMuchHigh}.",
-    "climbAnalysis": "Climb Analysis",
+    "climbAnalysis": "Thermal Analysis",
     "speedToFlyAnalysis": "Speed To Fly Analysis",
     "gross": "Gross",
     "net": "Net",
