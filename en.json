@@ -1123,6 +1123,8 @@
     "circleTighter": "Try to fly tighter turns.",
     "leaveEarlier": "The climb rate near the top of the climb gets weaker. Try to leave thermals earlier.",
     "leaveEarlierPercent": "In {percent} of your thermals, the climb rate decreases near the top. Try to leave thermals earlier.",
+    "leftThermalPercent": "In {percent} of your thermals, you were circling to the left. Try to circle in both directions.",
+    "rightThermalPercent": "In {percent} of your thermals, you were circling to the right. Try to circle in both directions.",
     "weightAnalysis": "Weight Analysis",
     "flown": "Flown",
     "coach": "Coach"
