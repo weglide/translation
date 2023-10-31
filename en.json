@@ -1074,8 +1074,8 @@
   "myPosition": "My position",
   "flightClaimedTooLate": "Flight claimed too late for the contests",
   "coach": {
-    "flySlower": "Try to fly slower.",
-    "flyFaster": "Try to fly faster.",
+    "flySlower": "Try to fly slower between thermals.",
+    "flyFaster": "Try to fly faster between thermals.",
     "contestSpeed": "You were flying the {contest} contest with an average indicated airspeed of {speed}.",
     "legSpeed": "You were flying the {leg}. leg with an average indicated airspeed of {speed}.",
     "glideSpeed": "You were flying the glide phase from {start} to {end} with an average indicated airspeed of {speed}.",
