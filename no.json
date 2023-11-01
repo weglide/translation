@@ -867,7 +867,8 @@
   "wingLoading": "vingelasting",
   "subscription": {
     "becomePatron": "Bli en beskytter",
-    "hdSatelliteUpgrade": "Få HD-satellittkart"
+    "hdSatelliteUpgrade": "Få HD-satellittkart",
+    "administration": "Administrasjon"
   },
   "plansHeadline": "",
   "mostFlownBy": "oftest fløyet av {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Ankomst høyde",
   "lastSignal": "Siste signal",
   "myPosition": "Min posisjon",
-  "flightClaimedTooLate": "Flight krevd for sent for konkurransene"
+  "flightClaimedTooLate": "Flight krevd for sent for konkurransene",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Fort",
+    "flown": "Fløyet",
+    "glides": "",
+    "gross": "Ekkelt",
+    "net": "",
+    "optimal": "Optimal",
+    "optimalWeight": "Optimal startvekt.",
+    "personalizedTips": "Personlige tips",
+    "readingExample": "Leseeksempel",
+    "slow": "Langsom",
+    "tooFast": "For fort",
+    "tooHeavy": "Prøv å ta med deg mindre vannballast.",
+    "tooLight": "Prøv å ta med deg mer vannballast.",
+    "tooSlow": "For sakte",
+    "tooWide": "For bred",
+    "weightAnalysis": "Vektanalyse",
+    "weightSaved": "",
+    "wide": "Bred"
+  },
+  "filter": "Filter",
+  "glideRatio": "Glideforhold",
+  "gliders": "",
+  "high": "Høy",
+  "label": "",
+  "loaded": "Lastet",
+  "low": "Lav",
+  "moderate": "Moderat",
+  "new": "ny",
+  "risk": "Fare"
 }

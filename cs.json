@@ -867,7 +867,8 @@
   "wingLoading": "zatížení křídla",
   "subscription": {
     "becomePatron": "Staňte se patronem",
-    "hdSatelliteUpgrade": "Získejte HD satelitní mapy"
+    "hdSatelliteUpgrade": "Získejte HD satelitní mapy",
+    "administration": "Správa"
   },
   "plansHeadline": "",
   "mostFlownBy": "nejčastěji létá {name}",
@@ -999,5 +1000,37 @@
   "arrivalAltitude": "Příletová Výška",
   "lastSignal": "Poslední signál",
   "myPosition": "Moje pozice",
-  "flightClaimedTooLate": "Let byl nahlášen příliš pozdě na soutěže"
+  "flightClaimedTooLate": "Let byl nahlášen příliš pozdě na soutěže",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Rychle",
+    "flown": "Letěno",
+    "glides": "",
+    "gross": "Hrubý",
+    "leftThermalPercent": "",
+    "net": "",
+    "optimal": "Optimální",
+    "optimalWeight": "Optimální vzletová hmotnost.",
+    "personalizedTips": "Personalizované tipy",
+    "readingExample": "Příklad čtení",
+    "slow": "Pomalý",
+    "tooFast": "Příliš rychle",
+    "tooHeavy": "Zkuste si s sebou vzít méně vodní zátěže.",
+    "tooLight": "Zkuste si s sebou vzít více vodní zátěže.",
+    "tooSlow": "Příliš pomalý",
+    "tooWide": "Příliš široký",
+    "weightAnalysis": "Analýza hmotnosti",
+    "weightSaved": "",
+    "wide": "Široký"
+  },
+  "filter": "Filtr",
+  "glideRatio": "Poměr klouzavosti",
+  "gliders": "",
+  "high": "Vysoký",
+  "label": "",
+  "loaded": "Nabito",
+  "low": "Nízký",
+  "moderate": "Mírný",
+  "new": "Nový",
+  "risk": "Riziko"
 }

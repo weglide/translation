@@ -867,7 +867,8 @@
   "wingLoading": "нагрузка на крыло",
   "subscription": {
     "becomePatron": "Стать покровителем",
-    "hdSatelliteUpgrade": "Получить спутниковые карты HD"
+    "hdSatelliteUpgrade": "Получить спутниковые карты HD",
+    "administration": "Администрация"
   },
   "plansHeadline": "",
   "mostFlownBy": "чаще всего летает {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Высота прибытия",
   "lastSignal": "Последний сигнал",
   "myPosition": "Моя позиция",
-  "flightClaimedTooLate": "Рейс заявлен слишком поздно для соревнований"
+  "flightClaimedTooLate": "Рейс заявлен слишком поздно для соревнований",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Быстрый",
+    "flown": "Летал",
+    "glides": "",
+    "gross": "Валовой",
+    "net": "",
+    "optimal": "Оптимальный",
+    "optimalWeight": "Оптимальный взлетный вес.",
+    "personalizedTips": "Персонализированные советы",
+    "readingExample": "Пример чтения",
+    "slow": "Медленный",
+    "tooFast": "Слишком быстро",
+    "tooHeavy": "Старайтесь брать с собой меньше водяного балласта.",
+    "tooLight": "Постарайтесь взять с собой побольше водяного балласта.",
+    "tooSlow": "Слишком медленно",
+    "tooWide": "Слишком широкий",
+    "weightAnalysis": "Анализ веса",
+    "weightSaved": "",
+    "wide": "Широкий"
+  },
+  "filter": "Фильтр",
+  "glideRatio": "Коэффициент скольжения",
+  "gliders": "",
+  "high": "Высокий",
+  "label": "",
+  "loaded": "Загружено",
+  "low": "Низкий",
+  "moderate": "Умеренный",
+  "new": "новый",
+  "risk": "Риск"
 }

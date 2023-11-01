@@ -867,7 +867,8 @@
   "wingLoading": "vleugelbelasting",
   "subscription": {
     "becomePatron": "Word een beschermheer",
-    "hdSatelliteUpgrade": "HD-satellietkaarten ophalen"
+    "hdSatelliteUpgrade": "HD-satellietkaarten ophalen",
+    "administration": "Administratie"
   },
   "plansHeadline": "",
   "mostFlownBy": "meest gevlogen door {name}",
@@ -1000,5 +1001,36 @@
   "arrivalAltitude": "Aankomst hoogte",
   "lastSignal": "Laatste signaal",
   "myPosition": "Mijn positie",
-  "flightClaimedTooLate": "Vlucht claimde te laat voor de wedstrijden"
+  "flightClaimedTooLate": "Vlucht claimde te laat voor de wedstrijden",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Snel",
+    "flown": "Gevlogen",
+    "glides": "",
+    "gross": "Goor",
+    "net": "Netto",
+    "optimal": "Optimaal",
+    "optimalWeight": "Optimaal startgewicht.",
+    "personalizedTips": "Gepersonaliseerde tips",
+    "readingExample": "Voorbeeld lezen",
+    "slow": "Langzaam",
+    "tooFast": "Te snel",
+    "tooHeavy": "Probeer minder waterballast mee te nemen.",
+    "tooLight": "Probeer meer waterballast mee te nemen.",
+    "tooSlow": "Te traag",
+    "tooWide": "Te breed",
+    "weightAnalysis": "Gewichtsanalyse",
+    "weightSaved": "",
+    "wide": "Breed"
+  },
+  "filter": "Filter",
+  "glideRatio": "Glijverhouding",
+  "gliders": "",
+  "high": "Hoog",
+  "label": "",
+  "loaded": "Geladen",
+  "low": "Laag",
+  "moderate": "Gematigd",
+  "new": "nieuw",
+  "risk": "Risico"
 }

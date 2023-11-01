@@ -867,7 +867,8 @@
   "wingLoading": "sparno apkrova",
   "subscription": {
     "becomePatron": "Tapk mecenatu",
-    "hdSatelliteUpgrade": "Gaukite HD palydovinius žemėlapius"
+    "hdSatelliteUpgrade": "Gaukite HD palydovinius žemėlapius",
+    "administration": "Administracija"
   },
   "plansHeadline": "",
   "mostFlownBy": "dažniausiai skraido {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Atvykimo aukštis",
   "lastSignal": "Paskutinis signalas",
   "myPosition": "Mano pozicija",
-  "flightClaimedTooLate": "Pranešama, kad skrydis varžyboms per vėlus"
+  "flightClaimedTooLate": "Pranešama, kad skrydis varžyboms per vėlus",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Greitai",
+    "flown": "Nuskrido",
+    "glides": "",
+    "gross": "Grubus",
+    "net": "",
+    "optimal": "Optimalus",
+    "optimalWeight": "Optimalus kilimo svoris.",
+    "personalizedTips": "Suasmeninti patarimai",
+    "readingExample": "Skaitymo pavyzdys",
+    "slow": "Lėtas",
+    "tooFast": "Per greitai",
+    "tooHeavy": "Stenkitės su savimi pasiimti mažiau vandens balasto.",
+    "tooLight": "Stenkitės su savimi pasiimti daugiau vandens balasto.",
+    "tooSlow": "Per lėtas",
+    "tooWide": "Per platus",
+    "weightAnalysis": "Svorio analizė",
+    "weightSaved": "",
+    "wide": "Platus"
+  },
+  "filter": "Filtras",
+  "glideRatio": "Slydimo santykis",
+  "gliders": "",
+  "high": "Aukštas",
+  "label": "",
+  "loaded": "Pakrauta",
+  "low": "Žemas",
+  "moderate": "Vidutinis",
+  "new": "naujas",
+  "risk": "Rizika"
 }

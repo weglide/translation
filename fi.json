@@ -867,7 +867,8 @@
   "wingLoading": "siipien lastaus",
   "subscription": {
     "becomePatron": "Ryhdy suojelijaksi",
-    "hdSatelliteUpgrade": "Hanki HD-satelliittikartat"
+    "hdSatelliteUpgrade": "Hanki HD-satelliittikartat",
+    "administration": "Hallinto"
   },
   "plansHeadline": "",
   "mostFlownBy": "useimmiten lentänyt {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Saapumis korkeus",
   "lastSignal": "Viimeinen signaali",
   "myPosition": "Asemani",
-  "flightClaimedTooLate": "Lento väitti liian myöhään kilpailuihin"
+  "flightClaimedTooLate": "Lento väitti liian myöhään kilpailuihin",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Nopeasti",
+    "flown": "Lennetty",
+    "glides": "",
+    "gross": "Ällöttävä",
+    "net": "Netto",
+    "optimal": "",
+    "optimalWeight": "Optimaalinen lähtöpaino.",
+    "personalizedTips": "Henkilökohtaisia ​​vinkkejä",
+    "readingExample": "Esimerkki lukemisesta",
+    "slow": "Hidas",
+    "tooFast": "Liian nopea",
+    "tooHeavy": "Yritä ottaa vähemmän painolastia mukaasi.",
+    "tooLight": "Yritä ottaa enemmän painolastia mukaasi.",
+    "tooSlow": "Liian hidas",
+    "tooWide": "Liian leveä",
+    "weightAnalysis": "Painon analyysi",
+    "weightSaved": "",
+    "wide": "Leveä"
+  },
+  "filter": "Suodattaa",
+  "glideRatio": "Liukusuhde",
+  "gliders": "",
+  "high": "Korkea",
+  "label": "",
+  "loaded": "Ladattu",
+  "low": "Matala",
+  "moderate": "Kohtalainen",
+  "new": "Uusi",
+  "risk": "Riski"
 }

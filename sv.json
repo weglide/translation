@@ -867,7 +867,8 @@
   "wingLoading": "vingbelastning",
   "subscription": {
     "becomePatron": "Bli en beskyddare",
-    "hdSatelliteUpgrade": "Få HD-satellitkartor"
+    "hdSatelliteUpgrade": "Få HD-satellitkartor",
+    "administration": "Administrering"
   },
   "plansHeadline": "Ta din flygkompetens till nästa nivå",
   "mostFlownBy": "flygs oftast av {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Ankomst höjd",
   "lastSignal": "Sista signalen",
   "myPosition": "Min position",
-  "flightClaimedTooLate": "Flight ansökte för sent för tävlingarna"
+  "flightClaimedTooLate": "Flight ansökte för sent för tävlingarna",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Snabb",
+    "flown": "Flugit",
+    "glides": "",
+    "gross": "Äckligt",
+    "net": "Netto",
+    "optimal": "Optimal",
+    "optimalWeight": "Optimal startvikt.",
+    "personalizedTips": "Personliga tips",
+    "readingExample": "Läsexempel",
+    "slow": "Långsam",
+    "tooFast": "För snabbt",
+    "tooHeavy": "Försök att ta med dig mindre vattenballast.",
+    "tooLight": "Försök att ta med dig mer vattenbarlast.",
+    "tooSlow": "För långsam",
+    "tooWide": "För bred",
+    "weightAnalysis": "Viktanalys",
+    "weightSaved": "",
+    "wide": "Bred"
+  },
+  "filter": "Filtrera",
+  "glideRatio": "Glidförhållande",
+  "gliders": "",
+  "high": "Hög",
+  "label": "",
+  "loaded": "Lastad",
+  "low": "Låg",
+  "moderate": "Måttlig",
+  "new": "ny",
+  "risk": "Risk"
 }

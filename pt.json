@@ -867,7 +867,8 @@
   "wingLoading": "carregamento de asa",
   "subscription": {
     "becomePatron": "Torne-se um Patrono",
-    "hdSatelliteUpgrade": "Obtenha mapas de satélite HD"
+    "hdSatelliteUpgrade": "Obtenha mapas de satélite HD",
+    "administration": "Administração"
   },
   "plansHeadline": "",
   "mostFlownBy": "voado com mais frequência por {name}",
@@ -1000,5 +1001,36 @@
   "arrivalAltitude": "Altitude chegada",
   "lastSignal": "Último sinal",
   "myPosition": "Minha posição",
-  "flightClaimedTooLate": "Voo reivindicado tarde demais para as competições"
+  "flightClaimedTooLate": "Voo reivindicado tarde demais para as competições",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "Rápido",
+    "flown": "Voado",
+    "glides": "",
+    "gross": "Bruto",
+    "net": "",
+    "optimal": "Ótimo",
+    "optimalWeight": "Peso ideal de decolagem.",
+    "personalizedTips": "Dicas personalizadas",
+    "readingExample": "Exemplo de leitura",
+    "slow": "Lento",
+    "tooFast": "Muito rápido",
+    "tooHeavy": "Tente levar menos lastro de água com você.",
+    "tooLight": "Tente levar mais lastro de água com você.",
+    "tooSlow": "Muito devagar",
+    "tooWide": "Muito largo",
+    "weightAnalysis": "Análise de Peso",
+    "weightSaved": "",
+    "wide": "Largo"
+  },
+  "filter": "Filtro",
+  "glideRatio": "Razão de deslizamento",
+  "gliders": "",
+  "high": "Alto",
+  "label": "",
+  "loaded": "Carregado",
+  "low": "Baixo",
+  "moderate": "Moderado",
+  "new": "novo",
+  "risk": "Risco"
 }

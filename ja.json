@@ -867,7 +867,8 @@
   "wingLoading": "翼面荷重",
   "subscription": {
     "becomePatron": "パトロンになる",
-    "hdSatelliteUpgrade": "HD 衛星地図を入手する"
+    "hdSatelliteUpgrade": "HD 衛星地図を入手する",
+    "administration": "管理"
   },
   "plansHeadline": "",
   "mostFlownBy": "{name} が一番飛んでいます",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "到着高度",
   "lastSignal": "最後の信号",
   "myPosition": "私の立場",
-  "flightClaimedTooLate": "申請したフライトがコンテストには遅すぎた"
+  "flightClaimedTooLate": "申請したフライトがコンテストには遅すぎた",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "速い",
+    "flown": "飛行しました",
+    "glides": "",
+    "gross": "きもい",
+    "net": "",
+    "optimal": "最適な",
+    "optimalWeight": "最適な離陸重量。",
+    "personalizedTips": "パーソナライズされたヒント",
+    "readingExample": "読み取り例",
+    "slow": "遅い",
+    "tooFast": "早すぎる",
+    "tooHeavy": "バラスト水の持ち歩きを減らすようにしてください。",
+    "tooLight": "より多くの水バラストを持ち歩くようにしてください。",
+    "tooSlow": "遅すぎる",
+    "tooWide": "広すぎます",
+    "weightAnalysis": "重量分析",
+    "weightSaved": "",
+    "wide": "広い"
+  },
+  "filter": "フィルター",
+  "glideRatio": "滑空率",
+  "gliders": "",
+  "high": "高い",
+  "label": "",
+  "loaded": "ロード済み",
+  "low": "低い",
+  "moderate": "適度",
+  "new": "新しい",
+  "risk": "危険"
 }

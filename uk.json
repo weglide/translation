@@ -867,7 +867,8 @@
   "wingLoading": "навантаження на крило",
   "subscription": {
     "becomePatron": "Стати патроном",
-    "hdSatelliteUpgrade": "Отримайте супутникові карти HD"
+    "hdSatelliteUpgrade": "Отримайте супутникові карти HD",
+    "administration": "Адміністрація"
   },
   "plansHeadline": "",
   "mostFlownBy": "найчастіше літав {name}",
@@ -999,5 +1000,36 @@
   "arrivalAltitude": "Висота прибуття",
   "lastSignal": "Останній сигнал",
   "myPosition": "Моя позиція",
-  "flightClaimedTooLate": "Рейс заявлено занадто пізно для змагань"
+  "flightClaimedTooLate": "Рейс заявлено занадто пізно для змагань",
+  "coach": {
+    "analysisNotPossible": "",
+    "fast": "швидко",
+    "flown": "Полетів",
+    "glides": "",
+    "gross": "Валовий",
+    "net": "",
+    "optimal": "Оптимальний",
+    "optimalWeight": "Оптимальна злітна вага.",
+    "personalizedTips": "Персоналізовані поради",
+    "readingExample": "Приклад читання",
+    "slow": "Повільно",
+    "tooFast": "Занадто швидко",
+    "tooHeavy": "Намагайтеся брати з собою менше водяного баласту.",
+    "tooLight": "Спробуйте взяти з собою більше водяного баласту.",
+    "tooSlow": "Занадто повільно",
+    "tooWide": "Занадто широкий",
+    "weightAnalysis": "Аналіз ваги",
+    "weightSaved": "",
+    "wide": "Широкий"
+  },
+  "filter": "фільтр",
+  "glideRatio": "Коефіцієнт ковзання",
+  "gliders": "",
+  "high": "Високий",
+  "label": "",
+  "loaded": "Завантажено",
+  "low": "Низький",
+  "moderate": "Помірний",
+  "new": "новий",
+  "risk": "Ризик"
 }
