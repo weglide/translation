@@ -844,7 +844,7 @@
     "trialPaymentNotice": "Payment method will not be charged during the trial period, cancel at any time.",
     "3dFlightView": "3D flight view",
     "3dFlightViewDescription": "Lean back and relive any flight in 3D.",
-    "3dFlightViewSpeed": "1x, 5x and 20x playback speed",
+    "3dFlightViewSpeed": "Variable playback speed",
     "3dFlightViewCamera": "Full camera control",
     "hdSatellite": "HD satellite maps",
     "hdSatelliteDescription": "Aerial imagery maps from Esri, Airbus, USGS and Maxar.",
@@ -905,7 +905,28 @@
     "thermalReplayAnimated": "Up to thousands of different thermals for every Minute of flight",
     "thermalReplayClickable": "Clicking thermals leads to the corresponding flight",
     "becomePatron": "Become a Patron",
-    "requestSponsorMaterial": "request sponsor material"
+    "requestSponsorMaterial": "request sponsor material",
+    "flightRelive": "Flight Relive",
+    "rapidScanSatellite": "Rapid scan weather satellite",
+    "administration": "Administration",
+    "thankYou": "Thank You",
+    "everythingPlus": "Everything in {plan} plus:",
+    "extendedReplay": "Extended Replay",
+    "personalizedTipsDescription": "Analyzes your flying style and gives helpful tips.",
+    "personalizedTipsFaster": "Tips to help you fly faster",
+    "personalizedTipsCircle": "Tips to help you circle better",
+    "personalizedTipsWeight": "Tips regarding your takeoff weight",
+    "coachAdjustsToRange": "Adjusts to different contests, legs and individual glides",
+    "speedToFlyDescription": "Tells you exactly if you are flying too fast or too slow between thermals.",
+    "speedToFlyOptimal": "Compare your IAS with the optimal speed to fly",
+    "speedToFlyInterval": "See how much time you spent in each speed interval",
+    "speedToFlyNet": "See the net air movement for every part of your flight",
+    "thermalAnalysisDescription": "Tells you if you are circling too wide or are leaving too late.",
+    "thermalAnalysisRadius": "Compare your circling to the optimal circling radius",
+    "thermalAnalysisIntervals": "See how your climb rate develops across the altitude intervals",
+    "weightAnalysisDescription": "Find out how much ballast to take with you.",
+    "weightAnalysisOptimum": "See what speed you could have achieved when flying heavier or lighter",
+    "weightAnalysisSpeed": "Find out how much ballast to take with you"
   },
   "send": "Send",
   "testNewFeatures": "Try new features",
@@ -1129,7 +1150,8 @@
     "rightThermalPercent": "In {percent} of your thermals, you were circling to the right. Try to circle in both directions.",
     "weightAnalysis": "Weight Analysis",
     "flown": "Flown",
-    "coach": "Coach"
+    "coach": "Coach",
+    "personalizedTips": "Personalized Tips"
   },
   "glideRatio": "Glide Ratio",
   "low": "Low",
@@ -1140,5 +1162,6 @@
   "gliders": "Gliders",
   "label": "Label",
   "filter": "Filter",
-  "flightAnalysis": "Flight Analysis"
+  "flightAnalysis": "Flight Analysis",
+  "new": "new"
 }
