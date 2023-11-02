@@ -1148,7 +1148,8 @@
     "horizontalBarTooMuchAbove": "Tu as survolé {tooMuchHigh} trop longtemps.",
     "horizontalBarTooLittleBetween": "Essaie de passer plus de temps entre {tooLittleLow} et {tooLittleHigh} pour égaliser les barres verticales et horizontales.",
     "horizontalBarTooLittleBelow": "Essaie de passer plus de temps sous {tooLittleLow} pour aligner les barres verticales et horizontales.",
-    "horizontalBarTooLittleAbove": "Essaie de passer plus de temps sur {tooLittleHigh} pour aligner les barres verticales et horizontales."
+    "horizontalBarTooLittleAbove": "Essaie de passer plus de temps sur {tooLittleHigh} pour aligner les barres verticales et horizontales.",
+    "upgrade": "Mise à niveau vers Premium pour obtenir le coach."
   },
   "risk": "Risque",
   "new": "nouveau",
