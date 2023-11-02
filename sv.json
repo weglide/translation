@@ -1031,5 +1031,7 @@
   "low": "Låg",
   "moderate": "Måttlig",
   "new": "ny",
-  "risk": "Risk"
+  "risk": "Risk",
+  "groupName": "Grupp namn",
+  "competitionGroups": "Tävlingsgrupper"
 }

@@ -1031,5 +1031,7 @@
   "low": "低い",
   "moderate": "適度",
   "new": "新しい",
-  "risk": "危険"
+  "risk": "危険",
+  "groupName": "グループ名",
+  "competitionGroups": "競技団体"
 }

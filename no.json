@@ -1031,5 +1031,7 @@
   "low": "Lav",
   "moderate": "Moderat",
   "new": "ny",
-  "risk": "Fare"
+  "risk": "Fare",
+  "groupName": "Gruppenavn",
+  "competitionGroups": "Konkurransegrupper"
 }

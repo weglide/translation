@@ -1032,5 +1032,7 @@
   "low": "Nízký",
   "moderate": "Mírný",
   "new": "Nový",
-  "risk": "Riziko"
+  "risk": "Riziko",
+  "groupName": "Skupinové jméno",
+  "competitionGroups": "Soutěžní skupiny"
 }

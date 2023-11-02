@@ -1008,7 +1008,7 @@
     "glides": "",
     "gross": "Ällöttävä",
     "net": "Netto",
-    "optimal": "",
+    "optimal": "Optimaalinen",
     "optimalWeight": "Optimaalinen lähtöpaino.",
     "personalizedTips": "Henkilökohtaisia ​​vinkkejä",
     "readingExample": "Esimerkki lukemisesta",
@@ -1031,5 +1031,7 @@
   "low": "Matala",
   "moderate": "Kohtalainen",
   "new": "Uusi",
-  "risk": "Riski"
+  "risk": "Riski",
+  "groupName": "Ryhmän nimi",
+  "competitionGroups": "Kilpailuryhmät"
 }

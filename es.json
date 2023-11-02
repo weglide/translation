@@ -866,7 +866,8 @@
   "wingLoading": "ala cargando",
   "subscription": {
     "becomePatron": "Conviértete en un mecenas",
-    "hdSatelliteUpgrade": "Obtener mapas satelitales HD"
+    "hdSatelliteUpgrade": "Obtener mapas satelitales HD",
+    "administration": "Administración"
   },
   "mostFlownBy": "volado con mayor frecuencia por {name}",
   "timesFlown": "volado",
@@ -995,5 +996,33 @@
   "arrivalAltitude": "Altitud Llegada",
   "lastSignal": "Última señal",
   "myPosition": "Mi posición",
-  "flightClaimedTooLate": "Vuelo reclamado demasiado tarde para los concursos"
+  "flightClaimedTooLate": "Vuelo reclamado demasiado tarde para los concursos",
+  "coach": {
+    "fast": "Rápido",
+    "flown": "Volado",
+    "gross": "Bruto",
+    "tooWide": "Demasiado ancho",
+    "wide": "Ancho",
+    "weightAnalysis": "Análisis de peso",
+    "tooSlow": "Demasiado lento",
+    "tooLight": "Intenta llevar más agua de lastre contigo.",
+    "tooHeavy": "Trate de llevar menos lastre de agua.",
+    "tooFast": "Demasiado rapido",
+    "slow": "Lento",
+    "readingExample": "Ejemplo de lectura",
+    "personalizedTips": "Consejos personalizados",
+    "optimalWeight": "Peso óptimo al despegue.",
+    "optimal": "Óptimo",
+    "net": "Red"
+  },
+  "risk": "Riesgo",
+  "new": "nuevo",
+  "moderate": "Moderado",
+  "low": "Bajo",
+  "loaded": "Cargado",
+  "high": "Alto",
+  "groupName": "Nombre del grupo",
+  "glideRatio": "Relación de planeo",
+  "filter": "Filtrar",
+  "competitionGroups": "Grupos de competición"
 }

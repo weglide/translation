@@ -1032,5 +1032,7 @@
   "low": "Baixo",
   "moderate": "Moderado",
   "new": "novo",
-  "risk": "Risco"
+  "risk": "Risco",
+  "groupName": "Nome do grupo",
+  "competitionGroups": "Grupos de competição"
 }

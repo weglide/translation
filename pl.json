@@ -1007,7 +1007,7 @@
     "flown": "Poleciał",
     "glides": "",
     "gross": "Brutto",
-    "net": "",
+    "net": "Netto",
     "optimal": "Optymalny",
     "optimalWeight": "Optymalna masa startowa.",
     "personalizedTips": "Spersonalizowane wskazówki",
@@ -1031,5 +1031,7 @@
   "low": "Niski",
   "moderate": "Umiarkowany",
   "new": "nowy",
-  "risk": "Ryzyko"
+  "risk": "Ryzyko",
+  "groupName": "Nazwa grupy",
+  "competitionGroups": "Grupy konkursowe"
 }

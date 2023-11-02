@@ -1031,5 +1031,7 @@
   "low": "Žemas",
   "moderate": "Vidutinis",
   "new": "naujas",
-  "risk": "Rizika"
+  "risk": "Rizika",
+  "groupName": "Grupės pavadinimas",
+  "competitionGroups": "Varžybų grupės"
 }
