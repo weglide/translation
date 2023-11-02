@@ -1121,7 +1121,7 @@
     "horizontalBarTooLittleBelow": "Versuche mehr Zeit langsamer als {tooLittleLow} zu fliegen, um die vertikalen und horizontalen Balken anzugleichen.",
     "horizontalBarTooLittleBetween": "Versuche mehr Zeit zwischen {tooLittleLow} und {tooLittleHigh} zu fliegen, um die vertikalen und horizontalen Balken anzugleichen.",
     "horizontalBarTooMuchAbove": "Du bist zu oft schneller als {tooMuchHigh} geflogen.",
-    "horizontalBarTooMuchBelow": "Du bist zu selten langsamer als {tooMuchLow} geflogen.",
+    "horizontalBarTooMuchBelow": "Du bist zu oft langsamer als {tooMuchLow} geflogen.",
     "horizontalBarTooMuchBetween": "Du bist zu oft zwischen {tooMuchLow} und {tooMuchHigh} geflogen.",
     "ias": "IAS",
     "leaveEarlier": "Das Steigen oben im Aufwind wird schwächer. Versuche Aufwinde früher zu verlassen.",
