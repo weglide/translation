@@ -1163,5 +1163,7 @@
   "gliders": "Gliders",
   "label": "Label",
   "filter": "Filter",
-  "new": "new"
+  "new": "new",
+  "coloredTrack": "Colored Track",
+  "sink": "Sink"
 }

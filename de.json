@@ -1163,5 +1163,7 @@
   "low": "Niedrig",
   "moderate": "Mäßig",
   "new": "neu",
-  "risk": "Risiko"
+  "risk": "Risiko",
+  "coloredTrack": "Gefärbte Flugspur",
+  "sink": "Sinken"
 }
