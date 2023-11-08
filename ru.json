@@ -1034,5 +1034,6 @@
   "risk": "Риск",
   "groupName": "Имя группы",
   "competitionGroups": "Группы соревнований",
-  "confirmCompetitionTaskDeletion": "Вы собираетесь удалить местное соревнование, включая рейтинг. \nВы уверены?"
+  "confirmCompetitionTaskDeletion": "Вы собираетесь удалить местное соревнование, включая рейтинг. \nВы уверены?",
+  "watchLive": "Смотреть вживую"
 }

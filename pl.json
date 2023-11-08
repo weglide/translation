@@ -1034,5 +1034,6 @@
   "risk": "Ryzyko",
   "groupName": "Nazwa grupy",
   "competitionGroups": "Grupy konkursowe",
-  "confirmCompetitionTaskDeletion": "Zamierzasz usunąć lokalny konkurs wraz z rankingiem. \nJesteś pewny?"
+  "confirmCompetitionTaskDeletion": "Zamierzasz usunąć lokalny konkurs wraz z rankingiem. \nJesteś pewny?",
+  "watchLive": "Oglądać na żywo"
 }

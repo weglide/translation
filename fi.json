@@ -1034,5 +1034,6 @@
   "risk": "Riski",
   "groupName": "Ryhmän nimi",
   "competitionGroups": "Kilpailuryhmät",
-  "confirmCompetitionTaskDeletion": "Olet poistamassa paikallista kilpailua, mukaan lukien sijoitusta. \nOletko varma?"
+  "confirmCompetitionTaskDeletion": "Olet poistamassa paikallista kilpailua, mukaan lukien sijoitusta. \nOletko varma?",
+  "watchLive": "Katso suorana"
 }

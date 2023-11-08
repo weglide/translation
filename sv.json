@@ -1034,5 +1034,6 @@
   "risk": "Risk",
   "groupName": "Grupp namn",
   "competitionGroups": "Tävlingsgrupper",
-  "confirmCompetitionTaskDeletion": "Du är på väg att ta bort den lokala tävlingen inklusive rankingen. \nÄr du säker?"
+  "confirmCompetitionTaskDeletion": "Du är på väg att ta bort den lokala tävlingen inklusive rankingen. \nÄr du säker?",
+  "watchLive": "Titta live"
 }

@@ -1035,5 +1035,6 @@
   "risk": "Rischio",
   "groupName": "Nome del gruppo",
   "competitionGroups": "Gruppi di competizione",
-  "confirmCompetitionTaskDeletion": "Stai per eliminare la competizione locale compresa la classifica. \nSei sicuro?"
+  "confirmCompetitionTaskDeletion": "Stai per eliminare la competizione locale compresa la classifica. \nSei sicuro?",
+  "watchLive": "Guarda dal vivo"
 }

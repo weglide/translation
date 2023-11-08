@@ -1035,5 +1035,6 @@
   "risk": "Risico",
   "groupName": "Groepsnaam",
   "competitionGroups": "Competitie groepen",
-  "confirmCompetitionTaskDeletion": "Je staat op het punt de lokale competitie inclusief de ranglijst te verwijderen. \nWeet je het zeker?"
+  "confirmCompetitionTaskDeletion": "Je staat op het punt de lokale competitie inclusief de ranglijst te verwijderen. \nWeet je het zeker?",
+  "watchLive": "Kijk live"
 }

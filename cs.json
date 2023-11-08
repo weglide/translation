@@ -1035,5 +1035,6 @@
   "risk": "Riziko",
   "groupName": "Skupinové jméno",
   "competitionGroups": "Soutěžní skupiny",
-  "confirmCompetitionTaskDeletion": "Chystáte se smazat místní soutěž včetně hodnocení. \nJsi si jistá?"
+  "confirmCompetitionTaskDeletion": "Chystáte se smazat místní soutěž včetně hodnocení. \nJsi si jistá?",
+  "watchLive": "Sledovat živě"
 }

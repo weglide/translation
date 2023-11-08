@@ -1164,5 +1164,6 @@
   "filter": "Filtre",
   "competitionGroups": "Groupes de compétition",
   "maxDescription": "Passionné d'ascensions",
-  "confirmCompetitionTaskDeletion": "Vous êtes sur le point de supprimer la compétition locale incluant le classement. \nEs-tu sûr?"
+  "confirmCompetitionTaskDeletion": "Vous êtes sur le point de supprimer la compétition locale incluant le classement. \nEs-tu sûr?",
+  "watchLive": "Regarder en direct"
 }

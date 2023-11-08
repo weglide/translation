@@ -1025,5 +1025,6 @@
   "glideRatio": "Relación de planeo",
   "filter": "Filtrar",
   "competitionGroups": "Grupos de competición",
-  "confirmCompetitionTaskDeletion": "Estás a punto de eliminar la competición local, incluido el ranking. \n¿Está seguro?"
+  "confirmCompetitionTaskDeletion": "Estás a punto de eliminar la competición local, incluido el ranking. \n¿Está seguro?",
+  "watchLive": "Ver en directo"
 }
