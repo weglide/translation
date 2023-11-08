@@ -1033,5 +1033,6 @@
   "new": "новий",
   "risk": "Ризик",
   "groupName": "Назва групи",
-  "competitionGroups": "Конкурсні групи"
+  "competitionGroups": "Конкурсні групи",
+  "confirmCompetitionTaskDeletion": "Ви збираєтеся видалити місцевий конкурс разом із рейтингом. \nТи впевнений?"
 }

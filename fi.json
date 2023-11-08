@@ -1033,5 +1033,6 @@
   "new": "Uusi",
   "risk": "Riski",
   "groupName": "Ryhmän nimi",
-  "competitionGroups": "Kilpailuryhmät"
+  "competitionGroups": "Kilpailuryhmät",
+  "confirmCompetitionTaskDeletion": "Olet poistamassa paikallista kilpailua, mukaan lukien sijoitusta. \nOletko varma?"
 }

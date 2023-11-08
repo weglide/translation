@@ -1034,5 +1034,6 @@
   "new": "Nový",
   "risk": "Riziko",
   "groupName": "Skupinové jméno",
-  "competitionGroups": "Soutěžní skupiny"
+  "competitionGroups": "Soutěžní skupiny",
+  "confirmCompetitionTaskDeletion": "Chystáte se smazat místní soutěž včetně hodnocení. \nJsi si jistá?"
 }

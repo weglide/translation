@@ -1034,5 +1034,6 @@
   "new": "nuovo",
   "risk": "Rischio",
   "groupName": "Nome del gruppo",
-  "competitionGroups": "Gruppi di competizione"
+  "competitionGroups": "Gruppi di competizione",
+  "confirmCompetitionTaskDeletion": "Stai per eliminare la competizione locale compresa la classifica. \nSei sicuro?"
 }

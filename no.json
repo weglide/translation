@@ -1033,5 +1033,6 @@
   "new": "ny",
   "risk": "Fare",
   "groupName": "Gruppenavn",
-  "competitionGroups": "Konkurransegrupper"
+  "competitionGroups": "Konkurransegrupper",
+  "confirmCompetitionTaskDeletion": "Du er i ferd med å slette den lokale konkurransen inkludert rangeringen. \nEr du sikker?"
 }

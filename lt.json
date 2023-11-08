@@ -1033,5 +1033,6 @@
   "new": "naujas",
   "risk": "Rizika",
   "groupName": "Grupės pavadinimas",
-  "competitionGroups": "Varžybų grupės"
+  "competitionGroups": "Varžybų grupės",
+  "confirmCompetitionTaskDeletion": "Ketinate ištrinti vietinį konkursą, įskaitant reitingą. \nAr tu tuo tikras?"
 }

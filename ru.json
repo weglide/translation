@@ -1033,5 +1033,6 @@
   "new": "новый",
   "risk": "Риск",
   "groupName": "Имя группы",
-  "competitionGroups": "Группы соревнований"
+  "competitionGroups": "Группы соревнований",
+  "confirmCompetitionTaskDeletion": "Вы собираетесь удалить местное соревнование, включая рейтинг. \nВы уверены?"
 }

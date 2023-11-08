@@ -1165,5 +1165,6 @@
   "new": "neu",
   "risk": "Risiko",
   "coloredTrack": "Gefärbte Flugspur",
-  "sink": "Sinken"
+  "sink": "Sinken",
+  "confirmCompetitionTaskDeletion": "Du bist dabei, den lokalen Wettbewerb inklusive der Rangliste zu löschen. \nBist du sicher?"
 }

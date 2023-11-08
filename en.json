@@ -1165,5 +1165,6 @@
   "filter": "Filter",
   "new": "new",
   "coloredTrack": "Colored Track",
-  "sink": "Sink"
+  "sink": "Sink",
+  "confirmCompetitionTaskDeletion": "You are about to delete the local competition including the ranking. Are you sure?"
 }

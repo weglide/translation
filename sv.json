@@ -1033,5 +1033,6 @@
   "new": "ny",
   "risk": "Risk",
   "groupName": "Grupp namn",
-  "competitionGroups": "Tävlingsgrupper"
+  "competitionGroups": "Tävlingsgrupper",
+  "confirmCompetitionTaskDeletion": "Du är på väg att ta bort den lokala tävlingen inklusive rankingen. \nÄr du säker?"
 }

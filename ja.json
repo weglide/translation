@@ -1033,5 +1033,6 @@
   "new": "新しい",
   "risk": "危険",
   "groupName": "グループ名",
-  "competitionGroups": "競技団体"
+  "competitionGroups": "競技団体",
+  "confirmCompetitionTaskDeletion": "ランキングを含むローカル競争を削除しようとしています。\n本気ですか？"
 }

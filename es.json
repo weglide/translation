@@ -1024,5 +1024,6 @@
   "groupName": "Nombre del grupo",
   "glideRatio": "Relación de planeo",
   "filter": "Filtrar",
-  "competitionGroups": "Grupos de competición"
+  "competitionGroups": "Grupos de competición",
+  "confirmCompetitionTaskDeletion": "Estás a punto de eliminar la competición local, incluido el ranking. \n¿Está seguro?"
 }
