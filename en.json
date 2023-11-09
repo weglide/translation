@@ -1169,5 +1169,7 @@
   "confirmCompetitionTaskDeletion": "You are about to delete the local competition including the ranking. Are you sure?",
   "watchLive": "Watch live",
   "segmentPersonalRecord": "{name} set a new personal record on {segment}",
-  "segmentTopTen": "{name} reached the top 10 on {segment}"
+  "segmentTopThreeFirst": "{name} scored first place on {segment}",
+  "segmentTopThreeSecond": "{name} scored second place on {segment}",
+  "segmentTopThreeThird": "{name} scored third place on {segment}"
 }

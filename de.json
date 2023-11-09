@@ -1169,5 +1169,7 @@
   "confirmCompetitionTaskDeletion": "Du bist dabei, den lokalen Wettbewerb inklusive der Rangliste zu löschen. \nBist du sicher?",
   "watchLive": "Live ansehen",
   "segmentPersonalRecord": "{name} ist eine persönliche Bestzeit auf {segment} geflogen",
-  "segmentTopTen": "{name} erreichte die besten 10 auf {segment}"
+  "segmentTopThreeFirst": "{name} hat den ersten Platz auf {segment} erreicht",
+  "segmentTopThreeSecond": "{name} hat den zweiten Platz auf {segment} erreicht",
+  "segmentTopThreeThird": "{name} hat den dritten Platz auf {segment} erreicht"
 }

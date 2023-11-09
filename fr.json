@@ -1167,5 +1167,7 @@
   "confirmCompetitionTaskDeletion": "Vous êtes sur le point de supprimer la compétition locale incluant le classement. \nEs-tu sûr?",
   "watchLive": "Regarder en direct",
   "segmentPersonalRecord": "{name} a établi un nouveau record personnel sur {segment}",
-  "segmentTopTen": "{name} a atteint le top 10 sur {segment}"
+  "segmentTopThreeFirst": "{name} a atteint la première place du {segment}",
+  "segmentTopThreeSecond": "{name} a atteint la deuxième place du {segment}",
+  "segmentTopThreeThird": "{name} a atteint la troisième place du {segment}"
 }
