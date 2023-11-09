@@ -1171,5 +1171,8 @@
   "segmentPersonalRecord": "{name} set a new personal record on {segment}",
   "segmentTopThreeFirst": "{name} scored first place on {segment}",
   "segmentTopThreeSecond": "{name} scored second place on {segment}",
-  "segmentTopThreeThird": "{name} scored third place on {segment}"
+  "segmentTopThreeThird": "{name} scored third place on {segment}",
+  "taskAnalysisNotEnoughAltitude": "Altitude difference too large when closing the task",
+  "taskAnalysisNotStarted": "Task not started",
+  "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}"
 }

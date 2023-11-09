@@ -1171,5 +1171,8 @@
   "segmentPersonalRecord": "{name} ist eine persönliche Bestzeit auf {segment} geflogen",
   "segmentTopThreeFirst": "{name} hat den ersten Platz auf {segment} erreicht",
   "segmentTopThreeSecond": "{name} hat den zweiten Platz auf {segment} erreicht",
-  "segmentTopThreeThird": "{name} hat den dritten Platz auf {segment} erreicht"
+  "segmentTopThreeThird": "{name} hat den dritten Platz auf {segment} erreicht",
+  "taskAnalysisMissedTurnpoint": "{turnpoint}. Wende verfehlt",
+  "taskAnalysisNotEnoughAltitude": "Höhenunterschied beim Schließen der Aufgabe zu groß",
+  "taskAnalysisNotStarted": "Nicht abgeflogen"
 }

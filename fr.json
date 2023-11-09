@@ -1169,5 +1169,8 @@
   "segmentPersonalRecord": "{name} a établi un nouveau record personnel sur {segment}",
   "segmentTopThreeFirst": "{name} a atteint la première place du {segment}",
   "segmentTopThreeSecond": "{name} a atteint la deuxième place du {segment}",
-  "segmentTopThreeThird": "{name} a atteint la troisième place du {segment}"
+  "segmentTopThreeThird": "{name} a atteint la troisième place du {segment}",
+  "taskAnalysisMissedTurnpoint": "Point de virage {turnpoint} manqué",
+  "taskAnalysisNotEnoughAltitude": "Dénivelé trop important à la fermeture de la tâche",
+  "taskAnalysisNotStarted": "Tâche non démarrée"
 }
