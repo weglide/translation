@@ -1165,5 +1165,7 @@
   "competitionGroups": "Groupes de compétition",
   "maxDescription": "Passionné d'ascensions",
   "confirmCompetitionTaskDeletion": "Vous êtes sur le point de supprimer la compétition locale incluant le classement. \nEs-tu sûr?",
-  "watchLive": "Regarder en direct"
+  "watchLive": "Regarder en direct",
+  "segmentPersonalRecord": "{name} a établi un nouveau record personnel sur {segment}",
+  "segmentTopTen": "{name} est devenu {rank}e sur {segment}"
 }

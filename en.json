@@ -1167,5 +1167,7 @@
   "coloredTrack": "Colored Track",
   "sink": "Sink",
   "confirmCompetitionTaskDeletion": "You are about to delete the local competition including the ranking. Are you sure?",
-  "watchLive": "Watch live"
+  "watchLive": "Watch live",
+  "segmentPersonalRecord": "{name} set a new personal record on {segment}",
+  "segmentTopTen": "{name} became {rank}th on {segment}"
 }
