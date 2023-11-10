@@ -1176,5 +1176,7 @@
   "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}",
   "segmentPersonalFirst": "{name} set a new personal record on {segment}",
   "segmentPersonalSecond": "{name} scored personal 2nd best on {segment}",
-  "segmentPersonalThird": "{name} scored personal 3rd best on {segment}"
+  "segmentPersonalThird": "{name} scored personal 3rd best on {segment}",
+  "enlargeMap": "Enlarge map",
+  "enlargeStory": "Enlarge story"
 }
