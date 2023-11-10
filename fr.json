@@ -1166,11 +1166,15 @@
   "maxDescription": "Passionné d'ascensions",
   "confirmCompetitionTaskDeletion": "Vous êtes sur le point de supprimer la compétition locale incluant le classement. \nEs-tu sûr?",
   "watchLive": "Regarder en direct",
-  "segmentPersonalRecord": "{name} a établi un nouveau record personnel sur {segment}",
-  "segmentTopThreeFirst": "{name} a atteint la première place du {segment}",
+  "segmentTopThreeFirst": "{name} a établi un nouveau record sur {segment}",
   "segmentTopThreeSecond": "{name} a atteint la deuxième place du {segment}",
   "segmentTopThreeThird": "{name} a atteint la troisième place du {segment}",
   "taskAnalysisMissedTurnpoint": "Point de virage {turnpoint} manqué",
   "taskAnalysisNotEnoughAltitude": "Dénivelé trop important à la fermeture de la tâche",
-  "taskAnalysisNotStarted": "Tâche non démarrée"
+  "taskAnalysisNotStarted": "Tâche non démarrée",
+  "segmentPersonalFirst": "{name} a établi un record personnel sur {segment}",
+  "sink": "Couler",
+  "segmentPersonalThird": "{name} a obtenu son 3e record personnel sur {segment}",
+  "segmentPersonalSecond": "{name} a obtenu son 2e record personnel sur {segment}",
+  "coloredTrack": "Trace colorée"
 }

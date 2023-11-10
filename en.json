@@ -1168,11 +1168,13 @@
   "sink": "Sink",
   "confirmCompetitionTaskDeletion": "You are about to delete the local competition including the ranking. Are you sure?",
   "watchLive": "Watch live",
-  "segmentPersonalRecord": "{name} set a new personal record on {segment}",
-  "segmentTopThreeFirst": "{name} scored first place on {segment}",
-  "segmentTopThreeSecond": "{name} scored second place on {segment}",
-  "segmentTopThreeThird": "{name} scored third place on {segment}",
+  "segmentTopThreeFirst": "{name} set a new record on {segment}",
+  "segmentTopThreeSecond": "{name} scored 2nd on {segment}",
+  "segmentTopThreeThird": "{name} scored 3rd on {segment}",
   "taskAnalysisNotEnoughAltitude": "Altitude difference too large when closing the task",
   "taskAnalysisNotStarted": "Task not started",
-  "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}"
+  "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}",
+  "segmentPersonalFirst": "{name} set a new personal record on {segment}",
+  "segmentPersonalSecond": "{name} scored personal 2nd best on {segment}",
+  "segmentPersonalThird": "{name} scored personal 3rd best on {segment}"
 }
