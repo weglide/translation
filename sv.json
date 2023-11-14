@@ -1035,5 +1035,11 @@
   "groupName": "Grupp namn",
   "competitionGroups": "Tävlingsgrupper",
   "confirmCompetitionTaskDeletion": "Du är på väg att ta bort den lokala tävlingen inklusive rankingen. \nÄr du säker?",
-  "watchLive": "Titta live"
+  "watchLive": "Titta live",
+  "emailChangeComplete": "E-poständringen är klar.",
+  "enlargeMap": "Förstora kartan",
+  "enlargeStory": "Förstora berättelsen",
+  "newEmail": "Ny E-post",
+  "pleaseLogInWithOldEmail": "Logga in med din gamla e-postadress.",
+  "requestEmailChange": "Begär e-poständring"
 }

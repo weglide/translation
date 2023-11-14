@@ -1035,5 +1035,11 @@
   "groupName": "Nazwa grupy",
   "competitionGroups": "Grupy konkursowe",
   "confirmCompetitionTaskDeletion": "Zamierzasz usunąć lokalny konkurs wraz z rankingiem. \nJesteś pewny?",
-  "watchLive": "Oglądać na żywo"
+  "watchLive": "Oglądać na żywo",
+  "emailChangeComplete": "Zmiana adresu e-mail została ukończona.",
+  "enlargeMap": "Powiększ mapę",
+  "enlargeStory": "Powiększ historię",
+  "newEmail": "Nowy e-mail",
+  "pleaseLogInWithOldEmail": "Proszę zalogować się przy użyciu swojego starego adresu e-mail.",
+  "requestEmailChange": "Poproś o zmianę adresu e-mail"
 }

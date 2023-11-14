@@ -1036,5 +1036,11 @@
   "groupName": "Nome del gruppo",
   "competitionGroups": "Gruppi di competizione",
   "confirmCompetitionTaskDeletion": "Stai per eliminare la competizione locale compresa la classifica. \nSei sicuro?",
-  "watchLive": "Guarda dal vivo"
+  "watchLive": "Guarda dal vivo",
+  "emailChangeComplete": "Modifica e-mail completata.",
+  "enlargeMap": "Ingrandisci la mappa",
+  "enlargeStory": "Ingrandisci la storia",
+  "newEmail": "Nuova email",
+  "pleaseLogInWithOldEmail": "Effettua il login con la tua vecchia email.",
+  "requestEmailChange": "Richiedi cambio email"
 }

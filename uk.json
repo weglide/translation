@@ -1035,5 +1035,11 @@
   "groupName": "Назва групи",
   "competitionGroups": "Конкурсні групи",
   "confirmCompetitionTaskDeletion": "Ви збираєтеся видалити місцевий конкурс разом із рейтингом. \nТи впевнений?",
-  "watchLive": "Дивіться в прямому ефірі"
+  "watchLive": "Дивіться в прямому ефірі",
+  "emailChangeComplete": "Зміну електронної пошти завершено.",
+  "enlargeMap": "Збільшити карту",
+  "enlargeStory": "Збільшити історію",
+  "newEmail": "Нова електронна пошта",
+  "pleaseLogInWithOldEmail": "Будь ласка, увійдіть за допомогою старої електронної пошти.",
+  "requestEmailChange": "Запит на зміну електронної пошти"
 }

@@ -1035,5 +1035,11 @@
   "groupName": "Gruppenavn",
   "competitionGroups": "Konkurransegrupper",
   "confirmCompetitionTaskDeletion": "Du er i ferd med å slette den lokale konkurransen inkludert rangeringen. \nEr du sikker?",
-  "watchLive": "Se live"
+  "watchLive": "Se live",
+  "emailChangeComplete": "E-postendringen er fullført.",
+  "enlargeMap": "Forstørre kartet",
+  "enlargeStory": "Forstørre historien",
+  "newEmail": "Ny epost",
+  "pleaseLogInWithOldEmail": "Logg inn med din gamle e-post.",
+  "requestEmailChange": "Be om endring av e-post"
 }

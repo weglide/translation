@@ -1035,5 +1035,11 @@
   "groupName": "グループ名",
   "competitionGroups": "競技団体",
   "confirmCompetitionTaskDeletion": "ランキングを含むローカル競争を削除しようとしています。\n本気ですか？",
-  "watchLive": "ライブを見る"
+  "watchLive": "ライブを見る",
+  "emailChangeComplete": "メールアドレスの変更が完了しました。",
+  "enlargeMap": "地図を拡大する",
+  "enlargeStory": "ストーリーを拡大する",
+  "newEmail": "新しいメール",
+  "pleaseLogInWithOldEmail": "古いメールアドレスでログインしてください。",
+  "requestEmailChange": "メールアドレス変更リクエスト"
 }

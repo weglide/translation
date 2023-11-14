@@ -1178,5 +1178,9 @@
   "segmentPersonalSecond": "{name} scored personal 2nd best on {segment}",
   "segmentPersonalThird": "{name} scored personal 3rd best on {segment}",
   "enlargeMap": "Enlarge map",
-  "enlargeStory": "Enlarge story"
+  "enlargeStory": "Enlarge story",
+  "newEmail": "New email",
+  "requestEmailChange": "Request email change",
+  "emailChangeComplete": "Email change complete.",
+  "pleaseLogInWithOldEmail": "Please log in with your old email."
 }

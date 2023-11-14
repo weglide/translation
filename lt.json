@@ -1035,5 +1035,11 @@
   "groupName": "Grupės pavadinimas",
   "competitionGroups": "Varžybų grupės",
   "confirmCompetitionTaskDeletion": "Ketinate ištrinti vietinį konkursą, įskaitant reitingą. \nAr tu tuo tikras?",
-  "watchLive": "Žiūrėkite tiesiogiai"
+  "watchLive": "Žiūrėkite tiesiogiai",
+  "emailChangeComplete": "El. pašto keitimas baigtas.",
+  "enlargeMap": "Padidinti žemėlapį",
+  "enlargeStory": "Padidinti istoriją",
+  "newEmail": "Naujas elektroninis paštas",
+  "pleaseLogInWithOldEmail": "Prisijunkite naudodami seną el.",
+  "requestEmailChange": "Prašyti pakeisti el. pašto adresą"
 }

@@ -1036,5 +1036,11 @@
   "groupName": "Skupinové jméno",
   "competitionGroups": "Soutěžní skupiny",
   "confirmCompetitionTaskDeletion": "Chystáte se smazat místní soutěž včetně hodnocení. \nJsi si jistá?",
-  "watchLive": "Sledovat živě"
+  "watchLive": "Sledovat živě",
+  "emailChangeComplete": "Změna e-mailu dokončena.",
+  "enlargeMap": "Zvětšit mapu",
+  "enlargeStory": "Zvětšit příběh",
+  "newEmail": "Nový Email",
+  "pleaseLogInWithOldEmail": "Přihlaste se prosím svým starým emailem.",
+  "requestEmailChange": "Požádat o změnu emailu"
 }

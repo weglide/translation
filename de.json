@@ -1176,5 +1176,11 @@
   "taskAnalysisNotStarted": "Nicht abgeflogen",
   "segmentPersonalFirst": "{name} ist einen persönlichen Rekord auf {segment} geflogen",
   "segmentPersonalSecond": "{name} ist die persönlich zweitbeste Zeit auf {segment} geflogen",
-  "segmentPersonalThird": "{name} ist die persönlich drittbeste Zeit auf {segment} geflogen"
+  "segmentPersonalThird": "{name} ist die persönlich drittbeste Zeit auf {segment} geflogen",
+  "emailChangeComplete": "E-Mail-Änderung abgeschlossen.",
+  "enlargeMap": "Karte vergrößern",
+  "enlargeStory": "Geschichte vergrößern",
+  "newEmail": "Neue E-mail",
+  "pleaseLogInWithOldEmail": "Bitte logge dich mit der alten E-Mail-Adresse ein.",
+  "requestEmailChange": "E-Mail-Änderung anfordern"
 }

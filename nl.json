@@ -1036,5 +1036,11 @@
   "groupName": "Groepsnaam",
   "competitionGroups": "Competitie groepen",
   "confirmCompetitionTaskDeletion": "Je staat op het punt de lokale competitie inclusief de ranglijst te verwijderen. \nWeet je het zeker?",
-  "watchLive": "Kijk live"
+  "watchLive": "Kijk live",
+  "emailChangeComplete": "E-mailwijziging voltooid.",
+  "enlargeMap": "Vergroot kaart",
+  "enlargeStory": "Vergroot verhaal",
+  "newEmail": "Nieuwe e-mail",
+  "pleaseLogInWithOldEmail": "Log in met uw oude e-mailadres.",
+  "requestEmailChange": "E-mailwijziging aanvragen"
 }

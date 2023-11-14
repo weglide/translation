@@ -1036,5 +1036,11 @@
   "groupName": "Nome do grupo",
   "competitionGroups": "Grupos de competição",
   "confirmCompetitionTaskDeletion": "Você está prestes a excluir a competição local, incluindo a classificação. \nTem certeza?",
-  "watchLive": "Assista ao vivo"
+  "watchLive": "Assista ao vivo",
+  "emailChangeComplete": "Alteração de e-mail concluída.",
+  "enlargeMap": "Ampliar mapa",
+  "enlargeStory": "Ampliar história",
+  "newEmail": "Novo Email",
+  "pleaseLogInWithOldEmail": "Faça login com seu e-mail antigo.",
+  "requestEmailChange": "Solicitar alteração de e-mail"
 }

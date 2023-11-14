@@ -1035,5 +1035,11 @@
   "groupName": "Ryhmän nimi",
   "competitionGroups": "Kilpailuryhmät",
   "confirmCompetitionTaskDeletion": "Olet poistamassa paikallista kilpailua, mukaan lukien sijoitusta. \nOletko varma?",
-  "watchLive": "Katso suorana"
+  "watchLive": "Katso suorana",
+  "emailChangeComplete": "Sähköpostin muutos valmis.",
+  "enlargeMap": "Suurenna kartta",
+  "enlargeStory": "Suurenna tarina",
+  "newEmail": "Uusi sähköposti",
+  "pleaseLogInWithOldEmail": "Kirjaudu sisään vanhalla sähköpostiosoitteellasi.",
+  "requestEmailChange": "Pyydä sähköpostin muutosta"
 }

@@ -1176,5 +1176,11 @@
   "sink": "Couler",
   "segmentPersonalThird": "{name} a obtenu son 3e record personnel sur {segment}",
   "segmentPersonalSecond": "{name} a obtenu son 2e record personnel sur {segment}",
-  "coloredTrack": "Trace colorée"
+  "coloredTrack": "Trace colorée",
+  "emailChangeComplete": "Changement d'e-mail terminé.",
+  "enlargeMap": "Agrandir la carte",
+  "enlargeStory": "Agrandir l'histoire",
+  "newEmail": "Nouveau courriel",
+  "pleaseLogInWithOldEmail": "Veuillez vous connecter avec votre ancien email.",
+  "requestEmailChange": "Demander un changement d'e-mail"
 }

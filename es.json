@@ -1026,5 +1026,11 @@
   "filter": "Filtrar",
   "competitionGroups": "Grupos de competición",
   "confirmCompetitionTaskDeletion": "Estás a punto de eliminar la competición local, incluido el ranking. \n¿Está seguro?",
-  "watchLive": "Ver en directo"
+  "watchLive": "Ver en directo",
+  "emailChangeComplete": "Cambio de correo electrónico completo.",
+  "enlargeMap": "Ampliar mapa",
+  "enlargeStory": "Ampliar historia",
+  "newEmail": "Nuevo Email",
+  "pleaseLogInWithOldEmail": "Por favor inicia sesión con tu antiguo correo electrónico.",
+  "requestEmailChange": "Solicitar cambio de correo electrónico"
 }

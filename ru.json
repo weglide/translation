@@ -1035,5 +1035,11 @@
   "groupName": "Имя группы",
   "competitionGroups": "Группы соревнований",
   "confirmCompetitionTaskDeletion": "Вы собираетесь удалить местное соревнование, включая рейтинг. \nВы уверены?",
-  "watchLive": "Смотреть вживую"
+  "watchLive": "Смотреть вживую",
+  "emailChangeComplete": "Изменение электронной почты завершено.",
+  "enlargeMap": "Увеличить карту",
+  "enlargeStory": "Увеличить историю",
+  "newEmail": "Новый E-mail",
+  "pleaseLogInWithOldEmail": "Пожалуйста, войдите со своим старым адресом электронной почты.",
+  "requestEmailChange": "Запросить изменение адреса электронной почты"
 }

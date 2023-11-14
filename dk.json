@@ -1106,5 +1106,11 @@
   "new": "new",
   "risk": "",
   "confirmCompetitionTaskDeletion": "",
-  "watchLive": "Watch live"
+  "watchLive": "Watch live",
+  "emailChangeComplete": "",
+  "enlargeMap": "Enlarge map",
+  "enlargeStory": "",
+  "newEmail": "",
+  "pleaseLogInWithOldEmail": "",
+  "requestEmailChange": ""
 }
