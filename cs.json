@@ -819,7 +819,8 @@
     "thermalGain": "Zisk/ztráta nadmořské výšky při stoupání",
     "thermalSpeed": "Průměrná rychlost tepelné plavby",
     "thermalTime": "Čas strávený termálem",
-    "vario": "Vyhlazená rychlost stoupání variometru"
+    "vario": "Vyhlazená rychlost stoupání variometru",
+    "glideNet": "Čistý pohyb vzduchové hmoty"
   },
   "startsOn": "Začíná",
   "dayReplay": "Denní přehrávání",

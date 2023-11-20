@@ -821,7 +821,8 @@
     "thermalGain": "Höjdvinst/-förlust under termikflygning",
     "thermalSpeed": "Genomsnittlig hastighet vid termikflygning",
     "thermalTime": "Tid spenderad till termikkurvning",
-    "vario": "Variometer stighastighet"
+    "vario": "Variometer stighastighet",
+    "glideNet": "Netto luftmassarörelse"
   },
   "startsOn": "Börjar på",
   "send": "Skicka",

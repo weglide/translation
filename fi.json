@@ -821,7 +821,8 @@
     "thermalGain": "Korkeuden nousu/häviö lämpökäsittelyn aikana",
     "thermalSpeed": "Keskimääräinen lämpöristeilynopeus",
     "thermalTime": "Lämmitykseen käytetty aika",
-    "vario": "Tasoitettu variometrin nousunopeus"
+    "vario": "Tasoitettu variometrin nousunopeus",
+    "glideNet": "Ilmamassan nettoliike"
   },
   "startsOn": "Alkaa",
   "send": "Lähettää",

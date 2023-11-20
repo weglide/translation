@@ -822,6 +822,7 @@
     "thermalBank": "Average glider bank and circling direction",
     "glideDistance": "Distance covered between thermals",
     "glideGain": "Altitude gain/loss while gliding",
+    "glideNet": "Net air mass movement",
     "glideRatio": "Average glide ratio",
     "glideSpeed": "Average glide cruise speed",
     "glideDetour": "Gliding detour along the scoring route",

@@ -821,7 +821,8 @@
     "thermalGain": "Aukščio padidėjimas / sumažėjimas kaitinant",
     "thermalSpeed": "Vidutinis terminis kruizinis greitis",
     "thermalTime": "Šildymo laikas",
-    "vario": "Išlygintas variometro kilimo greitis"
+    "vario": "Išlygintas variometro kilimo greitis",
+    "glideNet": "Grynasis oro masės judėjimas"
   },
   "startsOn": "Prasideda",
   "send": "Siųsti",

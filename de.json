@@ -819,7 +819,8 @@
     "thermalGain": "Aufwind Höhengewinn - und Verlust",
     "thermalSpeed": "Durchschnittliche Geschwindigkeit im Aufwind",
     "thermalTime": "Zeit im Aufwind",
-    "vario": "Vario"
+    "vario": "Vario",
+    "glideNet": "Netto-Luftmassenbewegung"
   },
   "startsOn": "Startet am",
   "dayReplay": "Tages Rückschau",

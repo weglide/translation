@@ -821,7 +821,8 @@
     "thermalGain": "Guadagno/perdita di altitudine durante la termica",
     "thermalSpeed": "Velocità di crociera termica media",
     "thermalTime": "Tempo trascorso in termica",
-    "vario": "Velocità di salita del variometro attenuata"
+    "vario": "Velocità di salita del variometro attenuata",
+    "glideNet": "Movimento netto della massa d'aria"
   },
   "startsOn": "Inizia il",
   "send": "Spedire",

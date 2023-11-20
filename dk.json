@@ -832,7 +832,8 @@
     "agl": "Højde over jordoverflade",
     "vario": "Variometer stigeværdig",
     "speed": "Glidehastighed",
-    "speed1h": "Gennemsnitlig 1-times hastighed på opgave"
+    "speed1h": "Gennemsnitlig 1-times hastighed på opgave",
+    "glideNet": ""
   },
   "startsOn": "Starter på",
   "subscription": {

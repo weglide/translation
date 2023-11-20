@@ -821,7 +821,8 @@
     "thermalGain": "Hoogtewinst/verlies tijdens thermiek",
     "thermalSpeed": "Gemiddelde thermische kruissnelheid",
     "thermalTime": "Tijd besteed aan thermieken",
-    "vario": "Afgevlakte variometer klimsnelheid"
+    "vario": "Afgevlakte variometer klimsnelheid",
+    "glideNet": "Netto luchtmassabeweging"
   },
   "startsOn": "begint op",
   "send": "Versturen",

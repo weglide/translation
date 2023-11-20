@@ -821,7 +821,8 @@
     "thermalGain": "Przyrost/utrata wysokości podczas ogrzewania",
     "thermalSpeed": "Średnia prędkość rejsu termicznego",
     "thermalTime": "Czas spędzony na ogrzewaniu",
-    "vario": "Wygładzona prędkość wznoszenia wariometru"
+    "vario": "Wygładzona prędkość wznoszenia wariometru",
+    "glideNet": "Ruch mas powietrza netto"
   },
   "startsOn": "Rozpoczyna się",
   "send": "Wysłać",

@@ -820,7 +820,8 @@
     "thermalGain": "Ganancia/pérdida de altitud durante la térmica",
     "thermalSpeed": "Velocidad media de crucero térmico",
     "thermalTime": "Tiempo dedicado a la termal",
-    "vario": "Tasa de ascenso suavizada del variómetro"
+    "vario": "Tasa de ascenso suavizada del variómetro",
+    "glideNet": "Movimiento neto de masas de aire"
   },
   "startsOn": "Comienza el",
   "send": "Enviar",

@@ -822,7 +822,8 @@
     "thermalGain": "Gain/perte d'altitude en spirale",
     "thermalSpeed": "Vitesse moyenne en spirale",
     "thermalTime": "Temps passé en spirale",
-    "vario": "Variomètre intégré"
+    "vario": "Variomètre intégré",
+    "glideNet": "Mouvement net de la masse d'air"
   },
   "startsOn": "Commence le",
   "subscription": {

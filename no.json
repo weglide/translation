@@ -821,7 +821,8 @@
     "thermalGain": "Høydeøkning/tap under termisk bruk",
     "thermalSpeed": "Gjennomsnittlig termisk cruisehastighet",
     "thermalTime": "Tid brukt på termisk",
-    "vario": "Glattet variometer stigningshastighet"
+    "vario": "Glattet variometer stigningshastighet",
+    "glideNet": "Netto luftmassebevegelse"
   },
   "startsOn": "Starter på",
   "send": "Sende",

@@ -821,7 +821,8 @@
     "agl": "対地高度",
     "vario": "上昇率",
     "speed": "クルーズ速度",
-    "speed1h": "Average one hour competition speed"
+    "speed1h": "Average one hour competition speed",
+    "glideNet": "正味の気団の動き"
   },
   "startsOn": "で始まります",
   "send": "送信",
