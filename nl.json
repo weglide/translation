@@ -1043,5 +1043,6 @@
   "enlargeStory": "Vergroot verhaal",
   "newEmail": "Nieuwe e-mail",
   "pleaseLogInWithOldEmail": "Log in met uw oude e-mailadres.",
-  "requestEmailChange": "E-mailwijziging aanvragen"
+  "requestEmailChange": "E-mailwijziging aanvragen",
+  "taskAnalysisMissedEnd": "Taak niet voltooid"
 }

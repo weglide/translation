@@ -1175,6 +1175,7 @@
   "taskAnalysisNotEnoughAltitude": "Altitude difference too large when closing the task",
   "taskAnalysisNotStarted": "Task not started",
   "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}",
+  "taskAnalysisMissedEnd": "Task not Finished",
   "segmentPersonalFirst": "{name} set a new personal record on {segment}",
   "segmentPersonalSecond": "{name} scored personal 2nd best on {segment}",
   "segmentPersonalThird": "{name} scored personal 3rd best on {segment}",

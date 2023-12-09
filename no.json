@@ -1042,5 +1042,6 @@
   "enlargeStory": "Forstørre historien",
   "newEmail": "Ny epost",
   "pleaseLogInWithOldEmail": "Logg inn med din gamle e-post.",
-  "requestEmailChange": "Be om endring av e-post"
+  "requestEmailChange": "Be om endring av e-post",
+  "taskAnalysisMissedEnd": "Oppgave ikke fullført"
 }

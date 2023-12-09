@@ -1043,5 +1043,6 @@
   "enlargeStory": "Zvětšit příběh",
   "newEmail": "Nový Email",
   "pleaseLogInWithOldEmail": "Přihlaste se prosím svým starým emailem.",
-  "requestEmailChange": "Požádat o změnu emailu"
+  "requestEmailChange": "Požádat o změnu emailu",
+  "taskAnalysisMissedEnd": "Úkol není dokončen"
 }

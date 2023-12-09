@@ -1042,5 +1042,6 @@
   "enlargeStory": "ストーリーを拡大する",
   "newEmail": "新しいメール",
   "pleaseLogInWithOldEmail": "古いメールアドレスでログインしてください。",
-  "requestEmailChange": "メールアドレス変更リクエスト"
+  "requestEmailChange": "メールアドレス変更リクエスト",
+  "taskAnalysisMissedEnd": "タスクは完了していません"
 }

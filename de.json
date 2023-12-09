@@ -1183,5 +1183,6 @@
   "enlargeStory": "Geschichte vergrößern",
   "newEmail": "Neue E-mail",
   "pleaseLogInWithOldEmail": "Bitte logge dich mit der alten E-Mail-Adresse ein.",
-  "requestEmailChange": "E-Mail-Änderung anfordern"
+  "requestEmailChange": "E-Mail-Änderung anfordern",
+  "taskAnalysisMissedEnd": "Aufgabe nicht abgeschlossen"
 }

@@ -1042,5 +1042,6 @@
   "enlargeStory": "Padidinti istoriją",
   "newEmail": "Naujas elektroninis paštas",
   "pleaseLogInWithOldEmail": "Prisijunkite naudodami seną el.",
-  "requestEmailChange": "Prašyti pakeisti el. pašto adresą"
+  "requestEmailChange": "Prašyti pakeisti el. pašto adresą",
+  "taskAnalysisMissedEnd": "Užduotis nebaigta"
 }

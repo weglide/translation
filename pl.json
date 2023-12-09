@@ -1042,5 +1042,6 @@
   "enlargeStory": "Powiększ historię",
   "newEmail": "Nowy e-mail",
   "pleaseLogInWithOldEmail": "Proszę zalogować się przy użyciu swojego starego adresu e-mail.",
-  "requestEmailChange": "Poproś o zmianę adresu e-mail"
+  "requestEmailChange": "Poproś o zmianę adresu e-mail",
+  "taskAnalysisMissedEnd": "Zadanie nie zostało ukończone"
 }

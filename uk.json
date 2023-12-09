@@ -1042,5 +1042,6 @@
   "enlargeStory": "Збільшити історію",
   "newEmail": "Нова електронна пошта",
   "pleaseLogInWithOldEmail": "Будь ласка, увійдіть за допомогою старої електронної пошти.",
-  "requestEmailChange": "Запит на зміну електронної пошти"
+  "requestEmailChange": "Запит на зміну електронної пошти",
+  "taskAnalysisMissedEnd": "Завдання не виконано"
 }

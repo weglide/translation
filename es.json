@@ -1033,5 +1033,6 @@
   "enlargeStory": "Ampliar historia",
   "newEmail": "Nuevo Email",
   "pleaseLogInWithOldEmail": "Por favor inicia sesión con tu antiguo correo electrónico.",
-  "requestEmailChange": "Solicitar cambio de correo electrónico"
+  "requestEmailChange": "Solicitar cambio de correo electrónico",
+  "taskAnalysisMissedEnd": "Tarea no terminada"
 }

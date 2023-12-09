@@ -1042,5 +1042,6 @@
   "enlargeStory": "Förstora berättelsen",
   "newEmail": "Ny E-post",
   "pleaseLogInWithOldEmail": "Logga in med din gamla e-postadress.",
-  "requestEmailChange": "Begär e-poständring"
+  "requestEmailChange": "Begär e-poständring",
+  "taskAnalysisMissedEnd": "Uppgiften är inte klar"
 }

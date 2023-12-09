@@ -1042,5 +1042,6 @@
   "enlargeStory": "Suurenna tarina",
   "newEmail": "Uusi sähköposti",
   "pleaseLogInWithOldEmail": "Kirjaudu sisään vanhalla sähköpostiosoitteellasi.",
-  "requestEmailChange": "Pyydä sähköpostin muutosta"
+  "requestEmailChange": "Pyydä sähköpostin muutosta",
+  "taskAnalysisMissedEnd": "Tehtävä ei valmis"
 }
