@@ -554,7 +554,7 @@
   "navigation": "Navigation",
   "newPassword": "New password",
   "newTask": "New task",
-  "noAirspaceViolations": "No airspaces crossed.",
+  "noAirspaceViolations": "No airspaces crossed",
   "noCompetitions": "No competitions",
   "noFlightsMapYet": "No flights yet in this map section.",
   "noFlightsYet": "No flights yet.",
@@ -706,8 +706,8 @@
   "tasks": "Tasks",
   "team": "Team",
   "temperature": "Temperature",
-  "textConfirm": "I have read and agree to the following documents:",
-  "textConfirmUpload": "I confirm that my scoring windows are chosen according to the rules, each active airspace crossed was cleared by ATC and I have read and accepted the following documents:",
+  "textConfirm": "I have read and agree to the {privacy} and {agreement}",
+  "textConfirmUpload": "I confirm that my scoring windows are chosen according to the rules, each active airspace crossed was cleared by ATC and I have read and accept the {privacy} and {agreement}.",
   "thermal": "Thermal",
   "thermalHeight": "Thermal height",
   "thermaling": "Thermaling",
@@ -1052,7 +1052,7 @@
   "tomorrow": "Tomorrow",
   "week": "Week",
   "contactSomeone": "Contact {name}",
-  "userMessageDeliveryExplanation": "I understand that my email address will be shared with the recipient and I acknowledge that I have read and agree to the following documents:",
+  "userMessageDeliveryExplanation": "I acknowledge that my email address will be shared with the recipient and that I have read and agree to the {privacy} and {agreement}.",
   "messageSend": "Message send.",
   "message": "Message",
   "userMessagesAllowed": "Allow others to contact me via WeGlide",
@@ -1184,5 +1184,6 @@
   "newEmail": "New email",
   "requestEmailChange": "Request email change",
   "emailChangeComplete": "Email change complete.",
-  "pleaseLogInWithOldEmail": "Please log in with your old email."
+  "pleaseLogInWithOldEmail": "Please log in with your old email.",
+  "showPatronBadge": "Show Patron badge and circle in profile picture"
 }
