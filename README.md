@@ -57,6 +57,7 @@ Japanese:
 
 Swedish:
 * Kjell Folkesson
+* @phieri
 
 Danish:
 * Emil Dalboe
