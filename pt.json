@@ -546,7 +546,7 @@
   "navigation": "Navegação",
   "newPassword": "Nova Senha",
   "newTask": "Nova tarefa",
-  "noAirspaceViolations": "Nenhum espaço aéreo cruzado.",
+  "noAirspaceViolations": "Nenhum espaço aéreo cruzado",
   "noCompetitions": "Sem competições",
   "noFlightsMapYet": "Ainda não há voos nesta seção do mapa.",
   "noFlightsYet": "Ainda não há voos.",
@@ -698,8 +698,8 @@
   "tasks": "Tarefas",
   "team": "Equipe",
   "temperature": "Temperatura",
-  "textConfirm": "Li e concordo com os seguintes documentos:",
-  "textConfirmUpload": "Confirmo que minhas janelas de pontuação são escolhidas de acordo com as regras, cada espaço aéreo ativo cruzado foi liberado pelo ATC e li e aceito os seguintes documentos:",
+  "textConfirm": "Li e concordo com os seguintes documentos: {privacy}, {agreement}",
+  "textConfirmUpload": "Confirmo que minhas janelas de pontuação são escolhidas de acordo com as regras, cada espaço aéreo ativo cruzado foi liberado pelo ATC e li e aceito os seguintes documentos: {privacy}, {agreement}.",
   "thermal": "Térmico",
   "thermalHeight": "Altura térmica",
   "thermaling": "Térmica",
@@ -952,7 +952,7 @@
   "tomorrow": "Amanhã",
   "week": "Semana",
   "contactSomeone": "Entre em contato com {name}",
-  "userMessageDeliveryExplanation": "Entendo que meu endereço de e-mail será compartilhado com o destinatário e reconheço que li e concordo com os seguintes documentos:",
+  "userMessageDeliveryExplanation": "Entendo que meu endereço de e-mail será compartilhado com o destinatário e reconheço que li e concordo com os seguintes documentos: {privacy}, {agreement}",
   "message": "Mensagem",
   "messageSend": "Mensagem enviada.",
   "userMessagesAllowed": "Permitir que outras pessoas entrem em contato comigo via WeGlide",
@@ -1043,5 +1043,6 @@
   "enlargeStory": "Ampliar história",
   "newEmail": "Novo Email",
   "pleaseLogInWithOldEmail": "Faça login com seu e-mail antigo.",
-  "requestEmailChange": "Solicitar alteração de e-mail"
+  "requestEmailChange": "Solicitar alteração de e-mail",
+  "taskAnalysisMissedEnd": "Tarefa não concluída"
 }

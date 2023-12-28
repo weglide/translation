@@ -698,8 +698,8 @@
   "tasks": "Obiettivi",
   "team": "Team",
   "temperature": "Temperatura",
-  "textConfirm": "Ho letto e accetto i seguenti documenti:",
-  "textConfirmUpload": "Confermo che le mie finestre di punteggio sono scelte in base alle regole che ogni spazio aereo attivo attraversato è stato cancellato dall'ATC e ho letto e accettato i seguenti documenti:",
+  "textConfirm": "Ho letto e accetto i seguenti documenti: {privacy}, {agreement}",
+  "textConfirmUpload": "Confermo che le mie finestre di punteggio sono scelte in base alle regole che ogni spazio aereo attivo attraversato è stato cancellato dall'ATC e ho letto e accettato i seguenti documenti: {privacy}, {agreement}.",
   "thermal": "Termico",
   "thermalHeight": "Altezza termica",
   "thermaling": "Termico",
@@ -952,7 +952,7 @@
   "tomorrow": "Domani",
   "week": "Settimana",
   "contactSomeone": "Contatta {name}",
-  "userMessageDeliveryExplanation": "Comprendo che il mio indirizzo e-mail sarà condiviso con il destinatario e riconosco di aver letto e accettato i seguenti documenti:",
+  "userMessageDeliveryExplanation": "Comprendo che il mio indirizzo email sarà condiviso con il destinatario e riconosco di aver letto e accettato {privacy} e {agreement}.",
   "message": "Messaggio",
   "messageSend": "Invia messaggio.",
   "userMessagesAllowed": "Consenti ad altri di contattarmi tramite WeGlide",
@@ -1043,5 +1043,6 @@
   "enlargeStory": "Ingrandisci la storia",
   "newEmail": "Nuova email",
   "pleaseLogInWithOldEmail": "Effettua il login con la tua vecchia email.",
-  "requestEmailChange": "Richiedi cambio email"
+  "requestEmailChange": "Richiedi cambio email",
+  "taskAnalysisMissedEnd": "Attività non completata"
 }

@@ -546,7 +546,7 @@
   "navigation": "ナビゲーション",
   "newPassword": "新しいパスワード",
   "newTask": "新規タスク",
-  "noAirspaceViolations": "空域は交差していません。",
+  "noAirspaceViolations": "空域は交差していません",
   "noCompetitions": "大会はありません",
   "noFlightsMapYet": "このマップセクションにはまだフライトがありません。",
   "noFlightsYet": "まだフライトはありません。",
@@ -698,8 +698,8 @@
   "tasks": "タスク",
   "team": "チーム",
   "temperature": "温度",
-  "textConfirm": "私は以下の文書を読み、同意します。",
-  "textConfirmUpload": "スコアリングウィンドウがルールに従って選択されていることを確認し、交差した各アクティブな空域がATCによってクリアされ、次のドキュメントを読んで受け入れました。",
+  "textConfirm": "私は以下の文書を読み、同意します。{privacy} {agreement}",
+  "textConfirmUpload": "スコアリングウィンドウがルールに従って選択されていることを確認し、交差した各アクティブな空域がATCによってクリアされ、次のドキュメントを読んで受け入れました。{privacy} {agreement}",
   "thermal": "サーマル",
   "thermalHeight": "サーマル高さ",
   "thermaling": "サーマリング",
@@ -951,7 +951,7 @@
   "tomorrow": "明日",
   "week": "週",
   "contactSomeone": "コンタクト {name}",
-  "userMessageDeliveryExplanation": "私の電子メール アドレスが受信者と共有されることを理解し、次の文書を読んで同意したことを認めます。",
+  "userMessageDeliveryExplanation": "私の電子メール アドレスが受信者と共有されることを理解し、次の文書を読んで同意したことを認めます。{privacy} {agreement}",
   "message": "メッセージ",
   "messageSend": "メッセージを送信します。",
   "userMessagesAllowed": "他の人が WeGlide 経由で私に連絡できるようにする",
@@ -1042,5 +1042,6 @@
   "enlargeStory": "ストーリーを拡大する",
   "newEmail": "新しいメール",
   "pleaseLogInWithOldEmail": "古いメールアドレスでログインしてください。",
-  "requestEmailChange": "メールアドレス変更リクエスト"
+  "requestEmailChange": "メールアドレス変更リクエスト",
+  "taskAnalysisMissedEnd": "タスクは完了していません"
 }

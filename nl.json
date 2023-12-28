@@ -546,7 +546,7 @@
   "navigation": "Navigeren",
   "newPassword": "Nieuw wachtwoord",
   "newTask": "Nieuwe opdracht",
-  "noAirspaceViolations": "Geen gecontroleerd luchtruim gebruikt.",
+  "noAirspaceViolations": "Geen gecontroleerd luchtruim gebruikt",
   "noCompetitions": "Geen competities",
   "noFlightsMapYet": "Nog geen vluchten in dit kaartgedeelte.",
   "noFlightsYet": "Nog geen vluchten.",
@@ -698,8 +698,8 @@
   "tasks": "Opdrachten",
   "team": "Team",
   "temperature": "Temperatuur",
-  "textConfirm": "Ik heb de volgende documenten gelezen en ga akkoord:",
-  "textConfirmUpload": "Ik bevestig dat mijn scoringsgebied(en) zijn geselecteerd volgens de regels, voor elk luchtruimgebruik had ik ATC-klaring, ik heb de volgende documenten gelezen en ga akkoord:",
+  "textConfirm": "Ik heb de {privacy} en de {agreement} gelezen en ga ermee akkoord",
+  "textConfirmUpload": "Ik bevestig dat mijn scoringsgebied(en) zijn geselecteerd volgens de regels, voor elk luchtruimgebruik had ik ATC-klaring, ik heb de volgende documenten gelezen en ga akkoord: {privacy}, {agreement}.",
   "thermal": "Thermiek",
   "thermalHeight": "thermische hoogte:",
   "thermaling": "Thermiek",
@@ -952,7 +952,7 @@
   "tomorrow": "Morgen",
   "week": "Week",
   "contactSomeone": "Neem contact op met {name}",
-  "userMessageDeliveryExplanation": "Ik begrijp dat mijn e-mailadres wordt gedeeld met de ontvanger en ik erken dat ik de volgende documenten heb gelezen en hiermee akkoord ga:",
+  "userMessageDeliveryExplanation": "Ik begrijp dat mijn e-mailadres wordt gedeeld met de ontvanger en ik erken dat ik het {privacy} en de {agreement} heb gelezen en ermee akkoord ga.",
   "message": "Bericht",
   "messageSend": "Bericht verzonden.",
   "userMessagesAllowed": "Laat anderen contact met mij opnemen via WeGlide",
@@ -1043,5 +1043,6 @@
   "enlargeStory": "Vergroot verhaal",
   "newEmail": "Nieuwe e-mail",
   "pleaseLogInWithOldEmail": "Log in met uw oude e-mailadres.",
-  "requestEmailChange": "E-mailwijziging aanvragen"
+  "requestEmailChange": "E-mailwijziging aanvragen",
+  "taskAnalysisMissedEnd": "Taak niet voltooid"
 }

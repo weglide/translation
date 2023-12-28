@@ -546,7 +546,7 @@
   "navigation": "Navigasjon",
   "newPassword": "Nytt passord",
   "newTask": "Ny oppgave",
-  "noAirspaceViolations": "Ingen luftrom krysset.",
+  "noAirspaceViolations": "Ingen luftrom krysset",
   "noCompetitions": "Ingen konkurranser",
   "noFlightsMapYet": "Ingen flyreiser ennå i denne kartdelen.",
   "noFlightsYet": "Ingen flyreiser ennå.",
@@ -698,8 +698,8 @@
   "tasks": "Oppgaver",
   "team": "Team",
   "temperature": "Temperatur",
-  "textConfirm": "Jeg har lest og godtar følgende dokumenter:",
-  "textConfirmUpload": "Jeg bekrefter at mine scoringsvinduer er valgt i henhold til reglene, hvert aktivt luftrom som ble krysset ble ryddet av ATC og jeg har lest og godtatt følgende dokumenter:",
+  "textConfirm": "Jeg har lest og godtar følgende dokumenter: {privacy}, {agreement}",
+  "textConfirmUpload": "Jeg bekrefter at mine scoringsvinduer er valgt i henhold til reglene, hvert aktivt luftrom som ble krysset ble ryddet av ATC og jeg har lest og godtatt følgende dokumenter: {privacy}, {agreement}.",
   "thermal": "Termisk",
   "thermalHeight": "Termisk høyde",
   "thermaling": "Termalisering",
@@ -951,7 +951,7 @@
   "tomorrow": "I morgen",
   "week": "Uke",
   "contactSomeone": "Ta kontakt med {name}",
-  "userMessageDeliveryExplanation": "Jeg forstår at e-postadressen min vil bli delt med mottakeren, og jeg erkjenner at jeg har lest og godtar følgende dokumenter:",
+  "userMessageDeliveryExplanation": "Jeg forstår at e-postadressen min vil bli delt med mottakeren, og jeg erkjenner at jeg har lest og godtar følgende dokumenter: {privacy}, {agreement}",
   "message": "Beskjed",
   "messageSend": "Send melding.",
   "userMessagesAllowed": "La andre kontakte meg via WeGlide",
@@ -1042,5 +1042,6 @@
   "enlargeStory": "Forstørre historien",
   "newEmail": "Ny epost",
   "pleaseLogInWithOldEmail": "Logg inn med din gamle e-post.",
-  "requestEmailChange": "Be om endring av e-post"
+  "requestEmailChange": "Be om endring av e-post",
+  "taskAnalysisMissedEnd": "Oppgave ikke fullført"
 }

@@ -698,8 +698,8 @@
   "tasks": "Úloha",
   "team": "Tým",
   "temperature": "Teplota",
-  "textConfirm": "Přečetl jsem si následující dokumenty a souhlasím s nimi:",
-  "textConfirmUpload": "Potvrzuji, že jsem zvolil vyhodnocení podle pravidel, průlet aktivních prostorů mi byl povolen četl jsem a akceptuji následující dokumenty:",
+  "textConfirm": "Přečetl jsem si následující dokumenty a souhlasím s nimi: {privacy}, {agreement}",
+  "textConfirmUpload": "Potvrzuji, že jsem zvolil vyhodnocení podle pravidel, průlet aktivních prostorů mi byl povolen četl jsem a akceptuji následující dokumenty: {privacy}, {agreement}.",
   "thermal": "Tepelný",
   "thermalHeight": "Tepelná výška",
   "thermaling": "Kroužení",
@@ -951,7 +951,7 @@
   "tomorrow": "Zítra",
   "week": "Týden",
   "contactSomeone": "Kontaktujte {name}",
-  "userMessageDeliveryExplanation": "Beru na vědomí, že moje e-mailová adresa bude sdílena s příjemcem a potvrzuji, že jsem si přečetl a souhlasím s následujícími dokumenty:",
+  "userMessageDeliveryExplanation": "Beru na vědomí, že moje e-mailová adresa bude sdílena s příjemcem a potvrzuji, že jsem si přečetl a souhlasím s následujícími dokumenty: {privacy}, {agreement}",
   "message": "Zpráva",
   "messageSend": "Odeslat zprávu.",
   "userMessagesAllowed": "Umožněte ostatním, aby mě kontaktovali přes WeGlide",
@@ -1043,5 +1043,6 @@
   "enlargeStory": "Zvětšit příběh",
   "newEmail": "Nový Email",
   "pleaseLogInWithOldEmail": "Přihlaste se prosím svým starým emailem.",
-  "requestEmailChange": "Požádat o změnu emailu"
+  "requestEmailChange": "Požádat o změnu emailu",
+  "taskAnalysisMissedEnd": "Úkol není dokončen"
 }
