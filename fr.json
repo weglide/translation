@@ -1081,7 +1081,7 @@
   "moreBadges": "{count} badges supplémentaires",
   "moreLocalCompetitions": "{count} compétitions locales supplémentaires",
   "moreSegments": "{count} segments supplémentaires",
-  "more": "{count} coéquipiers supplémentaires",
+  "moreWingmen": "{count} coéquipiers supplémentaires",
   "oneMoreBadge": "Un autre insigne",
   "oneMoreLocalCompetition": "Une autre compétition locale",
   "oneMoreSegment": "Un autre segment",
@@ -1183,6 +1183,6 @@
   "enlargeStory": "Agrandir l'histoire",
   "newEmail": "Nouveau courriel",
   "pleaseLogInWithOldEmail": "Veuillez vous connecter avec votre ancien e-mail.",
-  "requestEmailChange": "Demander un changement d'e-mail"
+  "requestEmailChange": "Demander un changement d'e-mail",
   "taskAnalysisMissedEnd": "Tâche non terminée"
 }
