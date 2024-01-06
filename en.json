@@ -1185,5 +1185,7 @@
   "requestEmailChange": "Request email change",
   "emailChangeComplete": "Email change complete.",
   "pleaseLogInWithOldEmail": "Please log in with your old email.",
-  "showPatronBadge": "Show Patron badge and circle in profile picture"
+  "showPatronBadge": "Show Patron badge and circle in profile picture",
+  "genderError": "please select your gender",
+  "dateOfBirthError": "please select an earlier date of birth"
 }

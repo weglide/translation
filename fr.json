@@ -1076,7 +1076,7 @@
   "matthiasDescription": "Pilote au long cours",
   "less": "moins",
   "bonus": "Prime",
-  "count": "{count} coéquipiers",
+  "countWingmen": "{count} coéquipiers",
   "legStatistics": "",
   "moreBadges": "{count} badges supplémentaires",
   "moreLocalCompetitions": "{count} compétitions locales supplémentaires",
