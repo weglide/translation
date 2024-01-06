@@ -1043,5 +1043,6 @@
   "newEmail": "Новый E-mail",
   "pleaseLogInWithOldEmail": "Пожалуйста, войдите со своим старым адресом электронной почты.",
   "requestEmailChange": "Запросить изменение адреса электронной почты",
-  "taskAnalysisMissedEnd": "Задача не завершена"
+  "taskAnalysisMissedEnd": "Задача не завершена",
+  "notRegistered": "не зарегистрирован"
 }

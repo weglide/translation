@@ -1043,5 +1043,6 @@
   "newEmail": "Ny epost",
   "pleaseLogInWithOldEmail": "Logg inn med din gamle e-post.",
   "requestEmailChange": "Be om endring av e-post",
-  "taskAnalysisMissedEnd": "Oppgave ikke fullført"
+  "taskAnalysisMissedEnd": "Oppgave ikke fullført",
+  "notRegistered": "ikke registrert"
 }

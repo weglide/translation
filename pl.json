@@ -1043,5 +1043,6 @@
   "newEmail": "Nowy e-mail",
   "pleaseLogInWithOldEmail": "Proszę zalogować się przy użyciu swojego starego adresu e-mail.",
   "requestEmailChange": "Poproś o zmianę adresu e-mail",
-  "taskAnalysisMissedEnd": "Zadanie nie zostało ukończone"
+  "taskAnalysisMissedEnd": "Zadanie nie zostało ukończone",
+  "notRegistered": "nie zarejestrowany"
 }

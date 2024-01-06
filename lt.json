@@ -1043,5 +1043,6 @@
   "newEmail": "Naujas elektroninis paštas",
   "pleaseLogInWithOldEmail": "Prisijunkite naudodami seną el.",
   "requestEmailChange": "Prašyti pakeisti el. pašto adresą",
-  "taskAnalysisMissedEnd": "Užduotis nebaigta"
+  "taskAnalysisMissedEnd": "Užduotis nebaigta",
+  "notRegistered": "Neregistruotas"
 }

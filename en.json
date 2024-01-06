@@ -1187,5 +1187,6 @@
   "pleaseLogInWithOldEmail": "Please log in with your old email.",
   "showPatronBadge": "Show Patron badge and circle in profile picture",
   "genderError": "please select your gender",
-  "dateOfBirthError": "please select an earlier date of birth"
+  "dateOfBirthError": "please select an earlier date of birth",
+  "notRegistered": "not registered"
 }

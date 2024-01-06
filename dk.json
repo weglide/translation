@@ -1114,5 +1114,6 @@
   "newEmail": "",
   "pleaseLogInWithOldEmail": "",
   "requestEmailChange": "",
-  "taskAnalysisMissedEnd": ""
+  "taskAnalysisMissedEnd": "",
+  "notRegistered": "not registered"
 }

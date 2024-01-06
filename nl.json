@@ -1044,5 +1044,6 @@
   "newEmail": "Nieuwe e-mail",
   "pleaseLogInWithOldEmail": "Log in met uw oude e-mailadres.",
   "requestEmailChange": "E-mailwijziging aanvragen",
-  "taskAnalysisMissedEnd": "Taak niet voltooid"
+  "taskAnalysisMissedEnd": "Taak niet voltooid",
+  "notRegistered": "niet geregistreerd"
 }

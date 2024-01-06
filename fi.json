@@ -1043,5 +1043,6 @@
   "newEmail": "Uusi sähköposti",
   "pleaseLogInWithOldEmail": "Kirjaudu sisään vanhalla sähköpostiosoitteellasi.",
   "requestEmailChange": "Pyydä sähköpostin muutosta",
-  "taskAnalysisMissedEnd": "Tehtävä ei valmis"
+  "taskAnalysisMissedEnd": "Tehtävä ei valmis",
+  "notRegistered": "ei rekisteröity"
 }

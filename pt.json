@@ -1044,5 +1044,6 @@
   "newEmail": "Novo Email",
   "pleaseLogInWithOldEmail": "Faça login com seu e-mail antigo.",
   "requestEmailChange": "Solicitar alteração de e-mail",
-  "taskAnalysisMissedEnd": "Tarefa não concluída"
+  "taskAnalysisMissedEnd": "Tarefa não concluída",
+  "notRegistered": "não registrado"
 }

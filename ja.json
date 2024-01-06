@@ -1043,5 +1043,6 @@
   "newEmail": "新しいメール",
   "pleaseLogInWithOldEmail": "古いメールアドレスでログインしてください。",
   "requestEmailChange": "メールアドレス変更リクエスト",
-  "taskAnalysisMissedEnd": "タスクは完了していません"
+  "taskAnalysisMissedEnd": "タスクは完了していません",
+  "notRegistered": "未登録"
 }

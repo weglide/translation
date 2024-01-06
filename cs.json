@@ -1044,5 +1044,6 @@
   "newEmail": "Nový Email",
   "pleaseLogInWithOldEmail": "Přihlaste se prosím svým starým emailem.",
   "requestEmailChange": "Požádat o změnu emailu",
-  "taskAnalysisMissedEnd": "Úkol není dokončen"
+  "taskAnalysisMissedEnd": "Úkol není dokončen",
+  "notRegistered": "neregistrovaný"
 }

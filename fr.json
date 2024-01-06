@@ -1184,5 +1184,6 @@
   "newEmail": "Nouveau courriel",
   "pleaseLogInWithOldEmail": "Veuillez vous connecter avec votre ancien e-mail.",
   "requestEmailChange": "Demander un changement d'e-mail",
-  "taskAnalysisMissedEnd": "Tâche non terminée"
+  "taskAnalysisMissedEnd": "Tâche non terminée",
+  "notRegistered": "non enregistré"
 }
