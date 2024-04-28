@@ -832,8 +832,7 @@
     "agl": "Højde over jordoverflade",
     "vario": "Variometer stigeværdig",
     "speed": "Glidehastighed",
-    "speed1h": "Gennemsnitlig 1-times hastighed på opgave",
-    "glideNet": ""
+    "speed1h": "Gennemsnitlig 1-times hastighed på opgave"
   },
   "startsOn": "Starter på",
   "subscription": {
@@ -906,8 +905,7 @@
     "thermalReplayAnimated": "Op til tusinder af forskellige bobler for hvert minut af flyvningen",
     "thermalReplayClickable": "Klikker du på boblerne, fører det til den tilsvarende flyvning",
     "becomePatron": "Bliv supporter",
-    "requestSponsorMaterial": "anmod om sponsormateriale",
-    "administration": ""
+    "requestSponsorMaterial": "anmod om sponsormateriale"
   },
   "send": "Send",
   "testNewFeatures": "Prøv nye funktioner",
@@ -1074,46 +1072,5 @@
   "arrivalAltitude": "Ankomsthøjde",
   "lastSignal": "Sidste signal",
   "myPosition": "Min position",
-  "flightClaimedTooLate": "Flyvningen er anmeldt for sent til konkurrencerne",
-  "coach": {
-    "analysisNotPossible": "",
-    "fast": "",
-    "flown": "",
-    "glides": "",
-    "gross": "",
-    "net": "",
-    "optimal": "",
-    "optimalWeight": "",
-    "personalizedTips": "",
-    "readingExample": "",
-    "slow": "",
-    "tooFast": "Too Fast",
-    "tooHeavy": "",
-    "tooLight": "Try to take more water ballast with you.",
-    "tooSlow": "",
-    "tooWide": "",
-    "weightAnalysis": "",
-    "weightSaved": "",
-    "wide": ""
-  },
-  "filter": "",
-  "glideRatio": "",
-  "gliders": "",
-  "high": "",
-  "label": "",
-  "loaded": "Loaded",
-  "low": "",
-  "moderate": "Moderate",
-  "new": "new",
-  "risk": "",
-  "confirmCompetitionTaskDeletion": "",
-  "watchLive": "Watch live",
-  "emailChangeComplete": "",
-  "enlargeMap": "Enlarge map",
-  "enlargeStory": "",
-  "newEmail": "",
-  "pleaseLogInWithOldEmail": "",
-  "requestEmailChange": "",
-  "taskAnalysisMissedEnd": "",
-  "notRegistered": "not registered"
+  "flightClaimedTooLate": "Flyvningen er anmeldt for sent til konkurrencerne"
 }
