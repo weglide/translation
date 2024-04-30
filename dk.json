@@ -13,7 +13,7 @@
   "airport": "Flyveplads",
   "airports": "Flyvepladser",
   "airspaces": "Luftrum",
-  "airtime": "Samlet flyvetid",
+  "airtime": "Flyvetid",
   "all": "Alle",
   "altitude": "Højde",
   "attempts": "Forsøg",
@@ -232,7 +232,7 @@
   "johannesDescription": "Konkurrencepilot",
   "joinCommunity": "Bliv en del af fællesskabet!",
   "joinThanks": "Tak for at være en del af WeGlide!",
-  "joined": "Tilsluttede sig WeGlide",
+  "joined": "involveret siden",
   "junior": "Junior",
   "juniorFemale": "Junior",
   "juniorMale": "Junior",
@@ -1076,5 +1076,6 @@
   "coach": {
     "tooHeavy": "Tag mindre vandballast med dig. Hvis dette ikke er muligt, var du på den optimale vægt.",
     "tooLight": "Tag mere vandballast med dig."
-  }
+  },
+  "cumulativeStatistics": "Cumulative statistics"
 }

@@ -13,7 +13,7 @@
   "airport": "flyplassen",
   "airports": "Flyplasser",
   "airspaces": "Luftrom",
-  "airtime": "Akkumulert sendetid",
+  "airtime": "Flytid",
   "all": "Alle",
   "altitude": "Høyde",
   "attempts": "Forsøk",
@@ -224,7 +224,7 @@
   "johannesDescription": "Konkurransepilot",
   "joinCommunity": "Bli med i fellesskapet!",
   "joinThanks": "Takk for at du ble med i WeGlide!",
-  "joined": "Ble med i WeGlide",
+  "joined": "Ble med",
   "junior": "Junior",
   "juniorFemale": "Junior",
   "juniorMale": "Junior",
@@ -1032,5 +1032,6 @@
   "pleaseLogInWithOldEmail": "Logg inn med din gamle e-post.",
   "requestEmailChange": "Be om endring av e-post",
   "taskAnalysisMissedEnd": "Oppgave ikke fullført",
-  "notRegistered": "ikke registrert"
+  "notRegistered": "ikke registrert",
+  "cumulativeStatistics": "Kumulativ statistikk"
 }

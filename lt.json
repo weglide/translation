@@ -13,7 +13,7 @@
   "airport": "Oro uostas",
   "airports": "Oro uostai",
   "airspaces": "Oro erdvės",
-  "airtime": "Bendras eterio laikas",
+  "airtime": "Skrydžio laikas",
   "all": "Visi",
   "altitude": "Aukštis",
   "attempts": "Bandymai",
@@ -224,7 +224,7 @@
   "johannesDescription": "Varžybų pilotas",
   "joinCommunity": "Prisijunk prie bendruomenės!",
   "joinThanks": "Dėkojame, kad prisijungėte prie WeGlide!",
-  "joined": "Prisijungė prie WeGlide",
+  "joined": "Prisijungė",
   "junior": "Jaunesnysis",
   "juniorFemale": "Jaunesnysis",
   "juniorMale": "Jaunesnysis",
@@ -1032,5 +1032,6 @@
   "pleaseLogInWithOldEmail": "Prisijunkite naudodami seną el.",
   "requestEmailChange": "Prašyti pakeisti el. pašto adresą",
   "taskAnalysisMissedEnd": "Užduotis nebaigta",
-  "notRegistered": "Neregistruotas"
+  "notRegistered": "Neregistruotas",
+  "cumulativeStatistics": "Kaupiamoji statistika"
 }

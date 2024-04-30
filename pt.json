@@ -13,7 +13,7 @@
   "airport": "Aeroporto",
   "airports": "Aeroportos",
   "airspaces": "Espaços aéreos",
-  "airtime": "Tempo de antena cumulativo",
+  "airtime": "Hora do voo",
   "all": "Tudo",
   "altitude": "Altitude",
   "attempts": "Tentativas",
@@ -224,7 +224,7 @@
   "johannesDescription": "Piloto de competição",
   "joinCommunity": "Junte-se à comunidade!",
   "joinThanks": "Obrigado por se juntar ao WeGlide!",
-  "joined": "Ingressou no WeGlide",
+  "joined": "Ingressou",
   "junior": "Júnior",
   "juniorFemale": "Júnior",
   "juniorMale": "Júnior",
@@ -1034,5 +1034,6 @@
   "pleaseLogInWithOldEmail": "Faça login com seu e-mail antigo.",
   "requestEmailChange": "Solicitar alteração de e-mail",
   "taskAnalysisMissedEnd": "Tarefa não concluída",
-  "notRegistered": "não registrado"
+  "notRegistered": "não registrado",
+  "cumulativeStatistics": "Estatísticas cumulativas"
 }

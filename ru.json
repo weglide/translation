@@ -13,7 +13,7 @@
   "airport": "аэропорт",
   "airports": "аэропорты",
   "airspaces": "Воздушное пространство",
-  "airtime": "Суммарное эфирное время",
+  "airtime": "Время полета",
   "all": "Все",
   "altitude": "Высота",
   "attempts": "Попытки",
@@ -224,7 +224,7 @@
   "johannesDescription": "Пилот соревнований",
   "joinCommunity": "Присоединяйтесь к сообществу!",
   "joinThanks": "Спасибо, что присоединились к WeGlide!",
-  "joined": "Присоединился к WeGlide",
+  "joined": "Присоединился",
   "junior": "Джуниор",
   "juniorFemale": "Джуниор",
   "juniorMale": "Джуниор",
@@ -1032,5 +1032,6 @@
   "pleaseLogInWithOldEmail": "Пожалуйста, войдите со своим старым адресом электронной почты.",
   "requestEmailChange": "Запросить изменение адреса электронной почты",
   "taskAnalysisMissedEnd": "Задача не завершена",
-  "notRegistered": "не зарегистрирован"
+  "notRegistered": "не зарегистрирован",
+  "cumulativeStatistics": "Совокупная статистика"
 }

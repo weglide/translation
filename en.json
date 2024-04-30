@@ -13,7 +13,7 @@
   "airport": "Airport",
   "airports": "Airports",
   "airspaces": "Airspaces",
-  "airtime": "Cumulative airtime",
+  "airtime": "Airtime",
   "all": "All",
   "altitude": "Altitude",
   "attempts": "Attempts",
@@ -232,7 +232,7 @@
   "johannesDescription": "Competition Pilot",
   "joinCommunity": "Join the community!",
   "joinThanks": "Thank you for joining WeGlide!",
-  "joined": "Joined WeGlide",
+  "joined": "Joined",
   "junior": "Junior",
   "juniorFemale": "Junior",
   "juniorMale": "Junior",
@@ -1199,5 +1199,6 @@
   "showPatronBadge": "Show Patron badge and circle in profile picture",
   "genderError": "please select your gender",
   "dateOfBirthError": "please select an earlier date of birth",
-  "notRegistered": "not registered"
+  "notRegistered": "not registered",
+  "cumulativeStatistics": "Cumulative statistics"
 }

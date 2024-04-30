@@ -13,7 +13,7 @@
   "airport": "滑空場",
   "airports": "滑空場",
   "airspaces": "空域",
-  "airtime": "累積飛行時間",
+  "airtime": "飛行時間",
   "all": "全て",
   "altitude": "高度",
   "attempts": "フライト数",
@@ -224,7 +224,7 @@
   "johannesDescription": "Competition Pilot",
   "joinCommunity": "コミュニティに参加しましょう！",
   "joinThanks": "WeGlideにご参加いただきありがとうございます。",
-  "joined": "WeGlideに参加",
+  "joined": "参加しました",
   "junior": "ジュニア",
   "juniorFemale": "ジュニア",
   "juniorMale": "ジュニア",
@@ -1033,5 +1033,6 @@
   "pleaseLogInWithOldEmail": "古いメールアドレスでログインしてください。",
   "requestEmailChange": "メールアドレス変更リクエスト",
   "taskAnalysisMissedEnd": "タスクは完了していません",
-  "notRegistered": "未登録"
+  "notRegistered": "未登録",
+  "cumulativeStatistics": "累積統計"
 }

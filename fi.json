@@ -13,7 +13,7 @@
   "airport": "Lentokenttä",
   "airports": "Lentokentät",
   "airspaces": "Ilmatilat",
-  "airtime": "Kumulatiivinen lähetysaika",
+  "airtime": "Lentoaika",
   "all": "Kaikki",
   "altitude": "Korkeus",
   "attempts": "Yritykset",
@@ -224,7 +224,7 @@
   "johannesDescription": "Kilpailupilotti",
   "joinCommunity": "Liity yhteisöön!",
   "joinThanks": "Kiitos liittymisestäsi WeGlideen!",
-  "joined": "Liittyi WeGlideen",
+  "joined": "Liittyi",
   "junior": "Juniori",
   "juniorFemale": "Juniori",
   "juniorMale": "Juniori",
@@ -1033,5 +1033,6 @@
   "pleaseLogInWithOldEmail": "Kirjaudu sisään vanhalla sähköpostiosoitteellasi.",
   "requestEmailChange": "Pyydä sähköpostin muutosta",
   "taskAnalysisMissedEnd": "Tehtävä ei valmis",
-  "notRegistered": "ei rekisteröity"
+  "notRegistered": "ei rekisteröity",
+  "cumulativeStatistics": "Kumulatiivinen tilasto"
 }

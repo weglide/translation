@@ -13,7 +13,7 @@
   "airport": "Vliegveld",
   "airports": "Vliegvelden",
   "airspaces": "Luchtruim",
-  "airtime": "Vliegtijd",
+  "airtime": "Vluchttijd",
   "all": "Alle",
   "altitude": "Hoogte",
   "attempts": "Pogingen",
@@ -1036,5 +1036,6 @@
   "pleaseLogInWithOldEmail": "Log in met uw oude e-mailadres.",
   "requestEmailChange": "E-mailwijziging aanvragen",
   "taskAnalysisMissedEnd": "Taak niet voltooid",
-  "notRegistered": "niet geregistreerd"
+  "notRegistered": "niet geregistreerd",
+  "cumulativeStatistics": "Cumulatieve statistieken"
 }

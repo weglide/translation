@@ -13,7 +13,7 @@
   "airport": "Letiště",
   "airports": "Letiště",
   "airspaces": "Vzdušné prostory",
-  "airtime": "Celková doba letu",
+  "airtime": "Doba letu",
   "all": "Vše",
   "altitude": "Výšina",
   "attempts": "Pokusy",
@@ -224,7 +224,7 @@
   "johannesDescription": "Soutěžní pilot",
   "joinCommunity": "Připojuji se ke komunitě!",
   "joinThanks": "Těší nás, že tě můžeme přivítat v naší komunitě!",
-  "joined": "Připoj se k WeGlide",
+  "joined": "Připojeno",
   "junior": "Junior",
   "juniorFemale": "Junior",
   "juniorMale": "Junior",
@@ -1032,5 +1032,6 @@
   "pleaseLogInWithOldEmail": "Přihlaste se prosím svým starým emailem.",
   "requestEmailChange": "Požádat o změnu emailu",
   "taskAnalysisMissedEnd": "Úkol není dokončen",
-  "notRegistered": "neregistrovaný"
+  "notRegistered": "neregistrovaný",
+  "cumulativeStatistics": "Kumulativní statistiky"
 }
