@@ -1038,5 +1038,10 @@
   "requestEmailChange": "Begär e-poständring",
   "taskAnalysisMissedEnd": "Uppgiften är inte klar",
   "notRegistered": "inte registrerad",
-  "cumulativeStatistics": "Kumulativ statistik"
+  "cumulativeStatistics": "Kumulativ statistik",
+  "moreCompetitions": "{count} tävlingar till",
+  "oneMoreCompetition": "Ännu en tävling",
+  "showPatronBadge": "Visa Patron-märket och ring in i profilbilden",
+  "genderError": "vänligen välj ditt kön",
+  "dateOfBirthError": "vänligen välj ett tidigare födelsedatum"
 }

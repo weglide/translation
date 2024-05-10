@@ -1036,5 +1036,10 @@
   "requestEmailChange": "Solicitar cambio de correo electrónico",
   "taskAnalysisMissedEnd": "Tarea no terminada",
   "notRegistered": "no registrado",
-  "cumulativeStatistics": "Estadísticas acumuladas"
+  "cumulativeStatistics": "Estadísticas acumuladas",
+  "moreCompetitions": "{count} competiciones más",
+  "oneMoreCompetition": "Una competencia más",
+  "showPatronBadge": "Mostrar insignia de usuario y círculo en la imagen de perfil",
+  "genderError": "por favor seleccione su género",
+  "dateOfBirthError": "por favor seleccione una fecha de nacimiento anterior"
 }

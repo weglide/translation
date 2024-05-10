@@ -1034,5 +1034,10 @@
   "requestEmailChange": "Pyydä sähköpostin muutosta",
   "taskAnalysisMissedEnd": "Tehtävä ei valmis",
   "notRegistered": "ei rekisteröity",
-  "cumulativeStatistics": "Kumulatiivinen tilasto"
+  "cumulativeStatistics": "Kumulatiivinen tilasto",
+  "moreCompetitions": "{count} kilpailua lisää",
+  "oneMoreCompetition": "Vielä yksi kilpailu",
+  "showPatronBadge": "Näytä suojelijamerkki ja ympyrä profiilikuvassa",
+  "genderError": "ole hyvä ja valitse sukupuolesi",
+  "dateOfBirthError": "valitse aikaisempi syntymäaika"
 }

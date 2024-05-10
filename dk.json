@@ -1077,5 +1077,10 @@
     "tooHeavy": "Tag mindre vandballast med dig. Hvis dette ikke er muligt, var du på den optimale vægt.",
     "tooLight": "Tag mere vandballast med dig."
   },
-  "cumulativeStatistics": "Cumulative statistics"
+  "cumulativeStatistics": "Cumulative statistics",
+  "moreCompetitions": "{count} more competitions",
+  "oneMoreCompetition": "One more competition",
+  "showPatronBadge": "Show Patron badge and circle in profile picture",
+  "genderError": "please select your gender",
+  "dateOfBirthError": "please select an earlier date of birth"
 }

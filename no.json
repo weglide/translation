@@ -1033,5 +1033,10 @@
   "requestEmailChange": "Be om endring av e-post",
   "taskAnalysisMissedEnd": "Oppgave ikke fullført",
   "notRegistered": "ikke registrert",
-  "cumulativeStatistics": "Kumulativ statistikk"
+  "cumulativeStatistics": "Kumulativ statistikk",
+  "moreCompetitions": "{count} flere konkurranser",
+  "oneMoreCompetition": "Enda en konkurranse",
+  "showPatronBadge": "Vis Patron-merket og ring inn i profilbildet",
+  "genderError": "Vennligst velg ditt kjønn",
+  "dateOfBirthError": "velg en tidligere fødselsdato"
 }

@@ -1037,5 +1037,10 @@
   "requestEmailChange": "E-mailwijziging aanvragen",
   "taskAnalysisMissedEnd": "Taak niet voltooid",
   "notRegistered": "niet geregistreerd",
-  "cumulativeStatistics": "Cumulatieve statistieken"
+  "cumulativeStatistics": "Cumulatieve statistieken",
+  "moreCompetitions": "{count} meer competities",
+  "oneMoreCompetition": "Nog een wedstrijd",
+  "showPatronBadge": "Toon Patron-badge en cirkel in profielfoto",
+  "genderError": "Selecteer alstublieft uw geslacht",
+  "dateOfBirthError": "Selecteer een eerdere geboortedatum"
 }

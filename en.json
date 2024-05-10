@@ -1098,6 +1098,8 @@
   "moreBadges": "{count} more badges",
   "oneMoreLocalCompetition": "One more local competition",
   "moreLocalCompetitions": "{count} more local competitions",
+  "oneMoreCompetition": "One more competition",
+  "moreCompetitions": "{count} more competitions",
   "less": "less",
   "legStatistics": "More statistics",
   "bonus": "Bonus",

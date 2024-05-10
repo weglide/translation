@@ -1197,5 +1197,10 @@
   "requestEmailChange": "E-Mail-Änderung anfordern",
   "taskAnalysisMissedEnd": "Aufgabe nicht abgeschlossen",
   "notRegistered": "nicht registriert",
-  "cumulativeStatistics": "Gesamtstatistiken"
+  "cumulativeStatistics": "Gesamtstatistiken",
+  "moreCompetitions": "{count} weitere Wettbewerbe",
+  "oneMoreCompetition": "Ein weiterer Wettbewerb",
+  "showPatronBadge": "Zeigen Sie das Patron-Abzeichen und den Kreis im Profilbild an",
+  "genderError": "Bitte wähle dein Geschlecht aus",
+  "dateOfBirthError": "Bitte wähle ein früheres Geburtsdatum"
 }

@@ -1036,5 +1036,10 @@
   "requestEmailChange": "Richiedi cambio email",
   "taskAnalysisMissedEnd": "Attività non completata",
   "notRegistered": "non registrato",
-  "cumulativeStatistics": "Statistiche cumulative"
+  "cumulativeStatistics": "Statistiche cumulative",
+  "moreCompetitions": "{count} altre competizioni",
+  "oneMoreCompetition": "Ancora una competizione",
+  "showPatronBadge": "Mostra il badge e il cerchio del Sostenitore nell'immagine del profilo",
+  "genderError": "Per favore seleziona il tuo genere",
+  "dateOfBirthError": "seleziona una data di nascita precedente"
 }

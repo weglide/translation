@@ -1033,5 +1033,10 @@
   "requestEmailChange": "Prašyti pakeisti el. pašto adresą",
   "taskAnalysisMissedEnd": "Užduotis nebaigta",
   "notRegistered": "Neregistruotas",
-  "cumulativeStatistics": "Kaupiamoji statistika"
+  "cumulativeStatistics": "Kaupiamoji statistika",
+  "moreCompetitions": "Dar {count} konkursai",
+  "oneMoreCompetition": "Dar vienas konkursas",
+  "showPatronBadge": "Rodyti globėjo ženklelį ir apskritimą profilio nuotraukoje",
+  "genderError": "prašome pasirinkti savo lytį",
+  "dateOfBirthError": "pasirinkite ankstesnę gimimo datą"
 }

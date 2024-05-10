@@ -1034,5 +1034,10 @@
   "requestEmailChange": "Poproś o zmianę adresu e-mail",
   "taskAnalysisMissedEnd": "Zadanie nie zostało ukończone",
   "notRegistered": "nie zarejestrowany",
-  "cumulativeStatistics": "Statystyki zbiorcze"
+  "cumulativeStatistics": "Statystyki zbiorcze",
+  "moreCompetitions": "Jeszcze {count} konkursów",
+  "oneMoreCompetition": "Jeszcze jeden konkurs",
+  "showPatronBadge": "Pokaż plakietkę Patrona i kółko na zdjęciu profilowym",
+  "genderError": "Proszę wybrać swoją płeć",
+  "dateOfBirthError": "proszę wybrać wcześniejszą datę urodzenia"
 }

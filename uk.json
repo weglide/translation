@@ -1033,5 +1033,10 @@
   "requestEmailChange": "Запит на зміну електронної пошти",
   "taskAnalysisMissedEnd": "Завдання не виконано",
   "notRegistered": "не зареєстрований",
-  "cumulativeStatistics": "Сукупна статистика"
+  "cumulativeStatistics": "Сукупна статистика",
+  "moreCompetitions": "Ще {count} конкурсів",
+  "oneMoreCompetition": "Ще один конкурс",
+  "showPatronBadge": "Показувати значок патрона та коло на зображенні профілю",
+  "genderError": "будь ласка, виберіть свою стать",
+  "dateOfBirthError": "виберіть більш ранню дату народження"
 }

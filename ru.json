@@ -1033,5 +1033,10 @@
   "requestEmailChange": "Запросить изменение адреса электронной почты",
   "taskAnalysisMissedEnd": "Задача не завершена",
   "notRegistered": "не зарегистрирован",
-  "cumulativeStatistics": "Совокупная статистика"
+  "cumulativeStatistics": "Совокупная статистика",
+  "moreCompetitions": "Еще {count} соревнований",
+  "oneMoreCompetition": "Еще один конкурс",
+  "showPatronBadge": "Показывать значок патрона и кружок на аватарке",
+  "genderError": "Пожалуйста, выберите Ваш пол",
+  "dateOfBirthError": "пожалуйста, выберите более раннюю дату рождения"
 }

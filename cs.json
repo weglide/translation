@@ -1033,5 +1033,10 @@
   "requestEmailChange": "Požádat o změnu emailu",
   "taskAnalysisMissedEnd": "Úkol není dokončen",
   "notRegistered": "neregistrovaný",
-  "cumulativeStatistics": "Kumulativní statistiky"
+  "cumulativeStatistics": "Kumulativní statistiky",
+  "moreCompetitions": "{count} dalších soutěží",
+  "oneMoreCompetition": "Ještě jedna soutěž",
+  "showPatronBadge": "Zobrazit odznak patrona a kroužek na profilovém obrázku",
+  "genderError": "vyberte prosím své pohlaví",
+  "dateOfBirthError": "vyberte prosím dřívější datum narození"
 }

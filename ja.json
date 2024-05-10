@@ -1034,5 +1034,10 @@
   "requestEmailChange": "メールアドレス変更リクエスト",
   "taskAnalysisMissedEnd": "タスクは完了していません",
   "notRegistered": "未登録",
-  "cumulativeStatistics": "累積統計"
+  "cumulativeStatistics": "累積統計",
+  "moreCompetitions": "あと {count} 個のコンテスト",
+  "oneMoreCompetition": "もう一つの競争",
+  "showPatronBadge": "プロフィール写真にパトロンバッジとサークルを表示する",
+  "genderError": "あなたの性別を選択してください",
+  "dateOfBirthError": "より早い生年月日を選択してください"
 }
