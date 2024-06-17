@@ -1202,5 +1202,7 @@
   "genderError": "please select your gender",
   "dateOfBirthError": "please select an earlier date of birth",
   "notRegistered": "not registered",
-  "cumulativeStatistics": "Cumulative statistics"
+  "cumulativeStatistics": "Cumulative statistics",
+  "startLine": "Start Line",
+  "startRing": "Start Ring"
 }

@@ -1039,5 +1039,7 @@
   "oneMoreCompetition": "Jeszcze jeden konkurs",
   "showPatronBadge": "Pokaż plakietkę Patrona i kółko na zdjęciu profilowym",
   "genderError": "Proszę wybrać swoją płeć",
-  "dateOfBirthError": "proszę wybrać wcześniejszą datę urodzenia"
+  "dateOfBirthError": "proszę wybrać wcześniejszą datę urodzenia",
+  "startLine": "Linia startowa",
+  "startRing": "Rozpocznij dzwonienie"
 }

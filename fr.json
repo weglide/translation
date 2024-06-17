@@ -1190,5 +1190,7 @@
   "oneMoreCompetition": "Encore une compétition",
   "showPatronBadge": "Afficher le badge et le cercle du contributeur sur la photo de profil",
   "genderError": "S'il vous plait selectionnez votre genre",
-  "dateOfBirthError": "veuillez sélectionner une date de naissance antérieure"
+  "dateOfBirthError": "veuillez sélectionner une date de naissance antérieure",
+  "startLine": "Ligne de départ",
+  "startRing": "Sonnerie de démarrage"
 }

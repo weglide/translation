@@ -1038,5 +1038,7 @@
   "oneMoreCompetition": "Enda en konkurranse",
   "showPatronBadge": "Vis Patron-merket og ring inn i profilbildet",
   "genderError": "Vennligst velg ditt kjønn",
-  "dateOfBirthError": "velg en tidligere fødselsdato"
+  "dateOfBirthError": "velg en tidligere fødselsdato",
+  "startLine": "Startlinje",
+  "startRing": "Start Ring"
 }

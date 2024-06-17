@@ -1039,5 +1039,7 @@
   "oneMoreCompetition": "もう一つの競争",
   "showPatronBadge": "プロフィール写真にパトロンバッジとサークルを表示する",
   "genderError": "あなたの性別を選択してください",
-  "dateOfBirthError": "より早い生年月日を選択してください"
+  "dateOfBirthError": "より早い生年月日を選択してください",
+  "startLine": "スタートライン",
+  "startRing": "スタートリング"
 }

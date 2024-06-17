@@ -1038,5 +1038,7 @@
   "oneMoreCompetition": "Ještě jedna soutěž",
   "showPatronBadge": "Zobrazit odznak patrona a kroužek na profilovém obrázku",
   "genderError": "vyberte prosím své pohlaví",
-  "dateOfBirthError": "vyberte prosím dřívější datum narození"
+  "dateOfBirthError": "vyberte prosím dřívější datum narození",
+  "startLine": "Startovní čára",
+  "startRing": "Start Ring"
 }

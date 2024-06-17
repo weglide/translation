@@ -1202,5 +1202,7 @@
   "oneMoreCompetition": "Ein weiterer Wettbewerb",
   "showPatronBadge": "Zeigen Sie das Patron-Abzeichen und den Kreis im Profilbild an",
   "genderError": "Bitte wähle dein Geschlecht aus",
-  "dateOfBirthError": "Bitte wähle ein früheres Geburtsdatum"
+  "dateOfBirthError": "Bitte wähle ein früheres Geburtsdatum",
+  "startLine": "Startlinie",
+  "startRing": "Startring"
 }

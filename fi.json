@@ -1039,5 +1039,7 @@
   "oneMoreCompetition": "Vielä yksi kilpailu",
   "showPatronBadge": "Näytä suojelijamerkki ja ympyrä profiilikuvassa",
   "genderError": "ole hyvä ja valitse sukupuolesi",
-  "dateOfBirthError": "valitse aikaisempi syntymäaika"
+  "dateOfBirthError": "valitse aikaisempi syntymäaika",
+  "startLine": "Aloituslinja",
+  "startRing": "Aloita soitto"
 }

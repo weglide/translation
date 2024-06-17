@@ -1040,5 +1040,7 @@
   "oneMoreCompetition": "Mais uma competição",
   "showPatronBadge": "Mostrar selo de patrono e círculo na foto do perfil",
   "genderError": "por favor selecione seu gênero",
-  "dateOfBirthError": "selecione uma data de nascimento anterior"
+  "dateOfBirthError": "selecione uma data de nascimento anterior",
+  "startLine": "Linha de largada",
+  "startRing": "Iniciar toque"
 }

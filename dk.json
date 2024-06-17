@@ -1082,5 +1082,7 @@
   "oneMoreCompetition": "One more competition",
   "showPatronBadge": "Show Patron badge and circle in profile picture",
   "genderError": "please select your gender",
-  "dateOfBirthError": "please select an earlier date of birth"
+  "dateOfBirthError": "please select an earlier date of birth",
+  "startLine": "Start Line",
+  "startRing": "Start Ring"
 }

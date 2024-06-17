@@ -1041,5 +1041,7 @@
   "oneMoreCompetition": "Ancora una competizione",
   "showPatronBadge": "Mostra il badge e il cerchio del Sostenitore nell'immagine del profilo",
   "genderError": "Per favore seleziona il tuo genere",
-  "dateOfBirthError": "seleziona una data di nascita precedente"
+  "dateOfBirthError": "seleziona una data di nascita precedente",
+  "startLine": "Linea di partenza",
+  "startRing": "Inizia a suonare"
 }
