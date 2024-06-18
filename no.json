@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Forutsagt flyavstand",
   "press": "trykk",
   "privacyPolicy": "Personvernerklæring",
-  "private": "Bare synlig for meg",
   "prize": "Premie",
   "processing": "Behandling",
   "profile": "Profil",
@@ -1040,5 +1039,11 @@
   "genderError": "Vennligst velg ditt kjønn",
   "dateOfBirthError": "velg en tidligere fødselsdato",
   "startLine": "Startlinje",
-  "startRing": "Start Ring"
+  "startRing": "Start Ring",
+  "addDescription": "Legg til beskrivelse",
+  "onlyVisibleForMe": "Bare synlig for meg",
+  "private": "Privat",
+  "public": "Offentlig",
+  "visibility": "Synlighet:",
+  "waypoints": "Veipunkter"
 }

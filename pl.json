@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Przewidywany dystans lotu",
   "press": "Prasowe",
   "privacyPolicy": "Polityka Prywatności",
-  "private": "Widoczne tylko dla mnie",
   "prize": "Nagroda",
   "processing": "Procesowanie",
   "profile": "Profil",
@@ -1041,5 +1040,11 @@
   "genderError": "Proszę wybrać swoją płeć",
   "dateOfBirthError": "proszę wybrać wcześniejszą datę urodzenia",
   "startLine": "Linia startowa",
-  "startRing": "Rozpocznij dzwonienie"
+  "startRing": "Rozpocznij dzwonienie",
+  "addDescription": "Dodaj opis",
+  "onlyVisibleForMe": "Widoczne tylko dla mnie",
+  "private": "Prywatny",
+  "public": "Publiczny",
+  "visibility": "Widoczność:",
+  "waypoints": "Punkty orientacyjne"
 }

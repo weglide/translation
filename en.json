@@ -592,7 +592,6 @@
   "predictedFlightDistance": "Predicted flight distance",
   "press": "Press",
   "privacyPolicy": "Privacy Policy",
-  "private": "Only visible for me",
   "prize": "Prize",
   "processing": "Processing",
   "profile": "Profile",
@@ -1204,5 +1203,11 @@
   "notRegistered": "not registered",
   "cumulativeStatistics": "Cumulative statistics",
   "startLine": "Start Line",
-  "startRing": "Start Ring"
+  "startRing": "Start Ring",
+  "addDescription": "Add description",
+  "onlyVisibleForMe": "Only visible for me",
+  "private": "Private",
+  "public": "Public",
+  "visibility": "Visibility:",
+  "waypoints": "Waypoints"
 }

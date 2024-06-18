@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Distanza di volo prevista",
   "press": "Stampa",
   "privacyPolicy": "Politica sulla Privacy",
-  "private": "Visibile solo a te",
   "prize": "Premio",
   "processing": "In elaborazione",
   "profile": "Profilo",
@@ -1043,5 +1042,11 @@
   "genderError": "Per favore seleziona il tuo genere",
   "dateOfBirthError": "seleziona una data di nascita precedente",
   "startLine": "Linea di partenza",
-  "startRing": "Inizia a suonare"
+  "startRing": "Inizia a suonare",
+  "addDescription": "Aggiungi una descrizione",
+  "onlyVisibleForMe": "Visibile solo a te",
+  "private": "Privato",
+  "public": "Pubblico",
+  "visibility": "Visibilità:",
+  "waypoints": "Waypoint"
 }

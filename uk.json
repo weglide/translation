@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Прогнозована дальність польоту",
   "press": "Преса",
   "privacyPolicy": "Політика Конфіденційності",
-  "private": "Відображається лише для мене",
   "prize": "премія",
   "processing": "Обробка",
   "profile": "Профіль",
@@ -1040,5 +1039,11 @@
   "genderError": "будь ласка, виберіть свою стать",
   "dateOfBirthError": "виберіть більш ранню дату народження",
   "startLine": "Стартова лінія",
-  "startRing": "Почати дзвінок"
+  "startRing": "Почати дзвінок",
+  "addDescription": "Додайте опис",
+  "onlyVisibleForMe": "Відображається лише для мене",
+  "private": "Приватний",
+  "public": "Громадський",
+  "visibility": "Видимість:",
+  "waypoints": "Поворотні точки"
 }

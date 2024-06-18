@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Förutspått flygdistans",
   "press": "Tryck",
   "privacyPolicy": "Integritetspolicy",
-  "private": "Syns bara för mig",
   "prize": "Pris",
   "processing": "Bearbetning",
   "profile": "Profil",
@@ -1045,5 +1044,11 @@
   "genderError": "vänligen välj ditt kön",
   "dateOfBirthError": "vänligen välj ett tidigare födelsedatum",
   "startLine": "Startlinje",
-  "startRing": "Starta Ring"
+  "startRing": "Starta Ring",
+  "addDescription": "Lägg till beskrivning",
+  "onlyVisibleForMe": "Syns bara för mig",
+  "private": "Privat",
+  "public": "offentlig",
+  "visibility": "Synlighet:",
+  "waypoints": "Waypoints"
 }

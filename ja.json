@@ -584,7 +584,6 @@
   "predictedFlightDistance": "予測飛行距離",
   "press": "プレス",
   "privacyPolicy": "プライバシーポリシー",
-  "private": "公開しない",
   "prize": "賞",
   "processing": "処理",
   "profile": "プロフィール",
@@ -1041,5 +1040,11 @@
   "genderError": "あなたの性別を選択してください",
   "dateOfBirthError": "より早い生年月日を選択してください",
   "startLine": "スタートライン",
-  "startRing": "スタートリング"
+  "startRing": "スタートリング",
+  "addDescription": "説明を追加",
+  "onlyVisibleForMe": "公開しない",
+  "private": "プライベート",
+  "public": "公共",
+  "visibility": "可視性:",
+  "waypoints": "ウェイポイント"
 }

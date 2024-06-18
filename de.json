@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Vorhergesagte Flugdistanz",
   "press": "Presse",
   "privacyPolicy": "Datenschutzerklärung",
-  "private": "Nur sichtbar für mich",
   "prize": "Preis",
   "processing": "wird verarbeitet",
   "profile": "Profil",
@@ -1204,5 +1203,11 @@
   "genderError": "Bitte wähle dein Geschlecht aus",
   "dateOfBirthError": "Bitte wähle ein früheres Geburtsdatum",
   "startLine": "Startlinie",
-  "startRing": "Startring"
+  "startRing": "Startring",
+  "addDescription": "Beschreibung hinzufügen",
+  "onlyVisibleForMe": "Nur sichtbar für mich",
+  "private": "Privat",
+  "public": "Öffentlich",
+  "visibility": "Sichtbarkeit:",
+  "waypoints": "Wendepunkte"
 }

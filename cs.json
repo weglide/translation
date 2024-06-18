@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Předpovězená délka letu",
   "press": "PR",
   "privacyPolicy": "Prohlášení o ochraně osobních údajů",
-  "private": "Viditelné jen pro mě",
   "prize": "Cena",
   "processing": "Zpracovává se",
   "profile": "Profil",
@@ -1040,5 +1039,11 @@
   "genderError": "vyberte prosím své pohlaví",
   "dateOfBirthError": "vyberte prosím dřívější datum narození",
   "startLine": "Startovní čára",
-  "startRing": "Start Ring"
+  "startRing": "Start Ring",
+  "addDescription": "Přidat popis",
+  "onlyVisibleForMe": "Viditelné jen pro mě",
+  "private": "Soukromé",
+  "public": "Veřejnost",
+  "visibility": "Viditelnost:",
+  "waypoints": "Body obratu"
 }

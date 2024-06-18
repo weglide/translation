@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Voorspelde vluchtafstand",
   "press": "Pers",
   "privacyPolicy": "Privacy Statement",
-  "private": "Privé",
   "prize": "Prijs",
   "processing": "Wordt verwerkt",
   "profile": "Profiel",
@@ -1044,5 +1043,11 @@
   "genderError": "Selecteer alstublieft uw geslacht",
   "dateOfBirthError": "Selecteer een eerdere geboortedatum",
   "startLine": "Startlijn",
-  "startRing": "Begin Ring"
+  "startRing": "Begin Ring",
+  "addDescription": "Beschrijving toevoegen",
+  "onlyVisibleForMe": "Privé",
+  "private": "Privaat",
+  "public": "Openbaar",
+  "visibility": "Zichtbaarheid:",
+  "waypoints": "Waypoints"
 }

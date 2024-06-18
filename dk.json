@@ -592,7 +592,6 @@
   "predictedFlightDistance": "Forventede flyvedistance",
   "press": "Tryk",
   "privacyPolicy": "Privatlivspolitik",
-  "private": "Kun synlig for mig",
   "prize": "Præmie",
   "processing": "Behanldes",
   "profile": "Profil",
@@ -1084,5 +1083,11 @@
   "genderError": "please select your gender",
   "dateOfBirthError": "please select an earlier date of birth",
   "startLine": "Start Line",
-  "startRing": "Start Ring"
+  "startRing": "Start Ring",
+  "addDescription": "Add description",
+  "onlyVisibleForMe": "Kun synlig for mig",
+  "private": "Private",
+  "public": "Public",
+  "visibility": "Visibility:",
+  "waypoints": "Waypoints"
 }

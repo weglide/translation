@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Прогнозируемое расстояние полета",
   "press": "Нажмите",
   "privacyPolicy": "Политика конфиденциальности",
-  "private": "Видно только мне",
   "prize": "Приз",
   "processing": "Обработка",
   "profile": "Профиль",
@@ -1040,5 +1039,11 @@
   "genderError": "Пожалуйста, выберите Ваш пол",
   "dateOfBirthError": "пожалуйста, выберите более раннюю дату рождения",
   "startLine": "Стартовая линия",
-  "startRing": "Стартовое кольцо"
+  "startRing": "Стартовое кольцо",
+  "addDescription": "Добавить описание",
+  "onlyVisibleForMe": "Видно только мне",
+  "private": "Частный",
+  "public": "Общественный",
+  "visibility": "Видимость:",
+  "waypoints": "Путевые точки"
 }

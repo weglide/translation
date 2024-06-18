@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Numatomas skrydžio nuotolis",
   "press": "Paspauskite",
   "privacyPolicy": "Privatumo politika",
-  "private": "Matoma tik man",
   "prize": "Prizas",
   "processing": "Apdorojimas",
   "profile": "Profilis",
@@ -1040,5 +1039,11 @@
   "genderError": "prašome pasirinkti savo lytį",
   "dateOfBirthError": "pasirinkite ankstesnę gimimo datą",
   "startLine": "Pradinė eilutė",
-  "startRing": "Pradėti žiedą"
+  "startRing": "Pradėti žiedą",
+  "addDescription": "Pridėti aprašymą",
+  "onlyVisibleForMe": "Matoma tik man",
+  "private": "Privatus",
+  "public": "Viešas",
+  "visibility": "Matomumas:",
+  "waypoints": "Kelio taškai"
 }

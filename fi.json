@@ -584,7 +584,6 @@
   "predictedFlightDistance": "Ennustettu lentomatka",
   "press": "Lehdistö",
   "privacyPolicy": "Tietosuojakäytäntö",
-  "private": "Näkyy vain minulle",
   "prize": "Palkinto",
   "processing": "Käsittely",
   "profile": "Profiili",
@@ -1041,5 +1040,11 @@
   "genderError": "ole hyvä ja valitse sukupuolesi",
   "dateOfBirthError": "valitse aikaisempi syntymäaika",
   "startLine": "Aloituslinja",
-  "startRing": "Aloita soitto"
+  "startRing": "Aloita soitto",
+  "addDescription": "Lisää kuvaus",
+  "onlyVisibleForMe": "Näkyy vain minulle",
+  "private": "Yksityinen",
+  "public": "Julkinen",
+  "visibility": "Näkyvyys:",
+  "waypoints": "Reittipisteet"
 }

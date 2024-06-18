@@ -584,7 +584,7 @@
   "predictedFlightDistance": "Distance potentielle de vol",
   "press": "Presse",
   "privacyPolicy": "Déclaration de confidentialité",
-  "private": "Seulement visible pour moi",
+  "private": "Privé",
   "prize": "Prix",
   "processing": "En cours de traitement",
   "profile": "Profil",
@@ -1186,11 +1186,15 @@
   "taskAnalysisMissedEnd": "Tâche non terminée",
   "notRegistered": "non enregistré",
   "cumulativeStatistics": "Statistiques cumulées",
-  "moreCompetitions": "{count} compétitions supplémentaires",
+  "moreCompetitions": "{count} compétitions supplémentaires",
   "oneMoreCompetition": "Encore une compétition",
   "showPatronBadge": "Afficher le badge et le cercle du contributeur sur la photo de profil",
   "genderError": "S'il vous plait selectionnez votre genre",
   "dateOfBirthError": "veuillez sélectionner une date de naissance antérieure",
   "startLine": "Ligne de départ",
-  "startRing": "Sonnerie de démarrage"
+  "startRing": "Sonnerie de démarrage",
+  "public": "Publique",
+  "onlyVisibleForMe": "Visible uniquement pour moi",
+  "visibility": "Visibilité:",
+  "waypoints": "Points de virage"
 }
