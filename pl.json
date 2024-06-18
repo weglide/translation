@@ -1046,5 +1046,6 @@
   "private": "Prywatny",
   "public": "Publiczny",
   "visibility": "Widoczność:",
-  "waypoints": "Punkty orientacyjne"
+  "waypoints": "Punkty orientacyjne",
+  "automaticRenewalInfo": "Więcej informacji prześlemy Ci e-mailem od naszego dostawcy płatności Paddle."
 }

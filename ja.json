@@ -1046,5 +1046,6 @@
   "private": "プライベート",
   "public": "公共",
   "visibility": "可視性:",
-  "waypoints": "ウェイポイント"
+  "waypoints": "ウェイポイント",
+  "automaticRenewalInfo": "詳細については、決済プロバイダー Paddle から電子メールで送信されます。"
 }

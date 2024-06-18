@@ -1196,5 +1196,6 @@
   "public": "Publique",
   "onlyVisibleForMe": "Visible uniquement pour moi",
   "visibility": "Visibilité:",
-  "waypoints": "Points de virage"
+  "waypoints": "Points de virage",
+  "automaticRenewalInfo": "Plus d’informations vous seront envoyées par notre fournisseur de paiement Paddle par e-mail."
 }

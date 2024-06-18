@@ -1045,5 +1045,6 @@
   "private": "Privat",
   "public": "Offentlig",
   "visibility": "Synlighet:",
-  "waypoints": "Veipunkter"
+  "waypoints": "Veipunkter",
+  "automaticRenewalInfo": "Mer informasjon vil bli sendt til deg av vår betalingsleverandør Paddle per e-post."
 }

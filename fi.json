@@ -1046,5 +1046,6 @@
   "private": "Yksityinen",
   "public": "Julkinen",
   "visibility": "Näkyvyys:",
-  "waypoints": "Reittipisteet"
+  "waypoints": "Reittipisteet",
+  "automaticRenewalInfo": "Maksupalveluntarjoajamme Paddle lähettää sinulle lisätietoja sähköpostitse."
 }

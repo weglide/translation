@@ -772,6 +772,7 @@
   "minutes": "Minuten",
   "automaticExpiration": "Dein Abonnement wurde gekündigt und läuft am {date} ab. \nDu kannst danach erneut abonnieren.",
   "automaticRenewal": "Dein Abonnement wird am {date} automatisch verlängert.",
+  "automaticRenewalInfo": "Mehr Informationen bekommst du von unserem Zahlungsdienstleister Paddle per E-Mail zugesendet.",
   "billedYearly": "jährlich abgerechnet",
   "currentPlan": "Du hast {plan} abonniert.",
   "manage": "Verwalten",

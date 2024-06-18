@@ -1045,5 +1045,6 @@
   "private": "Privatus",
   "public": "Viešas",
   "visibility": "Matomumas:",
-  "waypoints": "Kelio taškai"
+  "waypoints": "Kelio taškai",
+  "automaticRenewalInfo": "Daugiau informacijos jums atsiųs mūsų mokėjimo paslaugų teikėjas „Paddle“ el. paštu."
 }

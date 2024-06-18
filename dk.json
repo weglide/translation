@@ -1089,5 +1089,6 @@
   "private": "Private",
   "public": "Public",
   "visibility": "Visibility:",
-  "waypoints": "Waypoints"
+  "waypoints": "Waypoints",
+  "automaticRenewalInfo": "More information will be sent to you by our payment provider Paddle per email."
 }
