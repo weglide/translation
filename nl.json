@@ -1050,5 +1050,13 @@
   "public": "Openbaar",
   "visibility": "Zichtbaarheid:",
   "waypoints": "Waypoints",
-  "automaticRenewalInfo": "Meer informatie ontvangt u van onze betalingsprovider Paddle per e-mail."
+  "automaticRenewalInfo": "Meer informatie ontvangt u van onze betalingsprovider Paddle per e-mail.",
+  "support": {
+    "contestDescription": "Regels voor nationale en internationale competities",
+    "docs": "Documentatie",
+    "docsDescription": "Alle onderwerpen gesorteerd en doorzoekbaar",
+    "support": "Steun",
+    "emailDescription": "Voor zorgen, feedback en onbeantwoorde vragen",
+    "instructionDescription": "Upload uw eerste vlucht, installeer de app en word een WeGlide Expert"
+  }
 }

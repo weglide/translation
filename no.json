@@ -1046,5 +1046,13 @@
   "public": "Offentlig",
   "visibility": "Synlighet:",
   "waypoints": "Veipunkter",
-  "automaticRenewalInfo": "Mer informasjon vil bli sendt til deg av vår betalingsleverandør Paddle per e-post."
+  "automaticRenewalInfo": "Mer informasjon vil bli sendt til deg av vår betalingsleverandør Paddle per e-post.",
+  "support": {
+    "contestDescription": "Regler for nasjonale og internasjonale konkurranser",
+    "docs": "Dokumentasjon",
+    "docsDescription": "Alle emner sortert og søkbare",
+    "support": "Brukerstøtte",
+    "emailDescription": "For bekymringer, tilbakemeldinger og ubesvarte spørsmål",
+    "instructionDescription": "Last opp din første flytur, installer appen og bli en WeGlide-ekspert"
+  }
 }

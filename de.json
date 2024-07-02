@@ -1210,5 +1210,13 @@
   "private": "Privat",
   "public": "Öffentlich",
   "visibility": "Sichtbarkeit:",
-  "waypoints": "Wendepunkte"
+  "waypoints": "Wendepunkte",
+  "support": {
+    "support": "Support",
+    "contestDescription": "Regelwerke für nationale und internationale Wettbewerbe",
+    "instructionDescription": "Lade deinen ersten Flug hoch, installiere die App und werde WeGlide-Experte",
+    "docs": "Dokumentation",
+    "docsDescription": "Alle Themen, sortiert und durchsuchbar",
+    "emailDescription": "Für Anliegen, Feedback und unbeantwortete Fragen"
+  }
 }

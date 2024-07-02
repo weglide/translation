@@ -1046,5 +1046,13 @@
   "public": "Viešas",
   "visibility": "Matomumas:",
   "waypoints": "Kelio taškai",
-  "automaticRenewalInfo": "Daugiau informacijos jums atsiųs mūsų mokėjimo paslaugų teikėjas „Paddle“ el. paštu."
+  "automaticRenewalInfo": "Daugiau informacijos jums atsiųs mūsų mokėjimo paslaugų teikėjas „Paddle“ el. paštu.",
+  "support": {
+    "contestDescription": "Nacionalinių ir tarptautinių konkursų taisyklės",
+    "docs": "Dokumentacija",
+    "docsDescription": "Visos temos surūšiuotos ir ieškomos",
+    "support": "Palaikymas",
+    "emailDescription": "Dėl rūpesčių, atsiliepimų ir neatsakytų klausimų",
+    "instructionDescription": "Įkelkite savo pirmąjį skrydį, įdiekite programą ir tapkite „WeGlide“ ekspertu"
+  }
 }

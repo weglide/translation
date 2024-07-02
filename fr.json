@@ -1197,5 +1197,13 @@
   "onlyVisibleForMe": "Visible uniquement pour moi",
   "visibility": "Visibilité:",
   "waypoints": "Points de virage",
-  "automaticRenewalInfo": "Plus d’informations vous seront envoyées par notre fournisseur de paiement Paddle par e-mail."
+  "automaticRenewalInfo": "Plus d’informations vous seront envoyées par notre fournisseur de paiement Paddle par e-mail.",
+  "support": {
+    "contestDescription": "Règlements des compétitions nationales et internationales",
+    "docs": "Documentation",
+    "docsDescription": "Tous les sujets triés et consultables",
+    "support": "Soutien",
+    "emailDescription": "Pour les préoccupations, les commentaires et les questions sans réponse",
+    "instructionDescription": "Téléchargez votre premier vol, installez l'application et devenez un expert WeGlide"
+  }
 }

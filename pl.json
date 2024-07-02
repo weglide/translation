@@ -1047,5 +1047,13 @@
   "public": "Publiczny",
   "visibility": "Widoczność:",
   "waypoints": "Punkty orientacyjne",
-  "automaticRenewalInfo": "Więcej informacji prześlemy Ci e-mailem od naszego dostawcy płatności Paddle."
+  "automaticRenewalInfo": "Więcej informacji prześlemy Ci e-mailem od naszego dostawcy płatności Paddle.",
+  "support": {
+    "contestDescription": "Regulamin zawodów krajowych i międzynarodowych",
+    "docs": "Dokumentacja",
+    "docsDescription": "Wszystkie tematy posortowane i możliwe do przeszukiwania",
+    "support": "Wsparcie",
+    "emailDescription": "W przypadku wątpliwości, opinii i pytań bez odpowiedzi",
+    "instructionDescription": "Prześlij swój pierwszy lot, zainstaluj aplikację i zostań ekspertem WeGlide"
+  }
 }

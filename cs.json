@@ -1046,5 +1046,12 @@
   "public": "Veřejnost",
   "visibility": "Viditelnost:",
   "waypoints": "Body obratu",
-  "automaticRenewalInfo": "Více informací vám zašle náš poskytovatel plateb Paddle e-mailem."
+  "automaticRenewalInfo": "Více informací vám zašle náš poskytovatel plateb Paddle e-mailem.",
+  "support": {
+    "contestDescription": "Pravidla pro národní a mezinárodní soutěže",
+    "docs": "Dokumentace",
+    "docsDescription": "Všechna témata seřazená a prohledávatelná",
+    "emailDescription": "Pro obavy, zpětnou vazbu a nezodpovězené otázky",
+    "instructionDescription": "Nahrajte svůj první let, nainstalujte aplikaci a staňte se odborníkem na WeGlide"
+  }
 }

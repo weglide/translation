@@ -1210,5 +1210,13 @@
   "private": "Private",
   "public": "Public",
   "visibility": "Visibility:",
-  "waypoints": "Waypoints"
+  "waypoints": "Waypoints",
+  "support": {
+    "support": "Support",
+    "contestDescription": "Rules for national and international competitions",
+    "instructionDescription": "Upload your first flight, install the app and become a WeGlide Expert",
+    "docs": "Documentation",
+    "docsDescription": "All topics sorted and searchable",
+    "emailDescription": "For concerns, feedback, and unanswered questions"
+  }
 }

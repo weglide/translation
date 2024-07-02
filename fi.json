@@ -1047,5 +1047,13 @@
   "public": "Julkinen",
   "visibility": "Näkyvyys:",
   "waypoints": "Reittipisteet",
-  "automaticRenewalInfo": "Maksupalveluntarjoajamme Paddle lähettää sinulle lisätietoja sähköpostitse."
+  "automaticRenewalInfo": "Maksupalveluntarjoajamme Paddle lähettää sinulle lisätietoja sähköpostitse.",
+  "support": {
+    "contestDescription": "Säännöt kansallisiin ja kansainvälisiin kilpailuihin",
+    "docs": "Dokumentointi",
+    "docsDescription": "Kaikki aiheet lajiteltuina ja haettavissa",
+    "support": "Tuki",
+    "emailDescription": "Huolenaiheista, palautteesta ja vastaamattomista kysymyksistä",
+    "instructionDescription": "Lataa ensimmäinen lentosi, asenna sovellus ja ryhdy WeGlide-asiantuntijaksi"
+  }
 }

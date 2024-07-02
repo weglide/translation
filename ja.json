@@ -1047,5 +1047,13 @@
   "public": "公共",
   "visibility": "可視性:",
   "waypoints": "ウェイポイント",
-  "automaticRenewalInfo": "詳細については、決済プロバイダー Paddle から電子メールで送信されます。"
+  "automaticRenewalInfo": "詳細については、決済プロバイダー Paddle から電子メールで送信されます。",
+  "support": {
+    "contestDescription": "国内および国際競技会のルール",
+    "docs": "ドキュメンテーション",
+    "docsDescription": "すべてのトピックが並べ替えられ、検索可能",
+    "support": "サポート",
+    "emailDescription": "懸念事項、フィードバック、未回答の質問については、",
+    "instructionDescription": "最初のフライトをアップロードし、アプリをインストールして WeGlide エキスパートになりましょう"
+  }
 }

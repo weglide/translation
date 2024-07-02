@@ -1049,5 +1049,13 @@
   "public": "Pubblico",
   "visibility": "Visibilità:",
   "waypoints": "Waypoint",
-  "automaticRenewalInfo": "Maggiori informazioni ti verranno inviate dal nostro fornitore di pagamenti Paddle tramite e-mail."
+  "automaticRenewalInfo": "Maggiori informazioni ti verranno inviate dal nostro fornitore di pagamenti Paddle tramite e-mail.",
+  "support": {
+    "contestDescription": "Regolamento gare nazionali ed internazionali",
+    "docs": "Documentazione",
+    "docsDescription": "Tutti gli argomenti ordinati e ricercabili",
+    "support": "Supporto",
+    "emailDescription": "Per dubbi, feedback e domande senza risposta",
+    "instructionDescription": "Carica il tuo primo volo, installa l'app e diventa un esperto WeGlide"
+  }
 }
