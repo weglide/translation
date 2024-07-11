@@ -1053,5 +1053,7 @@
     "docsDescription": "Všechna témata seřazená a prohledávatelná",
     "emailDescription": "Pro obavy, zpětnou vazbu a nezodpovězené otázky",
     "instructionDescription": "Nahrajte svůj první let, nainstalujte aplikaci a staňte se odborníkem na WeGlide"
-  }
+  },
+  "stallSpeed": "Stálá rychlost",
+  "wingArea": "Oblast křídla"
 }

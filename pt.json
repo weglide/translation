@@ -1056,5 +1056,7 @@
     "support": "Apoiar",
     "emailDescription": "Para preocupações, comentários e perguntas não respondidas",
     "instructionDescription": "Carregue seu primeiro voo, instale o aplicativo e torne-se um WeGlide Expert"
-  }
+  },
+  "stallSpeed": "Velocidade de estol",
+  "wingArea": "Área da asa"
 }

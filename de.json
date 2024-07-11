@@ -1218,5 +1218,7 @@
     "docs": "Dokumentation",
     "docsDescription": "Alle Themen, sortiert und durchsuchbar",
     "emailDescription": "Für Anliegen, Feedback und unbeantwortete Fragen"
-  }
+  },
+  "stallSpeed": "Stallgeschwindigkeit",
+  "wingArea": "Flügelfläche"
 }

@@ -1055,5 +1055,7 @@
     "support": "Wsparcie",
     "emailDescription": "W przypadku wątpliwości, opinii i pytań bez odpowiedzi",
     "instructionDescription": "Prześlij swój pierwszy lot, zainstaluj aplikację i zostań ekspertem WeGlide"
-  }
+  },
+  "stallSpeed": "Prędkość przeciągnięcia",
+  "wingArea": "Obszar skrzydła"
 }

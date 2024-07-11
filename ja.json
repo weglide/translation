@@ -1055,5 +1055,7 @@
     "support": "サポート",
     "emailDescription": "懸念事項、フィードバック、未回答の質問については、",
     "instructionDescription": "最初のフライトをアップロードし、アプリをインストールして WeGlide エキスパートになりましょう"
-  }
+  },
+  "stallSpeed": "失速速度",
+  "wingArea": "ウィングエリア"
 }

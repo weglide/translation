@@ -1055,5 +1055,7 @@
     "support": "Tuki",
     "emailDescription": "Huolenaiheista, palautteesta ja vastaamattomista kysymyksistä",
     "instructionDescription": "Lataa ensimmäinen lentosi, asenna sovellus ja ryhdy WeGlide-asiantuntijaksi"
-  }
+  },
+  "stallSpeed": "Pysähdysnopeus",
+  "wingArea": "Siipialue"
 }

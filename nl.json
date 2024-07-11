@@ -1058,5 +1058,7 @@
     "support": "Steun",
     "emailDescription": "Voor zorgen, feedback en onbeantwoorde vragen",
     "instructionDescription": "Upload uw eerste vlucht, installeer de app en word een WeGlide Expert"
-  }
+  },
+  "stallSpeed": "Snelheid bij stilstand",
+  "wingArea": "Vleugel gebied"
 }

@@ -1059,5 +1059,7 @@
     "support": "Stöd",
     "emailDescription": "För bekymmer, feedback och obesvarade frågor",
     "instructionDescription": "Ladda upp ditt första flyg, installera appen och bli en WeGlide-expert"
-  }
+  },
+  "stallSpeed": "Stallhastighet",
+  "wingArea": "Vingeområde"
 }

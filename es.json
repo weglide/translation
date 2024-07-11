@@ -1057,5 +1057,7 @@
     "support": "Apoyo",
     "emailDescription": "Para inquietudes, comentarios y preguntas sin respuesta",
     "instructionDescription": "Sube tu primer vuelo, instala la aplicación y conviértete en un experto de WeGlide"
-  }
+  },
+  "stallSpeed": "Perdida de velocidad",
+  "wingArea": "Área del ala"
 }

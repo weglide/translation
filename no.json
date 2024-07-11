@@ -1054,5 +1054,7 @@
     "support": "Brukerstøtte",
     "emailDescription": "For bekymringer, tilbakemeldinger og ubesvarte spørsmål",
     "instructionDescription": "Last opp din første flytur, installer appen og bli en WeGlide-ekspert"
-  }
+  },
+  "stallSpeed": "Stopphastighet",
+  "wingArea": "Vingeområde"
 }

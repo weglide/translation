@@ -1054,5 +1054,7 @@
     "support": "Palaikymas",
     "emailDescription": "Dėl rūpesčių, atsiliepimų ir neatsakytų klausimų",
     "instructionDescription": "Įkelkite savo pirmąjį skrydį, įdiekite programą ir tapkite „WeGlide“ ekspertu"
-  }
+  },
+  "stallSpeed": "Stovėjimo greitis",
+  "wingArea": "Sparno plotas"
 }

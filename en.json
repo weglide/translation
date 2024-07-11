@@ -1218,5 +1218,7 @@
     "docs": "Documentation",
     "docsDescription": "All topics sorted and searchable",
     "emailDescription": "For concerns, feedback, and unanswered questions"
-  }
+  },
+  "wingArea": "Wing area",
+  "stallSpeed": "Stall speed"
 }
