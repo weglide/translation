@@ -1059,5 +1059,6 @@
     "instructionDescription": "Sube tu primer vuelo, instala la aplicación y conviértete en un experto de WeGlide"
   },
   "stallSpeed": "Perdida de velocidad",
-  "wingArea": "Área del ala"
+  "wingArea": "Área del ala",
+  "electric": "Eléctrico"
 }

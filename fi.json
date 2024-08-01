@@ -1057,5 +1057,6 @@
     "instructionDescription": "Lataa ensimmäinen lentosi, asenna sovellus ja ryhdy WeGlide-asiantuntijaksi"
   },
   "stallSpeed": "Pysähdysnopeus",
-  "wingArea": "Siipialue"
+  "wingArea": "Siipialue",
+  "electric": "Sähköinen"
 }

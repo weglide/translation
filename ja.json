@@ -1057,5 +1057,6 @@
     "instructionDescription": "最初のフライトをアップロードし、アプリをインストールして WeGlide エキスパートになりましょう"
   },
   "stallSpeed": "失速速度",
-  "wingArea": "ウィングエリア"
+  "wingArea": "ウィングエリア",
+  "electric": "電気の"
 }

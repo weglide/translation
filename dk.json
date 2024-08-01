@@ -1076,19 +1076,5 @@
     "tooHeavy": "Tag mindre vandballast med dig. Hvis dette ikke er muligt, var du på den optimale vægt.",
     "tooLight": "Tag mere vandballast med dig."
   },
-  "cumulativeStatistics": "Cumulative statistics",
-  "moreCompetitions": "{count} more competitions",
-  "oneMoreCompetition": "One more competition",
-  "showPatronBadge": "Show Patron badge and circle in profile picture",
-  "genderError": "please select your gender",
-  "dateOfBirthError": "please select an earlier date of birth",
-  "startLine": "Start Line",
-  "startRing": "Start Ring",
-  "addDescription": "Add description",
-  "onlyVisibleForMe": "Kun synlig for mig",
-  "private": "Private",
-  "public": "Public",
-  "visibility": "Visibility:",
-  "waypoints": "Waypoints",
-  "automaticRenewalInfo": "More information will be sent to you by our payment provider Paddle per email."
+  "onlyVisibleForMe": "Kun synlig for mig"
 }

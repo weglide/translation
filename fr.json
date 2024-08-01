@@ -1207,5 +1207,6 @@
     "instructionDescription": "Téléchargez votre premier vol, installez l'application et devenez un expert WeGlide"
   },
   "stallSpeed": "Vitesse de décrochage",
-  "wingArea": "Zone de l'aile"
+  "wingArea": "Zone de l'aile",
+  "electric": "Électrique"
 }

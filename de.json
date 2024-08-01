@@ -1220,5 +1220,6 @@
     "emailDescription": "Für Anliegen, Feedback und unbeantwortete Fragen"
   },
   "stallSpeed": "Stallgeschwindigkeit",
-  "wingArea": "Flügelfläche"
+  "wingArea": "Flügelfläche",
+  "electric": "Elektrisch"
 }
