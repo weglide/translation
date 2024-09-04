@@ -1221,5 +1221,7 @@
   },
   "wingArea": "Wing area",
   "stallSpeed": "Stall speed",
-  "electric": "Electric"
+  "electric": "Electric",
+  "achievementsEarned": "{name} earned {count} badges",
+  "achievementEarned": "{name} earned one badge"
 }

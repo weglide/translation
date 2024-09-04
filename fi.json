@@ -1058,5 +1058,7 @@
   },
   "stallSpeed": "Pysähdysnopeus",
   "wingArea": "Siipialue",
-  "electric": "Sähköinen"
+  "electric": "Sähköinen",
+  "achievementEarned": "{name} ansaitsi yhden merkin",
+  "achievementsEarned": "{name} ansaitsi {count} merkkiä"
 }

@@ -1062,5 +1062,7 @@
   },
   "stallSpeed": "Stallhastighet",
   "wingArea": "Vingeområde",
-  "electric": "Elektrisk"
+  "electric": "Elektrisk",
+  "achievementEarned": "{name} fick ett märke",
+  "achievementsEarned": "{name} fick {count} märken"
 }

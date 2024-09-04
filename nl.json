@@ -1061,5 +1061,7 @@
   },
   "stallSpeed": "Snelheid bij stilstand",
   "wingArea": "Vleugel gebied",
-  "electric": "Elektrisch"
+  "electric": "Elektrisch",
+  "achievementEarned": "{name} heeft één badge verdiend",
+  "achievementsEarned": "{name} heeft {count} badges verdiend"
 }

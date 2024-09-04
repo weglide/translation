@@ -1059,5 +1059,7 @@
   },
   "stallSpeed": "Velocidade de estol",
   "wingArea": "Área da asa",
-  "electric": "Elétrico"
+  "electric": "Elétrico",
+  "achievementEarned": "{name} ganhou um selo",
+  "achievementsEarned": "{name} ganhou {count} emblemas"
 }

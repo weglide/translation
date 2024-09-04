@@ -1058,5 +1058,7 @@
   },
   "stallSpeed": "Prędkość przeciągnięcia",
   "wingArea": "Obszar skrzydła",
-  "electric": "Elektryczny"
+  "electric": "Elektryczny",
+  "achievementEarned": "{name} zdobył jedną odznakę",
+  "achievementsEarned": "{name} zdobył {count} odznak"
 }

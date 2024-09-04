@@ -1058,5 +1058,7 @@
   },
   "stallSpeed": "失速速度",
   "wingArea": "ウィングエリア",
-  "electric": "電気の"
+  "electric": "電気の",
+  "achievementEarned": "{name} はバッジを 1 つ獲得しました",
+  "achievementsEarned": "{name} さんが {count} 個のバッジを獲得しました"
 }

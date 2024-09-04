@@ -1060,5 +1060,7 @@
   },
   "stallSpeed": "Velocità di stallo",
   "wingArea": "Zona alare",
-  "electric": "Elettrico"
+  "electric": "Elettrico",
+  "achievementEarned": "{name} ha guadagnato un badge",
+  "achievementsEarned": "{name} ha guadagnato {count} badge"
 }

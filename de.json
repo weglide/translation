@@ -1221,5 +1221,7 @@
   },
   "stallSpeed": "Stallgeschwindigkeit",
   "wingArea": "Flügelfläche",
-  "electric": "Elektrisch"
+  "electric": "Elektrisch",
+  "achievementEarned": "{name} hat ein Badge verdient",
+  "achievementsEarned": "{name} hat {count} Badges verdient"
 }

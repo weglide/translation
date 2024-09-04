@@ -1060,5 +1060,7 @@
   },
   "stallSpeed": "Perdida de velocidad",
   "wingArea": "Área del ala",
-  "electric": "Eléctrico"
+  "electric": "Eléctrico",
+  "achievementEarned": "{name} obtuvo una insignia",
+  "achievementsEarned": "{name} obtuvo {count} insignias"
 }

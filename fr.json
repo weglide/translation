@@ -1208,5 +1208,7 @@
   },
   "stallSpeed": "Vitesse de décrochage",
   "wingArea": "Zone de l'aile",
-  "electric": "Électrique"
+  "electric": "Électrique",
+  "achievementEarned": "{name} a obtenu un badge",
+  "achievementsEarned": "{name} a obtenu {count} badges"
 }

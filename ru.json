@@ -1057,5 +1057,7 @@
   },
   "stallSpeed": "Скорость сваливания",
   "wingArea": "Площадь крыла",
-  "electric": "Электрический"
+  "electric": "Электрический",
+  "achievementEarned": "Пользователь {name} получил один значок",
+  "achievementsEarned": "Пользователь {name} заработал значков: {count}."
 }

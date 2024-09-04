@@ -1057,5 +1057,7 @@
   },
   "stallSpeed": "Швидкість зриву",
   "wingArea": "Площа крила",
-  "electric": "Електричний"
+  "electric": "Електричний",
+  "achievementEarned": "{name} отримав один значок",
+  "achievementsEarned": "{name} отримав {count} значків"
 }

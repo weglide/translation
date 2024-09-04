@@ -1057,5 +1057,7 @@
   },
   "stallSpeed": "Stovėjimo greitis",
   "wingArea": "Sparno plotas",
-  "electric": "Elektrinis"
+  "electric": "Elektrinis",
+  "achievementEarned": "{name} pelnė vieną ženklelį",
+  "achievementsEarned": "{name} uždirbo {count} ženklelių"
 }

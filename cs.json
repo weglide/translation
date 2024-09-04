@@ -1056,5 +1056,7 @@
   },
   "stallSpeed": "Stálá rychlost",
   "wingArea": "Oblast křídla",
-  "electric": "Elektrický"
+  "electric": "Elektrický",
+  "achievementEarned": "{name} získal jeden odznak",
+  "achievementsEarned": "{name} získal {count} odznaků"
 }
