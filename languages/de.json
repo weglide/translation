@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Ziehe IGC-Dateien hierher zum Hochladen oder klicke zum Auswählen",
   "igcDropText": "Lasse die IGC-Dateien los zum Hochladen",
-  "imageDragText": "Ziehe Bilder hierher zum Hochladen oder klicke zum Auswählen",
-  "imageDropText": "Lasse die Bilder los zum Hochladen",
   "imprint": "Impressum",
   "index": "Index",
   "info": "Information",
@@ -1223,5 +1221,7 @@
   "wingArea": "Flügelfläche",
   "electric": "Elektrisch",
   "achievementEarned": "{name} hat ein Badge verdient",
-  "achievementsEarned": "{name} hat {count} Badges verdient"
+  "achievementsEarned": "{name} hat {count} Badges verdient",
+  "mediaDragText": "Klicke oder ziehe Bilder/Videos hierher zum hochladen",
+  "mediaDropText": "Zum Hochladen loslassen"
 }

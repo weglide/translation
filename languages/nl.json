@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Sleep je .igc-bestanden hierheen of klik hier om ze te selecteren",
   "igcDropText": "Laat je .igc-bestanden los om ze te uploaden",
-  "imageDragText": "Sleep je foto's hierheen of klik hier om ze te selecteren",
-  "imageDropText": "Laat je foto's los om ze te uploaden",
   "imprint": "Colofon",
   "index": "Index",
   "info": "Informatie",
@@ -1063,5 +1061,7 @@
   "wingArea": "Vleugel gebied",
   "electric": "Elektrisch",
   "achievementEarned": "{name} heeft één badge verdiend",
-  "achievementsEarned": "{name} heeft {count} badges verdiend"
+  "achievementsEarned": "{name} heeft {count} badges verdiend",
+  "mediaDragText": "Klik of sleep afbeeldingen/video's hierheen om te uploaden",
+  "mediaDropText": "Neerzetten om te uploaden"
 }

@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "ここに.igcファイルをドラッグしてアップロードするか、クリックして選択します",
   "igcDropText": "アップロードする.igcファイルをドロップします",
-  "imageDragText": "ここに画像をドラッグしてアップロードするか、クリックして選択します",
-  "imageDropText": "画像をドロップしてアップロード",
   "imprint": "発行者",
   "index": "インデックス",
   "info": "情報",
@@ -1060,5 +1058,7 @@
   "wingArea": "ウィングエリア",
   "electric": "電気の",
   "achievementEarned": "{name} はバッジを 1 つ獲得しました",
-  "achievementsEarned": "{name} さんが {count} 個のバッジを獲得しました"
+  "achievementsEarned": "{name} さんが {count} 個のバッジを獲得しました",
+  "mediaDragText": "ここに画像/ビデオをクリックまたはドラッグしてアップロードします",
+  "mediaDropText": "ドロップしてアップロード"
 }

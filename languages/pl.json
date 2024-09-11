@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Przeciągnij pliki .igc tutaj by je przesłać albo kliknij by wybrać",
   "igcDropText": "Przeciągnij pliki .igc by je przesłać",
-  "imageDragText": "Przeciągnij tutaj zdjęcia albo kliknij by wybrać",
-  "imageDropText": "Przeciągnij zdjęcia by wysłać",
   "imprint": "Odcisk",
   "index": "Indeks",
   "info": "Informacja",
@@ -1060,5 +1058,7 @@
   "wingArea": "Obszar skrzydła",
   "electric": "Elektryczny",
   "achievementEarned": "{name} zdobył jedną odznakę",
-  "achievementsEarned": "{name} zdobył {count} odznak"
+  "achievementsEarned": "{name} zdobył {count} odznak",
+  "mediaDragText": "Kliknij lub przeciągnij tutaj obrazy/filmy, aby je przesłać",
+  "mediaDropText": "Upuść, aby przesłać"
 }

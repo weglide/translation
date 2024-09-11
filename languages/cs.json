@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Přetáhni .igc soubor k nahrání nebo ho vyber ze seznamu",
   "igcDropText": "Přetáhni .igc soubor k nahrání",
-  "imageDragText": "Sem přetáhni fotku k nahrání, nebo vyber ze seznamu",
-  "imageDropText": "Přesuň sem obrázek k nahrání",
   "imprint": "Impresum",
   "index": "Index",
   "info": "Informace",
@@ -1058,5 +1056,7 @@
   "wingArea": "Oblast křídla",
   "electric": "Elektrický",
   "achievementEarned": "{name} získal jeden odznak",
-  "achievementsEarned": "{name} získal {count} odznaků"
+  "achievementsEarned": "{name} získal {count} odznaků",
+  "mediaDragText": "Kliknutím nebo přetažením sem obrázky/videa nahrajete",
+  "mediaDropText": "Přetažením nahrajete"
 }

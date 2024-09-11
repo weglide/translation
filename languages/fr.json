@@ -1210,5 +1210,7 @@
   "wingArea": "Zone de l'aile",
   "electric": "Électrique",
   "achievementEarned": "{name} a obtenu un badge",
-  "achievementsEarned": "{name} a obtenu {count} badges"
+  "achievementsEarned": "{name} a obtenu {count} badges",
+  "mediaDropText": "Déposer pour télécharger",
+  "mediaDragText": "Cliquez ou faites glisser les images/vidéos ici pour les télécharger"
 }

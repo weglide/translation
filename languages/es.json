@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Arrastre los archivos .igc aquí para cargarlos o haga clic para seleccionar",
   "igcDropText": "Suelta los archivos .igc para subir",
-  "imageDragText": "Arrastre las imágenes aquí para cargarlas o haga clic para seleccionar",
-  "imageDropText": "Suelta imágenes para subir",
   "imprint": "Imprimir",
   "index": "Índice",
   "info": "Información",
@@ -1062,5 +1060,7 @@
   "wingArea": "Área del ala",
   "electric": "Eléctrico",
   "achievementEarned": "{name} obtuvo una insignia",
-  "achievementsEarned": "{name} obtuvo {count} insignias"
+  "achievementsEarned": "{name} obtuvo {count} insignias",
+  "mediaDragText": "Haga clic o arrastre imágenes/videos aquí para cargarlos",
+  "mediaDropText": "Soltar para subir"
 }

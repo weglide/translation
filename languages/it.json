@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Trascina i file .igc qua per effettuare l'upload o clicca per selezionarli",
   "igcDropText": "Rilascia il file .igc",
-  "imageDragText": "Trascina l'immagine qui per caricarla o clicca per selezionarla",
-  "imageDropText": "Rilascia l'immagine per caricarla",
   "imprint": "Impronta",
   "index": "Index",
   "info": "Informazioni",
@@ -1062,5 +1060,7 @@
   "wingArea": "Zona alare",
   "electric": "Elettrico",
   "achievementEarned": "{name} ha guadagnato un badge",
-  "achievementsEarned": "{name} ha guadagnato {count} badge"
+  "achievementsEarned": "{name} ha guadagnato {count} badge",
+  "mediaDragText": "Fare clic o trascinare qui le immagini/i video per caricarli",
+  "mediaDropText": "Rilascia per caricare"
 }

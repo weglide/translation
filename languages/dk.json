@@ -216,8 +216,6 @@
   "igc": "IGC",
   "igcDragText": "Træk .igc-filer hertil for at uploade, eller klik for at vælge",
   "igcDropText": "Smid .igc-fil her for at uploade",
-  "imageDragText": "Træk billeder hertil for at uploade, eller klik for at vælge",
-  "imageDropText": "Smid billeder her for at uploade",
   "imprint": "Imprint",
   "index": "Indeks",
   "info": "Information",
@@ -1076,5 +1074,7 @@
     "tooHeavy": "Tag mindre vandballast med dig. Hvis dette ikke er muligt, var du på den optimale vægt.",
     "tooLight": "Tag mere vandballast med dig."
   },
-  "onlyVisibleForMe": "Kun synlig for mig"
+  "onlyVisibleForMe": "Kun synlig for mig",
+  "mediaDragText": "Klik eller træk billeder/videoer her for at uploade",
+  "mediaDropText": "Slip for at uploade"
 }

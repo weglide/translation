@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Dra .igc-filer hit för att ladda upp eller klicka för att välja",
   "igcDropText": "Släpp .igc-filer för att ladda upp",
-  "imageDragText": "Dra bilder hit för att ladda upp eller klicka för att välja",
-  "imageDropText": "Släpp bilder för att ladda upp",
   "imprint": "Imprint",
   "index": "Index",
   "info": "Information",
@@ -1064,5 +1062,7 @@
   "wingArea": "Vingeområde",
   "electric": "Elektrisk",
   "achievementEarned": "{name} fick ett märke",
-  "achievementsEarned": "{name} fick {count} märken"
+  "achievementsEarned": "{name} fick {count} märken",
+  "mediaDragText": "Klicka eller dra bilder/videor hit för att ladda upp",
+  "mediaDropText": "Släpp för att ladda upp"
 }

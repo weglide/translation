@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Vedä .igc-tiedostot tähän ladataksesi tai valitse napsauttamalla",
   "igcDropText": "Pudota ladattavat .igc-tiedostot",
-  "imageDragText": "Lataa kuvat vetämällä tähän tai valitse napsauttamalla",
-  "imageDropText": "Pudota kuvat ladattavaksi",
   "imprint": "Jälki",
   "index": "Indeksi",
   "info": "Tiedot",
@@ -1060,5 +1058,7 @@
   "wingArea": "Siipialue",
   "electric": "Sähköinen",
   "achievementEarned": "{name} ansaitsi yhden merkin",
-  "achievementsEarned": "{name} ansaitsi {count} merkkiä"
+  "achievementsEarned": "{name} ansaitsi {count} merkkiä",
+  "mediaDragText": "Napsauta tai vedä kuvia/videoita tästä ladataksesi",
+  "mediaDropText": "Pudota ladataksesi"
 }

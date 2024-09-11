@@ -208,8 +208,6 @@
   "igc": "IGC",
   "igcDragText": "Vilkite .igc failus čia, kad įkeltumėte arba spustelėkite, kad pasirinktumėte",
   "igcDropText": "Numeskite .igc failus, kuriuos norite įkelti",
-  "imageDragText": "Vilkite vaizdus čia, kad įkeltumėte, arba spustelėkite, kad pasirinktumėte",
-  "imageDropText": "Numeskite vaizdus, kad įkeltumėte",
   "imprint": "Įspaudas",
   "index": "Indeksas",
   "info": "Informacija",
@@ -1059,5 +1057,7 @@
   "wingArea": "Sparno plotas",
   "electric": "Elektrinis",
   "achievementEarned": "{name} pelnė vieną ženklelį",
-  "achievementsEarned": "{name} uždirbo {count} ženklelių"
+  "achievementsEarned": "{name} uždirbo {count} ženklelių",
+  "mediaDragText": "Spustelėkite arba vilkite vaizdus / vaizdo įrašus čia, kad įkeltumėte",
+  "mediaDropText": "Numeskite, kad įkeltumėte"
 }

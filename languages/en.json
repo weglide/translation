@@ -216,8 +216,6 @@
   "igc": "IGC",
   "igcDragText": "Drag .igc files here to upload or click to select",
   "igcDropText": "Drop .igc files to upload",
-  "imageDragText": "Drag images here to upload or click to select",
-  "imageDropText": "Drop images to upload",
   "imprint": "Imprint",
   "index": "Index",
   "info": "Information",
@@ -1223,5 +1221,7 @@
   "stallSpeed": "Stall speed",
   "electric": "Electric",
   "achievementsEarned": "{name} earned {count} badges",
-  "achievementEarned": "{name} earned one badge"
+  "achievementEarned": "{name} earned one badge",
+  "mediaDragText": "Click or drag images/videos here to upload",
+  "mediaDropText": "Drop to upload"
 }
