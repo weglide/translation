@@ -209,7 +209,6 @@
   "igcDragText": "Glisse tes fichiers IGC ici pour les charger ou clique pour les sélectionner",
   "igcDropText": "Dépose les fichiers IGC pour les charger",
   "imageDragText": "Glisse tes photos ici pour les charger ou clique pour les sélectionner",
-  "imageDropText": "Dépose les photos pour les charger",
   "imprint": "Mentions légales",
   "index": "Index",
   "info": "Information",
@@ -1210,7 +1209,7 @@
   "wingArea": "Zone de l'aile",
   "electric": "Électrique",
   "achievementEarned": "{name} a obtenu un badge",
-  "achievementsEarned": "{name} a obtenu {count} badges",
+  "achievementsEarned": "{name} a obtenu {count} badges",
   "mediaDropText": "Déposer pour télécharger",
   "mediaDragText": "Cliquez ou faites glisser les images/vidéos ici pour les télécharger"
 }

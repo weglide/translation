@@ -1222,6 +1222,7 @@
   "electric": "Electric",
   "achievementsEarned": "{name} earned {count} badges",
   "achievementEarned": "{name} earned one badge",
+  "imageDragText": "Click or drag images here to upload",
   "mediaDragText": "Click or drag images/videos here to upload",
   "mediaDropText": "Drop to upload"
 }

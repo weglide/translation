@@ -1223,5 +1223,6 @@
   "achievementEarned": "{name} hat ein Badge verdient",
   "achievementsEarned": "{name} hat {count} Badges verdient",
   "mediaDragText": "Klicke oder ziehe Bilder/Videos hierher zum hochladen",
-  "mediaDropText": "Zum Hochladen loslassen"
+  "mediaDropText": "Zum Hochladen loslassen",
+  "imageDragText": "Klicke oder ziehe Bilder hierher zum hochladen"
 }

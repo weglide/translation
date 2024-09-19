@@ -1059,5 +1059,6 @@
   "achievementEarned": "{name} pelnė vieną ženklelį",
   "achievementsEarned": "{name} uždirbo {count} ženklelių",
   "mediaDragText": "Spustelėkite arba vilkite vaizdus / vaizdo įrašus čia, kad įkeltumėte",
-  "mediaDropText": "Numeskite, kad įkeltumėte"
+  "mediaDropText": "Numeskite, kad įkeltumėte",
+  "imageDragText": "Norėdami įkelti vaizdus, ​​spustelėkite arba vilkite čia"
 }
