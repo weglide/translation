@@ -1065,5 +1065,6 @@
   "achievementsEarned": "{name} fick {count} märken",
   "mediaDragText": "Klicka eller dra bilder/videor hit för att ladda upp",
   "mediaDropText": "Släpp för att ladda upp",
-  "imageDragText": "Klicka eller dra bilder här för att ladda upp"
+  "imageDragText": "Klicka eller dra bilder här för att ladda upp",
+  "clearSelection": "Rensa val"
 }

@@ -1061,5 +1061,6 @@
   "achievementsEarned": "{name} zdobył {count} odznak",
   "mediaDragText": "Kliknij lub przeciągnij tutaj obrazy/filmy, aby je przesłać",
   "mediaDropText": "Upuść, aby przesłać",
-  "imageDragText": "Kliknij lub przeciągnij obrazy tutaj, aby je przesłać"
+  "imageDragText": "Kliknij lub przeciągnij obrazy tutaj, aby je przesłać",
+  "clearSelection": "Wyczyść wybór"
 }

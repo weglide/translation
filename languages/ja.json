@@ -1061,5 +1061,6 @@
   "achievementsEarned": "{name} さんが {count} 個のバッジを獲得しました",
   "mediaDragText": "ここに画像/ビデオをクリックまたはドラッグしてアップロードします",
   "mediaDropText": "ドロップしてアップロード",
-  "imageDragText": "ここに画像をクリックまたはドラッグしてアップロードします"
+  "imageDragText": "ここに画像をクリックまたはドラッグしてアップロードします",
+  "clearSelection": "選択をクリア"
 }

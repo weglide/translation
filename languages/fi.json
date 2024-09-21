@@ -1061,5 +1061,6 @@
   "achievementsEarned": "{name} ansaitsi {count} merkkiä",
   "mediaDragText": "Napsauta tai vedä kuvia/videoita tästä ladataksesi",
   "mediaDropText": "Pudota ladataksesi",
-  "imageDragText": "Napsauta tai vedä kuvia tästä ladataksesi"
+  "imageDragText": "Napsauta tai vedä kuvia tästä ladataksesi",
+  "clearSelection": "Tyhjennä valinta"
 }

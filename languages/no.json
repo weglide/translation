@@ -1060,5 +1060,6 @@
   "achievementsEarned": "{name} fikk {count} merker",
   "mediaDragText": "Klikk eller dra bilder/videoer hit for å laste opp",
   "mediaDropText": "Slipp for å laste opp",
-  "imageDragText": "Klikk eller dra bilder hit for å laste opp"
+  "imageDragText": "Klikk eller dra bilder hit for å laste opp",
+  "clearSelection": "Fjern valg"
 }

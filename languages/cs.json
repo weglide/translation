@@ -1059,5 +1059,6 @@
   "achievementsEarned": "{name} získal {count} odznaků",
   "mediaDragText": "Kliknutím nebo přetažením sem obrázky/videa nahrajete",
   "mediaDropText": "Přetažením nahrajete",
-  "imageDragText": "Kliknutím nebo přetažením sem obrázky nahrajete"
+  "imageDragText": "Kliknutím nebo přetažením sem obrázky nahrajete",
+  "clearSelection": "Vymazat výběr"
 }

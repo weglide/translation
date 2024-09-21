@@ -1063,5 +1063,6 @@
   "achievementsEarned": "{name} obtuvo {count} insignias",
   "mediaDragText": "Haga clic o arrastre imágenes/videos aquí para cargarlos",
   "mediaDropText": "Soltar para subir",
-  "imageDragText": "Haga clic o arrastre las imágenes aquí para cargarlas."
+  "imageDragText": "Haga clic o arrastre las imágenes aquí para cargarlas.",
+  "clearSelection": "Borrar selección"
 }
