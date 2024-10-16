@@ -24,7 +24,7 @@
   "avgSpeed": "Vitesse de croisière moyenne",
   "bank": "Inclinaison",
   "beforeTakeoff": "Avant le décollage",
-  "betaText": "Merci de prendre en compte que nous serons éventuellement contraint d'effacer des données et que des erreurs peuvent survenir.",
+  "betaText": "Merci de prendre en compte que nous serons éventuellement contraints d'effacer des données et que des erreurs peuvent survenir.",
   "betaTitle": "Version Beta",
   "biDescription": "Championnats de Pologne",
   "birthdate": "Date de naissance",
@@ -50,7 +50,7 @@
   "commentsAllowed": "Autoriser les autres à commenter mes vols",
   "compare": "Comparer",
   "competitionId": "Numéro de concours (optionnel)",
-  "competitionIdFormat": "Seul les caractères alphanumériques sont permis pour le numéro de concours.",
+  "competitionIdFormat": "Seuls les caractères alphanumériques sont permis pour le numéro de concours.",
   "competitions": "Compétitions",
   "connectWeatherProviders": "Connectez les fournisseurs de météo",
   "contestNames": {
@@ -107,8 +107,8 @@
   "error": "Erreur",
   "errorAuth": "Merci de te connecter à nouveau",
   "errorAuthTitle": "Session expirée",
-  "errorCaptcha": "Merci de résoudre le Captcha pour vérifier que tu n'est pas un robot.",
-  "errorForm": "Merci de vérifier les renseignements indiqués dans le formulaire",
+  "errorCaptcha": "Merci de résoudre le Captcha pour vérifier que tu n'es pas un robot.",
+  "errorForm": "Merci de vérifier les informations indiquées dans le formulaire",
   "errorServer": "Merci de réessayer plus tard ou de nous contacter",
   "errorServerTitle": "Service non disponible",
   "errorTerms": "Merci d'accepter les conditions.",
@@ -267,17 +267,17 @@
     "AU": {
       "name": "Australie",
       "regions": {
-        "AU-NSW": "Nouvelle Galles du Sud",
+        "AU-NSW": "Nouvelle-Galles du Sud",
         "AU-NT": "Territoire du Nord",
         "AU-QLD": "Queensland",
         "AU-SA": "Australie du Sud",
         "AU-TAS": "Tasmanie",
         "AU-VIC": "Victoria",
-        "AU-WA": "Australie occidentale"
+        "AU-WA": "Australie-Occidentale"
       }
     },
     "BA": {
-      "name": "Bosnie Herzégovine"
+      "name": "Bosnie-Herzégovine"
     },
     "BE": {
       "name": "Belgique",
@@ -328,7 +328,7 @@
         "DE-HB": "Brême",
         "DE-HE": "Hesse",
         "DE-HH": "Hambourg",
-        "DE-MV": "Mecklembourg Poméranie occidentale",
+        "DE-MV": "Mecklembourg-Poméranie-Occidentale",
         "DE-NI": "Basse-Saxe",
         "DE-NW": "Rhénanie du Nord-Westphalie",
         "DE-RP": "Rhénanie-Palatinat",
@@ -426,8 +426,8 @@
     "NZ": {
       "name": "Nouvelle-Zélande",
       "regions": {
-        "NZ-N": "île du Nord",
-        "NZ-S": "île du sud"
+        "NZ-N": "Ile du Nord",
+        "NZ-S": "Ile du Sud"
       }
     },
     "PL": {
@@ -490,11 +490,11 @@
         "US-MS": "Mississippi",
         "US-MT": "Montana",
         "US-NC": "Caroline du Nord",
-        "US-ND": "Dakota du nord",
+        "US-ND": "Dakota du Nord",
         "US-NE": "Nebraska",
         "US-NH": "New Hampshire",
         "US-NJ": "New Jersey",
-        "US-NM": "Nouveau Mexique",
+        "US-NM": "Nouveau-Mexique",
         "US-NV": "Nevada",
         "US-NY": "New York",
         "US-OH": "Ohio",
@@ -1190,7 +1190,7 @@
   "moreCompetitions": "{count} compétitions supplémentaires",
   "oneMoreCompetition": "Encore une compétition",
   "showPatronBadge": "Afficher le badge et le cercle du contributeur sur la photo de profil",
-  "genderError": "S'il vous plait selectionnez votre genre",
+  "genderError": "S'il vous plait sélectionnez votre genre",
   "dateOfBirthError": "veuillez sélectionner une date de naissance antérieure",
   "startLine": "Ligne de départ",
   "startRing": "Sonnerie de démarrage",
