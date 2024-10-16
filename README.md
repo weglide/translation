@@ -35,6 +35,7 @@ French:
 * @deltafox44
 * @phdepechy
 * @Mathu-lmn
+* @adelort
 
 German:
 * @CarstenSon
