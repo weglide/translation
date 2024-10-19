@@ -1065,5 +1065,6 @@
   "achievementsEarned": "{name} ganhou {count} emblemas",
   "mediaDropText": "Solte para fazer upload",
   "mediaDragText": "Clique ou arraste imagens/vídeos aqui para fazer upload",
-  "clearSelection": "Limpar seleção"
+  "clearSelection": "Limpar seleção",
+  "vegetation": "Vegetação"
 }

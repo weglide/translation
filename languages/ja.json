@@ -1064,5 +1064,6 @@
   "mediaDragText": "ここに画像/ビデオをクリックまたはドラッグしてアップロードします",
   "mediaDropText": "ドロップしてアップロード",
   "imageDragText": "ここに画像をクリックまたはドラッグしてアップロードします",
-  "clearSelection": "選択をクリア"
+  "clearSelection": "選択をクリア",
+  "vegetation": "植生"
 }
