@@ -999,11 +999,15 @@
   "teamFlight": "Teamflug",
   "followsYou": "folgt dir jetzt.",
   "installation": {
-    "addToHomeScreen": "Zum Home-Bildschirm",
-    "androidHeadline": "Android App Installieren",
-    "install": "Installieren",
     "iosHeadline": "iOS App Installieren",
-    "tap": "Im Browser antippen"
+    "iosStep1": "Tippe auf das Symbol unten in Safari",
+    "iosStep2": "Scrolle nach unten",
+    "iosStep3": "Wähle \"Zum Home-Bildschirm\"",
+    "androidHeadline": "Android App Installieren",
+    "androidStep1": "Tippe auf das Symbol in der Suchleiste",
+    "androidStep2": "Wähle \"App installieren\"",
+    "androidStep3": "Oder \"Zum Startbildschirm hinzufügen\"",
+    "desktopStep": "Scanne mit der Handykamera"
   },
   "enablePushNotifications": "Aktiviere Push-Benachrichtigungen",
   "flightsFromFriends": "Flüge von Freunden",
