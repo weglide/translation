@@ -15,6 +15,7 @@ interface UnitSystem {
   weight: Unit
   area: Unit
   wingLoading: Unit
+  glideRatio: Unit
 }
 
 export interface Units {
@@ -69,6 +70,10 @@ export const units: Units = {
     wingLoading: {
       abbreviation: 'kg/m²',
       factorToMetric: 1
+    },
+    glideRatio: {
+      abbreviation: 'L/D',
+      factorToMetric: 1
     }
   },
   // USA non competition, CA?
@@ -116,6 +121,10 @@ export const units: Units = {
     wingLoading: {
       abbreviation: 'lb/ft²',
       factorToMetric: 0.20481614432518
+    },
+    glideRatio: {
+      abbreviation: 'L/D',
+      factorToMetric: 1
     }
   },
   // GB, AUS
@@ -162,6 +171,10 @@ export const units: Units = {
     },
     wingLoading: {
       abbreviation: 'kg/m²',
+      factorToMetric: 1
+    },
+    glideRatio: {
+      abbreviation: 'L/D',
       factorToMetric: 1
     }
   }
