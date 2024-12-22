@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Kilpailun säännöt",
   "convex_hull": "Kupera runko",
@@ -897,9 +898,7 @@
   "followsYou": "seuraa sinua nyt.",
   "installation": {
     "androidHeadline": "Asenna Android-sovellus",
-    "install": "Asentaa",
-    "iosHeadline": "Asenna iOS-sovellus",
-    "tap": "Napauta selaimessa"
+    "iosHeadline": "Asenna iOS-sovellus"
   },
   "enablePushNotifications": "Ota Push-ilmoitukset käyttöön",
   "flightsFromFriends": "Lennot ystäviltä",

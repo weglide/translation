@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Reglas del concurso",
   "convex_hull": "Casco convexo",
@@ -897,9 +898,7 @@
   "followsYou": "te sigue ahora.",
   "installation": {
     "androidHeadline": "Instalar la aplicación de Android",
-    "install": "Instalar",
-    "iosHeadline": "Instalar la aplicación iOS",
-    "tap": "Toca en el navegador"
+    "iosHeadline": "Instalar la aplicación iOS"
   },
   "enablePushNotifications": "Habilitar notificaciones automáticas",
   "flightsFromFriends": "Vuelos de amigos",

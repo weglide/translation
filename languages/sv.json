@@ -897,11 +897,8 @@
   "teamFlight": "Team-flygning",
   "followsYou": "följer dig nu.",
   "installation": {
-    "addToHomeScreen": "Lägg till på hemskärm",
     "androidHeadline": "Installera Android-appen",
-    "install": "Installera",
-    "iosHeadline": "Installera iOS-appen",
-    "tap": "Tryck i webbläsaren"
+    "iosHeadline": "Installera iOS-appen"
   },
   "enablePushNotifications": "Aktivera push-meddelanden",
   "flightsFromFriends": "Flygningar från vänner",

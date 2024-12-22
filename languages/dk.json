@@ -72,7 +72,8 @@
     "out": "Ud",
     "out_return": "Ud & hjem",
     "sprint": "Sprint",
-    "triangle": "Trekant"
+    "triangle": "Trekant",
+    "fr": "FFVP"
   },
   "contestRules": "Konkurrenceregler",
   "convex_hull": "Konvekse hylster",
@@ -974,10 +975,7 @@
   "followsYou": "følger dig nu.",
   "installation": {
     "iosHeadline": "Installer iOS App",
-    "androidHeadline": "Installer Android App",
-    "tap": "Tryk i browseren",
-    "addToHomeScreen": "Tilføj til Hjemmeskærm",
-    "install": "Installer"
+    "androidHeadline": "Installer Android App"
   },
   "pushNotifications": "Push-notifikationer:",
   "enablePushNotifications": "Aktiver push-notifikationer",

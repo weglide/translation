@@ -897,9 +897,7 @@
   "followsYou": "стежить за вами зараз.",
   "installation": {
     "androidHeadline": "Встановіть додаток для Android",
-    "install": "встановити",
-    "iosHeadline": "Встановіть додаток для iOS",
-    "tap": "Торкніться в браузері"
+    "iosHeadline": "Встановіть додаток для iOS"
   },
   "enablePushNotifications": "Увімкнути Push-сповіщення",
   "flightsFromFriends": "Перельоти від друзів",

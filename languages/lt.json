@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Konkurso taisyklės",
   "convex_hull": "Išgaubtas korpusas",
@@ -897,9 +898,7 @@
   "followsYou": "seka tave dabar.",
   "installation": {
     "androidHeadline": "Įdiekite „Android“ programą",
-    "install": "Diegti",
-    "iosHeadline": "Įdiekite „iOS“ programą",
-    "tap": "Bakstelėkite naršyklėje"
+    "iosHeadline": "Įdiekite „iOS“ programą"
   },
   "enablePushNotifications": "Įgalinti tiesioginius pranešimus",
   "flightsFromFriends": "Skrydžiai iš draugų",

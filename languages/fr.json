@@ -64,7 +64,8 @@
     "out": "Aller",
     "out_return": "A&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Règles de compétition",
   "convex_hull": "Enveloppe convexe",
@@ -988,11 +989,8 @@
   "teamFlight": "Vol en équipe",
   "followsYou": "vous suit maintenant.",
   "installation": {
-    "addToHomeScreen": "Sur l'écran d'accueil",
     "androidHeadline": "Installer l'application Android",
-    "install": "Installer",
-    "iosHeadline": "Installer l'application iOS",
-    "tap": "Appuyez sur dans le navigateur"
+    "iosHeadline": "Installer l'application iOS"
   },
   "enablePushNotifications": "Activer les notifications push",
   "flightsFromFriends": "Vols d'amis",
@@ -1214,5 +1212,6 @@
   "mediaDropText": "Déposer pour télécharger",
   "mediaDragText": "Cliquez ou faites glisser les images/vidéos ici pour les télécharger",
   "clearSelection": "Effacer la sélection",
-  "vegetation": "Végétation"
+  "vegetation": "Végétation",
+  "frDescription": "Coupe Fédérale de France"
 }

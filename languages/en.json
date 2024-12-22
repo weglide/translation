@@ -72,7 +72,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Contest Rules",
   "convex_hull": "Convex Hull",
@@ -1231,5 +1232,6 @@
   "mediaDragText": "Click or drag images/videos here to upload",
   "mediaDropText": "Drop to upload",
   "clearSelection": "Clear selection",
-  "vegetation": "Vegetation"
+  "vegetation": "Vegetation",
+  "frDescription": "French Championships"
 }

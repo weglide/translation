@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangel"
+    "triangle": "Triangel",
+    "fr": "FFVP"
   },
   "contestRules": "Konkurranseregler",
   "convex_hull": "Konveks skrog",
@@ -897,9 +898,7 @@
   "followsYou": "følger deg nå.",
   "installation": {
     "androidHeadline": "Installer Android-appen",
-    "install": "Installere",
-    "iosHeadline": "Installer iOS-appen",
-    "tap": "Trykk i nettleseren"
+    "iosHeadline": "Installer iOS-appen"
   },
   "enablePushNotifications": "Aktiver push-varsler",
   "flightsFromFriends": "Flyreiser fra venner",

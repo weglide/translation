@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Wettbewerbsregeln",
   "convex_hull": "Konvexe Hülle",
@@ -1231,5 +1232,6 @@
   "mediaDropText": "Zum Hochladen loslassen",
   "imageDragText": "Klicke oder ziehe Bilder hierher zum hochladen",
   "clearSelection": "Auswahl aufheben",
-  "vegetation": "Vegetation"
+  "vegetation": "Vegetation",
+  "frDescription": "Französische Meisterschaften"
 }

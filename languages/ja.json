@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "コンテストルール",
   "convex_hull": "Convex Hull",
@@ -897,10 +898,7 @@
   "followsYou": "があなたをフォローしました",
   "installation": {
     "iosHeadline": "iOSアプリをインストール",
-    "androidHeadline": "Androidアプリをインストール",
-    "tap": "Tap in the browser",
-    "addToHomeScreen": "ホームスクリーンに追加",
-    "install": "インストール"
+    "androidHeadline": "Androidアプリをインストール"
   },
   "enablePushNotifications": "プッシュ通知を有効にする",
   "flightsFromFriends": "友達からのフライト",

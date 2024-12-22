@@ -898,9 +898,7 @@
   "followsYou": "segue você agora.",
   "installation": {
     "androidHeadline": "Instalar aplicativo Android",
-    "install": "Instalar",
-    "iosHeadline": "Instalar aplicativo iOS",
-    "tap": "Toque no navegador"
+    "iosHeadline": "Instalar aplicativo iOS"
   },
   "enablePushNotifications": "Ativar notificações push",
   "flightsFromFriends": "Voos de amigos",

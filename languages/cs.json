@@ -64,7 +64,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "fr": "FFVP"
   },
   "contestRules": "Soutěžní pravidla",
   "convex_hull": "Vypouklé pouzdro",
@@ -897,9 +898,7 @@
   "followsYou": "teď tě sleduje.",
   "installation": {
     "androidHeadline": "Nainstalujte aplikaci pro Android",
-    "install": "Nainstalujte",
-    "iosHeadline": "Nainstalujte aplikaci pro iOS",
-    "tap": "Klepněte v prohlížeči"
+    "iosHeadline": "Nainstalujte aplikaci pro iOS"
   },
   "enablePushNotifications": "Povolit Push Notifications",
   "flightsFromFriends": "Lety od přátel",
