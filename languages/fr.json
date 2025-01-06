@@ -396,10 +396,12 @@
   "index": "Index",
   "info": "Information",
   "installation": {
+    "androidHeadline": "Installer l'application Android",
     "androidStep1": "Sélectionne le symbole ci-dessous dans la barre de recherche",
     "androidStep2": "Choisis \"installer l'app\"",
     "androidStep3": "Ou bien \"ajoute à l'écran de démarrage\"",
     "desktopStep": "Scan avec la caméra de ton portable",
+    "iosHeadline": "Installer l'application iOS",
     "iosStep1": "Sélectionne le symbole ci-dessous dans Safari",
     "iosStep2": "Défile vers le bas",
     "iosStep3": "Choisis \"à l'écran Home\""
