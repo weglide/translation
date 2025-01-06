@@ -36,6 +36,7 @@ French:
 * @phdepechy
 * @Mathu-lmn
 * @adelort
+* Simon Boeckle
 
 German:
 * @CarstenSon
