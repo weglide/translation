@@ -19,6 +19,14 @@
   "added": "Přidán",
   "afterLanding": "Po přistání",
   "aircraft": "Letadlo",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klub",
+    "DO": "Dvojitý",
+    "OP": "Otevřeno",
+    "ST": "Std"
+  },
   "airport": "Letiště",
   "airports": "Letiště",
   "airspaces": "Vzdušné prostory",

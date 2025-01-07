@@ -19,6 +19,14 @@
   "added": "Pridėta",
   "afterLanding": "Nusileidus",
   "aircraft": "Lėktuvas",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klubas",
+    "DO": "Dvigubas",
+    "OP": "Atviras",
+    "ST": "Std"
+  },
   "airport": "Oro uostas",
   "airports": "Oro uostai",
   "airspaces": "Oro erdvės",

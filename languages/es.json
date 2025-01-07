@@ -19,6 +19,14 @@
   "added": "Agregado",
   "afterLanding": "Despues de aterrizar",
   "aircraft": "Aeronave",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Club",
+    "DO": "Doble",
+    "OP": "Abierto",
+    "ST": "Estándar"
+  },
   "airport": "Aeropuerto",
   "airports": "Aeropuertos",
   "airspaces": "Espacios aéreos",

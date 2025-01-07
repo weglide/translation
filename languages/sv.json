@@ -19,6 +19,14 @@
   "added": "Lagt till",
   "afterLanding": "Efter landning",
   "aircraft": "Flygplan",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klubb",
+    "DO": "2-sits",
+    "OP": "Open",
+    "ST": "Std"
+  },
   "airport": "Flygplats",
   "airports": "Flygplatser",
   "airspaces": "Luftrum",

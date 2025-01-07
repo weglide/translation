@@ -20,6 +20,14 @@
   "afterLanding": "Après l'atterrissage",
   "afterTrialInfo": "{prix} par an ensuite",
   "aircraft": "Aéronef",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Club",
+    "DO": "Biplace",
+    "OP": "Libre",
+    "ST": "Std"
+  },
   "airport": "Aéroport",
   "airports": "Aéroports",
   "airspaces": "Espaces aériens",

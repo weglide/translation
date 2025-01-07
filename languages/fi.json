@@ -19,6 +19,14 @@
   "added": "Lisätty",
   "afterLanding": "Laskeutumisen jälkeen",
   "aircraft": "Ilma-alus",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "klubi",
+    "DO": "Double",
+    "OP": "Avata",
+    "ST": "Std"
+  },
   "airport": "Lentokenttä",
   "airports": "Lentokentät",
   "airspaces": "Ilmatilat",

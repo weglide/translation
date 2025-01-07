@@ -19,6 +19,14 @@
   "added": "La til",
   "afterLanding": "Etter landing",
   "aircraft": "Luftfartøy",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klubb",
+    "DO": "Dobbelt",
+    "OP": "Åpen",
+    "ST": "Std"
+  },
   "airport": "flyplassen",
   "airports": "Flyplasser",
   "airspaces": "Luftrom",

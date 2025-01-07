@@ -17,6 +17,14 @@
   "afterLanding": "Efter landing",
   "afterTrialInfo": "{price} pr. år efterfølgende.",
   "aircraft": "Flytype",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klub",
+    "DO": "Tosædet",
+    "OP": "Åben",
+    "ST": "Std"
+  },
   "airport": "Flyveplads",
   "airports": "Flyvepladser",
   "airspaces": "Luftrum",

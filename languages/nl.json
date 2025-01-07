@@ -19,6 +19,14 @@
   "added": "Toegevoegd",
   "afterLanding": "Na de landing",
   "aircraft": "Vliegtuig",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Club",
+    "DO": "Dubbele",
+    "OP": "Open",
+    "ST": "Std"
+  },
   "airport": "Vliegveld",
   "airports": "Vliegvelden",
   "airspaces": "Luchtruim",

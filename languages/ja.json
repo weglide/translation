@@ -19,6 +19,14 @@
   "added": "追加した",
   "afterLanding": "着陸後",
   "aircraft": "航空機",
+  "aircraftClass": {
+    "15": "15 M",
+    "18": "18 M",
+    "CL": "クラブ",
+    "DO": "複座",
+    "OP": "オープン",
+    "ST": "スタンダード"
+  },
   "airport": "滑空場",
   "airports": "滑空場",
   "airspaces": "空域",

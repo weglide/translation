@@ -19,6 +19,14 @@
   "added": "Adicionado",
   "afterLanding": "Após o pouso",
   "aircraft": "Aeronave",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Clube",
+    "DO": "Dobro",
+    "OP": "Aberto",
+    "ST": "Padrão"
+  },
   "airport": "Aeroporto",
   "airports": "Aeroportos",
   "airspaces": "Espaços aéreos",
@@ -817,7 +825,7 @@
   "ranking": "Classificação",
   "rankingFilterPlaceholder": "Região, Clube, Aeroporto",
   "rankingOptions": {
-    "15": "15.",
+    "15": "15",
     "18": "18",
     "ALL": "Tudo",
     "CL": "Clube",

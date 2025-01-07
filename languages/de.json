@@ -20,6 +20,14 @@
   "afterLanding": "Nach der Landung",
   "afterTrialInfo": "Danach {price} pro Jahr.",
   "aircraft": "Flugzeug",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Club",
+    "DO": "Doppel",
+    "OP": "Offen",
+    "ST": "Std"
+  },
   "airport": "Flugplatz",
   "airports": "Flugplätze",
   "airspaces": "Lufträume",

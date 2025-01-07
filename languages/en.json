@@ -20,6 +20,14 @@
   "afterLanding": "After landing",
   "afterTrialInfo": "{price} per year afterwards.",
   "aircraft": "Aircraft",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Club",
+    "DO": "Double",
+    "OP": "Open",
+    "ST": "Std"
+  },
   "airport": "Airport",
   "airports": "Airports",
   "airspaces": "Airspaces",

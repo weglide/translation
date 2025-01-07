@@ -19,6 +19,14 @@
   "added": "Dodany",
   "afterLanding": "Po lądowaniu",
   "aircraft": "Samolot",
+  "aircraftClass": {
+    "15": "15 m",
+    "18": "18 m",
+    "CL": "Klub",
+    "DO": "Podwójnie",
+    "OP": "Otwarty",
+    "ST": "Std"
+  },
   "airport": "Lotnisko",
   "airports": "Lotniska",
   "airspaces": "Przestrzenie powietrzne",
