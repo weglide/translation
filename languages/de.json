@@ -1241,5 +1241,7 @@
   "youLikeLive": "Dir gefällt das Live-Tracking?",
   "yourFlightCommented": "hat deinen Flug kommentiert.",
   "yourPlan": "Dein Abonnement",
-  "zaDescription": "Südafrikanische Meisterschaften"
+  "zaDescription": "Südafrikanische Meisterschaften",
+  "bestSpeed": "Top Speed (Runde)",
+  "bestDistance": "Top Distanz (Runde)"
 }

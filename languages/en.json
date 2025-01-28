@@ -1241,5 +1241,7 @@
   "youLikeLive": "You like the live tracking?",
   "yourFlightCommented": "commented your flight.",
   "yourPlan": "Your Subscription",
-  "zaDescription": "South African Championships"
+  "zaDescription": "South African Championships",
+  "bestSpeed": "Top Speed (Round)",
+  "bestDistance": "Top Distance (Round)"
 }
