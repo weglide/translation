@@ -1072,5 +1072,9 @@
   "youLikeLive": "Pidätkö live-seurannasta?",
   "yourFlightCommented": "kommentoi lentoasi.",
   "yourPlan": "Tilauksesi",
-  "zaDescription": "Etelä-Afrikan mestaruuskilpailut"
+  "zaDescription": "Etelä-Afrikan mestaruuskilpailut",
+  "proceed": "Edetä",
+  "couponCode": "Kuponkikoodi",
+  "couponApplied": "Sovellettu kuponki",
+  "couponInvalid": "Kuponki"
 }

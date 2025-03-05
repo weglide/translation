@@ -1070,5 +1070,9 @@
   "youLikeLive": "Вам подобається відстеження в прямому ефірі?",
   "yourFlightCommented": "прокоментував ваш політ.",
   "yourPlan": "Ваша підписка",
-  "zaDescription": "Чемпіонат Південної Африки"
+  "zaDescription": "Чемпіонат Південної Африки",
+  "proceed": "Тривати",
+  "couponCode": "Код купона",
+  "couponApplied": "Купон застосовується",
+  "couponInvalid": "Купон недійсний"
 }

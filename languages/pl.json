@@ -1071,5 +1071,9 @@
   "youLikeLive": "Lubisz śledzenie na żywo?",
   "yourFlightCommented": "skomentował Twój lot.",
   "yourPlan": "Twoja subskrypcja",
-  "zaDescription": "Mistrzostwa RPA"
+  "zaDescription": "Mistrzostwa RPA",
+  "proceed": "Przystępować",
+  "couponCode": "Kod kuponu",
+  "couponApplied": "Zastosowano kupon",
+  "couponInvalid": "Kupon nieprawidłowy"
 }

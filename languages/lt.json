@@ -1071,5 +1071,9 @@
   "youLikeLive": "Ar jums patinka tiesioginis stebėjimas?",
   "yourFlightCommented": "pakomentavo jūsų skrydį.",
   "yourPlan": "Jūsų prenumerata",
-  "zaDescription": "Pietų Afrikos čempionatas"
+  "zaDescription": "Pietų Afrikos čempionatas",
+  "proceed": "Eik",
+  "couponCode": "Kupono kodas",
+  "couponApplied": "Kuponas taikomas",
+  "couponInvalid": "Kuponas neteisingas"
 }

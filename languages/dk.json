@@ -1085,5 +1085,9 @@
   "youLikeLive": "Kan du lide live-trackingen?",
   "yourFlightCommented": "kommenterede din flyvning.",
   "yourPlan": "Dit abonnement",
-  "zaDescription": "Sydafrikanske Mesterskaber"
+  "zaDescription": "Sydafrikanske Mesterskaber",
+  "proceed": "",
+  "couponCode": "",
+  "couponApplied": "Coupon applied",
+  "couponInvalid": "Coupon invalid"
 }

@@ -1071,5 +1071,9 @@
   "youLikeLive": "あなたはライブトラッキングが好きですか？",
   "yourFlightCommented": "あなたのフライトにコメントしました。",
   "yourPlan": "サブスクリプション",
-  "zaDescription": "南アフリカ選手権"
+  "zaDescription": "南アフリカ選手権",
+  "proceed": "進む",
+  "couponCode": "クーポンコード",
+  "couponApplied": "クーポンが適用されました",
+  "couponInvalid": "クーポン無効"
 }

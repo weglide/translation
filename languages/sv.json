@@ -1074,5 +1074,9 @@
   "youLikeLive": "Gillar du livespårningen?",
   "yourFlightCommented": "kommenterade ditt flyg.",
   "yourPlan": "Ditt abonnemang",
-  "zaDescription": "Sydafrikanska mästerskapen"
+  "zaDescription": "Sydafrikanska mästerskapen",
+  "proceed": "Fortsätta",
+  "couponCode": "Kupongkod",
+  "couponApplied": "Kupong tillämpad",
+  "couponInvalid": "Kupong ogiltig"
 }

@@ -1074,5 +1074,9 @@
   "youLikeLive": "¿Te gusta el seguimiento en vivo?",
   "yourFlightCommented": "comentó tu vuelo.",
   "yourPlan": "Su suscripción",
-  "zaDescription": "Campeonatos de Sudáfrica"
+  "zaDescription": "Campeonatos de Sudáfrica",
+  "proceed": "Proceder",
+  "couponCode": "Código de cupón",
+  "couponApplied": "Cupón aplicado",
+  "couponInvalid": "Cupón inválido"
 }

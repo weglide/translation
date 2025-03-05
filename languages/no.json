@@ -1071,5 +1071,9 @@
   "youLikeLive": "Liker du livesporingen?",
   "yourFlightCommented": "kommenterte flyet ditt.",
   "yourPlan": "Ditt abonnement",
-  "zaDescription": "Sørafrikanske mesterskap"
+  "zaDescription": "Sørafrikanske mesterskap",
+  "proceed": "Fortsette",
+  "couponCode": "Kupongkode",
+  "couponApplied": "Kupong brukt",
+  "couponInvalid": "Kupong ugyldig"
 }

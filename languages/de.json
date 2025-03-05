@@ -1243,5 +1243,9 @@
   "yourPlan": "Dein Abonnement",
   "zaDescription": "Südafrikanische Meisterschaften",
   "bestSpeed": "Top Speed (Runde)",
-  "bestDistance": "Top Distanz (Runde)"
+  "bestDistance": "Top Distanz (Runde)",
+  "proceed": "Weiter",
+  "couponCode": "Gutscheincode",
+  "couponApplied": "Gutschein angewendet",
+  "couponInvalid": "Gutschein ungültig"
 }

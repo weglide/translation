@@ -1074,5 +1074,9 @@
   "youLikeLive": "Ti piace il monitoraggio in tempo reale?",
   "yourFlightCommented": "ha commentato il tuo volo.",
   "yourPlan": "Il tuo abbonamento",
-  "zaDescription": "Campionati sudafricani"
+  "zaDescription": "Campionati sudafricani",
+  "proceed": "Procedere",
+  "couponCode": "Codice coupon",
+  "couponApplied": "Coupon applicato",
+  "couponInvalid": "Coupon non valido"
 }

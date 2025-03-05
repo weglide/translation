@@ -1241,5 +1241,9 @@
   "youLikeLive": "Vous aimez le suivi en direct?",
   "yourFlightCommented": "a commenté ton vol.",
   "yourPlan": "Votre abonnement",
-  "zaDescription": "Championnats d'Afrique du Sud"
+  "zaDescription": "Championnats d'Afrique du Sud",
+  "proceed": "Procéder",
+  "couponCode": "Code promo",
+  "couponApplied": "Coupon appliqué",
+  "couponInvalid": "Coupon invalide"
 }
