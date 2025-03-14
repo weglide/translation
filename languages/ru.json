@@ -1074,5 +1074,6 @@
   "proceed": "Продолжить",
   "couponCode": "Код купона",
   "couponApplied": "Купон применяется",
-  "couponInvalid": "Купон недействительным"
+  "couponInvalid": "Купон недействительным",
+  "moreWarnings": "Больше предупреждений"
 }

@@ -1247,5 +1247,6 @@
   "proceed": "Weiter",
   "couponCode": "Gutscheincode",
   "couponApplied": "Gutschein angewendet",
-  "couponInvalid": "Gutschein ungültig"
+  "couponInvalid": "Gutschein ungültig",
+  "moreWarnings": "Mehr Warnungen"
 }

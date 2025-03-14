@@ -1076,5 +1076,6 @@
   "proceed": "Prosseguir",
   "couponCode": "Código do cupom",
   "couponApplied": "Cupom aplicado",
-  "couponInvalid": "Cupom inválido"
+  "couponInvalid": "Cupom inválido",
+  "moreWarnings": "Mais avisos"
 }

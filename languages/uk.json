@@ -1074,5 +1074,6 @@
   "proceed": "Тривати",
   "couponCode": "Код купона",
   "couponApplied": "Купон застосовується",
-  "couponInvalid": "Купон недійсний"
+  "couponInvalid": "Купон недійсний",
+  "moreWarnings": "Більше попереджень"
 }

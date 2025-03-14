@@ -1079,5 +1079,6 @@
   "proceed": "Doorgaan",
   "couponCode": "Couponcode",
   "couponApplied": "Coupon toegepast",
-  "couponInvalid": "Coupon ongeldig"
+  "couponInvalid": "Coupon ongeldig",
+  "moreWarnings": "Meer waarschuwingen"
 }

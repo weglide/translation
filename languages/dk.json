@@ -1089,5 +1089,6 @@
   "proceed": "",
   "couponCode": "",
   "couponApplied": "Coupon applied",
-  "couponInvalid": "Coupon invalid"
+  "couponInvalid": "Coupon invalid",
+  "moreWarnings": ""
 }

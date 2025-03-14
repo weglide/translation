@@ -1247,5 +1247,6 @@
   "proceed": "Proceed",
   "couponCode": "Coupon code",
   "couponApplied": "Coupon applied",
-  "couponInvalid": "Coupon invalid"
+  "couponInvalid": "Coupon invalid",
+  "moreWarnings": "More warnings"
 }

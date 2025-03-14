@@ -1074,5 +1074,6 @@
   "proceed": "Pokračovat",
   "couponCode": "Kupónový kód",
   "couponApplied": "Použil kupón",
-  "couponInvalid": "Kupón neplatný"
+  "couponInvalid": "Kupón neplatný",
+  "moreWarnings": "Další varování"
 }

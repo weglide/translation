@@ -1075,5 +1075,6 @@
   "proceed": "進む",
   "couponCode": "クーポンコード",
   "couponApplied": "クーポンが適用されました",
-  "couponInvalid": "クーポン無効"
+  "couponInvalid": "クーポン無効",
+  "moreWarnings": "その他の警告"
 }

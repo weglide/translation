@@ -1245,5 +1245,6 @@
   "proceed": "Procéder",
   "couponCode": "Code promo",
   "couponApplied": "Coupon appliqué",
-  "couponInvalid": "Coupon invalide"
+  "couponInvalid": "Coupon invalide",
+  "moreWarnings": "Plus d'avertissements"
 }

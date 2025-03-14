@@ -1075,5 +1075,6 @@
   "proceed": "Przystępować",
   "couponCode": "Kod kuponu",
   "couponApplied": "Zastosowano kupon",
-  "couponInvalid": "Kupon nieprawidłowy"
+  "couponInvalid": "Kupon nieprawidłowy",
+  "moreWarnings": "Więcej ostrzeżeń"
 }

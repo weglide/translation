@@ -1075,5 +1075,6 @@
   "proceed": "Eik",
   "couponCode": "Kupono kodas",
   "couponApplied": "Kuponas taikomas",
-  "couponInvalid": "Kuponas neteisingas"
+  "couponInvalid": "Kuponas neteisingas",
+  "moreWarnings": "Daugiau įspėjimų"
 }

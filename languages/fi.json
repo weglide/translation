@@ -1076,5 +1076,6 @@
   "proceed": "Edetä",
   "couponCode": "Kuponkikoodi",
   "couponApplied": "Sovellettu kuponki",
-  "couponInvalid": "Kuponki"
+  "couponInvalid": "Kuponki",
+  "moreWarnings": "Lisää varoituksia"
 }

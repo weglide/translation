@@ -1075,5 +1075,6 @@
   "proceed": "Fortsette",
   "couponCode": "Kupongkode",
   "couponApplied": "Kupong brukt",
-  "couponInvalid": "Kupong ugyldig"
+  "couponInvalid": "Kupong ugyldig",
+  "moreWarnings": "Flere advarsler"
 }
