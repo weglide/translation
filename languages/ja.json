@@ -1076,5 +1076,7 @@
   "couponCode": "クーポンコード",
   "couponApplied": "クーポンが適用されました",
   "couponInvalid": "クーポン無効",
-  "moreWarnings": "その他の警告"
+  "moreWarnings": "その他の警告",
+  "accountDeleted": "アカウントが正常に削除されました",
+  "confirmDeletion": "パスワードを入力して、削除を確認してください"
 }

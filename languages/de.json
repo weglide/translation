@@ -1248,5 +1248,7 @@
   "couponCode": "Gutscheincode",
   "couponApplied": "Gutschein angewendet",
   "couponInvalid": "Gutschein ungültig",
-  "moreWarnings": "Mehr Warnungen"
+  "moreWarnings": "Mehr Warnungen",
+  "accountDeleted": "Konto erfolgreich gelöscht",
+  "confirmDeletion": "Geben Sie Ihr Passwort ein, um Ihr Konto zu löschen"
 }

@@ -1076,5 +1076,7 @@
   "couponCode": "Kod kuponu",
   "couponApplied": "Zastosowano kupon",
   "couponInvalid": "Kupon nieprawidłowy",
-  "moreWarnings": "Więcej ostrzeżeń"
+  "moreWarnings": "Więcej ostrzeżeń",
+  "accountDeleted": "Konto usunięto pomyślnie",
+  "confirmDeletion": "Wprowadź hasło, aby potwierdzić usunięcie"
 }

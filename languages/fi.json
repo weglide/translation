@@ -1077,5 +1077,7 @@
   "couponCode": "Kuponkikoodi",
   "couponApplied": "Sovellettu kuponki",
   "couponInvalid": "Kuponki",
-  "moreWarnings": "Lisää varoituksia"
+  "moreWarnings": "Lisää varoituksia",
+  "accountDeleted": "Tili poistettu onnistuneesti",
+  "confirmDeletion": "Kirjoita salasanasi vahvistaaksesi deleetion"
 }

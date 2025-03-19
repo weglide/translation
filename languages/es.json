@@ -1079,5 +1079,7 @@
   "couponCode": "Código de cupón",
   "couponApplied": "Cupón aplicado",
   "couponInvalid": "Cupón inválido",
-  "moreWarnings": "Más advertencias"
+  "moreWarnings": "Más advertencias",
+  "accountDeleted": "Cuenta eliminada con éxito",
+  "confirmDeletion": "Ingrese su contraseña para confirmar la eliminación"
 }

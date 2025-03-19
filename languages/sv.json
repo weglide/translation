@@ -1079,5 +1079,7 @@
   "couponCode": "Kupongkod",
   "couponApplied": "Kupong tillämpad",
   "couponInvalid": "Kupong ogiltig",
-  "moreWarnings": "Fler varningar"
+  "moreWarnings": "Fler varningar",
+  "accountDeleted": "Kontot raderas framgångsrikt",
+  "confirmDeletion": "Ange ditt lösenord för att bekräfta borttagningen"
 }

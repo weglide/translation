@@ -1075,5 +1075,7 @@
   "couponCode": "Kupónový kód",
   "couponApplied": "Použil kupón",
   "couponInvalid": "Kupón neplatný",
-  "moreWarnings": "Další varování"
+  "moreWarnings": "Další varování",
+  "accountDeleted": "Účet byl úspěšně smazán",
+  "confirmDeletion": "Zadejte své heslo pro potvrzení vymazání"
 }

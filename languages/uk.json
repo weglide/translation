@@ -1075,5 +1075,7 @@
   "couponCode": "Код купона",
   "couponApplied": "Купон застосовується",
   "couponInvalid": "Купон недійсний",
-  "moreWarnings": "Більше попереджень"
+  "moreWarnings": "Більше попереджень",
+  "accountDeleted": "Рахунок успішно видалено",
+  "confirmDeletion": "Введіть свій пароль для підтвердження видалення"
 }

@@ -1080,5 +1080,7 @@
   "couponCode": "Couponcode",
   "couponApplied": "Coupon toegepast",
   "couponInvalid": "Coupon ongeldig",
-  "moreWarnings": "Meer waarschuwingen"
+  "moreWarnings": "Meer waarschuwingen",
+  "accountDeleted": "Account met succes verwijderd",
+  "confirmDeletion": "Voer uw wachtwoord in om de verwijdering te bevestigen"
 }

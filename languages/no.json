@@ -1076,5 +1076,7 @@
   "couponCode": "Kupongkode",
   "couponApplied": "Kupong brukt",
   "couponInvalid": "Kupong ugyldig",
-  "moreWarnings": "Flere advarsler"
+  "moreWarnings": "Flere advarsler",
+  "accountDeleted": "Konto slettet vellykket",
+  "confirmDeletion": "Skriv inn passordet ditt for å bekrefte sletting"
 }

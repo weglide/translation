@@ -1246,5 +1246,7 @@
   "couponCode": "Code promo",
   "couponApplied": "Coupon appliqué",
   "couponInvalid": "Coupon invalide",
-  "moreWarnings": "Plus d'avertissements"
+  "moreWarnings": "Plus d'avertissements",
+  "accountDeleted": "Compte supprimé avec succès",
+  "confirmDeletion": "Entrez votre mot de passe pour confirmer la suppression"
 }

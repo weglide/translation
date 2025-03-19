@@ -1090,5 +1090,7 @@
   "couponCode": "",
   "couponApplied": "Coupon applied",
   "couponInvalid": "Coupon invalid",
-  "moreWarnings": ""
+  "moreWarnings": "",
+  "accountDeleted": "",
+  "confirmDeletion": ""
 }

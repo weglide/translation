@@ -1076,5 +1076,7 @@
   "couponCode": "Kupono kodas",
   "couponApplied": "Kuponas taikomas",
   "couponInvalid": "Kuponas neteisingas",
-  "moreWarnings": "Daugiau įspėjimų"
+  "moreWarnings": "Daugiau įspėjimų",
+  "accountDeleted": "Sąskaita sėkmingai ištrinta",
+  "confirmDeletion": "Įveskite slaptažodį, kad patvirtintumėte ištrynimą"
 }

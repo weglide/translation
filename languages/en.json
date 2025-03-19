@@ -1248,5 +1248,7 @@
   "couponCode": "Coupon code",
   "couponApplied": "Coupon applied",
   "couponInvalid": "Coupon invalid",
-  "moreWarnings": "More warnings"
+  "moreWarnings": "More warnings",
+  "accountDeleted": "Account deleted successfully",
+  "confirmDeletion": "Enter your password to confirm deletion"
 }
