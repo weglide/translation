@@ -1078,5 +1078,6 @@
   "couponInvalid": "Kupong ugyldig",
   "moreWarnings": "Flere advarsler",
   "accountDeleted": "Konto slettet vellykket",
-  "confirmDeletion": "Skriv inn passordet ditt for å bekrefte sletting"
+  "confirmDeletion": "Skriv inn passordet ditt for å bekrefte sletting",
+  "contactToDelete": "For å slette kontoen din, vennligst send oss ​​en e -post fra samme adresse som Waglide -kontoen din"
 }

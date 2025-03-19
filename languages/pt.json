@@ -1079,5 +1079,6 @@
   "couponInvalid": "Cupom inválido",
   "moreWarnings": "Mais avisos",
   "accountDeleted": "Conta excluída com sucesso",
-  "confirmDeletion": "Digite sua senha para confirmar a exclusão"
+  "confirmDeletion": "Digite sua senha para confirmar a exclusão",
+  "contactToDelete": "Para excluir sua conta, envie -nos um e -mail do mesmo endereço que sua conta WeGlide"
 }

@@ -1250,5 +1250,6 @@
   "couponInvalid": "Coupon invalid",
   "moreWarnings": "More warnings",
   "accountDeleted": "Account deleted successfully",
-  "confirmDeletion": "Enter your password to confirm deletion"
+  "confirmDeletion": "Enter your password to confirm deletion",
+  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account"
 }

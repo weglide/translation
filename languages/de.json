@@ -1250,5 +1250,6 @@
   "couponInvalid": "Gutschein ungültig",
   "moreWarnings": "Mehr Warnungen",
   "accountDeleted": "Konto erfolgreich gelöscht",
-  "confirmDeletion": "Geben Sie Ihr Passwort ein, um Ihr Konto zu löschen"
+  "confirmDeletion": "Geben Sie Ihr Passwort ein, um Ihr Konto zu löschen",
+  "contactToDelete": "Um Ihr Konto zu löschen, senden Sie uns bitte eine E-Mail aus derselben Adresse wie Ihr WeGlide Konto"
 }

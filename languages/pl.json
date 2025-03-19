@@ -1078,5 +1078,6 @@
   "couponInvalid": "Kupon nieprawidłowy",
   "moreWarnings": "Więcej ostrzeżeń",
   "accountDeleted": "Konto usunięto pomyślnie",
-  "confirmDeletion": "Wprowadź hasło, aby potwierdzić usunięcie"
+  "confirmDeletion": "Wprowadź hasło, aby potwierdzić usunięcie",
+  "contactToDelete": "Aby usunąć konto, prześlij nam pocztę z tego samego adresu, co konto Weglide"
 }

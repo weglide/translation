@@ -1078,5 +1078,6 @@
   "couponInvalid": "クーポン無効",
   "moreWarnings": "その他の警告",
   "accountDeleted": "アカウントが正常に削除されました",
-  "confirmDeletion": "パスワードを入力して、削除を確認してください"
+  "confirmDeletion": "パスワードを入力して、削除を確認してください",
+  "contactToDelete": "アカウントを削除するには、Weglideアカウントと同じアドレスからメールを送信してください"
 }
