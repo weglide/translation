@@ -1079,5 +1079,6 @@
   "couponInvalid": "Kuponki",
   "moreWarnings": "Lisää varoituksia",
   "accountDeleted": "Tili poistettu onnistuneesti",
-  "confirmDeletion": "Kirjoita salasanasi vahvistaaksesi deleetion"
+  "confirmDeletion": "Kirjoita salasanasi vahvistaaksesi deleetion",
+  "contactToDelete": "Jos haluat poistaa tilisi, lähetä meille sähköpostia samasta osoitteesta kuin Weglide -tilisi"
 }

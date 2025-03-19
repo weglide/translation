@@ -1081,5 +1081,6 @@
   "couponInvalid": "Kupong ogiltig",
   "moreWarnings": "Fler varningar",
   "accountDeleted": "Kontot raderas framgångsrikt",
-  "confirmDeletion": "Ange ditt lösenord för att bekräfta borttagningen"
+  "confirmDeletion": "Ange ditt lösenord för att bekräfta borttagningen",
+  "contactToDelete": "För att radera ditt konto, skicka oss ett e -postmeddelande från samma adress som ditt Weglide -konto"
 }

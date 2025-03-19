@@ -1081,5 +1081,6 @@
   "couponInvalid": "Coupon non valido",
   "moreWarnings": "Altri avvertimenti",
   "accountDeleted": "Account eliminato con successo",
-  "confirmDeletion": "Inserisci la tua password per confermare la cancellazione"
+  "confirmDeletion": "Inserisci la tua password per confermare la cancellazione",
+  "contactToDelete": "Per eliminare il tuo account, inviaci una posta dallo stesso indirizzo del tuo account Weglide"
 }
