@@ -1093,5 +1093,6 @@
   "moreWarnings": "",
   "accountDeleted": "",
   "confirmDeletion": "",
-  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account"
+  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account",
+  "deleteWarning": ""
 }

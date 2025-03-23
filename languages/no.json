@@ -1079,5 +1079,6 @@
   "moreWarnings": "Flere advarsler",
   "accountDeleted": "Konto slettet vellykket",
   "confirmDeletion": "Skriv inn passordet ditt for å bekrefte sletting",
-  "contactToDelete": "For å slette kontoen din, vennligst send oss ​​en e -post fra samme adresse som Waglide -kontoen din"
+  "contactToDelete": "For å slette kontoen din, vennligst send oss ​​en e -post fra samme adresse som Waglide -kontoen din",
+  "deleteWarning": "Selv om du ikke lenger bruker Weglide aktivt, kan du holde kontoen din og flyvningene dine tilgjengelige for samfunnet. \nHvis du bestemmer deg for å slette kontoen din, er denne handlingen permanent, og du mister alle flyvningene og dataene dine."
 }

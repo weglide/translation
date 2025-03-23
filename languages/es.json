@@ -1082,5 +1082,6 @@
   "moreWarnings": "Más advertencias",
   "accountDeleted": "Cuenta eliminada con éxito",
   "confirmDeletion": "Ingrese su contraseña para confirmar la eliminación",
-  "contactToDelete": "Para eliminar su cuenta, envíenos un correo desde la misma dirección que su cuenta de Weglide"
+  "contactToDelete": "Para eliminar su cuenta, envíenos un correo desde la misma dirección que su cuenta de Weglide",
+  "deleteWarning": "Incluso si ya no está utilizando activamente Weglide, puede mantener su cuenta y sus vuelos disponibles para la comunidad. \nSi decide eliminar su cuenta, esta acción es permanente y perderá todos sus vuelos y datos."
 }

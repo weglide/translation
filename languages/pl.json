@@ -1079,5 +1079,6 @@
   "moreWarnings": "Więcej ostrzeżeń",
   "accountDeleted": "Konto usunięto pomyślnie",
   "confirmDeletion": "Wprowadź hasło, aby potwierdzić usunięcie",
-  "contactToDelete": "Aby usunąć konto, prześlij nam pocztę z tego samego adresu, co konto Weglide"
+  "contactToDelete": "Aby usunąć konto, prześlij nam pocztę z tego samego adresu, co konto Weglide",
+  "deleteWarning": "Nawet jeśli nie używasz już aktywnie Weglide, możesz mieć swoje konto i loty dostępne dla społeczności. \nJeśli zdecydujesz się usunąć swoje konto, to działanie jest trwałe i stracisz wszystkie loty i dane."
 }

@@ -1249,5 +1249,6 @@
   "moreWarnings": "Plus d'avertissements",
   "accountDeleted": "Compte supprimé avec succès",
   "confirmDeletion": "Entrez votre mot de passe pour confirmer la suppression",
-  "contactToDelete": "Pour supprimer votre compte, veuillez nous envoyer un courrier de la même adresse que votre compte Weglide"
+  "contactToDelete": "Pour supprimer votre compte, veuillez nous envoyer un courrier de la même adresse que votre compte Weglide",
+  "deleteWarning": "Même si vous n'utilisez plus activement Weglide, vous pouvez conserver votre compte et vos vols disponibles pour la communauté. \nSi vous décidez de supprimer votre compte, cette action est permanente et vous perdrez tous vos vols et données."
 }

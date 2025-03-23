@@ -1080,5 +1080,6 @@
   "moreWarnings": "Lisää varoituksia",
   "accountDeleted": "Tili poistettu onnistuneesti",
   "confirmDeletion": "Kirjoita salasanasi vahvistaaksesi deleetion",
-  "contactToDelete": "Jos haluat poistaa tilisi, lähetä meille sähköpostia samasta osoitteesta kuin Weglide -tilisi"
+  "contactToDelete": "Jos haluat poistaa tilisi, lähetä meille sähköpostia samasta osoitteesta kuin Weglide -tilisi",
+  "deleteWarning": "Vaikka et enää käytä aktiivisesti Weglideä, voit pitää tilisi ja lentosi saatavana yhteisölle. \nJos päätät poistaa tilisi, tämä toimenpide on pysyvä ja menetät kaikki lentosi ja tietosi."
 }
