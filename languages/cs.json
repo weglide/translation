@@ -956,7 +956,7 @@
   "surface": "Povrch",
   "switchPlan": "Přepnout předplatné",
   "takeoff": "Start",
-  "takeoffWeight": "Vzletová hmotnost v {unit} (volitelné)",
+  "takeoffWeight": "Hmotnost vzletu ({min} - {max})",
   "task": "Úloha",
   "taskAnalysisMissedEnd": "Úkol není dokončen",
   "taskDeclarationWarning": "Tím se přepíší všechna deklarace ve vašem loggeru a na WeGlide.",
@@ -1077,5 +1077,6 @@
   "accountDeleted": "Účet byl úspěšně smazán",
   "confirmDeletion": "Zadejte své heslo pro potvrzení vymazání",
   "contactToDelete": "Chcete -li smazat svůj účet, pošlete nám e -mail ze stejné adresy jako váš účet Weglide",
-  "deleteWarning": "I když již aktivně nepoužíváte Weglide, můžete si nechat svůj účet a své lety k dispozici pro komunitu. \nPokud se rozhodnete smazat svůj účet, je tato akce trvalá a ztratíte všechny své lety a data."
+  "deleteWarning": "I když již aktivně nepoužíváte Weglide, můžete si nechat svůj účet a své lety k dispozici pro komunitu. \nPokud se rozhodnete smazat svůj účet, je tato akce trvalá a ztratíte všechny své lety a data.",
+  "myFilters": "Moje filtry"
 }

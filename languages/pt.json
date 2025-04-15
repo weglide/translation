@@ -958,7 +958,7 @@
   "surface": "Superfície",
   "switchPlan": "Alternar assinatura",
   "takeoff": "Descolar",
-  "takeoffWeight": "Peso de decolagem em {unit} (opcional)",
+  "takeoffWeight": "Peso de decolagem ({min} - {max})",
   "task": "Tarefa",
   "taskAnalysisMissedEnd": "Tarefa não concluída",
   "taskDeclarationWarning": "Isso substituirá todas as declarações em seu registrador e no WeGlide.",
@@ -1079,5 +1079,6 @@
   "accountDeleted": "Conta excluída com sucesso",
   "confirmDeletion": "Digite sua senha para confirmar a exclusão",
   "contactToDelete": "Para excluir sua conta, envie -nos um e -mail do mesmo endereço que sua conta WeGlide",
-  "deleteWarning": "Mesmo se você não estiver mais usando ativamente o WEGLIDE, pode manter sua conta e seus voos disponíveis para a comunidade. \nSe você decidir excluir sua conta, essa ação é permanente e você perderá todos os seus voos e dados."
+  "deleteWarning": "Mesmo se você não estiver mais usando ativamente o WEGLIDE, pode manter sua conta e seus voos disponíveis para a comunidade. \nSe você decidir excluir sua conta, essa ação é permanente e você perderá todos os seus voos e dados.",
+  "myFilters": "Meus filtros"
 }

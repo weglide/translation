@@ -961,7 +961,7 @@
   "surface": "Soort",
   "switchPlan": "Van abonnement wisselen",
   "takeoff": "Start",
-  "takeoffWeight": "Startgewicht in {unit} (optioneel)",
+  "takeoffWeight": "Startgewicht ({min} - {max})",
   "task": "Opdracht",
   "taskAnalysisMissedEnd": "Taak niet voltooid",
   "taskDeclarationWarning": "Hiermee worden alle declaraties in uw logger en op WeGlide overschreven.",
@@ -1082,5 +1082,6 @@
   "accountDeleted": "Account met succes verwijderd",
   "confirmDeletion": "Voer uw wachtwoord in om de verwijdering te bevestigen",
   "contactToDelete": "Stuur ons een e -mail vanuit hetzelfde adres als uw WEGLIDE -account om uw account te verwijderen",
-  "deleteWarning": "Zelfs als u niet langer actief Weglide gebruikt, kunt u uw account en uw vluchten beschikbaar houden voor de community. \nAls u besluit uw account te verwijderen, is deze actie permanent en verliest u al uw vluchten en gegevens."
+  "deleteWarning": "Zelfs als u niet langer actief Weglide gebruikt, kunt u uw account en uw vluchten beschikbaar houden voor de community. \nAls u besluit uw account te verwijderen, is deze actie permanent en verliest u al uw vluchten en gegevens.",
+  "myFilters": "Mijn filters"
 }

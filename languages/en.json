@@ -1123,7 +1123,7 @@
   "surface": "Surface",
   "switchPlan": "Switch subscription",
   "takeoff": "Takeoff",
-  "takeoffWeight": "Takeoff weight in {unit}",
+  "takeoffWeight": "Takeoff weight ({min} - {max})",
   "task": "Task",
   "taskAnalysisMissedEnd": "Task not Finished",
   "taskAnalysisMissedTurnpoint": "Missed turnpoint {turnpoint}",
@@ -1250,5 +1250,6 @@
   "accountDeleted": "Account deleted successfully",
   "confirmDeletion": "Enter your password to confirm deletion",
   "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account",
-  "deleteWarning": "Even if you're no longer actively using WeGlide, you can keep your account and your flights available for the community. If you decide to delete your account, this action is permanent and you will lose all your flights and data."
+  "deleteWarning": "Even if you're no longer actively using WeGlide, you can keep your account and your flights available for the community. If you decide to delete your account, this action is permanent and you will lose all your flights and data.",
+  "myFilters": "My filters"
 }

@@ -960,7 +960,7 @@
   "surface": "Superficie",
   "switchPlan": "Cambia abbonamento",
   "takeoff": "Partenza",
-  "takeoffWeight": "Peso al decollo in {unit} (opzionale)",
+  "takeoffWeight": "Peso di decollo ({min} - {max})",
   "task": "Obiettivi",
   "taskAnalysisMissedEnd": "Attività non completata",
   "taskDeclarationWarning": "Questo sovrascriverà tutte le dichiarazioni nel tuo logger e su WeGlide.",
@@ -1081,5 +1081,6 @@
   "accountDeleted": "Account eliminato con successo",
   "confirmDeletion": "Inserisci la tua password per confermare la cancellazione",
   "contactToDelete": "Per eliminare il tuo account, inviaci una posta dallo stesso indirizzo del tuo account Weglide",
-  "deleteWarning": "Anche se non stai più utilizzando attivamente WeGlide, puoi mantenere disponibili il tuo account e i tuoi voli per la comunità. \nSe decidi di eliminare il tuo account, questa azione è permanente e perderai tutti i tuoi voli e dati."
+  "deleteWarning": "Anche se non stai più utilizzando attivamente WeGlide, puoi mantenere disponibili il tuo account e i tuoi voli per la comunità. \nSe decidi di eliminare il tuo account, questa azione è permanente e perderai tutti i tuoi voli e dati.",
+  "myFilters": "I miei filtri"
 }

@@ -975,7 +975,6 @@
   "surface": "Overflade",
   "switchPlan": "Skift abonnement",
   "takeoff": "Start",
-  "takeoffWeight": "Startvægt i {unit} (valgfrit)",
   "task": "Opgave",
   "taskDeclarationWarning": "Dette vil overskrive alle deklarationer i din logger og på WeGlide.",
   "taskFilterPlaceholder": "Opgave, distance, pilot, flyveplads",
@@ -1084,13 +1083,7 @@
   "yourFlightCommented": "kommenterede din flyvning.",
   "yourPlan": "Dit abonnement",
   "zaDescription": "Sydafrikanske Mesterskaber",
-  "proceed": "",
-  "couponCode": "",
   "couponApplied": "Coupon applied",
   "couponInvalid": "Coupon invalid",
-  "moreWarnings": "",
-  "accountDeleted": "",
-  "confirmDeletion": "",
-  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account",
-  "deleteWarning": ""
+  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account"
 }
