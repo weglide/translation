@@ -1251,5 +1251,6 @@
   "confirmDeletion": "Bitte gebe dein Passwort ein um dein Konto zu löschen",
   "contactToDelete": "Bitte sende uns eine E-Mail aus derselben Adresse wie dein WeGlide Konto um dieses zu löschen",
   "deleteWarning": "Auch wenn du WeGlide nicht mehr aktiv nutzt, kannst du dein Konto und deine Flüge für die Community bestehen lassen.\nFalls du dich für das Löschen entscheidest, ist dies permanent und alle deine Flüge und Daten gehen verloren.",
-  "myFilters": "Meine Filter"
+  "myFilters": "Meine Filter",
+  "taskAnalysisMissedFirstTurnpoint": "Erste Wende oder Abflug verfehlt"
 }

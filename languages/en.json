@@ -1251,5 +1251,6 @@
   "confirmDeletion": "Enter your password to confirm deletion",
   "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account",
   "deleteWarning": "Even if you're no longer actively using WeGlide, you can keep your account and your flights available for the community. If you decide to delete your account, this action is permanent and you will lose all your flights and data.",
-  "myFilters": "My filters"
+  "myFilters": "My filters",
+  "taskAnalysisMissedFirstTurnpoint": "Missed first turnpoint or start"
 }
