@@ -1079,5 +1079,6 @@
   "contactToDelete": "Chcete -li smazat svůj účet, pošlete nám e -mail ze stejné adresy jako váš účet Weglide",
   "deleteWarning": "I když již aktivně nepoužíváte Weglide, můžete si nechat svůj účet a své lety k dispozici pro komunitu. \nPokud se rozhodnete smazat svůj účet, je tato akce trvalá a ztratíte všechny své lety a data.",
   "myFilters": "Moje filtry",
-  "taskAnalysisMissedFirstTurnpoint": "Zmeškaný první tardpoint nebo spusťte"
+  "taskAnalysisMissedFirstTurnpoint": "Zmeškaný první tardpoint nebo spusťte",
+  "paymentFailed": "Platba se nezdařila, aktualizujte prosím své platební údaje zde."
 }

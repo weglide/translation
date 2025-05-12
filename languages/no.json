@@ -1080,5 +1080,6 @@
   "contactToDelete": "For å slette kontoen din, vennligst send oss ​​en e -post fra samme adresse som Waglide -kontoen din",
   "deleteWarning": "Selv om du ikke lenger bruker Weglide aktivt, kan du holde kontoen din og flyvningene dine tilgjengelige for samfunnet. \nHvis du bestemmer deg for å slette kontoen din, er denne handlingen permanent, og du mister alle flyvningene og dataene dine.",
   "myFilters": "Mine filtre",
-  "taskAnalysisMissedFirstTurnpoint": "Savnet første turnunkt eller start"
+  "taskAnalysisMissedFirstTurnpoint": "Savnet første turnunkt eller start",
+  "paymentFailed": "Betalingen mislyktes. Vennligst oppdater betalingsinformasjonen din her."
 }

@@ -1081,5 +1081,6 @@
   "contactToDelete": "Para excluir sua conta, envie -nos um e -mail do mesmo endereço que sua conta WeGlide",
   "deleteWarning": "Mesmo se você não estiver mais usando ativamente o WEGLIDE, pode manter sua conta e seus voos disponíveis para a comunidade. \nSe você decidir excluir sua conta, essa ação é permanente e você perderá todos os seus voos e dados.",
   "myFilters": "Meus filtros",
-  "taskAnalysisMissedFirstTurnpoint": "Primeiro ponto de vista perdido ou começo"
+  "taskAnalysisMissedFirstTurnpoint": "Primeiro ponto de vista perdido ou começo",
+  "paymentFailed": "O pagamento falhou, atualize aqui as suas informações de pagamento."
 }

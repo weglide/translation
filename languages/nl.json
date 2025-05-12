@@ -1084,5 +1084,6 @@
   "contactToDelete": "Stuur ons een e -mail vanuit hetzelfde adres als uw WEGLIDE -account om uw account te verwijderen",
   "deleteWarning": "Zelfs als u niet langer actief Weglide gebruikt, kunt u uw account en uw vluchten beschikbaar houden voor de community. \nAls u besluit uw account te verwijderen, is deze actie permanent en verliest u al uw vluchten en gegevens.",
   "myFilters": "Mijn filters",
-  "taskAnalysisMissedFirstTurnpoint": "Gemist eerste turnpoint of start"
+  "taskAnalysisMissedFirstTurnpoint": "Gemist eerste turnpoint of start",
+  "paymentFailed": "Betaling mislukt, werk hier uw betalingsgegevens bij."
 }

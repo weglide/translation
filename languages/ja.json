@@ -1080,5 +1080,6 @@
   "contactToDelete": "アカウントを削除するには、Weglideアカウントと同じアドレスからメールを送信してください",
   "deleteWarning": "Weglideを積極的に使用していなくても、コミュニティでアカウントとフライトを利用できるようにすることができます。\nアカウントを削除することにした場合、このアクションは永続的であり、すべてのフライトとデータを失うことになります。",
   "myFilters": "私のフィルター",
-  "taskAnalysisMissedFirstTurnpoint": "最初のターンポイントまたはスタートを逃した"
+  "taskAnalysisMissedFirstTurnpoint": "最初のターンポイントまたはスタートを逃した",
+  "paymentFailed": "支払いに失敗しました。ここで支払い情報を更新してください。"
 }

@@ -1081,5 +1081,6 @@
   "contactToDelete": "Jos haluat poistaa tilisi, lähetä meille sähköpostia samasta osoitteesta kuin Weglide -tilisi",
   "deleteWarning": "Vaikka et enää käytä aktiivisesti Weglideä, voit pitää tilisi ja lentosi saatavana yhteisölle. \nJos päätät poistaa tilisi, tämä toimenpide on pysyvä ja menetät kaikki lentosi ja tietosi.",
   "myFilters": "Suodattimeni",
-  "taskAnalysisMissedFirstTurnpoint": "Unohdettu ensimmäinen käännöspiste tai käynnistys"
+  "taskAnalysisMissedFirstTurnpoint": "Unohdettu ensimmäinen käännöspiste tai käynnistys",
+  "paymentFailed": "Maksu epäonnistui, päivitä maksutietosi tähän."
 }

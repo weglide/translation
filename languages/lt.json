@@ -1080,5 +1080,6 @@
   "contactToDelete": "Norėdami ištrinti savo paskyrą, atsiųskite mums laišką iš to paties adreso kaip ir jūsų WeGlide paskyra",
   "deleteWarning": "Net jei nebe aktyviai naudojate „Weglide“, galite išlaikyti savo sąskaitą ir skrydžius bendruomenei. \nJei nuspręsite ištrinti savo sąskaitą, šis veiksmas yra nuolatinis ir prarasite visus skrydžius ir duomenis.",
   "myFilters": "Mano filtrai",
-  "taskAnalysisMissedFirstTurnpoint": "Praleido pirmąjį posūkio tašką arba pradėkite"
+  "taskAnalysisMissedFirstTurnpoint": "Praleido pirmąjį posūkio tašką arba pradėkite",
+  "paymentFailed": "Mokėjimas nepavyko, atnaujinkite mokėjimo informaciją čia."
 }

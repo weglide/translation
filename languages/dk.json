@@ -1085,5 +1085,6 @@
   "zaDescription": "Sydafrikanske Mesterskaber",
   "couponApplied": "Coupon applied",
   "couponInvalid": "Coupon invalid",
-  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account"
+  "contactToDelete": "To delete your account please send us a mail from the same address as your WeGlide Account",
+  "paymentFailed": "Betalingen mislykkedes. Opdater venligst dine betalingsoplysninger her."
 }
