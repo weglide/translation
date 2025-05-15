@@ -1084,5 +1084,6 @@
   "deleteWarning": "Incluso si ya no está utilizando activamente Weglide, puede mantener su cuenta y sus vuelos disponibles para la comunidad. \nSi decide eliminar su cuenta, esta acción es permanente y perderá todos sus vuelos y datos.",
   "myFilters": "Mis filtros",
   "taskAnalysisMissedFirstTurnpoint": "Falló el primer punto de inflexión o el inicio",
-  "paymentFailed": "Pago fallido, por favor actualice su información de pago aquí."
+  "paymentFailed": "Pago fallido, por favor actualice su información de pago aquí.",
+  "segmentDescription": "Vuela lo más rápido posible entre las puertas."
 }

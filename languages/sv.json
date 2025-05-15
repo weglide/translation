@@ -1084,5 +1084,6 @@
   "deleteWarning": "Även om du inte längre använder Weglide kan du hålla ditt konto och dina flyg tillgängliga för samhället. \nOm du bestämmer dig för att ta bort ditt konto är den här åtgärden permanent och du kommer att förlora alla dina flyg och data.",
   "myFilters": "Mina filter",
   "taskAnalysisMissedFirstTurnpoint": "Missade första turnpunkten eller start",
-  "paymentFailed": "Betalningen misslyckades, vänligen uppdatera din betalningsinformation här."
+  "paymentFailed": "Betalningen misslyckades, vänligen uppdatera din betalningsinformation här.",
+  "segmentDescription": "Flyga så snabbt som möjligt mellan grindarna."
 }

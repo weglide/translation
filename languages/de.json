@@ -1253,5 +1253,6 @@
   "deleteWarning": "Auch wenn du WeGlide nicht mehr aktiv nutzt, kannst du dein Konto und deine Flüge für die Community bestehen lassen.\nFalls du dich für das Löschen entscheidest, ist dies permanent und alle deine Flüge und Daten gehen verloren.",
   "myFilters": "Meine Filter",
   "taskAnalysisMissedFirstTurnpoint": "Erste Wende oder Abflug verfehlt",
-  "paymentFailed": "Zahlung fehlgeschlagen, bitte aktualisiere deine Zahlungsinformationen hier."
+  "paymentFailed": "Zahlung fehlgeschlagen, bitte aktualisiere deine Zahlungsinformationen hier.",
+  "segmentDescription": "Fliege so schnell wie möglich zwischen den Toren."
 }

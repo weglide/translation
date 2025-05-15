@@ -1085,5 +1085,6 @@
   "deleteWarning": "Zelfs als u niet langer actief Weglide gebruikt, kunt u uw account en uw vluchten beschikbaar houden voor de community. \nAls u besluit uw account te verwijderen, is deze actie permanent en verliest u al uw vluchten en gegevens.",
   "myFilters": "Mijn filters",
   "taskAnalysisMissedFirstTurnpoint": "Gemist eerste turnpoint of start",
-  "paymentFailed": "Betaling mislukt, werk hier uw betalingsgegevens bij."
+  "paymentFailed": "Betaling mislukt, werk hier uw betalingsgegevens bij.",
+  "segmentDescription": "Vlieg zo snel mogelijk tussen de poorten."
 }

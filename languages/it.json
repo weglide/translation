@@ -1084,5 +1084,6 @@
   "deleteWarning": "Anche se non stai più utilizzando attivamente WeGlide, puoi mantenere disponibili il tuo account e i tuoi voli per la comunità. \nSe decidi di eliminare il tuo account, questa azione è permanente e perderai tutti i tuoi voli e dati.",
   "myFilters": "I miei filtri",
   "taskAnalysisMissedFirstTurnpoint": "Primo punto o inizio mancato",
-  "paymentFailed": "Pagamento non riuscito, aggiorna i tuoi dati di pagamento qui."
+  "paymentFailed": "Pagamento non riuscito, aggiorna i tuoi dati di pagamento qui.",
+  "segmentDescription": "Vola il più velocemente possibile tra le porte."
 }

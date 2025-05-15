@@ -1253,5 +1253,6 @@
   "deleteWarning": "Even if you're no longer actively using WeGlide, you can keep your account and your flights available for the community. If you decide to delete your account, this action is permanent and you will lose all your flights and data.",
   "myFilters": "My filters",
   "taskAnalysisMissedFirstTurnpoint": "Missed first turnpoint or start",
-  "paymentFailed": "Payment failed, please update your payment info here."
+  "paymentFailed": "Payment failed, please update your payment info here.",
+  "segmentDescription": "Fly as fast as possible between the gates."
 }

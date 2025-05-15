@@ -1081,5 +1081,6 @@
   "deleteWarning": "Nawet jeśli nie używasz już aktywnie Weglide, możesz mieć swoje konto i loty dostępne dla społeczności. \nJeśli zdecydujesz się usunąć swoje konto, to działanie jest trwałe i stracisz wszystkie loty i dane.",
   "myFilters": "Moje filtry",
   "taskAnalysisMissedFirstTurnpoint": "Przegapił pierwszą rolę lub start",
-  "paymentFailed": "Płatność nie powiodła się. Zaktualizuj tutaj dane dotyczące płatności."
+  "paymentFailed": "Płatność nie powiodła się. Zaktualizuj tutaj dane dotyczące płatności.",
+  "segmentDescription": "Leć tak szybko, jak to możliwe między bramami."
 }
