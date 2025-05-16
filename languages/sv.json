@@ -1085,5 +1085,6 @@
   "myFilters": "Mina filter",
   "taskAnalysisMissedFirstTurnpoint": "Missade första turnpunkten eller start",
   "paymentFailed": "Betalningen misslyckades, vänligen uppdatera din betalningsinformation här.",
-  "segmentDescription": "Flyga så snabbt som möjligt mellan grindarna."
+  "segmentDescription": "Flyga så snabbt som möjligt mellan grindarna.",
+  "flownByMe": "Flög av mig"
 }

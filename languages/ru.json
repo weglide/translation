@@ -1081,5 +1081,6 @@
   "myFilters": "Мои фильтры",
   "taskAnalysisMissedFirstTurnpoint": "Пропустил первую точку зрения или начало",
   "paymentFailed": "Платеж не прошел, обновите платежную информацию здесь.",
-  "segmentDescription": "Летать как можно быстрее между воротами."
+  "segmentDescription": "Летать как можно быстрее между воротами.",
+  "flownByMe": "Летал мне"
 }

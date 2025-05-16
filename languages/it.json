@@ -1085,5 +1085,6 @@
   "myFilters": "I miei filtri",
   "taskAnalysisMissedFirstTurnpoint": "Primo punto o inizio mancato",
   "paymentFailed": "Pagamento non riuscito, aggiorna i tuoi dati di pagamento qui.",
-  "segmentDescription": "Vola il più velocemente possibile tra le porte."
+  "segmentDescription": "Vola il più velocemente possibile tra le porte.",
+  "flownByMe": "Volato da me"
 }

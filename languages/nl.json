@@ -1086,5 +1086,6 @@
   "myFilters": "Mijn filters",
   "taskAnalysisMissedFirstTurnpoint": "Gemist eerste turnpoint of start",
   "paymentFailed": "Betaling mislukt, werk hier uw betalingsgegevens bij.",
-  "segmentDescription": "Vlieg zo snel mogelijk tussen de poorten."
+  "segmentDescription": "Vlieg zo snel mogelijk tussen de poorten.",
+  "flownByMe": "Door mij gevlogen"
 }

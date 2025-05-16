@@ -1081,5 +1081,6 @@
   "myFilters": "Moje filtry",
   "taskAnalysisMissedFirstTurnpoint": "Zmeškaný první tardpoint nebo spusťte",
   "paymentFailed": "Platba se nezdařila, aktualizujte prosím své platební údaje zde.",
-  "segmentDescription": "Létat co nejrychleji mezi bránami."
+  "segmentDescription": "Létat co nejrychleji mezi bránami.",
+  "flownByMe": "Přiletěl mnou"
 }

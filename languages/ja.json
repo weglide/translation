@@ -1082,5 +1082,6 @@
   "myFilters": "私のフィルター",
   "taskAnalysisMissedFirstTurnpoint": "最初のターンポイントまたはスタートを逃した",
   "paymentFailed": "支払いに失敗しました。ここで支払い情報を更新してください。",
-  "segmentDescription": "ゲートの間でできるだけ速く飛行します。"
+  "segmentDescription": "ゲートの間でできるだけ速く飛行します。",
+  "flownByMe": "私が飛ばした"
 }

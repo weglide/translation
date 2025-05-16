@@ -1082,5 +1082,6 @@
   "myFilters": "Mine filtre",
   "taskAnalysisMissedFirstTurnpoint": "Savnet første turnunkt eller start",
   "paymentFailed": "Betalingen mislyktes. Vennligst oppdater betalingsinformasjonen din her.",
-  "segmentDescription": "Fly så raskt som mulig mellom portene."
+  "segmentDescription": "Fly så raskt som mulig mellom portene.",
+  "flownByMe": "Fløyet av meg"
 }

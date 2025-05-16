@@ -1254,5 +1254,6 @@
   "myFilters": "Meine Filter",
   "taskAnalysisMissedFirstTurnpoint": "Erste Wende oder Abflug verfehlt",
   "paymentFailed": "Zahlung fehlgeschlagen, bitte aktualisiere deine Zahlungsinformationen hier.",
-  "segmentDescription": "Fliege so schnell wie möglich zwischen den Toren."
+  "segmentDescription": "Fliege so schnell wie möglich zwischen den Toren.",
+  "flownByMe": "Von mir geflogen"
 }

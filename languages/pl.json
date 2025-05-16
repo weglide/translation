@@ -1082,5 +1082,6 @@
   "myFilters": "Moje filtry",
   "taskAnalysisMissedFirstTurnpoint": "Przegapił pierwszą rolę lub start",
   "paymentFailed": "Płatność nie powiodła się. Zaktualizuj tutaj dane dotyczące płatności.",
-  "segmentDescription": "Leć tak szybko, jak to możliwe między bramami."
+  "segmentDescription": "Leć tak szybko, jak to możliwe między bramami.",
+  "flownByMe": "Latam obok mnie"
 }
