@@ -150,7 +150,8 @@
     "out": "Fjärran",
     "out_return": "T&R",
     "sprint": "Sprint",
-    "triangle": "Triangel"
+    "triangle": "Triangel",
+    "be": "CC"
   },
   "contestRules": "Tävlingsregler",
   "continents": {

@@ -148,7 +148,8 @@
     "out": "Out",
     "out_return": "O&R",
     "sprint": "Sprint",
-    "triangle": "Triangle"
+    "triangle": "Triangle",
+    "be": "CC"
   },
   "contestRules": "Правила конкурса",
   "continents": {

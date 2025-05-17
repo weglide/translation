@@ -133,7 +133,8 @@
     "out": "Ud",
     "out_return": "Ud & hjem",
     "sprint": "Sprint",
-    "triangle": "Trekant"
+    "triangle": "Trekant",
+    "be": "CC"
   },
   "contestRules": "Konkurrenceregler",
   "continents": {
