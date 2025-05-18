@@ -1087,5 +1087,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Primo punto o inizio mancato",
   "paymentFailed": "Pagamento non riuscito, aggiorna i tuoi dati di pagamento qui.",
   "segmentDescription": "Vola il più velocemente possibile tra le porte.",
-  "flownByMe": "Volato da me"
+  "flownByMe": "Volato da me",
+  "notNationalRulesetDeclared": "I tipi di controllo dichiarati sono stati modificati da Weglide per abbinare le regole nazionali della competizione."
 }

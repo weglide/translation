@@ -1083,5 +1083,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Пропустил первую точку зрения или начало",
   "paymentFailed": "Платеж не прошел, обновите платежную информацию здесь.",
   "segmentDescription": "Летать как можно быстрее между воротами.",
-  "flownByMe": "Летал мне"
+  "flownByMe": "Летал мне",
+  "notNationalRulesetDeclared": "Объявленные типы Turnpoint были изменены Weglide, чтобы соответствовать правилам национальной конкуренции."
 }

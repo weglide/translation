@@ -1085,5 +1085,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Primeiro ponto de vista perdido ou começo",
   "paymentFailed": "O pagamento falhou, atualize aqui as suas informações de pagamento.",
   "segmentDescription": "Voe o mais rápido possível entre os portões.",
-  "flownByMe": "Voou por mim"
+  "flownByMe": "Voou por mim",
+  "notNationalRulesetDeclared": "Os tipos de ponto de vista declarados foram alterados por Weglide para corresponder às regras nacionais da competição."
 }

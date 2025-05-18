@@ -1085,5 +1085,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Unohdettu ensimmäinen käännöspiste tai käynnistys",
   "paymentFailed": "Maksu epäonnistui, päivitä maksutietosi tähän.",
   "segmentDescription": "Lennä mahdollisimman nopeasti porttien välillä.",
-  "flownByMe": "Minun lentänyt"
+  "flownByMe": "Minun lentänyt",
+  "notNationalRulesetDeclared": "Weglide muutti ilmoitetut käännöspistetyypit vastaamaan kansallisia kilpailusääntöjä."
 }

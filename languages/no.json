@@ -1084,5 +1084,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Savnet første turnunkt eller start",
   "paymentFailed": "Betalingen mislyktes. Vennligst oppdater betalingsinformasjonen din her.",
   "segmentDescription": "Fly så raskt som mulig mellom portene.",
-  "flownByMe": "Fløyet av meg"
+  "flownByMe": "Fløyet av meg",
+  "notNationalRulesetDeclared": "De erklærte turnspunkttypene ble endret av Weglide for å matche de nasjonale konkurranseglene."
 }

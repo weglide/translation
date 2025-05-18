@@ -1088,5 +1088,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Gemist eerste turnpoint of start",
   "paymentFailed": "Betaling mislukt, werk hier uw betalingsgegevens bij.",
   "segmentDescription": "Vlieg zo snel mogelijk tussen de poorten.",
-  "flownByMe": "Door mij gevlogen"
+  "flownByMe": "Door mij gevlogen",
+  "notNationalRulesetDeclared": "De aangegeven turnpoint -typen werden door Weglide gewijzigd om aan de nationale concurrentieregels te voldoen."
 }

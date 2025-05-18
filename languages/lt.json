@@ -1084,5 +1084,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Praleido pirmąjį posūkio tašką arba pradėkite",
   "paymentFailed": "Mokėjimas nepavyko, atnaujinkite mokėjimo informaciją čia.",
   "segmentDescription": "Skraidykite kuo greičiau tarp vartų.",
-  "flownByMe": "Skraidė manęs"
+  "flownByMe": "Skraidė manęs",
+  "notNationalRulesetDeclared": "Paskelbti „Turnpoint“ tipai WeGlide pakeitė, kad atitiktų nacionalines konkurencijos taisykles."
 }

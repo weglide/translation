@@ -1256,5 +1256,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Erste Wende oder Abflug verfehlt",
   "paymentFailed": "Zahlung fehlgeschlagen, bitte aktualisiere deine Zahlungsinformationen hier.",
   "segmentDescription": "Fliege so schnell wie möglich zwischen den Toren.",
-  "flownByMe": "Von mir geflogen"
+  "flownByMe": "Von mir geflogen",
+  "notNationalRulesetDeclared": "Die Art der Wendepunkte wurde von WeGlide angepasst um den nationalen Wettbewerbsregeln zu entsprechen."
 }

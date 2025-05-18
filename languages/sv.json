@@ -1087,5 +1087,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Missade första turnpunkten eller start",
   "paymentFailed": "Betalningen misslyckades, vänligen uppdatera din betalningsinformation här.",
   "segmentDescription": "Flyga så snabbt som möjligt mellan grindarna.",
-  "flownByMe": "Flög av mig"
+  "flownByMe": "Flög av mig",
+  "notNationalRulesetDeclared": "De deklarerade turnpunktstyperna ändrades av Weglide för att matcha de nationella tävlingsreglerna."
 }

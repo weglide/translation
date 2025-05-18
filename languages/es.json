@@ -1087,5 +1087,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Falló el primer punto de inflexión o el inicio",
   "paymentFailed": "Pago fallido, por favor actualice su información de pago aquí.",
   "segmentDescription": "Vuela lo más rápido posible entre las puertas.",
-  "flownByMe": "Volado por mi"
+  "flownByMe": "Volado por mi",
+  "notNationalRulesetDeclared": "Weglide alteró los tipos de puntos de tendido declarados para que coincidan con las reglas de la competencia nacional."
 }

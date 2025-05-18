@@ -1083,5 +1083,6 @@
   "taskAnalysisMissedFirstTurnpoint": "Zmeškaný první tardpoint nebo spusťte",
   "paymentFailed": "Platba se nezdařila, aktualizujte prosím své platební údaje zde.",
   "segmentDescription": "Létat co nejrychleji mezi bránami.",
-  "flownByMe": "Přiletěl mnou"
+  "flownByMe": "Přiletěl mnou",
+  "notNationalRulesetDeclared": "Deklarované typy obrazovek byly změněny Weglide, aby odpovídaly pravidlům národní soutěže."
 }
