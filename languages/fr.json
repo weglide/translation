@@ -1255,5 +1255,6 @@
   "paymentFailed": "Paiement échoué, veuillez mettre à jour vos informations de paiement ici.",
   "segmentDescription": "Volez entre les portes aussi vite que possible.",
   "flownByMe": "Volé par moi",
-  "notNationalRulesetDeclared": "Les types de virages déclarés ont été modifiés par Weglide pour correspondre aux règles nationales du concours."
+  "notNationalRulesetDeclared": "Les types de virages déclarés ont été modifiés par Weglide pour correspondre aux règles nationales du concours.",
+  "sharePicture": "Partagez l'image sur les réseaux sociaux"
 }

@@ -1085,5 +1085,6 @@
   "paymentFailed": "支払いに失敗しました。ここで支払い情報を更新してください。",
   "segmentDescription": "ゲートの間でできるだけ速く飛行します。",
   "flownByMe": "私が飛ばした",
-  "notNationalRulesetDeclared": "宣言されたターンポイントタイプは、全国競争の規則に合わせてWeglideによって変更されました。"
+  "notNationalRulesetDeclared": "宣言されたターンポイントタイプは、全国競争の規則に合わせてWeglideによって変更されました。",
+  "sharePicture": "ソーシャルメディアで写真を共有します"
 }

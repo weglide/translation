@@ -1084,5 +1084,6 @@
   "paymentFailed": "Platba se nezdařila, aktualizujte prosím své platební údaje zde.",
   "segmentDescription": "Létat co nejrychleji mezi bránami.",
   "flownByMe": "Přiletěl mnou",
-  "notNationalRulesetDeclared": "Deklarované typy obrazovek byly změněny Weglide, aby odpovídaly pravidlům národní soutěže."
+  "notNationalRulesetDeclared": "Deklarované typy obrazovek byly změněny Weglide, aby odpovídaly pravidlům národní soutěže.",
+  "sharePicture": "Sdílejte obrázek na sociálních médiích"
 }
