@@ -1086,5 +1086,6 @@
   "segmentDescription": "ゲートの間でできるだけ速く飛行します。",
   "flownByMe": "私が飛ばした",
   "notNationalRulesetDeclared": "宣言されたターンポイントタイプは、全国競争の規則に合わせてWeglideによって変更されました。",
-  "sharePicture": "ソーシャルメディアで写真を共有します"
+  "sharePicture": "ソーシャルメディアで写真を共有します",
+  "inTheAir": "空中"
 }

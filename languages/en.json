@@ -1258,5 +1258,6 @@
   "segmentDescription": "Fly as fast as possible between the gates.",
   "flownByMe": "Flown by me",
   "notNationalRulesetDeclared": "The declared turnpoint types were altered by WeGlide to match the national competition rules.",
-  "sharePicture": "Share Picture on Social Media"
+  "sharePicture": "Share Picture on Social Media",
+  "inTheAir": "Airborne"
 }
