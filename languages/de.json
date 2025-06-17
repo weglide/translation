@@ -1259,5 +1259,7 @@
   "flownByMe": "Von mir geflogen",
   "notNationalRulesetDeclared": "Die Art der Wendepunkte wurde von WeGlide angepasst um den nationalen Wettbewerbsregeln zu entsprechen.",
   "sharePicture": "Bild auf sozialen Netzwerken teilen",
-  "inTheAir": "In der Luft"
+  "inTheAir": "In der Luft",
+  "noAllCaps": "Bitte nicht nur Großbuchstaben verwenden, schreibe es so „Vorname Nachname“",
+  "noFirstLetterLowercase": "Bitte schreibe den ersten Buchstaben groß, etwa so \"Vorname Nachname\""
 }

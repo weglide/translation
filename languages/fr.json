@@ -1257,5 +1257,7 @@
   "flownByMe": "Volé par moi",
   "notNationalRulesetDeclared": "Les types de virages déclarés ont été modifiés par Weglide pour correspondre aux règles nationales du concours.",
   "sharePicture": "Partagez l'image sur les réseaux sociaux",
-  "inTheAir": "En l'air"
+  "inTheAir": "En l'air",
+  "noAllCaps": "Veuillez ne pas utiliser uniquement des majuscules, écrivez plutôt comme ceci «Prénom Nom»",
+  "noFirstLetterLowercase": "Veuillez mettre la première lettre en majuscule, par exemple «Prénom Nom»"
 }

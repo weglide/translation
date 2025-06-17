@@ -1259,5 +1259,7 @@
   "flownByMe": "Flown by me",
   "notNationalRulesetDeclared": "The declared turnpoint types were altered by WeGlide to match the national competition rules.",
   "sharePicture": "Share Picture on Social Media",
-  "inTheAir": "Airborne"
+  "inTheAir": "Airborne",
+  "noAllCaps": "Please do not use only caps, write it like this instead \"Firstname Lastname\"",
+  "noFirstLetterLowercase": "Please write the first letter uppercase, like this \"Firstname Lastname\""
 }
