@@ -1259,5 +1259,7 @@
   "sharePicture": "Partagez l'image sur les réseaux sociaux",
   "inTheAir": "En l'air",
   "noAllCaps": "Veuillez ne pas utiliser uniquement des majuscules, écrivez plutôt comme ceci «Prénom Nom»",
-  "noFirstLetterLowercase": "Veuillez mettre la première lettre en majuscule, par exemple «Prénom Nom»"
+  "noFirstLetterLowercase": "Veuillez mettre la première lettre en majuscule, par exemple «Prénom Nom»",
+  "soaringspotCompetition": "Concours de soaringspot",
+  "soaringspotCompetitions": "Concours de soaringspot"
 }

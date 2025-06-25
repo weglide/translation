@@ -1088,5 +1088,7 @@
   "flownByMe": "Minun lentänyt",
   "notNationalRulesetDeclared": "Weglide muutti ilmoitetut käännöspistetyypit vastaamaan kansallisia kilpailusääntöjä.",
   "sharePicture": "Jaa kuva sosiaalisessa mediassa",
-  "inTheAir": "Ilmassa"
+  "inTheAir": "Ilmassa",
+  "soaringspotCompetition": "Soaringspot -kilpailu",
+  "soaringspotCompetitions": "Soaringspot -kilpailut"
 }

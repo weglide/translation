@@ -1090,5 +1090,7 @@
   "flownByMe": "Flög av mig",
   "notNationalRulesetDeclared": "De deklarerade turnpunktstyperna ändrades av Weglide för att matcha de nationella tävlingsreglerna.",
   "sharePicture": "Dela bild på sociala medier",
-  "inTheAir": "I luften"
+  "inTheAir": "I luften",
+  "soaringspotCompetition": "SoaringSpot -tävling",
+  "soaringspotCompetitions": "SoaringSpot -tävlingar"
 }

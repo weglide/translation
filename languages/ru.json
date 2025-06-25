@@ -1086,5 +1086,7 @@
   "flownByMe": "Летал мне",
   "notNationalRulesetDeclared": "Объявленные типы Turnpoint были изменены Weglide, чтобы соответствовать правилам национальной конкуренции.",
   "sharePicture": "Поделиться картинкой в ​​социальных сетях",
-  "inTheAir": "В воздухе"
+  "inTheAir": "В воздухе",
+  "soaringspotCompetition": "Соревнование Soaringspot",
+  "soaringspotCompetitions": "Соревнования Soaringspot"
 }

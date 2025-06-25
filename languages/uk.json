@@ -1086,5 +1086,7 @@
   "flownByMe": "Пролетів за мною",
   "notNationalRulesetDeclared": "Зазначені типи перевороту були змінені Weglide, щоб відповідати національним правилам конкуренції.",
   "sharePicture": "Поділіться малюнком у соціальних мережах",
-  "inTheAir": "У повітрі"
+  "inTheAir": "У повітрі",
+  "soaringspotCompetition": "Конкуренція Soaringspot",
+  "soaringspotCompetitions": "Змагання Soaringspot"
 }

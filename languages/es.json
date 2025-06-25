@@ -1090,5 +1090,7 @@
   "flownByMe": "Volado por mi",
   "notNationalRulesetDeclared": "Weglide alteró los tipos de puntos de tendido declarados para que coincidan con las reglas de la competencia nacional.",
   "sharePicture": "Compartir imagen en las redes sociales",
-  "inTheAir": "En el aire"
+  "inTheAir": "En el aire",
+  "soaringspotCompetition": "Competencia Soaringspot",
+  "soaringspotCompetitions": "Competiciones de Soaringspot"
 }

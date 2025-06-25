@@ -1261,5 +1261,7 @@
   "sharePicture": "Share Picture on Social Media",
   "inTheAir": "Airborne",
   "noAllCaps": "Please do not use only caps, write it like this instead \"Firstname Lastname\"",
-  "noFirstLetterLowercase": "Please write the first letter uppercase, like this \"Firstname Lastname\""
+  "noFirstLetterLowercase": "Please write the first letter uppercase, like this \"Firstname Lastname\"",
+  "soaringspotCompetition": "Soaringspot Competition",
+  "soaringspotCompetitions": "Soaringspot Competitions"
 }
