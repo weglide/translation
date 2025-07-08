@@ -186,7 +186,7 @@
   "dayReplay": "リプレイ",
   "days": "日々",
   "declaration": "宣言",
-  "declarationTeaser": "タスクを宣言して、全国大会で最大 70% のボーナス ポイントを獲得したり、地方大会に参加したりできます。タスクを宣言し、全国大会で最大70％のボーナスポイントを獲得します。",
+  "declarationTeaser": "タスクを宣言し、{contest}の最大70％のボーナスポイントを獲得します。",
   "declare": "宣言する",
   "declareFor": "このタスクを次のように宣言します",
   "declaredTask": "宣言されたタスク",
@@ -1089,5 +1089,7 @@
   "sharePicture": "ソーシャルメディアで写真を共有します",
   "inTheAir": "空中",
   "soaringspotCompetition": "Soaringspot競争",
-  "soaringspotCompetitions": "Soaringspot競技"
+  "soaringspotCompetitions": "Soaringspot競技",
+  "beDescription": "ベルギーのチャンピオンシップ",
+  "declarationTeaserFallback": "タスクを自分への挑戦として宣言します。"
 }

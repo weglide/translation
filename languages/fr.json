@@ -233,7 +233,7 @@
   "dayReplay": "Rediffusion jour",
   "days": "Jours",
   "declaration": "Comme prévu",
-  "declarationTeaser": "Déclarez un circuit et obtenez jusqu'à 70% de points bonus dans les compétitions nationales ou participez aux compétitions locales.",
+  "declarationTeaser": "Déclarez un circuit et obtenez jusqu'à 70% de points bonus dans les {contest}.",
   "declare": "Déclarer",
   "declareFor": "Déclare ce circuit pour le concours national",
   "declaredTask": "Circuit déclaré",
@@ -1261,5 +1261,7 @@
   "noAllCaps": "Veuillez ne pas utiliser uniquement des majuscules, écrivez plutôt comme ceci «Prénom Nom»",
   "noFirstLetterLowercase": "Veuillez mettre la première lettre en majuscule, par exemple «Prénom Nom»",
   "soaringspotCompetition": "Concours de soaringspot",
-  "soaringspotCompetitions": "Concours de soaringspot"
+  "soaringspotCompetitions": "Concours de soaringspot",
+  "beDescription": "Championnats belges",
+  "declarationTeaserFallback": "Déclarez un circuit comme un défi pour vous-même."
 }

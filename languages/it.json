@@ -189,7 +189,7 @@
   "dayReplay": "Ripetizione giorno",
   "days": "Giorni",
   "declaration": "Dichiarato",
-  "declarationTeaser": "Dichiara un'attività e ottieni fino al 70% di punti bonus nelle competizioni nazionali o partecipa alle competizioni locali.Dichiara un compito e ottieni fino al 70% di punti bonus nelle competizioni nazionali.",
+  "declarationTeaser": "Dichiarare un'attività e ottenere fino al 70% di punti bonus per {contest}.",
   "declare": "Dichiara",
   "declareFor": "Dichiara questa attività per",
   "declaredTask": "Incarichi dichiarati",
@@ -1092,5 +1092,7 @@
   "sharePicture": "Condividi l'immagine sui social media",
   "inTheAir": "Nell'aria",
   "soaringspotCompetition": "Soaringspot Competition",
-  "soaringspotCompetitions": "Competizioni di soaringspot"
+  "soaringspotCompetitions": "Competizioni di soaringspot",
+  "beDescription": "Campionati belgi",
+  "declarationTeaserFallback": "Dichiara che un compito rappresenta una sfida per te stesso."
 }

@@ -233,7 +233,7 @@
   "dayReplay": "Tages Rückschau",
   "days": "Tage",
   "declaration": "Deklariert",
-  "declarationTeaser": "Deklariere eine Aufgabe und erhalte bis zu 70 % Bonuspunkte bei nationalen Wettbewerben oder nehme an lokalen Wettbewerben teil.",
+  "declarationTeaser": "Deklariere eine Aufgabe und erhalte bis zu 70 % Bonuspunkte für die {contest}.",
   "declare": "Deklarieren",
   "declareFor": "Für den nationalen Wettbewerb deklarieren",
   "declaredTask": "Deklarierte Aufgabe",
@@ -1263,5 +1263,7 @@
   "noAllCaps": "Bitte nicht nur Großbuchstaben verwenden, schreibe es so „Vorname Nachname“",
   "noFirstLetterLowercase": "Bitte schreibe den ersten Buchstaben groß, etwa so \"Vorname Nachname\"",
   "soaringspotCompetition": "Soaringspot Wettbewerb",
-  "soaringspotCompetitions": "Soaringspot -Wettbewerbe"
+  "soaringspotCompetitions": "Soaringspot -Wettbewerbe",
+  "beDescription": "Belgische Meisterschaften",
+  "declarationTeaserFallback": "Deklariere eine Aufgabe als Herausforderung für dich selbst."
 }

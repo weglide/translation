@@ -187,7 +187,7 @@
   "dayReplay": "Dags repris",
   "days": "dagar",
   "declaration": "Deklarerade",
-  "declarationTeaser": "Deklarera en uppgift och få upp till 70 % bonuspoäng i nationella tävlingar eller delta i lokala tävlingar.",
+  "declarationTeaser": "Förklara en uppgift och få upp till 70% bonuspoäng för {contest}.",
   "declare": "Deklarera",
   "declareFor": "Deklarera uppgiften för",
   "declaredTask": "Deklarerad uppgift",
@@ -1092,5 +1092,7 @@
   "sharePicture": "Dela bild på sociala medier",
   "inTheAir": "I luften",
   "soaringspotCompetition": "SoaringSpot -tävling",
-  "soaringspotCompetitions": "SoaringSpot -tävlingar"
+  "soaringspotCompetitions": "SoaringSpot -tävlingar",
+  "beDescription": "Belgiska mästerskap",
+  "declarationTeaserFallback": "Förklara och slutföra en uppgift som en utmaning för dig själv."
 }

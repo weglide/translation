@@ -186,7 +186,7 @@
   "dayReplay": "Denní přehrávání",
   "days": "Dnů",
   "declaration": "Deklarace",
-  "declarationTeaser": "Vyhlaste úkol a získejte až 70 % bonusových bodů v národních soutěžích nebo se zúčastněte místních soutěží.Vyhlaste úkol a získejte až 70 % bonusových bodů v národních soutěžích.",
+  "declarationTeaser": "Prohlásit úkol a získat až 70% bonusové body za {Contest}.",
   "declare": "Deklarovat",
   "declareFor": "Deklarujte tento úkol po dobu",
   "declaredTask": "Deklarovaná úloha",
@@ -1088,5 +1088,7 @@
   "sharePicture": "Sdílejte obrázek na sociálních médiích",
   "inTheAir": "Ve vzduchu",
   "soaringspotCompetition": "Soutěž Soaringspot",
-  "soaringspotCompetitions": "Soutěž Soaringspot"
+  "soaringspotCompetitions": "Soutěž Soaringspot",
+  "beDescription": "Belgické mistrovství",
+  "declarationTeaserFallback": "Prohlásit a dokončit úkol jako výzvu pro sebe."
 }

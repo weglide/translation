@@ -187,7 +187,7 @@
   "dayReplay": "Päivän toisto",
   "days": "päivää",
   "declaration": "Ilmoitettu",
-  "declarationTeaser": "Ilmoita tehtävä ja hanki jopa 70 % bonuspisteitä kansallisissa kilpailuissa tai osallistu paikallisiin kilpailuihin.Ilmoita tehtävä ja saat jopa 70 % bonuspisteitä kansallisissa kilpailuissa.",
+  "declarationTeaser": "Ilmoita tehtävä ja saa jopa 70% bonuspisteitä {contest}.",
   "declare": "Julistaa",
   "declareFor": "Ilmoita tämä tehtävä henkilölle",
   "declaredTask": "Ilmoitettu tehtävä",
@@ -1090,5 +1090,7 @@
   "sharePicture": "Jaa kuva sosiaalisessa mediassa",
   "inTheAir": "Ilmassa",
   "soaringspotCompetition": "Soaringspot -kilpailu",
-  "soaringspotCompetitions": "Soaringspot -kilpailut"
+  "soaringspotCompetitions": "Soaringspot -kilpailut",
+  "beDescription": "Belgialaiset mestaruuskilpailut",
+  "declarationTeaserFallback": "Ilmoita ja suorita tehtävä haasteena itsellesi."
 }

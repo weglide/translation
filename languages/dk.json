@@ -168,7 +168,6 @@
   "dayReplay": "Gengiv dagen",
   "days": "Dage",
   "declaration": "Deklareret",
-  "declarationTeaser": "Deklarer en opgave og få op til 70% bonus point i nationale konkurrencer eller deltag i lokale konkurrencer.",
   "declare": "Deklarere",
   "declareFor": "Deklarer til national konkurrence",
   "declaredTask": "Deklareret opgave",
@@ -1087,6 +1086,6 @@
   "paymentFailed": "Betalingen mislykkedes. Opdater venligst dine betalingsoplysninger her.",
   "sharePicture": "Share Picture on Social Media",
   "inTheAir": "In the air",
-  "soaringspotCompetition": "Soaringspot Competition",
-  "soaringspotCompetitions": ""
+  "declarationTeaserFallback": "Erklær en opgave som en udfordring for dig selv.",
+  "declarationTeaser": "Udfyld en opgave og få op til 70% bonuspoint til {contest}."
 }

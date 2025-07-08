@@ -189,7 +189,7 @@
   "dayReplay": "repetición día",
   "days": "Dias",
   "declaration": "Declarado",
-  "declarationTeaser": "Declare una tarea y obtenga hasta un 70% de puntos de bonificación en competencias nacionales o participe en competencias locales.Declare una tarea y obtenga hasta un 70% de puntos de bonificación en competiciones nacionales.",
+  "declarationTeaser": "Declare una tarea y obtenga hasta el 70% de puntos de bonificación para {contest}.",
   "declare": "Declarar",
   "declareFor": "Declare esta tarea para",
   "declaredTask": "Tarea declarada",
@@ -1092,5 +1092,7 @@
   "sharePicture": "Compartir imagen en las redes sociales",
   "inTheAir": "En el aire",
   "soaringspotCompetition": "Competencia Soaringspot",
-  "soaringspotCompetitions": "Competiciones de Soaringspot"
+  "soaringspotCompetitions": "Competiciones de Soaringspot",
+  "beDescription": "Campeonato belga",
+  "declarationTeaserFallback": "Declara una tarea como un desafío para ti mismo."
 }

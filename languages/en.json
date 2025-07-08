@@ -233,7 +233,7 @@
   "dayReplay": "Day Replay",
   "days": "Days",
   "declaration": "Declared",
-  "declarationTeaser": "Declare a task and get up to 70% bonus points in national competitions or participate in local competitions.",
+  "declarationTeaser": "Declare a task and get up to 70% bonus points for {contest}.",
   "declare": "Declare",
   "declareFor": "Declare for national competition",
   "declaredTask": "Declared Task",
@@ -1263,5 +1263,7 @@
   "noAllCaps": "Please do not use only caps, write it like this instead \"Firstname Lastname\"",
   "noFirstLetterLowercase": "Please write the first letter uppercase, like this \"Firstname Lastname\"",
   "soaringspotCompetition": "Soaringspot Competition",
-  "soaringspotCompetitions": "Soaringspot Competitions"
+  "soaringspotCompetitions": "Soaringspot Competitions",
+  "beDescription": "Belgian Championships",
+  "declarationTeaserFallback": "Declare and complete a task as a challenge for yourself."
 }

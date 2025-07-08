@@ -186,7 +186,7 @@
   "dayReplay": "Replay av dagen",
   "days": "Dager",
   "declaration": "Erklært",
-  "declarationTeaser": "Erklær en oppgave og få opptil 70 % bonuspoeng i nasjonale konkurranser eller delta i lokale konkurranser.Erklær en oppgave og få opptil 70 % bonuspoeng i nasjonale konkurranser.",
+  "declarationTeaser": "Forklar en oppgave og få opptil 70% bonuspoeng for {contest}.",
   "declare": "Erklære",
   "declareFor": "Erklær denne oppgaven for",
   "declaredTask": "Erklært oppgave",
@@ -1089,5 +1089,7 @@
   "sharePicture": "Del bilde på sosiale medier",
   "inTheAir": "I luften",
   "soaringspotCompetition": "SoaringsPot -konkurranse",
-  "soaringspotCompetitions": "SoaringsPot -konkurranser"
+  "soaringspotCompetitions": "SoaringsPot -konkurranser",
+  "beDescription": "Belgiske mesterskap",
+  "declarationTeaserFallback": "Erklære og fullføre en oppgave som en utfordring for deg selv."
 }

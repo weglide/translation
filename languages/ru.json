@@ -185,7 +185,7 @@
   "dayReplay": "Повтор дня",
   "days": "Дни",
   "declaration": "Заявлено",
-  "declarationTeaser": "Объявите задачу и получите до 70% бонусных баллов в национальных соревнованиях или участвуйте в местных соревнованиях.Объявите задание и получите до 70% бонусных баллов в национальных соревнованиях.",
+  "declarationTeaser": "Объявить задачу и получить до 70% бонусных баллов для {contest}.",
   "declare": "Объявить",
   "declareFor": "Объявите эту задачу для",
   "declaredTask": "Заявленная задача",
@@ -1088,5 +1088,7 @@
   "sharePicture": "Поделиться картинкой в ​​социальных сетях",
   "inTheAir": "В воздухе",
   "soaringspotCompetition": "Соревнование Soaringspot",
-  "soaringspotCompetitions": "Соревнования Soaringspot"
+  "soaringspotCompetitions": "Соревнования Soaringspot",
+  "beDescription": "Бельгийские чемпионаты",
+  "declarationTeaserFallback": "Объявить и выполнить задачу как вызов для себя."
 }

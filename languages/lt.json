@@ -186,7 +186,7 @@
   "dayReplay": "Dienos pakartojimas",
   "days": "Dienos",
   "declaration": "Paskelbta",
-  "declarationTeaser": "Paskelbkite užduotį ir gaukite iki 70% papildomų taškų nacionaliniuose konkursuose arba dalyvaukite vietinėse varžybose.Paskelbkite užduotį ir gaukite iki 70% papildomų taškų nacionaliniuose konkursuose.",
+  "declarationTeaser": "Paskelbkite užduotį ir gaukite iki 70% premijos taškų už {contest}.",
   "declare": "Deklaruoti",
   "declareFor": "Paskelbkite šią užduotį",
   "declaredTask": "Paskelbta užduotis",
@@ -1089,5 +1089,7 @@
   "sharePicture": "Dalinkitės nuotrauka socialinėje žiniasklaidoje",
   "inTheAir": "Ore",
   "soaringspotCompetition": "„SoaINGSPOT“ varžybos",
-  "soaringspotCompetitions": "„SoaINGSPOT“ varžybos"
+  "soaringspotCompetitions": "„SoaINGSPOT“ varžybos",
+  "beDescription": "Belgijos čempionatai",
+  "declarationTeaserFallback": "Paskelbkite ir atlikite užduotį kaip iššūkį sau."
 }

@@ -189,7 +189,7 @@
   "dayReplay": "Dag herhaling",
   "days": "Dagen",
   "declaration": "Gedeclareerd",
-  "declarationTeaser": "Verklaar een taak en ontvang tot 70% bonuspunten in nationale competities of neem deel aan lokale competities.Verklaar een taak en ontvang tot 70% bonuspunten in nationale competities.",
+  "declarationTeaser": "Verklaar een taak en ontvang tot 70% bonuspunten voor {contest}.",
   "declare": "Declareren",
   "declareFor": "Declareer deze taak voor",
   "declaredTask": "Gedeclareerde opdracht",
@@ -1093,5 +1093,7 @@
   "sharePicture": "Deel het beeld op sociale media",
   "inTheAir": "In de lucht",
   "soaringspotCompetition": "Soaringspot -concurrentie",
-  "soaringspotCompetitions": "Soaringspot -wedstrijden"
+  "soaringspotCompetitions": "Soaringspot -wedstrijden",
+  "beDescription": "Belgische kampioenschappen",
+  "declarationTeaserFallback": "Verklaar en voltooi een taak als een uitdaging voor jezelf."
 }

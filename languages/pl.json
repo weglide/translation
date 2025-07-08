@@ -186,7 +186,7 @@
   "dayReplay": "Powtórka dnia",
   "days": "Dni",
   "declaration": "Zadeklarowany",
-  "declarationTeaser": "Zadeklaruj zadanie i zdobądź do 70% punktów bonusowych w konkursach ogólnopolskich lub weź udział w konkursach lokalnych.Zadeklaruj zadanie i zdobądź do 70% punktów bonusowych w konkursach krajowych.",
+  "declarationTeaser": "Dokonaj zadania i uzyskaj do 70% punktów bonusowych dla {contest}.",
   "declare": "zgłosić",
   "declareFor": "Zadeklaruj to zadanie na",
   "declaredTask": "Zadeklarowane zadanie",
@@ -1089,5 +1089,7 @@
   "sharePicture": "Udostępnij obraz w mediach społecznościowych",
   "inTheAir": "Nic pewnego",
   "soaringspotCompetition": "Konkurs SoaringSpot",
-  "soaringspotCompetitions": "Konkursy SoaringSpot"
+  "soaringspotCompetitions": "Konkursy SoaringSpot",
+  "beDescription": "Belgijskie mistrzostwa",
+  "declarationTeaserFallback": "Dokonaj i wykonaj zadanie jako wyzwanie dla siebie."
 }
