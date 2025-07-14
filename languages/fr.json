@@ -1263,5 +1263,7 @@
   "soaringspotCompetition": "Concours de soaringspot",
   "soaringspotCompetitions": "Concours de soaringspot",
   "beDescription": "Championnats belges",
-  "declarationTeaserFallback": "Déclarez un circuit comme un défi pour vous-même."
+  "declarationTeaserFallback": "Déclarez un circuit comme un défi pour vous-même.",
+  "bestDistance": "Distance supérieure (rond)",
+  "bestSpeed": "Vitesse de pointe (rond)"
 }
