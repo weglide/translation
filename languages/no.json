@@ -943,7 +943,11 @@
 	"subscription": {
 		"administration": "Administrasjon",
 		"becomePatron": "Bli en beskytter",
-		"hdSatelliteUpgrade": "Få HD-satellittkart"
+		"hdSatelliteUpgrade": "Få HD-satellittkart",
+		"videos": "Videoer",
+		"videosAutoplay": "Videoen din spiller automatisk i innmatingene til vennene dine",
+		"videosDescription": "Last opp korte videoer for å dele spesielle øyeblikk:",
+		"videosQuality": "FHD videoer på opptil 30 sekunder"
 	},
 	"success": "Suksess",
 	"support": {

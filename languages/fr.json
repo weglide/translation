@@ -1109,7 +1109,11 @@
 		"weatherSatelliteFrequencyWorld": "Intervalles de 10 minutes pour le monde entier",
 		"weightAnalysisDescription": "Découvre la quantité de lest d’eau à emporter avec toi.",
 		"weightAnalysisOptimum": "Découvre quelle vitesse tu aurais pu atteindre en volant plus lourd ou plus léger",
-		"weightAnalysisSpeed": "Découvre la quantité de lest d'eau à emporter avec toi"
+		"weightAnalysisSpeed": "Découvre la quantité de lest d'eau à emporter avec toi",
+		"videos": "Vidéos",
+		"videosAutoplay": "Votre vidéo sera automatiquement diffusée dans les flux de vos amis",
+		"videosDescription": "Téléchargez de courtes vidéos pour partager des moments spéciaux :",
+		"videosQuality": "Vidéos FHD de jusqu'à 30 secondes"
 	},
 	"success": "Avec succès",
 	"support": {

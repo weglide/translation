@@ -943,7 +943,11 @@
 	"subscription": {
 		"administration": "管理",
 		"becomePatron": "パトロンになる",
-		"hdSatelliteUpgrade": "HD 衛星地図を入手する"
+		"hdSatelliteUpgrade": "HD 衛星地図を入手する",
+		"videos": "ビデオ",
+		"videosAutoplay": "あなたのビデオはあなたの友達のフィードで自動的に再生されます",
+		"videosDescription": "短いビデオをアップロードして、特別な瞬間を共有します。",
+		"videosQuality": "最大30秒のFHDビデオ"
 	},
 	"success": "成功",
 	"support": {

@@ -943,7 +943,11 @@
 	"subscription": {
 		"administration": "Administracja",
 		"becomePatron": "Zostań Patronem",
-		"hdSatelliteUpgrade": "Uzyskaj mapy satelitarne HD"
+		"hdSatelliteUpgrade": "Uzyskaj mapy satelitarne HD",
+		"videos": "Filmy",
+		"videosAutoplay": "Twój film zostanie automatycznie odtwarzany w kanałach znajomych",
+		"videosDescription": "Prześlij krótkie filmy, aby udostępnić specjalne momenty:",
+		"videosQuality": "Filmy FHD do 30 sekund"
 	},
 	"success": "Sukces",
 	"support": {

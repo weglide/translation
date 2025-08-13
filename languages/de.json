@@ -1109,7 +1109,11 @@
 		"weatherSatelliteFrequencyWorld": "10 Minuten Intervall weltweit",
 		"weightAnalysisDescription": "Finde heraus, wie viel Wasserballast du mitnehmen sollst.",
 		"weightAnalysisOptimum": "Sehe welche Geschwindigkeiten du erreicht hättest wenn du leichter oder schwerer geflogen wärst",
-		"weightAnalysisSpeed": "Finde heraus wie viel Wasserballast du mitnehmen sollst"
+		"weightAnalysisSpeed": "Finde heraus wie viel Wasserballast du mitnehmen sollst",
+		"videos": "Videos",
+		"videosAutoplay": "Dein Video wird automatisch in den Feeds deiner Freunde abgespielt",
+		"videosDescription": "Lade kurze Videos hoch, um besondere Momente zu teilen:",
+		"videosQuality": "FHD Videos von bis zu 30 Sekunden"
 	},
 	"success": "Erfolg",
 	"support": {

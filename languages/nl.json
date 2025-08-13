@@ -947,7 +947,11 @@
 	"subscription": {
 		"administration": "Administratie",
 		"becomePatron": "Word een beschermheer",
-		"hdSatelliteUpgrade": "HD-satellietkaarten ophalen"
+		"hdSatelliteUpgrade": "HD-satellietkaarten ophalen",
+		"videos": "Video's",
+		"videosAutoplay": "Je video speelt automatisch in de feeds van je vrienden",
+		"videosDescription": "Upload korte video's om speciale momenten te delen:",
+		"videosQuality": "FHD video's van maximaal 30 seconden"
 	},
 	"success": "Geslaagd",
 	"support": {

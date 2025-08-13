@@ -942,7 +942,11 @@
 	"subscription": {
 		"administration": "Адміністрація",
 		"becomePatron": "Стати патроном",
-		"hdSatelliteUpgrade": "Отримайте супутникові карти HD"
+		"hdSatelliteUpgrade": "Отримайте супутникові карти HD",
+		"videos": "Відеоролики",
+		"videosAutoplay": "Ваше відео автоматично відтворюватиметься у каналах ваших друзів",
+		"videosDescription": "Завантажте короткі відео, щоб поділитися спеціальними моментами:",
+		"videosQuality": "FHD відео до 30 секунд"
 	},
 	"success": "Успішно",
 	"support": {

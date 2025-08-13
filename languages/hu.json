@@ -1109,7 +1109,11 @@
 		"weatherSatelliteFrequencyWorld": "10 perces intervallum világszerte",
 		"weightAnalysisDescription": "Tudd meg, mennyi vízballasztot vigyél magaddal.",
 		"weightAnalysisOptimum": "Nézd meg, milyen sebességet érhettél volna el, ha nehezebben vagy könnyebben repülsz",
-		"weightAnalysisSpeed": "Tudd meg, mennyi vízballasztot vigyél magaddal"
+		"weightAnalysisSpeed": "Tudd meg, mennyi vízballasztot vigyél magaddal",
+		"videos": "Videó",
+		"videosAutoplay": "A videód automatikusan lejátszódik a barátainak hírcsatornáin",
+		"videosDescription": "Töltsön fel rövid videókat a különleges pillanatok megosztásához:",
+		"videosQuality": "FHD videók akár 30 másodperces"
 	},
 	"success": "Siker",
 	"support": {

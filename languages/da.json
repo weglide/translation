@@ -968,7 +968,11 @@
 		"waypointCollectionsPublic": "Udgiv en samling til alle brugere",
 		"weatherSatellite": "Vejrsatellit",
 		"weatherSatelliteDescription": "Animerede vejrsatellit-billeder ved høj frekvens.",
-		"weatherSatelliteFrequencyWorld": "10 minutters interval globalt"
+		"weatherSatelliteFrequencyWorld": "10 minutters interval globalt",
+		"videos": "Videoer",
+		"videosAutoplay": "Din video afspilles automatisk i feeds af dine venner",
+		"videosDescription": "Upload korte videoer for at dele specielle øjeblikke:",
+		"videosQuality": "FHD videoer på op til 30 sekunder"
 	},
 	"success": "Succes",
 	"supportWeGlideNow": "Støt WeGlide nu",

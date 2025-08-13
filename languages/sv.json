@@ -946,7 +946,11 @@
 	"subscription": {
 		"administration": "Administrering",
 		"becomePatron": "Bli en beskyddare",
-		"hdSatelliteUpgrade": "Få HD-satellitkartor"
+		"hdSatelliteUpgrade": "Få HD-satellitkartor",
+		"videos": "Videor",
+		"videosAutoplay": "Din video kommer automatiskt att spela i flödena från dina vänner",
+		"videosDescription": "Ladda upp korta videor för att dela speciella stunder:",
+		"videosQuality": "FHD -videor på upp till 30 sekunder"
 	},
 	"success": "Framgång",
 	"support": {

@@ -943,7 +943,11 @@
 	"subscription": {
 		"administration": "Správa",
 		"becomePatron": "Staňte se patronem",
-		"hdSatelliteUpgrade": "Získejte HD satelitní mapy"
+		"hdSatelliteUpgrade": "Získejte HD satelitní mapy",
+		"videos": "Videa",
+		"videosAutoplay": "Vaše video bude automaticky hrát ve zdrojích vašich přátel",
+		"videosDescription": "Nahrajte krátká videa pro sdílení zvláštních okamžiků:",
+		"videosQuality": "FHD videa až 30 sekund"
 	},
 	"success": "Úspěch",
 	"support": {

@@ -1109,7 +1109,11 @@
 		"weatherSatelliteFrequencyWorld": "10 minute interval worldwide",
 		"weightAnalysisDescription": "Find out how much water ballast to take with you.",
 		"weightAnalysisOptimum": "See what speed you could have achieved when flying heavier or lighter",
-		"weightAnalysisSpeed": "Find out how much water ballast to take with you"
+		"weightAnalysisSpeed": "Find out how much water ballast to take with you",
+		"videos": "Videos",
+		"videosDescription": "Upload short videos to share special moments:",
+		"videosAutoplay": "Your video will automatically play in the feeds of your friends",
+		"videosQuality": "FHD videos of up to 30 seconds"
 	},
 	"success": "Success",
 	"support": {

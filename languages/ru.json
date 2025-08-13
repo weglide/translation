@@ -942,7 +942,11 @@
 	"subscription": {
 		"administration": "Администрация",
 		"becomePatron": "Стать покровителем",
-		"hdSatelliteUpgrade": "Получить спутниковые карты HD"
+		"hdSatelliteUpgrade": "Получить спутниковые карты HD",
+		"videos": "Видео",
+		"videosAutoplay": "Ваше видео автоматически воспроизводятся в фидах ваших друзей",
+		"videosDescription": "Загрузите короткие видео, чтобы поделиться особыми моментами:",
+		"videosQuality": "FHD видео до 30 секунд"
 	},
 	"success": "Успех",
 	"support": {

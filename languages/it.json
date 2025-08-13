@@ -946,7 +946,11 @@
 	"subscription": {
 		"administration": "Amministrazione",
 		"becomePatron": "Diventa un mecenate",
-		"hdSatelliteUpgrade": "Ottieni mappe satellitari HD"
+		"hdSatelliteUpgrade": "Ottieni mappe satellitari HD",
+		"videos": "Video",
+		"videosAutoplay": "Il tuo video giocherà automaticamente nei feed dei tuoi amici",
+		"videosDescription": "Carica brevi video per condividere momenti speciali:",
+		"videosQuality": "Video FHD fino a 30 secondi"
 	},
 	"success": "Completato",
 	"support": {

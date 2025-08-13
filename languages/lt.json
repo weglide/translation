@@ -943,7 +943,11 @@
 	"subscription": {
 		"administration": "Administracija",
 		"becomePatron": "Tapk mecenatu",
-		"hdSatelliteUpgrade": "Gaukite HD palydovinius žemėlapius"
+		"hdSatelliteUpgrade": "Gaukite HD palydovinius žemėlapius",
+		"videos": "Vaizdo įrašai",
+		"videosAutoplay": "Jūsų vaizdo įrašas automatiškai bus rodomas jūsų draugų kanaluose",
+		"videosDescription": "Įkelkite trumpus vaizdo įrašus, kad pasidalytumėte ypatingomis akimirkomis:",
+		"videosQuality": "FHD vaizdo įrašai iki 30 sekundžių"
 	},
 	"success": "Sėkmė",
 	"support": {

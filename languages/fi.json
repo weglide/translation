@@ -944,7 +944,11 @@
 	"subscription": {
 		"administration": "Hallinto",
 		"becomePatron": "Ryhdy suojelijaksi",
-		"hdSatelliteUpgrade": "Hanki HD-satelliittikartat"
+		"hdSatelliteUpgrade": "Hanki HD-satelliittikartat",
+		"videos": "Video",
+		"videosAutoplay": "Videosi soitetaan automaattisesti ystävien syötteissä",
+		"videosDescription": "Lataa lyhyitä videoita jakamaan erityisiä hetkiä:",
+		"videosQuality": "FHD videot, jotka ovat enintään 30 sekuntia"
 	},
 	"success": "Menestys",
 	"support": {

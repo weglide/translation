@@ -944,7 +944,11 @@
 	"subscription": {
 		"administration": "Administração",
 		"becomePatron": "Torne-se um Patrono",
-		"hdSatelliteUpgrade": "Obtenha mapas de satélite HD"
+		"hdSatelliteUpgrade": "Obtenha mapas de satélite HD",
+		"videos": "Vídeos",
+		"videosAutoplay": "Seu vídeo será reproduzido automaticamente nos feeds de seus amigos",
+		"videosDescription": "Carregue vídeos curtos para compartilhar momentos especiais:",
+		"videosQuality": "Vídeos de FHD de até 30 segundos"
 	},
 	"success": "Sucesso",
 	"support": {
