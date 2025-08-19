@@ -1095,5 +1095,6 @@
 	"soaringspotCompetition": "„SoaINGSPOT“ varžybos",
 	"soaringspotCompetitions": "„SoaINGSPOT“ varžybos",
 	"beDescription": "Belgijos čempionatai",
-	"declarationTeaserFallback": "Paskelbkite ir atlikite užduotį kaip iššūkį sau."
+	"declarationTeaserFallback": "Paskelbkite ir atlikite užduotį kaip iššūkį sau.",
+	"duplicateAccount": "Paskyros šiuo vardu ir klubas jau egzistuoja. Prašau prisijungti."
 }

@@ -1269,5 +1269,6 @@
 	"beDescription": "Championnats belges",
 	"declarationTeaserFallback": "Déclarez un circuit comme un défi pour vous-même.",
 	"bestDistance": "Distance supérieure (rond)",
-	"bestSpeed": "Vitesse de pointe (rond)"
+	"bestSpeed": "Vitesse de pointe (rond)",
+	"duplicateAccount": "Un compte portant ce nom et ce club existe déjà. Veuillez vous connecter."
 }

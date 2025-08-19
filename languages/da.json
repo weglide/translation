@@ -1091,5 +1091,6 @@
 	"sharePicture": "Share Picture on Social Media",
 	"inTheAir": "In the air",
 	"declarationTeaserFallback": "Erklær en opgave som en udfordring for dig selv.",
-	"declarationTeaser": "Udfyld en opgave og få op til 70% bonuspoint til {contest}."
+	"declarationTeaser": "Udfyld en opgave og få op til 70% bonuspoint til {contest}.",
+	"duplicateAccount": "Konto med dette navn og klub findes allerede. Log ind."
 }

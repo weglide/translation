@@ -1094,5 +1094,6 @@
 	"soaringspotCompetition": "Конкуренція Soaringspot",
 	"soaringspotCompetitions": "Змагання Soaringspot",
 	"beDescription": "Бельгійський чемпіонат",
-	"declarationTeaserFallback": "Оголосити і виконати завдання як виклик для себе."
+	"declarationTeaserFallback": "Оголосити і виконати завдання як виклик для себе.",
+	"duplicateAccount": "Рахунок з цим іменем та клубом вже існує. Будь ласка, увійдіть."
 }

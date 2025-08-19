@@ -1095,5 +1095,6 @@
 	"soaringspotCompetition": "SoaringsPot -konkurranse",
 	"soaringspotCompetitions": "SoaringsPot -konkurranser",
 	"beDescription": "Belgiske mesterskap",
-	"declarationTeaserFallback": "Erklære og fullføre en oppgave som en utfordring for deg selv."
+	"declarationTeaserFallback": "Erklære og fullføre en oppgave som en utfordring for deg selv.",
+	"duplicateAccount": "Konto med dette navnet og klubben eksisterer allerede. Vennligst logg inn."
 }

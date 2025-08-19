@@ -1098,5 +1098,6 @@
 	"soaringspotCompetition": "Soaringspot Competition",
 	"soaringspotCompetitions": "Competizioni di soaringspot",
 	"beDescription": "Campionati belgi",
-	"declarationTeaserFallback": "Dichiara che un compito rappresenta una sfida per te stesso."
+	"declarationTeaserFallback": "Dichiara che un compito rappresenta una sfida per te stesso.",
+	"duplicateAccount": "L'account con questo nome e club esiste già. Si prega di accedere."
 }

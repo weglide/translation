@@ -1095,5 +1095,6 @@
 	"soaringspotCompetition": "Konkurs SoaringSpot",
 	"soaringspotCompetitions": "Konkursy SoaringSpot",
 	"beDescription": "Belgijskie mistrzostwa",
-	"declarationTeaserFallback": "Dokonaj i wykonaj zadanie jako wyzwanie dla siebie."
+	"declarationTeaserFallback": "Dokonaj i wykonaj zadanie jako wyzwanie dla siebie.",
+	"duplicateAccount": "Konto z tą nazwą i klubem już istnieje. Zaloguj się."
 }

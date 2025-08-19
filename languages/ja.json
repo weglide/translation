@@ -1095,5 +1095,6 @@
 	"soaringspotCompetition": "Soaringspot競争",
 	"soaringspotCompetitions": "Soaringspot競技",
 	"beDescription": "ベルギーのチャンピオンシップ",
-	"declarationTeaserFallback": "タスクを自分への挑戦として宣言します。"
+	"declarationTeaserFallback": "タスクを自分への挑戦として宣言します。",
+	"duplicateAccount": "この名前とクラブのアカウントはすでに存在しています。ログインしてください。"
 }
