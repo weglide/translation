@@ -1270,5 +1270,9 @@
 	"soaringspotCompetitions": "Soaringspot -Wettbewerbe",
 	"beDescription": "Belgische Meisterschaften",
 	"declarationTeaserFallback": "Deklariere eine Aufgabe als Herausforderung für dich selbst.",
-	"duplicateAccount": "Konto mit diesem Namen und Verein gibt es bereits. Bitte logge dich ein."
+	"duplicateAccount": "Konto mit diesem Namen und Verein gibt es bereits. Bitte logge dich ein.",
+	"revalidate": "Neu validieren",
+	"rescore": "Rescoren",
+	"rebuild": "Rebuilden",
+	"actions": "Aktionen"
 }

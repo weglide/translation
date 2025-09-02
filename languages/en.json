@@ -1270,5 +1270,9 @@
 	"soaringspotCompetitions": "Soaringspot Competitions",
 	"beDescription": "Belgian Championships",
 	"declarationTeaserFallback": "Declare and complete a task as a challenge for yourself.",
-	"duplicateAccount": "Account with this name and club already exists. Please log in."
+	"duplicateAccount": "Account with this name and club already exists. Please log in.",
+	"revalidate": "Revalidate",
+	"rescore": "Rescore",
+	"rebuild": "Rebuild",
+	"actions": "Actions"
 }
