@@ -1100,5 +1100,6 @@
 	"soaringspotCompetitions": "Soaringspot -wedstrijden",
 	"beDescription": "Belgische kampioenschappen",
 	"declarationTeaserFallback": "Verklaar en voltooi een taak als een uitdaging voor jezelf.",
-	"duplicateAccount": "Account bij deze naam en de club bestaat al. Log in."
+	"duplicateAccount": "Account bij deze naam en de club bestaat al. Log in.",
+	"flightNoScoring": "Geen vluchtscore, vlucht waarschijnlijk te kort"
 }

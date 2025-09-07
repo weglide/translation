@@ -1097,5 +1097,6 @@
 	"soaringspotCompetitions": "Soaringspot -kilpailut",
 	"beDescription": "Belgialaiset mestaruuskilpailut",
 	"declarationTeaserFallback": "Ilmoita ja suorita tehtävä haasteena itsellesi.",
-	"duplicateAccount": "Tilin tämän nimen ja klubin kanssa on jo olemassa. Kirjaudu sisään."
+	"duplicateAccount": "Tilin tämän nimen ja klubin kanssa on jo olemassa. Kirjaudu sisään.",
+	"flightNoScoring": "Ei lentopistettä, lento todennäköisesti liian lyhyt"
 }

@@ -1095,5 +1095,6 @@
 	"soaringspotCompetitions": "Змагання Soaringspot",
 	"beDescription": "Бельгійський чемпіонат",
 	"declarationTeaserFallback": "Оголосити і виконати завдання як виклик для себе.",
-	"duplicateAccount": "Рахунок з цим іменем та клубом вже існує. Будь ласка, увійдіть."
+	"duplicateAccount": "Рахунок з цим іменем та клубом вже існує. Будь ласка, увійдіть.",
+	"flightNoScoring": "Немає рейтингу, рейс, мабуть, занадто короткий"
 }

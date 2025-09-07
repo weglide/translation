@@ -1096,5 +1096,6 @@
 	"soaringspotCompetitions": "„SoaINGSPOT“ varžybos",
 	"beDescription": "Belgijos čempionatai",
 	"declarationTeaserFallback": "Paskelbkite ir atlikite užduotį kaip iššūkį sau.",
-	"duplicateAccount": "Paskyros šiuo vardu ir klubas jau egzistuoja. Prašau prisijungti."
+	"duplicateAccount": "Paskyros šiuo vardu ir klubas jau egzistuoja. Prašau prisijungti.",
+	"flightNoScoring": "Jokių skrydžio taškų, skrydis tikriausiai per trumpas"
 }

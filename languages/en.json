@@ -1274,5 +1274,6 @@
 	"revalidate": "Revalidate",
 	"rescore": "Rescore",
 	"rebuild": "Rebuild",
-	"actions": "Actions"
+	"actions": "Actions",
+	"flightNoScoring": "No flight scoring, flight probably too short"
 }

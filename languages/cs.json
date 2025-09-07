@@ -1095,5 +1095,6 @@
 	"soaringspotCompetitions": "Soutěž Soaringspot",
 	"beDescription": "Belgické mistrovství",
 	"declarationTeaserFallback": "Prohlásit a dokončit úkol jako výzvu pro sebe.",
-	"duplicateAccount": "Účet s tímto jménem a klubem již existuje. Přihlaste se prosím."
+	"duplicateAccount": "Účet s tímto jménem a klubem již existuje. Přihlaste se prosím.",
+	"flightNoScoring": "Žádné bodování letu, let pravděpodobně příliš krátký"
 }

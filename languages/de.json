@@ -1274,5 +1274,6 @@
 	"revalidate": "Neu validieren",
 	"rescore": "Rescoren",
 	"rebuild": "Rebuilden",
-	"actions": "Aktionen"
+	"actions": "Aktionen",
+	"flightNoScoring": "Keine Wertung, Flug wahrscheinlich zu kurz"
 }

@@ -1099,5 +1099,6 @@
 	"soaringspotCompetitions": "SoaringSpot -tävlingar",
 	"beDescription": "Belgiska mästerskap",
 	"declarationTeaserFallback": "Förklara och slutföra en uppgift som en utmaning för dig själv.",
-	"duplicateAccount": "Konto med detta namn och klubb finns redan. Logga in."
+	"duplicateAccount": "Konto med detta namn och klubb finns redan. Logga in.",
+	"flightNoScoring": "Ingen flygpoäng, flygning förmodligen för kort"
 }

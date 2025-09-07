@@ -1270,5 +1270,6 @@
 	"soaringspotCompetitions": "Soaringspot Versenyek",
 	"beDescription": "Belga Bajnokság",
 	"declarationTeaserFallback": "Deklarálj és teljesíts egy távot kihívásként magadnak.",
-	"duplicateAccount": "A névvel és a klubgal rendelkező fiók már létezik. Kérjük, jelentkezzen be."
+	"duplicateAccount": "A névvel és a klubgal rendelkező fiók már létezik. Kérjük, jelentkezzen be.",
+	"flightNoScoring": "Nincs repülési pontozás, a repülés valószínűleg túl rövid"
 }

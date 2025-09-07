@@ -1099,5 +1099,6 @@
 	"soaringspotCompetitions": "Competiciones de Soaringspot",
 	"beDescription": "Campeonato belga",
 	"declarationTeaserFallback": "Declara una tarea como un desafío para ti mismo.",
-	"duplicateAccount": "Cuenta con este nombre y el club ya existe. Inicie sesión."
+	"duplicateAccount": "Cuenta con este nombre y el club ya existe. Inicie sesión.",
+	"flightNoScoring": "Sin anotaciones de vuelo, el vuelo probablemente demasiado corto"
 }
