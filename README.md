@@ -1,24 +1,21 @@
-![WeGlide translation logo](./logo.png)
-
 # WeGlide Translation
 
-The ``*.json`` files include the translation for different languages.
-``en.json`` is up to date and includes all the keys used in WeGlide.
-If a key is missing in another language, english will be used.
+This repository contains all the visible text on www.weglide.org
 
+The ``json`` files include the translation for different languages.
+``en.json`` is up to date and includes all the keys used in WeGlide.
+If a key is missing in another language, english will be used. For this reason, please remove empty keys completely.
 
 ## Contribute
 
 **Every help is greatly appreciated.**
 
-You are invited to add your favorite language as new column to each key.
-
-Please create your own branch named ``language/english`` (replace english with your language name) and submit a pull request when you are done.
+You are invited to add or improve your any language.
+To do this, clone this repository into your GitHub account, add a commit with your changes and open a pull request to this repository.
 
 *If you need help, are not familiar with git, do not want to use it or have other questions feel free to write us at info@weglide.org.*
 
 Thank you!
-
 
 ## Contributors ❤️
 
