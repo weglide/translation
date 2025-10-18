@@ -222,7 +222,7 @@
   "embed": "Bygg inn",
   "enableOpenInSeeYou": "Tillat åpen i SeeYou for mine flyreiser",
   "enablePushNotifications": "Aktiver push-varsler",
-  "encourage": "La oss ta av sammen og bli med neste generasjons glideplattform.",
+  "encourage": "Del eventyr, oppdag flyreiser og koble til",
   "engine": "Motor",
   "engineRun": "Motoren går",
   "enlargeMap": "Forstørre kartet",
@@ -773,7 +773,7 @@
   "oneMoreWingman": "Enda en wingman",
   "oneWingman": "En wingman",
   "onlyVisibleForMe": "Bare synlig for meg",
-  "open": "Åpen",
+  "open": "Åpne",
   "openDeclarations": "Erklæringer",
   "openFlight": "Åpen flytur",
   "openInSeeYou": "Åpne i SeeYou",
@@ -1099,5 +1099,9 @@
   "beDescription": "Belgiske mesterskap",
   "declarationTeaserFallback": "Erklære og fullføre en oppgave som en utfordring for deg selv.",
   "duplicateAccount": "Konto med dette navnet og klubben eksisterer allerede. Vennligst logg inn.",
-  "flightNoScoring": "Ingen flyscoring, fly sannsynligvis for kort"
+  "flightNoScoring": "Ingen flyscoring, fly sannsynligvis for kort",
+  "viewers": "Seere",
+  "createAccount": "Opprett konto",
+  "encouragePremium": "Fly med Copilot-appen og bli bedre med Coach",
+  "encourageCopilot": "Sanntidsoppdateringer for vær og trafikk under flyturen"
 }

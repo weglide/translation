@@ -223,7 +223,7 @@
   "embed": "Embutir",
   "enableOpenInSeeYou": "Permitir aberto em SeeYou para meus voos",
   "enablePushNotifications": "Ativar notificações push",
-  "encourage": "Vamos decolar juntos e nos juntar à plataforma de planadores de última geração.",
+  "encourage": "Compartilhe aventuras, descubra voos e conecte-se",
   "engine": "Motor",
   "engineRun": "Motor funcionando",
   "enlargeMap": "Ampliar mapa",
@@ -774,7 +774,7 @@
   "oneMoreWingman": "Mais um ala",
   "oneWingman": "Um ala",
   "onlyVisibleForMe": "Apenas visível para mim",
-  "open": "Aberto",
+  "open": "Abrir",
   "openDeclarations": "Declarações",
   "openFlight": "Voo aberto",
   "openInSeeYou": "Abrir em SeeYou",
@@ -1100,5 +1100,9 @@
   "beDescription": "Campeonatos Belgas",
   "declarationTeaserFallback": "Declare e conclua uma tarefa como um desafio para si mesmo.",
   "duplicateAccount": "Conta com esse nome e clube já existe. Faça login.",
-  "flightNoScoring": "Sem pontuação de voo, vôo provavelmente muito curto"
+  "flightNoScoring": "Sem pontuação de voo, vôo provavelmente muito curto",
+  "viewers": "Espectadores",
+  "createAccount": "Criar uma conta",
+  "encouragePremium": "Voe com o aplicativo Copilot e melhore com o Coach",
+  "encourageCopilot": "Atualizações em tempo real sobre clima e trânsito durante o voo"
 }

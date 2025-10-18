@@ -225,7 +225,7 @@
   "embed": "Embed",
   "enableOpenInSeeYou": "Consenti l'apertura con SeeYou per i miei voli",
   "enablePushNotifications": "Abilita le notifiche push",
-  "encourage": "Decolliamo insieme e unisciti alla nuova piattaforma di volo.",
+  "encourage": "Condividi avventure, scopri voli e connettiti",
   "engine": "Motore",
   "engineRun": "Motore in moto",
   "enlargeMap": "Ingrandisci la mappa",
@@ -776,7 +776,7 @@
   "oneMoreWingman": "Un altro gregario",
   "oneWingman": "Un gregario",
   "onlyVisibleForMe": "Visibile solo a te",
-  "open": "Aperto",
+  "open": "Apri",
   "openDeclarations": "Dichiarazioni",
   "openFlight": "Apri il volo",
   "openInSeeYou": "Apri con SeeYou",
@@ -1102,5 +1102,9 @@
   "beDescription": "Campionati belgi",
   "declarationTeaserFallback": "Dichiara che un compito rappresenta una sfida per te stesso.",
   "duplicateAccount": "L'account con questo nome e club esiste già. Si prega di accedere.",
-  "flightNoScoring": "Nessun punteggio di volo, volo probabilmente troppo corto"
+  "flightNoScoring": "Nessun punteggio di volo, volo probabilmente troppo corto",
+  "viewers": "Spettatori",
+  "createAccount": "Crea un account",
+  "encouragePremium": "Vola con l'app Copilot e migliora con il Coach",
+  "encourageCopilot": "Aggiornamenti in tempo reale su meteo e traffico durante il volo"
 }

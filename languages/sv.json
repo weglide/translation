@@ -223,7 +223,7 @@
   "embed": "Bädda in",
   "enableOpenInSeeYou": "Tillåt öppet i SeeYou för mina flygningar",
   "enablePushNotifications": "Aktivera push-meddelanden",
-  "encourage": "Låt oss lyfta tillsammans och ansluta oss till nästa generations glidplattform.",
+  "encourage": "Dela äventyr, upptäck flyg och anslut",
   "engine": "Motor",
   "engineRun": "Motorn går",
   "enlargeMap": "Förstora kartan",
@@ -1102,5 +1102,9 @@
   "beDescription": "Belgiska mästerskap",
   "declarationTeaserFallback": "Förklara och slutföra en uppgift som en utmaning för dig själv.",
   "duplicateAccount": "Konto med detta namn och klubb finns redan. Logga in.",
-  "flightNoScoring": "Ingen flygpoäng, flygning förmodligen för kort"
+  "flightNoScoring": "Ingen flygpoäng, flygning förmodligen för kort",
+  "viewers": "Tittare",
+  "createAccount": "Skapa konto",
+  "encouragePremium": "Flyg med Copilot-appen och förbättra dig med Coachen",
+  "encourageCopilot": "Realtidsuppdateringar för väder och trafik under flygning"
 }

@@ -201,7 +201,7 @@
   "embed": "Indlejr",
   "enableOpenInSeeYou": "Tillad at mine flyvninger kan åbnes i SeeYou",
   "enablePushNotifications": "Aktiver push-notifikationer",
-  "encourage": "Lad os lette sammen og blive en del af fremtidens svæveflyveplatform.",
+  "encourage": "Del eventyr, opdag flyrejser og få forbindelse",
   "engine": "Motor",
   "engineRun": "Motorkørsel",
   "error": "Fejl",
@@ -740,7 +740,7 @@
   "oneMoreWingman": "Én wingman til",
   "oneWingman": "En wingman",
   "onlyVisibleForMe": "Kun synlig for mig",
-  "open": "Åben",
+  "open": "Åbn",
   "openDeclarations": "Deklarationer",
   "openFlight": "Åben flyvning",
   "openInSeeYou": "Åben i SeeYou",
@@ -1095,5 +1095,9 @@
   "declarationTeaserFallback": "Erklær en opgave som en udfordring for dig selv.",
   "declarationTeaser": "Udfyld en opgave og få op til 70% bonuspoint til {contest}.",
   "duplicateAccount": "Konto med dette navn og klub findes allerede. Log ind.",
-  "flightNoScoring": "Ingen flyvering, flyvning sandsynligvis for kort"
+  "flightNoScoring": "Ingen flyvering, flyvning sandsynligvis for kort",
+  "viewers": "Seere",
+  "createAccount": "Opret en konto",
+  "encouragePremium": "Flyv med Copilot-appen og forbedre dig med Coachen",
+  "encourageCopilot": "Realtidsopdateringer for vejr og trafik under flyvning"
 }

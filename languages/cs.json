@@ -222,7 +222,7 @@
   "embed": "Vložit",
   "enableOpenInSeeYou": "Povolit otevření s SeeYou pro mé lety",
   "enablePushNotifications": "Povolit Push Notifications",
-  "encourage": "Užij si novou platformu pro plachtění",
+  "encourage": "Sdílejte dobrodružství, objevujte lety a spojujte se",
   "engine": "Motor",
   "engineRun": "Běžící motor",
   "enlargeMap": "Zvětšit mapu",
@@ -773,7 +773,7 @@
   "oneMoreWingman": "Ještě jeden křídelník",
   "oneWingman": "Jeden křídelník",
   "onlyVisibleForMe": "Viditelné jen pro mě",
-  "open": "Otevřený",
+  "open": "Otevřete",
   "openDeclarations": "Prohlášení",
   "openFlight": "Otevřít let",
   "openInSeeYou": "Otevřete s SeeYou",
@@ -1098,5 +1098,9 @@
   "beDescription": "Belgické mistrovství",
   "declarationTeaserFallback": "Prohlásit a dokončit úkol jako výzvu pro sebe.",
   "duplicateAccount": "Účet s tímto jménem a klubem již existuje. Přihlaste se prosím.",
-  "flightNoScoring": "Žádné bodování letu, let pravděpodobně příliš krátký"
+  "flightNoScoring": "Žádné bodování letu, let pravděpodobně příliš krátký",
+  "viewers": "Diváci",
+  "createAccount": "Vytvořit účet",
+  "encouragePremium": "Létejte s aplikací Copilot a zlepšujte se s Coachem",
+  "encourageCopilot": "Aktualizace počasí a provozu během letu v reálném čase"
 }

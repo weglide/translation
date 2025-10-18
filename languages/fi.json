@@ -223,7 +223,7 @@
   "embed": "Upottaa",
   "enableOpenInSeeYou": "Salli auki SeeYoussa lennoillani",
   "enablePushNotifications": "Ota Push-ilmoitukset käyttöön",
-  "encourage": "Lähdetään yhdessä nousuun ja liitytään seuraavan sukupolven luistoalustaan.",
+  "encourage": "Jaa seikkailuja, löydä lentoja ja yhdistä",
   "engine": "Moottori",
   "engineRun": "Moottori käynnissä",
   "enlargeMap": "Suurenna kartta",
@@ -774,7 +774,7 @@
   "oneMoreWingman": "Yksi siipimies lisää",
   "oneWingman": "Yksi siipimies",
   "onlyVisibleForMe": "Näkyy vain minulle",
-  "open": "Avata",
+  "open": "Avaa",
   "openDeclarations": "julistukset",
   "openFlight": "Avoin lento",
   "openInSeeYou": "Avaa SeeYoussa",
@@ -1100,5 +1100,9 @@
   "beDescription": "Belgialaiset mestaruuskilpailut",
   "declarationTeaserFallback": "Ilmoita ja suorita tehtävä haasteena itsellesi.",
   "duplicateAccount": "Tilin tämän nimen ja klubin kanssa on jo olemassa. Kirjaudu sisään.",
-  "flightNoScoring": "Ei lentopistettä, lento todennäköisesti liian lyhyt"
+  "flightNoScoring": "Ei lentopistettä, lento todennäköisesti liian lyhyt",
+  "viewers": "Katsojat",
+  "createAccount": "Luo tili",
+  "encouragePremium": "Lennä Copilot-sovelluksella ja kehity Coachilla",
+  "encourageCopilot": "Reaaliaikaiset päivitykset säästä ja liikenteestä lennon aikana"
 }

@@ -222,7 +222,7 @@
   "embed": "Įterpti",
   "enableOpenInSeeYou": "Leisti atidaryti SeeYou mano skrydžiams",
   "enablePushNotifications": "Įgalinti tiesioginius pranešimus",
-  "encourage": "Pakilkime kartu ir prisijunkime prie naujos kartos sklandymo platformos.",
+  "encourage": "Dalinkitės nuotykiais, atraskite skrydžius ir prisijunkite",
   "engine": "Variklis",
   "engineRun": "Variklio veikimas",
   "enlargeMap": "Padidinti žemėlapį",
@@ -773,7 +773,7 @@
   "oneMoreWingman": "Dar vienas sparnuotojas",
   "oneWingman": "Vienas sparnuotojas",
   "onlyVisibleForMe": "Matoma tik man",
-  "open": "Atviras",
+  "open": "Atidarykite",
   "openDeclarations": "Deklaracijos",
   "openFlight": "Atviras skrydis",
   "openInSeeYou": "Atidarykite „SeeYou“.",
@@ -1099,5 +1099,9 @@
   "beDescription": "Belgijos čempionatai",
   "declarationTeaserFallback": "Paskelbkite ir atlikite užduotį kaip iššūkį sau.",
   "duplicateAccount": "Paskyros šiuo vardu ir klubas jau egzistuoja. Prašau prisijungti.",
-  "flightNoScoring": "Jokių skrydžio taškų, skrydis tikriausiai per trumpas"
+  "flightNoScoring": "Jokių skrydžio taškų, skrydis tikriausiai per trumpas",
+  "viewers": "Žiūrovai",
+  "createAccount": "Sukurti paskyrą",
+  "encouragePremium": "Skriskite su Copilot programėle ir tobulėkite su treneriu",
+  "encourageCopilot": "Orų ir eismo atnaujinimai realiuoju laiku skrydžio metu"
 }

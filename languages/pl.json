@@ -222,7 +222,7 @@
   "embed": "Zintegruj",
   "enableOpenInSeeYou": "Zezwalaj na otwarcie z SeeYou dla moich lotów",
   "enablePushNotifications": "Włącz powiadomienia push",
-  "encourage": "Wystartujmy razem i dołącz do platformy o szybownictwie nowej generacji.",
+  "encourage": "Dziel się przygodami, odkrywaj loty i łącz się",
   "engine": "Silnik",
   "engineRun": "Praca silnika",
   "enlargeMap": "Powiększ mapę",
@@ -773,7 +773,7 @@
   "oneMoreWingman": "Jeszcze jeden skrzydłowy",
   "oneWingman": "Jeden skrzydłowy",
   "onlyVisibleForMe": "Widoczne tylko dla mnie",
-  "open": "Otwarte",
+  "open": "Otwórz",
   "openDeclarations": "Deklaracje",
   "openFlight": "Otwarty lot",
   "openInSeeYou": "Otwórz z SeeYou",
@@ -1099,5 +1099,9 @@
   "beDescription": "Belgijskie mistrzostwa",
   "declarationTeaserFallback": "Dokonaj i wykonaj zadanie jako wyzwanie dla siebie.",
   "duplicateAccount": "Konto z tą nazwą i klubem już istnieje. Zaloguj się.",
-  "flightNoScoring": "Brak punktacji lotu, lot prawdopodobnie za krótki"
+  "flightNoScoring": "Brak punktacji lotu, lot prawdopodobnie za krótki",
+  "viewers": "Widzowie",
+  "createAccount": "Utwórz konto",
+  "encouragePremium": "Lataj z aplikacją Copilot i ulepszaj swoje umiejętności dzięki trenerowi",
+  "encourageCopilot": "Aktualizacje pogody i ruchu drogowego w czasie rzeczywistym podczas lotu"
 }

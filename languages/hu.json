@@ -269,7 +269,7 @@
   "embed": "Beágyazás",
   "enableOpenInSeeYou": "Engedélyezem a repüléseim megnyitását a SeeYou-ban",
   "enablePushNotifications": "Push értesítések engedélyezése",
-  "encourage": "Szálljunk fel együtt, és csatlakozz a vitorlázórepülés új generációs platformjához.",
+  "encourage": "Ossza meg kalandjait, fedezze fel a járatokat és csatlakozzon",
   "engine": "Hajtómű",
   "engineRun": "Hajtóműhasználat",
   "enlargeMap": "Térkép nagyítása",
@@ -833,7 +833,7 @@
   "oneMoreWingman": "Még egy csapattárs",
   "oneWingman": "Egy csapattárs",
   "onlyVisibleForMe": "Csak számomra látható",
-  "open": "Nyílt",
+  "open": "Nyitott",
   "openDeclarations": "Deklarációk",
   "openFlight": "Repülés megnyitása",
   "openInSeeYou": "Megnyitás SeeYou-ban",
@@ -1273,5 +1273,9 @@
   "beDescription": "Belga Bajnokság",
   "declarationTeaserFallback": "Deklarálj és teljesíts egy távot kihívásként magadnak.",
   "duplicateAccount": "A névvel és a klubgal rendelkező fiók már létezik. Kérjük, jelentkezzen be.",
-  "flightNoScoring": "Nincs repülési pontozás, a repülés valószínűleg túl rövid"
+  "flightNoScoring": "Nincs repülési pontozás, a repülés valószínűleg túl rövid",
+  "viewers": "Nézők",
+  "createAccount": "Hozzon létre fiókot",
+  "encouragePremium": "Repüljön a Copilot alkalmazással, és fejlődjön a Coach segítségével",
+  "encourageCopilot": "Valós idejű frissítések az időjárásról és a forgalomról repülés közben"
 }

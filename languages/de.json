@@ -269,7 +269,7 @@
   "embed": "Einbetten",
   "enableOpenInSeeYou": "Erlaube öffnen mit SeeYou für meine Flüge",
   "enablePushNotifications": "Aktiviere Push-Benachrichtigungen",
-  "encourage": "Lass uns zusammen abheben und genieße die Segelflugplattform der nächsten Generation.",
+  "encourage": "Teile Abenteuer, entdecke Flüge und knüpfe Kontakte",
   "engine": "Motor",
   "engineRun": "Motorlauf",
   "enlargeMap": "Karte vergrößern",
@@ -833,7 +833,7 @@
   "oneMoreWingman": "Ein weiterer Gefährte",
   "oneWingman": "Ein Gefährte",
   "onlyVisibleForMe": "Nur sichtbar für mich",
-  "open": "Offen",
+  "open": "Öffnen",
   "openDeclarations": "Deklarationen",
   "openFlight": "Flug öffnen",
   "openInSeeYou": "In SeeYou öffnen",
@@ -1219,7 +1219,7 @@
   "verifying": "E-Mail wird verifiziert",
   "visibility": "Sichtbarkeit:",
   "waiting": "Warten",
-  "watchLive": "Live ansehen",
+  "watchLive": "Live verfolgen",
   "waypointCollections": "Wendepunktsammlungen",
   "waypointCreated": "Wendepunkt erstellt",
   "waypointDeleted": "Wendepunkt gelöscht",
@@ -1277,5 +1277,9 @@
   "rescore": "Rescoren",
   "rebuild": "Rebuilden",
   "actions": "Aktionen",
-  "flightNoScoring": "Keine Wertung, Flug wahrscheinlich zu kurz"
+  "flightNoScoring": "Keine Wertung, Flug wahrscheinlich zu kurz",
+  "viewers": "Zuschauende",
+  "createAccount": "Account erstellen",
+  "encouragePremium": "Fliege mit der Copilot-App und lerne mit dem Coach",
+  "encourageCopilot": "Echtzeitinformationen zu Wetter und Verkehr im Flug"
 }

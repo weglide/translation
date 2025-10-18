@@ -222,7 +222,7 @@
   "embed": "埋め込む",
   "enableOpenInSeeYou": "フライトをSeeYouで開くことを許可",
   "enablePushNotifications": "プッシュ通知を有効にする",
-  "encourage": "次世代のグライダープラットフォームに参加しましょう。",
+  "encourage": "冒険を共有し、フライトを発見し、つながりましょう",
   "engine": "エンジン",
   "engineRun": "エンジン稼働中",
   "enlargeMap": "地図を拡大する",
@@ -773,7 +773,7 @@
   "oneMoreWingman": "もう一人の僚機",
   "oneWingman": "僚機の一人",
   "onlyVisibleForMe": "公開しない",
-  "open": "開く",
+  "open": "開ける",
   "openDeclarations": "宣言を開く",
   "openFlight": "フライトを開く",
   "openInSeeYou": "SeeYouで開く",
@@ -1099,5 +1099,9 @@
   "beDescription": "ベルギーのチャンピオンシップ",
   "declarationTeaserFallback": "タスクを自分への挑戦として宣言します。",
   "duplicateAccount": "この名前とクラブのアカウントはすでに存在しています。ログインしてください。",
-  "flightNoScoring": "フライトのスコアリングはありません。おそらくフライトが短すぎます"
+  "flightNoScoring": "フライトのスコアリングはありません。おそらくフライトが短すぎます",
+  "viewers": "視聴者",
+  "createAccount": "アカウントを作成する",
+  "encouragePremium": "Copilot アプリで飛行し、Coach で上達する",
+  "encourageCopilot": "飛行中の天気と交通情報をリアルタイムで更新"
 }

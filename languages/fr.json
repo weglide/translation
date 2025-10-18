@@ -269,7 +269,7 @@
   "embed": "Intégrer",
   "enableOpenInSeeYou": "Autoriser l'ouverture avec SeeYou pour mes vols",
   "enablePushNotifications": "Activer les notifications push",
-  "encourage": "Décolle avec nous et profite de la nouvelle génération de plateforme vélivole.",
+  "encourage": "Partage des aventures, découvre des vols et noue des contacts",
   "engine": "Moteur",
   "engineRun": "Temps moteur",
   "enlargeMap": "Agrandir la carte",
@@ -833,7 +833,7 @@
   "oneMoreWingman": "Un coéquipier de plus",
   "oneWingman": "Un coéquipier",
   "onlyVisibleForMe": "Visible uniquement pour moi",
-  "open": "Ouvert",
+  "open": "Ouvrir",
   "openDeclarations": "Déclarations",
   "openFlight": "Ouvrir le vol",
   "openInSeeYou": "Ouvrir avec SeeYou",
@@ -1273,5 +1273,9 @@
   "bestDistance": "Distance supérieure (rond)",
   "bestSpeed": "Vitesse de pointe (rond)",
   "duplicateAccount": "Un compte portant ce nom et ce club existe déjà. Connecte-toi.",
-  "flightNoScoring": "Pas de score de vol, vol probablement trop court"
+  "flightNoScoring": "Pas de score de vol, vol probablement trop court",
+  "viewers": "Téléspectateurs",
+  "createAccount": "Créer un compte",
+  "encouragePremium": "Vole avec l'application Copilot et apprends avec le Coach",
+  "encourageCopilot": "Mises à jour en temps réel de la météo et du trafic pendant le vol"
 }

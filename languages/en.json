@@ -269,7 +269,7 @@
   "embed": "Embed",
   "enableOpenInSeeYou": "Allow open in SeeYou for my flights",
   "enablePushNotifications": "Enable Push Notifications",
-  "encourage": "Let's take off together and join the next-generation gliding platform.",
+  "encourage": "Share adventures, discover flights and connect",
   "engine": "Engine",
   "engineRun": "Engine run",
   "enlargeMap": "Enlarge map",
@@ -1277,5 +1277,9 @@
   "rescore": "Rescore",
   "rebuild": "Rebuild",
   "actions": "Actions",
-  "flightNoScoring": "No flight scoring, flight probably too short"
+  "flightNoScoring": "No flight scoring, flight probably too short",
+  "viewers": "Viewers",
+  "createAccount": "Create account",
+  "encouragePremium": "Fly with the Copilot app and improve with the Coach",
+  "encourageCopilot": "Real time updates for weather and traffic during flight"
 }
