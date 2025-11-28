@@ -1276,5 +1276,6 @@
   "viewers": "Nézők",
   "createAccount": "Hozzon létre fiókot",
   "encouragePremium": "Repüljön a Copilot alkalmazással, és fejlődjön a Coach segítségével",
-  "encourageCopilot": "Valós idejű frissítések az időjárásról és a forgalomról repülés közben"
+  "encourageCopilot": "Valós idejű frissítések az időjárásról és a forgalomról repülés közben",
+  "couponForNewCustomersOnly": "Kupon csak új vásárlóknak"
 }
