@@ -41,6 +41,7 @@ German:
 
 Italian:
 * @ITKewai
+* Andrea Bosso
 
 Polish:
 * @grzesie
@@ -60,3 +61,9 @@ Swedish:
 
 Danish:
 * Emil Dalboe
+
+Czech:
+* @jozsa
+
+Slovenian:
+* @jozsa
