@@ -199,7 +199,8 @@
     "sprint": "Sprint",
     "triangle": "Trojuholník",
     "be": "CC",
-    "ssa": "UDSC"
+    "ssa": "UDSC",
+    "cz": "CPSka"
   },
   "contestRules": "Pravidlá súťaže",
   "continents": {
@@ -473,7 +474,9 @@
   "localCompetitions": "Lokálne súťaže",
   "location": "Lokalita",
   "locations": {
-    "AR": { "name": "Argentína" },
+    "AR": {
+      "name": "Argentína"
+    },
     "AT": {
       "name": "Rakúsko",
       "regions": {
@@ -488,20 +491,48 @@
         "AT-9": "Viedeň"
       }
     },
-    "AU": { "name": "Austrália" },
-    "BE": { "name": "Belgicko" },
-    "CA": { "name": "Kanada" },
-    "CH": { "name": "Švajčiarsko" },
-    "CZ": { "name": "Česká republika" },
-    "DE": { "name": "Nemecko" },
-    "FR": { "name": "Francúzsko" },
-    "GB": { "name": "Spojené kráľovstvo" },
-    "HU": { "name": "Maďarsko" },
-    "IT": { "name": "Taliansko" },
-    "NZ": { "name": "Nový Zéland" },
-    "PL": { "name": "Poľsko" },
-    "SK": { "name": "Slovensko" },
-    "US": { "name": "Spojené štáty" }
+    "AU": {
+      "name": "Austrália"
+    },
+    "BE": {
+      "name": "Belgicko"
+    },
+    "CA": {
+      "name": "Kanada"
+    },
+    "CH": {
+      "name": "Švajčiarsko"
+    },
+    "CZ": {
+      "name": "Česká republika"
+    },
+    "DE": {
+      "name": "Nemecko"
+    },
+    "FR": {
+      "name": "Francúzsko"
+    },
+    "GB": {
+      "name": "Spojené kráľovstvo"
+    },
+    "HU": {
+      "name": "Maďarsko"
+    },
+    "IT": {
+      "name": "Taliansko"
+    },
+    "NZ": {
+      "name": "Nový Zéland"
+    },
+    "PL": {
+      "name": "Poľsko"
+    },
+    "SK": {
+      "name": "Slovensko"
+    },
+    "US": {
+      "name": "Spojené štáty"
+    }
   },
   "logIn": "Prihlásiť sa",
   "logOut": "Odhlásiť sa",
