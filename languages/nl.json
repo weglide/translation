@@ -156,7 +156,8 @@
     "triangle": "Triangle",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "Wedstrijdreglement",
   "continents": {
@@ -1108,5 +1109,6 @@
   "createAccount": "Creëer een account",
   "encouragePremium": "Vlieg met de Copilot-app en verbeter met de Coach",
   "encourageCopilot": "Realtime updates voor weer en verkeer tijdens de vlucht",
-  "couponForNewCustomersOnly": "Coupon alleen voor nieuwe klanten"
+  "couponForNewCustomersOnly": "Coupon alleen voor nieuwe klanten",
+  "noTakeoff": "geen opstijgen"
 }

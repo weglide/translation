@@ -153,7 +153,8 @@
     "triangle": "Triangle",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "コンテストルール",
   "continents": {
@@ -1104,5 +1105,6 @@
   "createAccount": "アカウントを作成する",
   "encouragePremium": "Copilot アプリで飛行し、Coach で上達する",
   "encourageCopilot": "飛行中の天気と交通情報をリアルタイムで更新",
-  "couponForNewCustomersOnly": "新規のお客様限定クーポン"
+  "couponForNewCustomersOnly": "新規のお客様限定クーポン",
+  "noTakeoff": "離陸はありません"
 }

@@ -200,7 +200,8 @@
     "triangle": "Trojúhelník",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "Pravidla soutěže",
   "continents": {
@@ -1284,5 +1285,6 @@
   "encourageCopilot": "Aktuální informace o počasí a provozu během letu",
   "jensDescription": "Lovec stoupání",
   "nunoDescription": "Nadšenec do sprintu",
-  "couponForNewCustomersOnly": "Kód pouze pro nové zákazníky"
+  "couponForNewCustomersOnly": "Kód pouze pro nové zákazníky",
+  "noTakeoff": "žádný vzlet"
 }

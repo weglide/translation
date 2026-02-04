@@ -1285,5 +1285,6 @@
   "encourageCopilot": "Real time updates for weather and traffic during flight",
   "jensDescription": "Thermal Hunter",
   "nunoDescription": "Sprint Enthusiast",
-  "couponForNewCustomersOnly": "Coupon for new customers only"
+  "couponForNewCustomersOnly": "Coupon for new customers only",
+  "noTakeoff": "no takeoff"
 }

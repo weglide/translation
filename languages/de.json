@@ -200,7 +200,8 @@
     "triangle": "Triangle",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "Wettbewerbsregeln",
   "continents": {
@@ -1284,5 +1285,6 @@
   "encourageCopilot": "Echtzeitinformationen zu Wetter und Verkehr im Flug",
   "nunoDescription": "Sprintenthusiast",
   "jensDescription": "Thermikjäger",
-  "couponForNewCustomersOnly": "Gutschein nur für Neukunden"
+  "couponForNewCustomersOnly": "Gutschein nur für Neukunden",
+  "noTakeoff": "kein Start"
 }

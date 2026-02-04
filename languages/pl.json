@@ -153,7 +153,8 @@
     "triangle": "Triangle",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "Zasady zawodów",
   "continents": {
@@ -1104,5 +1105,6 @@
   "createAccount": "Utwórz konto",
   "encouragePremium": "Lataj z aplikacją Copilot i ulepszaj swoje umiejętności dzięki trenerowi",
   "encourageCopilot": "Aktualizacje pogody i ruchu drogowego w czasie rzeczywistym podczas lotu",
-  "couponForNewCustomersOnly": "Kupon tylko dla nowych klientów"
+  "couponForNewCustomersOnly": "Kupon tylko dla nowych klientów",
+  "noTakeoff": "żadnego startu"
 }

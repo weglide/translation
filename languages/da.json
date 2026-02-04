@@ -137,7 +137,8 @@
     "triangle": "Trekant",
     "be": "CC",
     "ssa": "UDSC",
-    "cz": "CPSka"
+    "cz": "CPSka",
+    "hu": "HNC"
   },
   "contestRules": "Konkurrenceregler",
   "continents": {
@@ -1100,5 +1101,6 @@
   "createAccount": "Opret en konto",
   "encouragePremium": "Flyv med Copilot-appen og forbedre dig med Coachen",
   "encourageCopilot": "Realtidsopdateringer for vejr og trafik under flyvning",
-  "couponForNewCustomersOnly": "Kupon kun for nye kunder"
+  "couponForNewCustomersOnly": "Kupon kun for nye kunder",
+  "noTakeoff": "ingen start"
 }
