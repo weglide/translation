@@ -1286,5 +1286,6 @@
   "jensDescription": "Thermal Hunter",
   "nunoDescription": "Sprint Enthusiast",
   "couponForNewCustomersOnly": "Coupon for new customers only",
-  "noTakeoff": "no takeoff"
+  "noTakeoff": "no takeoff",
+  "leagueStartsOn": "The league starts on"
 }

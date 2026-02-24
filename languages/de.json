@@ -1286,5 +1286,6 @@
   "nunoDescription": "Sprintenthusiast",
   "jensDescription": "Thermikjäger",
   "couponForNewCustomersOnly": "Gutschein nur für Neukunden",
-  "noTakeoff": "kein Start"
+  "noTakeoff": "kein Start",
+  "leagueStartsOn": "Die Liga beginnt am"
 }
