@@ -1291,5 +1291,6 @@
   "jensDescription": "Thermikjäger",
   "couponForNewCustomersOnly": "Gutschein nur für Neukunden",
   "noTakeoff": "kein Start",
-  "leagueStartsOn": "Die Liga beginnt am"
+  "leagueStartsOn": "Die Liga beginnt am",
+  "reactions": "Reaktionen"
 }
