@@ -345,7 +345,7 @@
     "PRESS_ALT_VIOLATIONS": "Rozsah tlakovej výšky od {0} do {1} bol prekročený v {2} zápisoch.",
     "RAW_TIME_HARD_LIMIT_ALMOST_EXCEEDED": "Tvrdý časový limit ({0} s) medzi zápismi takmer prekročený v {1}, interval bez logovania je {2} s.",
     "RAW_TIME_HARD_LIMIT_EXCEEDED": "Tvrdý časový limit ({0} s) medzi zápismi prekročený v {1}, interval bez logovania je {2} s.",
-    "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Tvrdý časový limit prekročený mimo bodovaných intervalov v {1}.",
+    "RAW_TIME_HARD_LIMIT_EXCEEDED_OUTSIDE_SCORING": "Tvrdý časový limit ({0} s) medzi zápismi prekročený mimo bodovaných intervalov v {1}, interval bez logovania je {2} s.",
     "RAW_TIME_SOFT_LIMIT_EXCEEDED": "{0} intervalov prekračuje mäkký časový limit medzi zápismi ({1}s), povolených {2} intervalov."
   },
   "flightFilterPlaceholder": "Región, pilot, klub, letisko…",
@@ -998,7 +998,7 @@
   "usage": "Využitie",
   "userAgreement": "Zmluva s používateľom",
   "userGroup": "Používateľská skupina",
-  "userMessageDeliveryExplanation": "Beriem na vedomie, že moja e-mailová adresa bude zdieľaná s príjemcom.",
+  "userMessageDeliveryExplanation": "Beriem na vedomie, že moja e-mailová adresa bude zdieľaná s príjemcom a že som si prečítal/a a súhlasím so {privacy} a {agreement}.",
   "userMessagesAllowed": "Povoliť ostatným kontaktovať ma cez WeGlide",
   "vegetation": "Vegetácia",
   "verified": "E-mail overený, môžete sa prihlásiť.",

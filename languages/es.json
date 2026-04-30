@@ -410,7 +410,7 @@
   "liveConnectDone": "Ya conectado a {name} en WeGlide Live",
   "liveConnectHelp": "Conecte su planeador para que aparezca en seguimiento en vivo con su perfil y tarea declarada.",
   "liveConnectOverwrite": "Conectarse a {name}, desconectarse de {oldName}",
-  "liveConnectTo": "Conéctese a {nombre} en WeGlide Live",
+  "liveConnectTo": "Conéctese a {name} en WeGlide Live",
   "liveConnected": "Seguimiento en vivo conectado",
   "liveDisconnected": "Seguimiento en vivo desconectado",
   "liveFilterPlaceholder": "Región, aeródromo, piloto, aeronave …",
