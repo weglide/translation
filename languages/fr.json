@@ -1286,5 +1286,11 @@
   "couponForNewCustomersOnly": "Coupon pour les nouveaux clients uniquement",
   "noTakeoff": "pas de décollage",
   "leagueStartsOn": "La ligue commence",
-  "reactions": "Réactions"
+  "reactions": "Réactions",
+  "revalidate": "Revalider",
+  "rescore": "Recalculer le score",
+  "rebuild": "Reconstruire",
+  "actions": "Actions",
+  "jensDescription": "Chasseur de pompes",
+  "nunoDescription": "Passionné de sprint"
 }
