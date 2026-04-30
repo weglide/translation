@@ -998,7 +998,7 @@
   "usage": "Využitie",
   "userAgreement": "Zmluva s používateľom",
   "userGroup": "Používateľská skupina",
-  "userMessageDeliveryExplanation": "Beriem na vedomie, že moja e-mailová adresa bude zdieľaná s príjemcom.",
+  "userMessageDeliveryExplanation": "Beriem na vedomie, že moja e-mailová adresa bude zdieľaná s príjemcom a že som si prečítal a súhlasím s {privacy} a {agreement}.",
   "userMessagesAllowed": "Povoliť ostatným kontaktovať ma cez WeGlide",
   "vegetation": "Vegetácia",
   "verified": "E-mail overený, môžete sa prihlásiť.",
