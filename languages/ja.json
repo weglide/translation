@@ -956,7 +956,13 @@
     "videos": "ビデオ",
     "videosAutoplay": "あなたのビデオはあなたの友達のフィードで自動的に再生されます",
     "videosDescription": "短いビデオをアップロードして、特別な瞬間を共有します。",
-    "videosQuality": "最大30秒のFHDビデオ"
+    "videosQuality": "最大30秒のFHDビデオ",
+    "copilotLogger": "フライトを記録",
+    "copilotLoggerDescription": "あなたのスマートフォンを使いやすいフライトレコーダーに変えます。",
+    "copilotLoggerCertified": "国内競技で公式認定された初のアプリ",
+    "copilotLoggerSensor": "センサーフュージョンが各フィックスでIGC品質の精度を実現",
+    "copilotLoggerEngine": "エンジン音レベルと気圧を自動的に記録",
+    "copilotLoggerLogbook": "プライベートログブックに直接保存され、空域情報付き"
   },
   "success": "成功",
   "support": {

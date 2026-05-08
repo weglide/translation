@@ -1126,7 +1126,13 @@
     "copilotHotspot": "Termik hotspotok",
     "moreImages": "Repülésenként legfeljebb 25 kép",
     "3dFlightViewMulti": "Több vitorlázógép megjelenítése egyszerre",
-    "3dFlightViewModels": "Különböző vitorlázó modellek"
+    "3dFlightViewModels": "Különböző vitorlázó modellek",
+    "copilotLogger": "Repülések rögzítése",
+    "copilotLoggerDescription": "Változtasd a telefonodat könnyen használható repülésrögzítővé.",
+    "copilotLoggerCertified": "Az első alkalmazás, amelyet hivatalosan jóváhagytak nemzeti versenyekre",
+    "copilotLoggerSensor": "A szenzorfúzió IGC-minőségű pontosságot biztosít minden ponton",
+    "copilotLoggerEngine": "Automatikusan rögzíti a motor zajszintjét és a légnyomást",
+    "copilotLoggerLogbook": "Egyenesen a privát naplódba kerül, légtér-fedéssel együtt"
   },
   "success": "Siker",
   "support": {

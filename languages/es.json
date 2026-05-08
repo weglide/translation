@@ -1110,7 +1110,13 @@
     "copilotHotspot": "Hotspots térmicos",
     "moreImages": "Hasta 25 imágenes por vuelo",
     "3dFlightViewMulti": "Mostrar varios planeadores a la vez",
-    "3dFlightViewModels": "Distintos modelos de planeador"
+    "3dFlightViewModels": "Distintos modelos de planeador",
+    "copilotLogger": "Grabar vuelos",
+    "copilotLoggerDescription": "Convierte tu teléfono en un registrador de vuelo fácil de usar.",
+    "copilotLoggerCertified": "Primera aplicación oficialmente aprobada para competiciones nacionales",
+    "copilotLoggerSensor": "La fusión de sensores ofrece precisión de calidad IGC en cada punto",
+    "copilotLoggerEngine": "Registra automáticamente el nivel de ruido del motor y la presión barométrica",
+    "copilotLoggerLogbook": "Llega directamente a tu cuaderno de vuelo privado con los espacios aéreos"
   },
   "success": "Éxito",
   "support": {

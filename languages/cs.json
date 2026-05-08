@@ -1126,7 +1126,13 @@
     "copilotHotspot": "Termální hotspoty",
     "moreImages": "Až 25 snímků za let",
     "3dFlightViewMulti": "Zobrazit více kluzáků najednou",
-    "3dFlightViewModels": "Různé modely kluzáků"
+    "3dFlightViewModels": "Různé modely kluzáků",
+    "copilotLogger": "Zaznamenávat lety",
+    "copilotLoggerDescription": "Proměňte svůj telefon na snadno použitelný záznamník letů.",
+    "copilotLoggerCertified": "První aplikace oficiálně schválená pro národní soutěže",
+    "copilotLoggerSensor": "Fúze senzorů zajišťuje přesnost kvality IGC u každého záznamu",
+    "copilotLoggerEngine": "Automaticky zaznamenává hladinu hluku motoru a barometrický tlak",
+    "copilotLoggerLogbook": "Uloží se přímo do soukromého letového deníku s vrstvami vzdušného prostoru"
   },
   "success": "Úspěch",
   "support": {

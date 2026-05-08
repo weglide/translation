@@ -1110,7 +1110,13 @@
     "copilotHotspot": "Hotspot termici",
     "moreImages": "Fino a 25 immagini per volo",
     "3dFlightViewMulti": "Mostra più alianti contemporaneamente",
-    "3dFlightViewModels": "Diversi modelli di aliante"
+    "3dFlightViewModels": "Diversi modelli di aliante",
+    "copilotLogger": "Registra voli",
+    "copilotLoggerDescription": "Trasforma il tuo telefono in un registratore di volo facile da usare.",
+    "copilotLoggerCertified": "Prima app ufficialmente approvata per le competizioni nazionali",
+    "copilotLoggerSensor": "La fusione dei sensori garantisce precisione di qualità IGC in ogni punto",
+    "copilotLoggerEngine": "Registra automaticamente il rumore del motore e la pressione barometrica",
+    "copilotLoggerLogbook": "Arriva direttamente nel tuo logbook privato con gli spazi aerei"
   },
   "success": "Completato",
   "support": {

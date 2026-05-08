@@ -1126,7 +1126,13 @@
     "copilotHotspot": "Aufwind Hotspots",
     "moreImages": "Bis zu 25 Bilder pro Flug",
     "3dFlightViewMulti": "Mehrere Segelflugzeuge gleichzeitig anzeigen",
-    "3dFlightViewModels": "Verschiedene Segelflugzeugmodelle"
+    "3dFlightViewModels": "Verschiedene Segelflugzeugmodelle",
+    "copilotLogger": "Flüge aufzeichnen",
+    "copilotLoggerDescription": "Verwandle dein Smartphone in einen einfach zu bedienenden Flugrekorder.",
+    "copilotLoggerCertified": "Erste App, die offiziell für nationale Wettbewerbe zugelassen ist",
+    "copilotLoggerSensor": "Sensorfusion liefert IGC-genaue Präzision bei jedem Fix",
+    "copilotLoggerEngine": "Zeichnet Motorlautstärke und Luftdruck automatisch auf",
+    "copilotLoggerLogbook": "Landet direkt im privaten Logbuch mit Lufträumen"
   },
   "success": "Erfolg",
   "support": {

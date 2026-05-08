@@ -908,7 +908,13 @@
     "copilotHotspot": "Termálne hotspoty",
     "moreImages": "Až 25 obrázkov na let",
     "3dFlightViewMulti": "Ukážte viacero klzákov naraz",
-    "3dFlightViewModels": "Rôzne modely vetroňov"
+    "3dFlightViewModels": "Rôzne modely vetroňov",
+    "copilotLogger": "Zaznamenávať lety",
+    "copilotLoggerDescription": "Premeňte svoj telefón na ľahko použiteľný záznamník letov.",
+    "copilotLoggerCertified": "Prvá aplikácia oficiálne schválená pre národné súťaže",
+    "copilotLoggerSensor": "Fúzia senzorov poskytuje presnosť kvality IGC pri každom zázname",
+    "copilotLoggerEngine": "Automaticky zaznamenáva hladinu hluku motora a barometrický tlak",
+    "copilotLoggerLogbook": "Uloží sa priamo do súkromného letového denníka s vrstvami vzdušného priestoru"
   },
   "success": "Úspech",
   "support": {

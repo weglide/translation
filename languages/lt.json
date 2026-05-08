@@ -956,7 +956,13 @@
     "videos": "Vaizdo įrašai",
     "videosAutoplay": "Jūsų vaizdo įrašas automatiškai bus rodomas jūsų draugų kanaluose",
     "videosDescription": "Įkelkite trumpus vaizdo įrašus, kad pasidalytumėte ypatingomis akimirkomis:",
-    "videosQuality": "FHD vaizdo įrašai iki 30 sekundžių"
+    "videosQuality": "FHD vaizdo įrašai iki 30 sekundžių",
+    "copilotLogger": "Įrašyti skrydžius",
+    "copilotLoggerDescription": "Paverskite savo telefoną lengvai naudojamu skrydžių registratoriumi.",
+    "copilotLoggerCertified": "Pirmoji programėlė, oficialiai patvirtinta nacionalinėms varžyboms",
+    "copilotLoggerSensor": "Jutiklių sintezė užtikrina IGC kokybės tikslumą kiekviename taške",
+    "copilotLoggerEngine": "Automatiškai įrašo variklio triukšmo lygį ir barometrinį slėgį",
+    "copilotLoggerLogbook": "Patenka tiesiai į jūsų privačią skrydžių knygą su oro erdvių sluoksniais"
   },
   "success": "Sėkmė",
   "support": {

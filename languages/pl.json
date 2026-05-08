@@ -956,7 +956,13 @@
     "videos": "Filmy",
     "videosAutoplay": "Twój film zostanie automatycznie odtwarzany w kanałach znajomych",
     "videosDescription": "Prześlij krótkie filmy, aby udostępnić specjalne momenty:",
-    "videosQuality": "Filmy FHD do 30 sekund"
+    "videosQuality": "Filmy FHD do 30 sekund",
+    "copilotLogger": "Nagrywaj loty",
+    "copilotLoggerDescription": "Zamień swój telefon w łatwy w obsłudze rejestrator lotu.",
+    "copilotLoggerCertified": "Pierwsza aplikacja oficjalnie zatwierdzona do zawodów krajowych",
+    "copilotLoggerSensor": "Fuzja czujników zapewnia precyzję jakości IGC w każdym punkcie",
+    "copilotLoggerEngine": "Automatycznie rejestruje poziom hałasu silnika i ciśnienie barometryczne",
+    "copilotLoggerLogbook": "Trafia bezpośrednio do prywatnego dziennika lotów z nakładką przestrzeni powietrznej"
   },
   "success": "Sukces",
   "support": {

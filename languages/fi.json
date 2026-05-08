@@ -957,7 +957,13 @@
     "videos": "Video",
     "videosAutoplay": "Videosi soitetaan automaattisesti ystävien syötteissä",
     "videosDescription": "Lataa lyhyitä videoita jakamaan erityisiä hetkiä:",
-    "videosQuality": "FHD videot, jotka ovat enintään 30 sekuntia"
+    "videosQuality": "FHD videot, jotka ovat enintään 30 sekuntia",
+    "copilotLogger": "Tallenna lennot",
+    "copilotLoggerDescription": "Muuta puhelimesi helppokäyttöiseksi lennontallentimeksi.",
+    "copilotLoggerCertified": "Ensimmäinen sovellus, joka on virallisesti hyväksytty kansallisiin kilpailuihin",
+    "copilotLoggerSensor": "Sensorifuusio tarjoaa IGC-laatuisen tarkkuuden jokaisessa pisteessä",
+    "copilotLoggerEngine": "Tallentaa automaattisesti moottorin äänitason ja ilmanpaineen",
+    "copilotLoggerLogbook": "Tallentuu suoraan yksityiseen lentopäiväkirjaasi ilmatilatiedoilla"
   },
   "success": "Menestys",
   "support": {

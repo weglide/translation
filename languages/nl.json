@@ -1111,7 +1111,13 @@
     "copilotHotspot": "Thermiek-hotspots",
     "moreImages": "Tot 25 afbeeldingen per vlucht",
     "3dFlightViewMulti": "Toon meerdere zweefvliegtuigen tegelijk",
-    "3dFlightViewModels": "Verschillende zweefvliegtuigmodellen"
+    "3dFlightViewModels": "Verschillende zweefvliegtuigmodellen",
+    "copilotLogger": "Vluchten opnemen",
+    "copilotLoggerDescription": "Verander je telefoon in een eenvoudig te gebruiken vluchtrecorder.",
+    "copilotLoggerCertified": "Eerste app die officieel is goedgekeurd voor nationale competities",
+    "copilotLoggerSensor": "Sensorfusie levert IGC-kwaliteit precisie bij elke fix",
+    "copilotLoggerEngine": "Registreert automatisch motorgeluid en barometrische druk",
+    "copilotLoggerLogbook": "Komt direct in je persoonlijke logboek met luchtruim"
   },
   "success": "Geslaagd",
   "support": {

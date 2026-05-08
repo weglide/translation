@@ -1108,7 +1108,13 @@
     "copilotHotspot": "Termikk-hotspots",
     "moreImages": "Opptil 25 bilder per flyvning",
     "3dFlightViewMulti": "Vis flere seilfly samtidig",
-    "3dFlightViewModels": "Forskjellige seilflymodeller"
+    "3dFlightViewModels": "Forskjellige seilflymodeller",
+    "copilotLogger": "Spill inn flyvninger",
+    "copilotLoggerDescription": "Gjør telefonen din til en brukervennlig flyregistrator.",
+    "copilotLoggerCertified": "Første app offisielt godkjent for nasjonale konkurranser",
+    "copilotLoggerSensor": "Sensorfusjon gir IGC-kvalitets presisjon i hver fix",
+    "copilotLoggerEngine": "Registrerer automatisk motorstøynivå og barometrisk trykk",
+    "copilotLoggerLogbook": "Lander rett i din private loggbok med luftrom"
   },
   "success": "Suksess",
   "support": {

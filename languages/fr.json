@@ -1126,7 +1126,13 @@
     "copilotHotspot": "Zone d'ascendance",
     "moreImages": "Jusqu'à 25 photos par vol",
     "3dFlightViewMulti": "Afficher plusieurs planeurs à la fois",
-    "3dFlightViewModels": "Différents modèles de planeurs"
+    "3dFlightViewModels": "Différents modèles de planeurs",
+    "copilotLogger": "Enregistrer les vols",
+    "copilotLoggerDescription": "Transformez votre téléphone en enregistreur de vol simple à utiliser.",
+    "copilotLoggerCertified": "Première application officiellement approuvée pour les compétitions nationales",
+    "copilotLoggerSensor": "La fusion de capteurs offre une précision IGC à chaque point",
+    "copilotLoggerEngine": "Enregistre automatiquement le niveau sonore moteur et la pression barométrique",
+    "copilotLoggerLogbook": "Arrive directement dans votre carnet privé avec les espaces aériens"
   },
   "success": "Avec succès",
   "support": {

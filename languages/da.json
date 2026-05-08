@@ -1081,7 +1081,13 @@
     "copilotHotspot": "Termik-hotspots",
     "moreImages": "Op til 25 billeder pr. flyvning",
     "3dFlightViewMulti": "Vis flere svævefly på én gang",
-    "3dFlightViewModels": "Forskellige svæveflysmodeller"
+    "3dFlightViewModels": "Forskellige svæveflysmodeller",
+    "copilotLogger": "Optag flyvninger",
+    "copilotLoggerDescription": "Forvandl din telefon til en brugervenlig flyveregistrator.",
+    "copilotLoggerCertified": "Første app officielt godkendt til nationale konkurrencer",
+    "copilotLoggerSensor": "Sensorfusion leverer IGC-kvalitetspræcision i hvert fix",
+    "copilotLoggerEngine": "Registrerer automatisk motorstøjniveau og barometrisk tryk",
+    "copilotLoggerLogbook": "Lander direkte i din private logbog med luftrum"
   },
   "success": "Succes",
   "supportWeGlideNow": "Støt WeGlide nu",

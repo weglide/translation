@@ -1111,7 +1111,13 @@
     "copilotHotspot": "Termik-hotspots",
     "moreImages": "Upp till 25 bilder per flygning",
     "3dFlightViewMulti": "Visa flera segelflygplan samtidigt",
-    "3dFlightViewModels": "Olika segelflygsmodeller"
+    "3dFlightViewModels": "Olika segelflygsmodeller",
+    "copilotLogger": "Spela in flygningar",
+    "copilotLoggerDescription": "Förvandla din telefon till en lättanvänd flygregistrator.",
+    "copilotLoggerCertified": "Första appen som officiellt godkänts för nationella tävlingar",
+    "copilotLoggerSensor": "Sensorfusion ger IGC-kvalitet i varje fix",
+    "copilotLoggerEngine": "Registrerar automatiskt motorns ljudnivå och lufttryck",
+    "copilotLoggerLogbook": "Hamnar direkt i din privata loggbok med luftrum"
   },
   "success": "Framgång",
   "support": {

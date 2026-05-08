@@ -1126,7 +1126,13 @@
     "copilotHotspot": "Thermal Hotspots",
     "moreImages": "Up to 25 pictures per flight",
     "3dFlightViewMulti": "Show multiple gliders at once",
-    "3dFlightViewModels": "Different glider models"
+    "3dFlightViewModels": "Different glider models",
+    "copilotLogger": "Record Flights",
+    "copilotLoggerDescription": "Turn your phone into an easy-to-use flight recorder.",
+    "copilotLoggerCertified": "First app officially approved for national competitions",
+    "copilotLoggerSensor": "Sensor fusion delivers IGC-quality precision in every fix",
+    "copilotLoggerEngine": "Records engine noise level and barometric pressure automatically",
+    "copilotLoggerLogbook": "Lands in your private logbook with airspace overlays"
   },
   "success": "Success",
   "support": {
