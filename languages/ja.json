@@ -1114,5 +1114,6 @@
   "couponForNewCustomersOnly": "新規のお客様限定クーポン",
   "noTakeoff": "離陸はありません",
   "leagueStartsOn": "リーグは～に始まります",
-  "reactions": "反応"
+  "reactions": "反応",
+  "recordedWithCopilot": "Copilotで記録"
 }

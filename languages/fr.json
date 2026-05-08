@@ -1298,5 +1298,6 @@
   "rebuild": "Reconstruire",
   "actions": "Actions",
   "jensDescription": "Chasseur de pompes",
-  "nunoDescription": "Passionné de sprint"
+  "nunoDescription": "Passionné de sprint",
+  "recordedWithCopilot": "Enregistré avec Copilot"
 }

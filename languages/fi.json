@@ -1115,5 +1115,6 @@
   "couponForNewCustomersOnly": "Kupongit vain uusille asiakkaille",
   "noTakeoff": "ei lentoonlähtöä",
   "leagueStartsOn": "Liiga alkaa",
-  "reactions": "Reaktiot"
+  "reactions": "Reaktiot",
+  "recordedWithCopilot": "Tallennettu Copilotilla"
 }

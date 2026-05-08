@@ -1298,5 +1298,6 @@
   "rebuild": "Bygg om",
   "actions": "Åtgärder",
   "jensDescription": "Termikjägare",
-  "nunoDescription": "Sprintentusiast"
+  "nunoDescription": "Sprintentusiast",
+  "recordedWithCopilot": "Inspelad med Copilot"
 }

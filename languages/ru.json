@@ -1113,5 +1113,6 @@
   "couponForNewCustomersOnly": "Купон только для новых клиентов",
   "noTakeoff": "нет взлета",
   "leagueStartsOn": "Лига стартует",
-  "reactions": "Реакции"
+  "reactions": "Реакции",
+  "recordedWithCopilot": "Записано с Copilot"
 }

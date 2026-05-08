@@ -1298,5 +1298,6 @@
   "rebuild": "Reconstruir",
   "actions": "Acciones",
   "jensDescription": "Cazador de térmicas",
-  "nunoDescription": "Apasionado del sprint"
+  "nunoDescription": "Apasionado del sprint",
+  "recordedWithCopilot": "Grabado con Copilot"
 }

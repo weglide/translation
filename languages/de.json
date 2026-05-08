@@ -1298,5 +1298,6 @@
   "couponForNewCustomersOnly": "Gutschein nur für Neukunden",
   "noTakeoff": "kein Start",
   "leagueStartsOn": "Die Liga beginnt am",
-  "reactions": "Reaktionen"
+  "reactions": "Reaktionen",
+  "recordedWithCopilot": "Aufgezeichnet mit Copilot"
 }
