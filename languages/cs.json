@@ -875,6 +875,8 @@
   "profileImageDragText": "Přetáhněte nový profilový obrázek sem nebo klikněte pro výběr",
   "profileImageDropText": "Pusťte profilový obrázek pro nahrání",
   "propulsion": "Pohon",
+  "protectedFlight": "Chráněný let",
+  "protectedHint": "Ostatní uživatelé nemohou stáhnout IGC soubor chráněného letu.",
   "public": "Veřejné",
   "publish": "Publikovat",
   "pushDenied": "Tento prohlížeč neumožňuje WeGlide posílat push notifikace.",

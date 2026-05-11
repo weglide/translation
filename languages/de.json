@@ -875,6 +875,8 @@
   "profileImageDragText": "Ziehe dein neues Profilbild hierher zum Hochladen oder klicke zum Auswählen",
   "profileImageDropText": "Lasse dein Profilbild zum Hochladen los",
   "propulsion": "Antrieb",
+  "protectedFlight": "Geschützter Flug",
+  "protectedHint": "Andere Nutzer können die IGC-Datei eines geschützten Fluges nicht herunterladen.",
   "public": "Öffentlich",
   "publish": "Veröffentlichen",
   "pushDenied": "Dieser Browser erlaubt es WeGlide nicht, Push-Benachrichtigungen zu senden.",

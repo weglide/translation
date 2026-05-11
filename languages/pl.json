@@ -814,6 +814,8 @@
   "profileImageDragText": "Przeciągnij tutaj swoje nowe zdjęcie profilowe, aby je przesłać, lub kliknij, aby wybrać",
   "profileImageDropText": "Upuść swoje zdjęcie profilowe, aby je przesłać",
   "propulsion": "Napęd",
+  "protectedFlight": "Lot chroniony",
+  "protectedHint": "Inni użytkownicy nie mogą pobrać pliku IGC chronionego lotu.",
   "public": "Publiczny",
   "publish": "Publikować",
   "pushDenied": "Ta przeglądarka nie pozwala WeGlide na wysyłanie powiadomień push.",

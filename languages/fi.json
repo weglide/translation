@@ -815,6 +815,8 @@
   "profileImageDragText": "Vedä uusi profiilikuvasi tähän ladataksesi tai napsauta valitaksesi",
   "profileImageDropText": "Pudota profiilikuvasi ladataksesi",
   "propulsion": "Propulsio",
+  "protectedFlight": "Suojattu lento",
+  "protectedHint": "Muut käyttäjät eivät voi ladata suojatun lennon IGC-tiedostoa.",
   "public": "Julkinen",
   "publish": "Julkaista",
   "pushDenied": "Tämä selain ei salli WeGliden lähettää push-ilmoituksia.",

@@ -866,6 +866,8 @@
   "profileImageDragText": "Trascina qui la tua nuova immagine del profilo per caricarla o fai clic per selezionarla",
   "profileImageDropText": "Rilascia la tua immagine del profilo per caricarla",
   "propulsion": "Propulsione",
+  "protectedFlight": "Volo protetto",
+  "protectedHint": "Gli altri utenti non possono scaricare il file IGC di un volo protetto.",
   "public": "Pubblico",
   "publish": "Pubblicare",
   "pushDenied": "Questo browser non consente a WeGlide di inviare notifiche push.",

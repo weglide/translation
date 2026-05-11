@@ -875,6 +875,8 @@
   "profileImageDragText": "Drag your new profile picture here to upload or click to select",
   "profileImageDropText": "Drop your profile picture to upload",
   "propulsion": "Propulsion",
+  "protectedFlight": "Protected flight",
+  "protectedHint": "Other users cannot download the IGC file of a protected flight.",
   "public": "Public",
   "publish": "Publish",
   "pushDenied": "This browser does not allow WeGlide to send push notifications.",

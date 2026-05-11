@@ -867,6 +867,8 @@
   "profileImageDragText": "Sleep je nieuwe profielfoto hierheen om te uploaden of klik om te selecteren",
   "profileImageDropText": "Zet je profielfoto neer om te uploaden",
   "propulsion": "Voortstuwing",
+  "protectedFlight": "Beschermde vlucht",
+  "protectedHint": "Andere gebruikers kunnen het IGC-bestand van een beschermde vlucht niet downloaden.",
   "public": "Openbaar",
   "publish": "Publiceren",
   "pushDenied": "Deze browser staat WeGlide niet toe om pushmeldingen te verzenden.",

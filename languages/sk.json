@@ -657,6 +657,8 @@
   "profileImageDragText": "Sem presuňte profilovú fotku alebo kliknite",
   "profileImageDropText": "Pustite fotku pre nahranie",
   "propulsion": "Pohon",
+  "protectedFlight": "Chránený let",
+  "protectedHint": "Ostatní používatelia si nemôžu stiahnuť IGC súbor chráneného letu.",
   "public": "Verejné",
   "publish": "Publikovať",
   "pushDenied": "Tento prehliadač nepovoľuje WeGlide posielať push notifikácie.",

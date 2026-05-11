@@ -867,6 +867,8 @@
   "profileImageDragText": "Dra din nya profilbild hit för att ladda upp eller klicka för att välja",
   "profileImageDropText": "Släpp din profilbild för att ladda upp",
   "propulsion": "Drivkraft",
+  "protectedFlight": "Skyddad flygning",
+  "protectedHint": "Andra användare kan inte ladda ned IGC-filen för en skyddad flygning.",
   "public": "offentlig",
   "publish": "Publicera",
   "pushDenied": "Den här webbläsaren tillåter inte att WeGlide skickar push-meddelanden.",

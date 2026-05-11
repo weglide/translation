@@ -844,6 +844,8 @@
   "profileImageDragText": "Træk dit nye profilbillede hertil for at uploade, eller klik for at vælge",
   "profileImageDropText": "Smid dit nye profilbillede her for at uploade",
   "propulsion": "Fremdriftsmiddel",
+  "protectedFlight": "Beskyttet flyvning",
+  "protectedHint": "Andre brugere kan ikke downloade IGC-filen for en beskyttet flyvning.",
   "publish": "Offentliggør",
   "pushDenied": "Denne browser tillader ikke at WeGlide sender dig push-notifikationer.",
   "pushEnabling": "Vent venligst, push-notifikation er ved at blive aktiveret. Dette kan tage op til et minut.",

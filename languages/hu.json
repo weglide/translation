@@ -875,6 +875,8 @@
   "profileImageDragText": "Húzd ide az új profilképedet a feltöltéshez, vagy kattints a kiválasztáshoz",
   "profileImageDropText": "Engedd el a profilképedet a feltöltéshez",
   "propulsion": "Meghajtás",
+  "protectedFlight": "Védett repülés",
+  "protectedHint": "Más felhasználók nem tölthetik le egy védett repülés IGC fájlját.",
   "public": "Nyilvános",
   "publish": "Közzététel",
   "pushDenied": "Ez a böngésző nem teszi lehetővé, hogy a WeGlide push értesítéseket küldjön.",

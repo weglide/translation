@@ -814,6 +814,8 @@
   "profileImageDragText": "Nuvilkite čia savo naują profilio nuotrauką, kad įkeltumėte, arba spustelėkite, kad pasirinktumėte",
   "profileImageDropText": "Numeskite savo profilio nuotrauką, kad įkeltumėte",
   "propulsion": "Varomoji jėga",
+  "protectedFlight": "Apsaugotas skrydis",
+  "protectedHint": "Kiti vartotojai negali atsisiųsti apsaugoto skrydžio IGC failo.",
   "public": "Viešas",
   "publish": "Paskelbti",
   "pushDenied": "Ši naršyklė neleidžia WeGlide siųsti tiesioginių pranešimų.",

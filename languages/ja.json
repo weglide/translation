@@ -814,6 +814,8 @@
   "profileImageDragText": "新しいプロフィール写真をここにドラッグしてアップロードするか、クリックして選択します",
   "profileImageDropText": "プロフィール写真をドロップしてアップロード",
   "propulsion": "モーター",
+  "protectedFlight": "保護されたフライト",
+  "protectedHint": "他のユーザーは保護されたフライトのIGCファイルをダウンロードできません。",
   "public": "公共",
   "publish": "公開",
   "pushDenied": "このブラウザは、WeGlide がプッシュ通知を送信することを許可していません。",

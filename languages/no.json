@@ -864,6 +864,8 @@
   "profileImageDragText": "Dra det nye profilbildet ditt hit for å laste opp eller klikk for å velge",
   "profileImageDropText": "Slipp profilbildet ditt for å laste opp",
   "propulsion": "Fremdrift",
+  "protectedFlight": "Beskyttet flyvning",
+  "protectedHint": "Andre brukere kan ikke laste ned IGC-filen til en beskyttet flyvning.",
   "public": "Offentlig",
   "publish": "publisere",
   "pushDenied": "Denne nettleseren tillater ikke WeGlide å sende push-varsler.",
